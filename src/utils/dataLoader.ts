@@ -35,43 +35,50 @@ export const loadSeries = async (): Promise<Series[]> => {
 
 export const loadNovels = async (): Promise<Novel[]> => {
   try {
+    console.log('Loading novels metadata...');
     const response = await fetch('/books/novels/metadata.json');
     const novelsMetadata = await response.json();
+    console.log('Novels metadata:', novelsMetadata);
     
     const novels: Novel[] = [];
     
     for (const meta of novelsMetadata) {
+      console.log('Processing novel:', meta.id);
       const novelData = await Promise.all(
         meta.languages.map(async (lang: string) => {
-          // Load description from markdown
-          const descriptionResponse = await fetch(`/books/novels/${lang}/${meta.id}/description.md`);
-          const longDescription = await descriptionResponse.text();
-          
-          // Load preview from markdown
-          const previewResponse = await fetch(`/books/novels/${lang}/${meta.id}/preview.md`);
-          const previewContent = await previewResponse.text();
-          
-          return {
-            title: meta.id.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join(' '),
-            coverImage: 'cover.jpg',
-            longDescription,
-            previewFileName: 'preview.md',
-            epubFileName: `${meta.id}_${lang}.epub`,
-            price: 9.99, // Default price, should be configurable
-            genre: 'Science Fiction', // Default genre, should be configurable
-            is_latest: true, // Default to true, should be configurable
-            language: lang
-          };
+          console.log(`Loading novel data for ${meta.id} in ${lang}...`);
+          const response = await fetch(`/books/novels/${lang}/novels.json`);
+          const data = await response.json();
+          console.log(`Novel data for ${meta.id} in ${lang}:`, data);
+          const novel = data.find((book: any) => book.id === meta.id);
+          console.log(`Found novel:`, novel);
+          if (novel) {
+            return {
+              ...novel,
+              language: lang,
+              coverImage: `/books/novels/${lang}/${novel.id}/cover.jpg`,
+              longDescription: `/books/novels/${lang}/${novel.id}/description.md`,
+              previewFileName: `/books/novels/${lang}/${novel.id}/preview.md`,
+              epubFileName: novel.epubFileName
+            };
+          }
+          return null;
         })
       );
       
-      novels.push({
-        id: meta.id,
-        languages: meta.languages,
-        data: novelData
-      });
+      const validData = novelData.filter((data): data is NonNullable<typeof data> => data !== null);
+      console.log('Valid data for novel:', validData);
+      
+      if (validData.length > 0) {
+        novels.push({
+          id: meta.id,
+          languages: meta.languages,
+          data: validData
+        });
+      }
     }
     
+    console.log('Final novels array:', novels);
     return novels;
   } catch (error) {
     console.error('Error loading novels:', error);
@@ -89,33 +96,31 @@ export const loadShortStories = async (): Promise<ShortStory[]> => {
     for (const meta of shortsMetadata) {
       const shortData = await Promise.all(
         meta.languages.map(async (lang: string) => {
-          // Load description from markdown
-          const descriptionResponse = await fetch(`/books/shorts/${lang}/${meta.id}/description.md`);
-          const longDescription = await descriptionResponse.text();
-          
-          // Load preview from markdown
-          const previewResponse = await fetch(`/books/shorts/${lang}/${meta.id}/preview.md`);
-          const previewContent = await previewResponse.text();
-          
-          return {
-            title: meta.id.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join(' '),
-            coverImage: 'cover.jpg',
-            longDescription,
-            previewFileName: 'preview.md',
-            epubFileName: `${meta.id}_${lang}.epub`,
-            price: 4.99, // Default price, should be configurable
-            genre: 'Science Fiction', // Default genre, should be configurable
-            is_latest: true, // Default to true, should be configurable
-            language: lang
-          };
+          const response = await fetch(`/books/shorts/${lang}/shorts.json`);
+          const data = await response.json();
+          const short = data.find((book: any) => book.id === meta.id);
+          if (short) {
+            return {
+              ...short,
+              language: lang,
+              coverImage: `/books/shorts/${lang}/${short.id}/cover.jpg`,
+              longDescription: `/books/shorts/${lang}/${short.id}/description.md`,
+              previewFileName: `/books/shorts/${lang}/${short.id}/preview.md`
+            };
+          }
+          return null;
         })
       );
       
-      shorts.push({
-        id: meta.id,
-        languages: meta.languages,
-        data: shortData
-      });
+      const validData = shortData.filter((data): data is NonNullable<typeof data> => data !== null);
+      
+      if (validData.length > 0) {
+        shorts.push({
+          id: meta.id,
+          languages: meta.languages,
+          data: validData
+        });
+      }
     }
     
     return shorts;

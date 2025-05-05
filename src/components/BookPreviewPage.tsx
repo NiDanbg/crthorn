@@ -17,7 +17,12 @@ const BookPreviewPage: React.FC = () => {
       try {
         let previewFile = '';
         let bookTitle = '';
-        if (seriesId && language) {
+        
+        // Determine the type from the URL path
+        const pathType = window.location.pathname.split('/')[1]; // 'novels', 'shorts', or 'series'
+        console.log('Path type:', pathType);
+
+        if (pathType === 'series' && seriesId && language) {
           const series = await loadSeries();
           const seriesData = series.find(s => s.id === seriesId);
           if (seriesData) {
@@ -30,21 +35,35 @@ const BookPreviewPage: React.FC = () => {
               }
             }
           }
-        } else if (type === 'novels') {
+        } else if (pathType === 'novels' && language) {
+          console.log('Loading novel preview...');
           const novels = await loadNovels();
           const novel = novels.find(n => n.id === id);
+          console.log('Found novel:', novel);
           if (novel) {
-            previewFile = `/books/novels/${novel.data[0].language}/${novel.id}/preview.md`;
-            bookTitle = novel.data[0].title;
+            const langData = novel.data.find(d => d.language === language);
+            console.log('Found language data:', langData);
+            if (langData) {
+              previewFile = `/books/novels/${language}/${novel.id}/preview.md`;
+              bookTitle = langData.title;
+            }
           }
-        } else if (type === 'shorts') {
+        } else if (pathType === 'shorts' && language) {
+          console.log('Loading short story preview...');
           const shorts = await loadShortStories();
           const short = shorts.find(s => s.id === id);
+          console.log('Found short:', short);
           if (short) {
-            previewFile = `/books/shorts/${short.data[0].language}/${short.id}/preview.md`;
-            bookTitle = short.data[0].title;
+            const langData = short.data.find(d => d.language === language);
+            console.log('Found language data:', langData);
+            if (langData) {
+              previewFile = `/books/shorts/${language}/${short.id}/preview.md`;
+              bookTitle = langData.title;
+            }
           }
         }
+
+        console.log('Preview file:', previewFile);
         if (previewFile) {
           const resp = await fetch(previewFile);
           if (!resp.ok) throw new Error('Preview not found');
@@ -55,8 +74,8 @@ const BookPreviewPage: React.FC = () => {
           setError('Preview not found');
         }
       } catch (err) {
+        console.error('Error loading preview:', err);
         setError('Error loading preview');
-        console.error(err);
       } finally {
         setLoading(false);
       }

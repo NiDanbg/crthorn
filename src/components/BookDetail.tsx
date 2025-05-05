@@ -17,9 +17,15 @@ const BookDetail: React.FC = () => {
   useEffect(() => {
     const fetchBook = async () => {
       try {
+        console.log('Fetching book with params:', { type, id, seriesId, language });
         let bookData: Book | null = null;
 
-        if (seriesId && language) {
+        // Determine the type from the URL path
+        const pathType = window.location.pathname.split('/')[1]; // 'novels', 'shorts', or 'series'
+        console.log('Path type:', pathType);
+
+        if (pathType === 'series' && seriesId && language) {
+          console.log('Loading series book...');
           const series = await loadSeries();
           const seriesData = series.find(s => s.id === seriesId);
           if (seriesData) {
@@ -39,30 +45,48 @@ const BookDetail: React.FC = () => {
               }
             }
           }
-        } else if (type === 'novels') {
+        } else if (pathType === 'novels') {
+          console.log('Loading novel...');
           const novels = await loadNovels();
+          console.log('Loaded novels:', novels);
           const novel = novels.find(n => n.id === id);
+          console.log('Found novel:', novel);
           if (novel) {
-            bookData = {
-              ...novel.data[0],
-              id: novel.id,
-              type: 'novel',
-              language: novel.data[0].language
-            };
+            const langData = novel.data.find(d => d.language === language);
+            console.log('Found language data:', langData);
+            if (langData) {
+              bookData = {
+                ...langData,
+                id: novel.id,
+                type: 'novel',
+                language: langData.language,
+                coverImage: `/books/novels/${langData.language}/${novel.id}/cover.jpg`,
+                longDescription: `/books/novels/${langData.language}/${novel.id}/description.md`,
+                previewFileName: `/books/novels/${langData.language}/${novel.id}/preview.md`
+              };
+            }
           }
-        } else if (type === 'shorts') {
+        } else if (pathType === 'shorts') {
+          console.log('Loading short story...');
           const shorts = await loadShortStories();
           const short = shorts.find(s => s.id === id);
           if (short) {
-            bookData = {
-              ...short.data[0],
-              id: short.id,
-              type: 'short',
-              language: short.data[0].language
-            };
+            const langData = short.data.find(d => d.language === language);
+            if (langData) {
+              bookData = {
+                ...langData,
+                id: short.id,
+                type: 'short',
+                language: langData.language,
+                coverImage: `/books/shorts/${langData.language}/${short.id}/cover.jpg`,
+                longDescription: `/books/shorts/${langData.language}/${short.id}/description.md`,
+                previewFileName: `/books/shorts/${langData.language}/${short.id}/preview.md`
+              };
+            }
           }
         }
 
+        console.log('Final book data:', bookData);
         if (bookData) {
           setBook(bookData);
           // Fetch markdown content
@@ -77,8 +101,8 @@ const BookDetail: React.FC = () => {
           setError('Book not found');
         }
       } catch (err) {
+        console.error('Error in fetchBook:', err);
         setError('Error loading book details');
-        console.error(err);
       } finally {
         setLoading(false);
       }
@@ -155,14 +179,14 @@ const BookDetail: React.FC = () => {
               </Link>
             ) : book.type === 'novel' ? (
               <Link
-                to={`/novels/${book.id}/preview`}
+                to={`/novels/${book.id}/${book.language}/preview`}
                 className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
               >
                 Preview
               </Link>
             ) : book.type === 'short' ? (
               <Link
-                to={`/shorts/${book.id}/preview`}
+                to={`/shorts/${book.id}/${book.language}/preview`}
                 className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
               >
                 Preview

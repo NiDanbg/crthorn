@@ -11,6 +11,7 @@ export interface Book {
   type: 'series' | 'novel' | 'short';
   language: string;
   seriesId?: string;
+  languages?: string[];
 }
 
 export interface Series {

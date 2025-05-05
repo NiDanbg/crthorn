@@ -136,11 +136,11 @@ const App: React.FC = () => {
             <Route path="/series/:seriesId/:language/book/:id" element={<BookDetail />} />
             <Route path="/series/:seriesId/:language/book/:id/preview" element={<BookPreviewPage />} />
             <Route path="/novels" element={<CategoryPage type="novels" />} />
-            <Route path="/novels/:id" element={<BookDetail />} />
-            <Route path="/novels/:id/preview" element={<BookPreviewPage />} />
+            <Route path="/novels/:id/:language" element={<BookDetail />} />
+            <Route path="/novels/:id/:language/preview" element={<BookPreviewPage />} />
             <Route path="/shorts" element={<CategoryPage type="shorts" />} />
-            <Route path="/shorts/:id" element={<BookDetail />} />
-            <Route path="/shorts/:id/preview" element={<BookPreviewPage />} />
+            <Route path="/shorts/:id/:language" element={<BookDetail />} />
+            <Route path="/shorts/:id/:language/preview" element={<BookPreviewPage />} />
             <Route path="/about" element={
               <div className="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
                 <h1 className="text-3xl font-display text-primary text-center mb-8">About the Author</h1>
@@ -229,7 +229,8 @@ const CategoryPage: React.FC<{ type: 'series' | 'novels' | 'shorts' }> = ({ type
                   ...langData,
                   id: novel.id,
                   type: 'novel',
-                  language: langData.language
+                  language: langData.language,
+                  languages: novel.languages
                 });
               });
             });
@@ -241,7 +242,8 @@ const CategoryPage: React.FC<{ type: 'series' | 'novels' | 'shorts' }> = ({ type
                   ...langData,
                   id: short.id,
                   type: 'short',
-                  language: langData.language
+                  language: langData.language,
+                  languages: short.languages
                 });
               });
             });

@@ -7,14 +7,14 @@ interface BookCardProps {
 }
 
 const BookCard: React.FC<BookCardProps> = ({ book }) => {
-  const getBookPath = () => {
+  const getBookPath = (lang?: string) => {
     switch (book.type) {
       case 'series':
-        return `/series/${book.seriesId}/${book.language}/${book.id}`;
+        return `/series/${book.seriesId}/${book.language}/book/${book.id}`;
       case 'novel':
-        return `/novels/${book.language}/${book.id}`;
+        return `/novels/${book.id}/${lang || book.language}`;
       case 'short':
-        return `/shorts/${book.language}/${book.id}`;
+        return `/shorts/${book.id}/${lang || book.language}`;
       default:
         return '/';
     }
@@ -47,6 +47,19 @@ const BookCard: React.FC<BookCardProps> = ({ book }) => {
           <h3 className="text-xl font-display text-primary mb-2">{book.title}</h3>
           <p className="text-text text-sm">{book.genre}</p>
           <p className="text-accent text-lg font-bold mt-2">${book.price.toFixed(2)}</p>
+          {(book.type === 'novel' || book.type === 'short') && (
+            <div className="flex flex-wrap gap-2 mt-4">
+              {book.languages?.map((language: string) => (
+                <Link
+                  key={language}
+                  to={getBookPath(language)}
+                  className="px-3 py-1 bg-secondary text-white rounded hover:bg-secondary-dark transition-colors text-sm"
+                >
+                  {language.toUpperCase()}
+                </Link>
+              ))}
+            </div>
+          )}
         </div>
       </Link>
     </div>
