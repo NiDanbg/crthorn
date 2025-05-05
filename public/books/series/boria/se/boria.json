@@ -1,0 +1,31 @@
+{
+  "title": "Boria",
+  "shortDescription": "Fantasy series by Crispin Thorn: Boria",
+  "genre": "fantasy",
+  "books": [
+    {
+      "id": "the-healer-of-blackstone",
+      "title": "The Healer of Blackstone",
+      "epubFileName": "the-healer-of-blackstone_en.epub",
+      "price": 9.99,
+      "genre": "sci-fi",
+      "is_latest": true
+    },
+    {
+      "id": "the-guardian-of-briest",
+      "title": "The Guardian of Briest",
+      "epubFileName": "the-guardian-of-briest_en.epub",
+      "price": 8.99,
+      "genre": "sci-fi",
+      "is_latest": true
+    },
+    {
+      "id": "two-worlds",
+      "title": "Two Worlds",
+      "epubFileName": "two-worlds_en.epub",
+      "price": 8.99,
+      "genre": "sci-fi",
+      "is_latest": true
+    }
+  ]
+}
