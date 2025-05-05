@@ -36,8 +36,59 @@ const App: React.FC = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-20">
               <div className="flex items-center">
-                <Link to="/" className="text-2xl font-display text-primary hover:text-accent transition-colors">
-                  CRTHORN
+                <Link to="/" className="flex items-center space-x-2 text-2xl font-display text-primary hover:text-accent transition-colors group">
+                  <svg 
+                    width="40" 
+                    height="40" 
+                    viewBox="0 0 40 40" 
+                    fill="none" 
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="w-10 h-10 transform group-hover:rotate-12 transition-transform duration-300"
+                  >
+                    {/* Main T shape */}
+                    <path 
+                      d="M20 4L20 36" 
+                      stroke="currentColor" 
+                      strokeWidth="3" 
+                      strokeLinecap="round" 
+                      strokeLinejoin="round"
+                    />
+                    <path 
+                      d="M8 8L32 8" 
+                      stroke="currentColor" 
+                      strokeWidth="3" 
+                      strokeLinecap="round" 
+                      strokeLinejoin="round"
+                    />
+                    {/* Decorative elements */}
+                    <path 
+                      d="M16 16C16 16 20 12 24 16" 
+                      stroke="currentColor" 
+                      strokeWidth="1.5" 
+                      strokeLinecap="round" 
+                      strokeLinejoin="round"
+                      className="opacity-50"
+                    />
+                    <path 
+                      d="M16 24C16 24 20 20 24 24" 
+                      stroke="currentColor" 
+                      strokeWidth="1.5" 
+                      strokeLinecap="round" 
+                      strokeLinejoin="round"
+                      className="opacity-50"
+                    />
+                    {/* Magical circle */}
+                    <circle 
+                      cx="20" 
+                      cy="20" 
+                      r="16" 
+                      stroke="currentColor" 
+                      strokeWidth="1" 
+                      strokeDasharray="2 2"
+                      className="opacity-30"
+                    />
+                  </svg>
+                  <span className="group-hover:translate-x-1 transition-transform duration-300">Crispin Thorn</span>
                 </Link>
               </div>
               <div className="flex space-x-8">
@@ -232,3 +283,4 @@ const CategoryPage: React.FC<{ type: 'series' | 'novels' | 'shorts' }> = ({ type
 };
 
 export default App;
+
