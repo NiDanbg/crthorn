@@ -8,7 +8,7 @@
       "title": "El Sanador de Blackstone",
       "epubFileName": "the-healer-of-blackstone_es.epub",
       "price": 9.99,
-      "genre": "sci-fi",
+      "genre": "fantasy",
       "is_latest": false
     },
     {
@@ -16,7 +16,7 @@
       "title": "La Guardiana de Brieest",
       "epubFileName": "the-guardian-of-briest_es.epub",
       "price": 8.99,
-      "genre": "sci-fi",
+      "genre": "fantasy",
       "is_latest": false
     },
     {
@@ -24,7 +24,7 @@
       "title": "Dos mundos",
       "epubFileName": "two-worlds_es.epub",
       "price": 8.99,
-      "genre": "sci-fi",
+      "genre": "fantasy",
       "is_latest": false
     }
   ]

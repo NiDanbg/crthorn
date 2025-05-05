@@ -8,7 +8,7 @@
       "title": "Лечителят от Блекстоун",
       "epubFileName": "the-healer-of-blackstone_bg.epub",
       "price": 1.99,
-      "genre": "sci-fi",
+      "genre": "Фентъзи",
       "is_latest": true
     },
     {
@@ -16,7 +16,7 @@
       "title": "Пазителката на Бриест",
       "epubFileName": "the-guardian-of-briest_bg.epub",
       "price": 3.99,
-      "genre": "sci-fi",
+      "genre": "Фентъзи",
       "is_latest": true
     },
     {
@@ -24,7 +24,7 @@
       "title": "Два свята",
       "epubFileName": "two-worlds_bg.epub",
       "price": 3.99,
-      "genre": "sci-fi",
+      "genre": "Фентъзи",
       "is_latest": true
     }
   ]

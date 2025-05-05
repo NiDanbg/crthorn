@@ -1,13 +1,14 @@
 {
   "title": "Boria",
   "shortDescription": "Fantasyserie von Crispin Thorn: Boria",
+  "genre": "fantasy",
   "books": [
     {
       "id": "the-healer-of-blackstone",
       "title": "Der Heiler von Blackstone",
       "epubFileName": "the-healer-of-blackstone_de.epub",
       "price": 9.99,
-      "genre": "sci-fi",
+      "genre": "fantasy",
       "is_latest": true
     },
     {
@@ -15,7 +16,7 @@
       "title": "Die Wächterin von Briest",
       "epubFileName": "the-guardian-of-briest_de.epub",
       "price": 8.99,
-      "genre": "sci-fi",
+      "genre": "fantasy",
       "is_latest": true
     }
   ]
