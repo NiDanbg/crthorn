@@ -4,22 +4,16 @@
   "books": [
     {
       "id": "the-healer-of-blackstone",
-      "title": "The healer of Blackstone",
-      "coverImage": "/books/the-healer-of-blackstone/the-healer-of-blackstone.jpg",
-      "longDescription": "/books/the-healer-of-blackstone/the-healer-of-blackstone_description.md",
-      "previewFileName": "/books/the-healer-of-blackstone/the-healer-of-blackstone_preview.md",
-      "epubFileName": "/books/the-healer-of-blackstone/the-healer-of-blackstone.epub",
+      "title": "Der Heiler von Blackstone",
+      "epubFileName": "the-healer-of-blackstone_de.epub",
       "price": 9.99,
       "genre": "sci-fi",
       "is_latest": true
     },
     {
       "id": "the-guardian-of-briest",
-      "title": "The Guardian of Briest",
-      "coverImage": "/books/the-guardian-of-briest/the-guardian-of-briest.jpg",
-      "longDescription": "/books/the-guardian-of-briest/the-guardian-of-briest_description.md",
-      "previewFileName": "/books/the-guardian-of-briest/the-guardian-of-briest_preview.md",
-      "epubFileName": "/books/the-guardian-of-briest/the-guardian-of-briest.epub",
+      "title": "Die Wächterin von Briest",
+      "epubFileName": "the-guardian-of-briest_de.epub",
       "price": 8.99,
       "genre": "sci-fi",
       "is_latest": true

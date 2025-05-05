@@ -9,7 +9,7 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "Ancient-Blue_en.epub",
+      "epubFileName": "ancient-blue_en.epub",
       "price": 1.99,
       "genre": "sci-fi",
       "is_latest": true
@@ -20,7 +20,7 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "Red-and-Ancient-Blue_en.epub",
+      "epubFileName": "red-and-ancient-blue_en.epub",
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
@@ -31,7 +31,7 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "Cosmic-Red_en.epub",
+      "epubFileName": "cosmic-red_en.epub",
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
@@ -42,7 +42,7 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "Steel-Gray_en.epub",
+      "epubFileName": "steel-gray_en.epub",
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
