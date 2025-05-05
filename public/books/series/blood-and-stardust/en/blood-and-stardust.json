@@ -1,40 +1,51 @@
 {
   "title": "Blood and Stardust",
-  "shortDescription": "Fantasy series by Crispin Thorn: Boria",
-  "genre": "fantasy",
+  "shortDescription": "Sci-Fi series by Crispin Thorn: Blood and Stardust",
+  "genre": "Sci-Fi",
   "books": [
     {
-      "id": "the-healer-of-blackstone",
-      "title": "The healer of Blackstone",
+      "id": "ancient-blue",
+      "title": "Ancient Blue",
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "the-healer-of-blackstone_en.epub",
-      "price": 9.99,
+      "epubFileName": "Ancient-Blue_en.epub",
+      "price": 1.99,
       "genre": "sci-fi",
       "is_latest": true
     },
     {
-      "id": "the-guardian-of-briest",
-      "title": "The Guardian of Briest",
+      "id": "red-and-ancient-blue",
+      "title": "Red and Ancient Blue",
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "the-guardian-of-briest_en.epub",
-      "price": 8.99,
+      "epubFileName": "Red-and-Ancient-Blue_en.epub",
+      "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
     },
     {
-      "id": "two-worlds",
-      "title": "Two Worlds",
+      "id": "cosmic-red",
+      "title": "Cosmic Red",
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.md",
-      "epubFileName": "two-worlds_en.epub",
-      "price": 8.99,
+      "epubFileName": "Cosmic-Red_en.epub",
+      "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
-    }
+    },
+    {
+      "id": "steel-gray"
+      "title": "Steel Gray",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.md",
+      "epubFileName": "Steel-Gray_en.epub",
+      "price": 4.99,
+      "genre": "sci-fi",
+      "is_latest": true
+    }    
   ]
 }
