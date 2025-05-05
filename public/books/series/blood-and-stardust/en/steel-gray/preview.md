@@ -1,0 +1,185 @@
+# THE HEALER OF BLACKSTONE
+
+### Book One of the
+
+### BORIA
+
+by
+**Crispin Thorn**
+
+(2025)
+
+---
+
+Copyright © 2025 by Crispin Thorn.
+
+All rights reserved. No part of this book may be used or reproduced in any form whatsoever without written permission except in the case of brief quotations in critical articles or reviews.
+
+This book is a work of fiction. Names, characters, businesses, organizations, places, events and incidents either are the product of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+
+First Edition: 2025
+
+---
+
+## CONTENTS
+-PROLOGUE- 1
+-1- 5
+-2- 12
+-3- 22
+-4- 44
+-5- 55
+-6- 74
+-7- 100
+-8- 108
+-9- 117
+-10- 132
+-11- 140
+-12- 150
+-13- 163
+-14- 171
+-15- 178
+-16- 184
+-17- 194
+-18- 201
+-19- 212
+-20- 217
+-21- 223
+-22- 228
+-23- 237
+-24- 242
+-25- 250
+-26- 260
+-27- 266
+ABOUT THE AUTHOR 273
+BOOKS BY THE AUTHOR 274
+NOTE FROM THE AUTHOR 275
+
+---
+
+## -Prologue-
+
+For over half an hour, the child's eyes remained fixed on the blank sheet of paper before them. Not a single muscle twitched in their face. The boy had entered a state of absolute concentration.
+His gaze traced the edges of the paper in smooth jumps, lingered momentarily at the center, then resumed its endless journey along the perimeter. Though seemingly relaxed, his small body didn't move an inch. He sat on a tiny chair before a small table in a colorfully decorated children's room.
+Toys of every kind lay scattered across the floor in chaotic abandon, hastily discarded by other children who must have been quickly ushered out somewhere.
+Though alone in the room, the boy was being watched. Far away in another building, a man in his mid-thirties stared unblinking at the monitor displaying the child's image.
+*Same as always. Every time. Only the eyes change,* the man thought, rubbing his tired eyes. Soft Mozart melodies flowed through the room, caressing the boy's ears, but the genius's music left no visible impact.
+Deliberately or not, the thought struck the distant observer—Mozart himself had suffered from the same developmental disorder affecting social growth, brain function, and behavior. This realization shook him from his contemplative trance.
+The music and the silent child triggered an unexpected memory from his university years. A long-forgotten lecture resurfaced with startling clarity.
+The university amphitheater. The professor—one of his favorites—had explained with characteristic detachment how Mozart exhibited repetitive facial tics that unsettled those around him. How the composer needed constant movement of limbs, how his hearing was hypersensitive. Historical analysis of Mozart's correspondence revealed that when bored, the maestro would jump over tables and chairs, emit strange squeaks, and perform somersaults.
+*Ah, Professor... if only Slav showed even half such expressiveness. At least then I'd have some way to communicate with him. Now, unless I devise something new, all I can do is watch.*
+He knew with absolute certainty that autistics lived in their own worlds. The diagnosis he'd given Slav Weber a year ago—Generalized Developmental Disorder within the autistic spectrum—only grew more evident with each passing day.
+Young Slav displayed clinical symptoms overlapping with Asperger's Syndrome, another condition within that spectrum.
+In his attempt to reach the boy, he'd recommended enrolling him in an autism therapy group. That was a year ago. The original group of five children had since grown to fifteen boys aged 6 to 12 under his supervision.
+Another group met downtown in a municipal building wing graciously provided by the mayor's office—ten teenagers aged 14 to 18. Normally a difficult age, but not for them. Quiet and withdrawn, each possessed genius buried beneath layers of alienation.
+Twelve years of diagnosing children had taught him three words: patience, patience, patience.
+He tried viewing autism not as a disability but as a different ability. To dozens of worried, suffering parents, he preached looking past perceived shortcomings to recognize the gifts autism bestowed upon their children.
+A difficult task, but through this perspective, he hoped to instill some measure of confidence—even strength—in these families.
+
+---
+
+## -1-
+
+> *"...and it was time for respite, yet shadows lurked in the dark..."*
+
+The ward attendant entered Slav's room.
+The man in the distant room no longer needed to monitor him, so he turned off the screen. He felt fatigue creeping in. Stretching his numb limbs, he rose from the chair with a smooth motion. The day had drained him, and night had already fallen.
+He tidied the chaos on his desk—as much as possible—and with firm conviction that this was exactly what he needed, he headed toward the pub on the corner he frequented, just right of the clinic’s entrance. The graying neighborhood where he’d rented his office a year ago remained untouched by the city’s polished frenzy. He liked that.
+Though his patients rarely had the means to afford the luxury expected of renowned psychiatrists, what he earned was enough. His bank account swelled anyway, thanks to eager publishers competing for rights to his every new book. Lecturing across the country never interfered with his work with children. That was his passion, his duty—his life’s devotion.
+His sister had suffered from that consciousness disorder. His love for her never faded, even though she was gone. She had died young—crushed beneath a reversing cargo van in a senseless accident. Neither she nor the driver had realized what was happening.
+She’d been crouched behind the van, counting pearls spilled from her broken necklace against the asphalt of that dead-end street. He’d gifted her that necklace—tiny blue pearls. For her, his little sister, who loved to count. She counted everything and wouldn’t stop until she fell asleep.
+She’d been so happy when he fastened it around her delicate throat. She’d even smiled. Just for a split second, she’d lifted her gaze and looked into his eyes. So rare, that moment—her deep blue eyes, her faint smile—forever etched into his memory.
+He loved this pub. The wooden paneling lent it authenticity. The scent of bourbon and tobacco, mingling with muted Irish tunes, eased his tension instantly. The bartender—a thick-bearded, heavily tattooed, muscle-bound man pushing fifty—straightened and, without waiting for an order, poured three fingers of whiskey into a deep glass for him.
+Of course, he knew his drink. Regulars here got the service they deserved, and the bartender, a proud third-generation barkeep, knew his craft.
+"Evenin’, Professor!" He slid the glass forward and set down a small bowl of nuts. Everyone here addressed him by his title now. Sure, he taught at Columbia, but the nickname only stuck after his local TV interview.
+Before that, he’d just been Nick. Now, even "Nick" was gone—upgraded to "Professor." He’d even signed a napkin, which the owner (this very bartender) had tacked behind the bar. Dozens of autographs from honored patrons decorated that spot, each one claiming some small fame.
+"Norman, it’s dead in here tonight."
+The bartender lazily scanned the room, pausing at the dartboard where the usual drunk duo—Mac and Rudy—were slaughtering the game. He winked at the elderly man in a cowboy hat nursing a beer in the corner before spitting into the bucket beneath the counter.
+"Yeah, some concert at the stadium. They’ll stumble in later."
+"Good. I’ll enjoy the peace." Nick propped his elbows on the bar, cradling his glass.
+*"Look wrecked,"* the bartender remarked after a critical once-over. "Your rug rats acting up? Or another widow with daddy issues?"
+"For the hundredth time, I’m not a psychoanalyst—"
+"I know, I know, just messin’ with ya!"
+Norman grabbed the whiskey bottle and poured himself a glass.
+"Hey, Professor, some slick guy was askin’ for you earlier. Seemed nervous but sharp. Told him where your office was. Asked if you came here, and dumbass me let it slip that you swing by sometimes."
+"When was this?" It didn’t interest him much. People often hunted him down after reading his books, assuming he’d solve their problems. Few grasped the difference between psychiatry, psychology, and psychoanalysis.
+"Eh, today—hour or two ago. Hung around, sipped a Coke, then shuffled off down the street."
+"Didn’t show at my office."
+"Right, lemme leave you to brood. Holler if you want a top-up." He turned and fixed his gaze on the baseball game playing mutedly on the TV.
+
+***
+
+An hour later, after three more drinks and a game of darts with Rudy the ex-Pole, the professor settled his tab and—determined to head home—gave an absent wave before stepping outside.
+It was dark. In the distance, the muffled pulse of music and the howl of a thousand voices hummed quietly. The street stood empty, no traffic in sight, while leaves from the few surviving trees trapped in the concrete swayed lazily in the faint breeze.
+An astonishingly late spring. Even the air, thick with the scent of still-blooming jasmine from the courtyard of the nearby Catholic church, brushed his face with its freshness.
+*Lovely*, he thought for the hundredth time. *I adore spring. Two more weeks before the next round of lectures begins. I won’t travel. I’ll stay in the city.*
+A month earlier, he’d managed to secure an investor, finally realizing his dream of installing permanent surveillance in the child rehabilitation centers. He could log in remotely, observe the children, communicate with them, the parents, the staff. Priceless.
+The system allowed him to travel more, forge new connections, and help more kids. It recorded footage, and the intuitive software let him retrieve files for specific children and timeframes. He’d tinkered with it endlessly. Invaluable for his research.
+A jarring noise shattered the silence. The sound of furious yowling burst into his skull—hissing, scratching, the crashing of a fight. His head snapped up, tracking the noise, and he spotted two cats locked in vicious combat along the rooftop’s edge above him.
+The old building, clinging to the side of the pub, had a steep roof that had begged for repairs for years. The animals’ battle dislodged a waterfall of debris piled in the gutters. Nick reflexively raised an arm to shield himself—too late.
+The rubbish was followed by loose roof tiles. They struck his head with muted thuds, knocking him down instantly.
+He lay sprawled on the ground, limbs twisted unnaturally to one side. Blood trickled down his forehead, pooled in his eye socket, then spilled onto the sidewalk.
+*How absurd…!* was the last thought to fill his awareness before unconsciousness swallowed him.
+
+---
+
+## -2-
+
+> *"...alone, hardened, and cursed—solitary and trembling..."*
+
+"Get up, you swine. Get up, damn you! Get up or I'll walk right over you."
+The meaning of the words seeped into his consciousness slowly, like water into a well-soaked sponge. They buzzed in his numbed brain, drowning out the rhythmic pain that had taken hold of his skull. He couldn’t feel his limbs, and the cold penetrated deep into his body. Something sticky and wet was sucking him downward into the earth.
+"Get the hell up! Get out of my way!"
+He tried to open his eyes. His eyelids refused to obey. Something heavy and viscous had settled over them. He attempted to move his hand. Succeeded. Summoning all his willpower, he forced his elbows to push against the ground and, with agonizing effort, rolled onto his back. He dragged his palm across his face to wipe away the weight pressing down on it. Leaden gray clouds were the first thing he saw, followed by the equally gray head of an ox looming over him.
+"Come on, man, move out of the way."
+He was lying in a deep rut filled with viscous mud, in front of a long cart drawn by a pair of oxen and covered with a coarse gray tarp. A very angry man stood on the cart’s footboard, glaring at him with murderous intensity.
+"I've stopped! If we get stuck now, you’ll be pushing till your tendons snap. Get out of the damn road!"
+He could do nothing but crawl aside from the oxen’s path and wave weakly. The animals strained forward, urged on by the driver’s sharp cry, and the cart’s wheels creaked as they slowly turned.
+The man sat back down on the footboard, wrapped himself in a heavy woolen cloak, spat, and paid him no further mind. The ox-drawn cart passed him with a sucking sound of mud being churned, soon disappearing around a bend marked vaguely by a low ridge of rock among towering pines.
+He remained propped on his elbows. The fine droplets of heavy, rain-like mist slowly washed the mud from his face. The cold consumed him, and he lacked the strength to do anything else. He looked around. A rough black road, and about ten meters away, through the fog, he could make out tall conifers.
+*"Where the hell am I?"*
+His gaze trailed down his body. His hand brushed against his soiled shirt and a coarse woolen jacket over it. He eyed pants of the same fabric as the jacket. They were cinched by a broad three-finger-wide leather belt with a metal buckle, and a long hunting knife rested in a sheath at his left side. His boots were soaked through with water.
+His eyes locked onto a mud-covered sack of waxed green cloth lying near his feet. He was baffled. Groaning, he managed to sit up. He turned his head in every direction. None of it made sense. A thought, unanchored to any memory, paralyzed him.
+*"Who the hell am I?"*
+
+***
+
+The throbbing in his head gradually subsided, but his thoughts refused to coalesce into a single coherent thread, instead leaping about in chaotic disarray. He couldn’t latch onto anything concrete because this gnawing uncertainty about his own identity kept dismantling every attempt. He was on the verge of panic when the biting cold seeping through his soaked clothes forced him to decide that doing something—anything—was better than sitting frozen in the mud.
+He stood. Shook off the momentary dizziness with ease. Scanned the forest, and what he saw offered no comfort. This place definitely didn’t exist in his memories. No memories surfaced at all. Just emptiness. No matter how hard he strained to dredge up even the faintest recollection, nothing came. Only a dull ache at the base of his skull. The only clear things in his mind were the mud, the ox, and the cart. He couldn’t even recall the face of the man driving it.
+Instinct took over. There was no point agonizing over things beyond his control. Survival came first. He knew that much wouldn’t happen unless he acted.
+He slung the bag over his shoulder—assuming it was his—and trudged toward the bend in the road. Maybe the looming rock formation there would offer some semblance of shelter, however meager, to weather the night.
+The sky darkened. Despite the thickening fog that reduced the world to a vague wall of trees along the path, the signs of approaching nightfall were unmistakable.
+Fortune favored him. The rock face provided exactly what he sought: a shallow overhang jutting over the terrain, facing the road. Not spacious, but enough. The two-and-a-half-meter ceiling let him stand upright; the four-to-five-meter depth kept the space dry. More than adequate.
+He braced against the rocky edge and peered inside. One glance confirmed it was empty. He wasn’t the first to pass through here. Wouldn’t be the first to spend the night in this convenient hollow, either. A pile of dry twigs sat arranged in a makeshift firepit beside soot-blackened stones.
+Time to inspect the bag. He sat on the cavern floor, fingers trembling with cold and childish curiosity as he untied the leather cords. Carefully, he emptied its contents onto the ground.
+*"Let’s see if this tells me who I am and why I’m in these woods."* The voice that left his lips was familiar. The realization jolted him, but only briefly.
+He lifted a small leather pouch, surprised to find coins of varying sizes and hues. None were recognizable. Each bore the faded profile of a man on one side and a symbol resembling a Latin "I" on the other.
+*"Latin 'I'?"* The epiphany startled him.
+*"What does 'Latin' even mean?"* He stared at the symbol, willing a memory to surface. And one did.
+Somewhere in his mind, a thought crystallized into knowledge: the Latin alphabet, also called the Roman script, was the most widely used writing system in the world.
+The information flooded his mind like a tidal wave. A meaningless symbol had triggered an avalanche of understanding. He somehow knew this alphabet had evolved from the Cumaean variant of the Greek script, adapted by the Etruscans and later modified by the Romans. It spread across Europe during the Middle Ages. The shapes of the letters had changed over time, with lowercase forms developing long after antiquity.
+He clutched his head, pressing his temples. The deluge of returning knowledge was physically painful. He knew—somehow—he’d studied Latin at university. But what was a university? What were the Middle Ages? Antiquity?
+*"Damn it, stop!"* he shouted.
+He stood, glaring at the road.
+*"Slow down. Breathe."* He inhaled deeply, exhaled loudly. Repeated it. The pressure in his skull eased. *"Better."*
+The sky had darkened further. Fog thickened into a suffocating blanket, obscuring the path entirely. Though the road lay barely ten meters from the shelter’s mouth, it had vanished. He shivered. The cold intensified with nightfall, and his drenched clothes offered no defense. He needed fire.
+Hope turned him back to the bag’s contents. Fire first. The flint and steel were instantly recognizable. Yes, his grandfather had taught him how to use this outdated tool… Memories flickered again. He forced his mind clear, focusing solely on the physical act of sparking a flame.
+Soon, the cheerful crackle of dry kindling soothed him. He’d scavenged armfuls of fallen branches in the waning light before fog and absolute darkness consumed the landscape.
+Damp? Yes. But his grandfather’s saying echoed: *"Dry wood ignites, wet wood dries."* He trusted it.
+Near the fire, he rigged a crude drying rack from branches, hanging his clothes to steam. Left in just shorts and boots, he resumed inspecting the bag.
+Coins. He didn’t know their value or what they could buy, but money was money. A dry shirt, too—wrapped in oiled paper with a pair of socks. No hesitation: he pulled it on. The fit was perfect, which didn’t surprise him. The warmth mattered more.
+No food, but he found a curved surgical needle set. Memories whispered its purpose: suturing wounds. Thread followed, then squares of soft white fabric. Gauze. Of course. And bandages—the word surfaced effortlessly.
+A dark brown, nearly black liquid in a vial. One sniff confirmed iodine tincture. Another vial held alcohol.
+A palm-sized metal box contained paper packets of herbs and roots—some finely chopped, others coarse, a few with whole leaves. The more he examined them, the clearer it became: he was a healer.
+A tightly folded slip of paper tucked in an inner pocket bore a name. The text, legible at once, detailed a promissory note. One Brandon Sol, signatory below, acknowledged paying healer Nolan Storer of Blackstone thirty-three copper coins for curing his cattle—with nine hundred and seven coppers still owed. Several town names and addresses followed, listing others who’d settle the debt upon presentation.
+He studied the flames, carefully refolding the note.
+*"Nolan Storer of Blackstone. So that’s me… unless I came by this note some other way. And apparently, I’m some kind of horse doctor."*
+He smirked, tucking the paper into the bag’s pocket. If he knew where those towns were, he could collect. Money never hurt.
+*"Alright, Doctor Storer, my friend—sleep. As Grandpa said, morning’s wiser than evening. Maybe I’ll remember more. Someone must’ve hit me hard. Hope I recall where home is, at least."*
+Exhaustion pulled him under swiftly, but his emptied mind found no peace. Dreams came in turbulent waves. Some pleasant, others less so.
+In one, he rode with a small group. He sensed their presence revolved around him. They hurried somewhere—urgency driving them forward.
+A man called out. Harsh-faced, with bright hazel eyes, he shouted over hoofbeats and wind: they’d ridden all day and needed shelter.
+The voice that answered didn’t feel like his own—sharp, commanding. Words like blades. Find shelter quickly; time was short. The dream withheld the mission’s nature, but he knew it was critical.
+Riding on, lost in thought, a thread of memory surfaced: the task had arrived by letter, delivered by bird. Its contents stressed haste.
+He recognized the five men with him. A youth in green hose and a tunic that hung comically on his scrawny frame. In the dream’s haze, he knew he’d chosen the brown colt the boy rode.
+The kid clutched a gray cloak against evening mist. His face, recently besieged by patchy stubble, was a battlefield of pimples. Nervous fingers picked at them. His name emerged: Jacob. A servant.
+The other four were his guards. Their polished light armor, dulled by mist, lacked its usual luster, but the men were hardened warriors. Gray cloaks rendered them spectral in the fog. Their faces stayed blurred. Academy-trained, assigned to him.
