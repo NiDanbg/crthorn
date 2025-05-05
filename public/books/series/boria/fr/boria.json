@@ -5,24 +5,24 @@
   "books": [
     {
       "id": "the-healer-of-blackstone",
-      "title": "Läkaren från Blackstone",
-      "epubFileName": "the-healer-of-blackstone_se.epub",
+      "title": "Le Guérisseur de Blackstone",
+      "epubFileName": "the-healer-of-blackstone_fr.epub",
       "price": 9.99,
       "genre": "fantasy",
       "is_latest": false
     },
     {
       "id": "the-guardian-of-briest",
-      "title": "Väktaren av Briest",
-      "epubFileName": "the-guardian-of-briest_se.epub",
+      "title": "La Gardienne de Briest",
+      "epubFileName": "the-guardian-of-briest_fr.epub",
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
     },
     {
       "id": "two-worlds",
-      "title": "Två världar",
-      "epubFileName": "two-worlds_se.epub",
+      "title": "Deux mondes",
+      "epubFileName": "two-worlds_fr.epub",
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
