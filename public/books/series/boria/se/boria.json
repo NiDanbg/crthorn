@@ -9,7 +9,7 @@
       "epubFileName": "the-healer-of-blackstone_se.epub",
       "price": 9.99,
       "genre": "fantasy",
-      "is_latest": true
+      "is_latest": false
     },
     {
       "id": "the-guardian-of-briest",
@@ -17,7 +17,7 @@
       "epubFileName": "the-guardian-of-briest_se.epub",
       "price": 8.99,
       "genre": "fantasy",
-      "is_latest": true
+      "is_latest": false
     },
     {
       "id": "two-worlds",

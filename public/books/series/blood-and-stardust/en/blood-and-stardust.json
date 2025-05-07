@@ -12,7 +12,7 @@
       "epubFileName": "ancient-blue_en.epub",
       "price": 1.99,
       "genre": "sci-fi",
-      "is_latest": true
+      "is_latest": false
     },
     {
       "id": "red-and-ancient-blue",
@@ -23,7 +23,7 @@
       "epubFileName": "red-and-ancient-blue_en.epub",
       "price": 4.99,
       "genre": "sci-fi",
-      "is_latest": true
+      "is_latest": false
     },
     {
       "id": "cosmic-red",
@@ -34,7 +34,7 @@
       "epubFileName": "cosmic-red_en.epub",
       "price": 4.99,
       "genre": "sci-fi",
-      "is_latest": true
+      "is_latest": false
     },
     {
       "id": "steel-gray",
