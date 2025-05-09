@@ -58,7 +58,7 @@ export const loadNovels = async (): Promise<Novel[]> => {
               language: lang,
               coverImage: `/books/novels/${lang}/${novel.id}/cover.jpg`,
               longDescription: `/books/novels/${lang}/${novel.id}/description.md`,
-              previewFileName: `/books/novels/${lang}/${novel.id}/preview.md`,
+              previewFileName: `/books/novels/${lang}/${novel.id}/preview.epub`,
               epubFileName: novel.epubFileName
             };
           }

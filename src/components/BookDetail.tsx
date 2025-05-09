@@ -113,9 +113,9 @@ const BookDetail: React.FC = () => {
 
   const handlePreview = async () => {
     if (book && book.previewFileName) {
-      const resp = await fetch(book.previewFileName);
-      const md = await resp.text();
-      setPreviewMarkdown(md);
+      const previewFile = book.previewFileName.replace('.md', '.epub');
+      const resp = await fetch(previewFile);
+      if (!resp.ok) throw new Error('Preview not found');
       setShowPreview(true);
     }
   };

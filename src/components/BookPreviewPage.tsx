@@ -1,16 +1,16 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { loadSeries, loadNovels, loadShortStories } from '../utils/dataLoader';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
+import ePub from 'epubjs';
 
 const BookPreviewPage: React.FC = () => {
   const { type, id, seriesId, language } = useParams<{ type?: string; id: string; seriesId?: string; language?: string }>();
   const navigate = useNavigate();
-  const [previewMarkdown, setPreviewMarkdown] = useState<string>('');
   const [title, setTitle] = useState<string>('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const viewerRef = useRef<HTMLDivElement>(null);
+  const bookRef = useRef<any>(null);
 
   useEffect(() => {
     const fetchPreview = async () => {
@@ -30,7 +30,7 @@ const BookPreviewPage: React.FC = () => {
             if (langData) {
               const book = langData.books.find(b => b.id === id);
               if (book) {
-                previewFile = `/books/series/${seriesId}/${language}/${book.id}/preview.md`;
+                previewFile = `/books/series/${seriesId}/${language}/${book.id}/preview.epub`;
                 bookTitle = book.title;
               }
             }
@@ -44,7 +44,7 @@ const BookPreviewPage: React.FC = () => {
             const langData = novel.data.find(d => d.language === language);
             console.log('Found language data:', langData);
             if (langData) {
-              previewFile = `/books/novels/${language}/${novel.id}/preview.md`;
+              previewFile = `/books/novels/${language}/${novel.id}/preview.epub`;
               bookTitle = langData.title;
             }
           }
@@ -57,7 +57,7 @@ const BookPreviewPage: React.FC = () => {
             const langData = short.data.find(d => d.language === language);
             console.log('Found language data:', langData);
             if (langData) {
-              previewFile = `/books/shorts/${language}/${short.id}/preview.md`;
+              previewFile = `/books/shorts/${language}/${short.id}/preview.epub`;
               bookTitle = langData.title;
             }
           }
@@ -65,11 +65,23 @@ const BookPreviewPage: React.FC = () => {
 
         console.log('Preview file:', previewFile);
         if (previewFile) {
-          const resp = await fetch(previewFile);
-          if (!resp.ok) throw new Error('Preview not found');
-          const md = await resp.text();
-          setPreviewMarkdown(md);
-          setTitle(bookTitle);
+          if (viewerRef.current) {
+            // Clean up previous book if it exists
+            if (bookRef.current) {
+              bookRef.current.destroy();
+            }
+            
+            // Create new book instance
+            bookRef.current = ePub(previewFile);
+            const rendition = bookRef.current.renderTo(viewerRef.current, {
+              width: '100%',
+              height: '100%',
+              spread: 'none'
+            });
+            
+            rendition.display();
+            setTitle(bookTitle);
+          }
         } else {
           setError('Preview not found');
         }
@@ -81,6 +93,13 @@ const BookPreviewPage: React.FC = () => {
       }
     };
     fetchPreview();
+
+    // Cleanup function
+    return () => {
+      if (bookRef.current) {
+        bookRef.current.destroy();
+      }
+    };
   }, [type, id, seriesId, language]);
 
   if (loading) {
@@ -102,8 +121,8 @@ const BookPreviewPage: React.FC = () => {
   return (
     <div className="max-w-3xl mx-auto py-12 px-4">
       <h1 className="text-2xl font-display text-primary mb-6">Preview: {title}</h1>
-      <div className="prose prose-lg prose-justify text-justify max-w-none prose-headings:font-display prose-headings:text-primary prose-h1:mb-4 prose-h2:mb-2 prose-h3:mb-2 prose-p:leading-relaxed prose-p:mb-4 prose-li:my-1">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{previewMarkdown}</ReactMarkdown>
+      <div className="h-[800px] w-full border border-gray-200 rounded-lg shadow-lg">
+        <div ref={viewerRef} className="h-full w-full" />
       </div>
       <div className="mt-8">
         <button
