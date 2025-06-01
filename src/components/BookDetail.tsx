@@ -87,6 +87,7 @@ const BookDetail: React.FC = () => {
         }
 
         console.log('Final book data:', bookData);
+
         if (bookData) {
           setBook(bookData);
           // Fetch markdown content
@@ -117,6 +118,32 @@ const BookDetail: React.FC = () => {
       const resp = await fetch(previewFile);
       if (!resp.ok) throw new Error('Preview not found');
       setShowPreview(true);
+    }
+  };
+
+  const getPlatformIcon = (platform: string) => {
+    switch (platform) {
+      case 'amazon':
+        return '/platform/amazon.png';
+      case 'laterpress':
+        return '/platform/laterpress.svg';
+      case 'draft2digital':
+        return '/platform/draft2digital.png';
+      default:
+        return '/platform/' + platform + '.png';
+    }
+  };
+
+  const capitalizePlatform = (platform: string) => {
+    switch (platform) {
+      case 'laterpress':
+        return 'LaterPress';
+      case 'amazon':
+        return 'Amazon';
+      case 'draft2digital':
+        return 'Draft2Digital';
+      default:
+        return platform.charAt(0).toUpperCase() + platform.slice(1);
     }
   };
 
@@ -163,35 +190,55 @@ const BookDetail: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex space-x-4">
-            <button
-              onClick={() => alert('Buy functionality coming soon!')}
-              className="px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-dark transition-colors"
-            >
-              Buy
-            </button>
-            {book.type === 'series' ? (
-              <Link
-                to={`/series/${book.seriesId}/${book.language}/book/${book.id}/preview`}
-                className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-              >
-                Preview
-              </Link>
-            ) : book.type === 'novel' ? (
-              <Link
-                to={`/novels/${book.id}/${book.language}/preview`}
-                className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-              >
-                Preview
-              </Link>
-            ) : book.type === 'short' ? (
-              <Link
-                to={`/shorts/${book.id}/${book.language}/preview`}
-                className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-              >
-                Preview
-              </Link>
-            ) : null}
+          <div className="space-y-4">
+            {/* Preview Button */}
+            <div>
+              {book.type === 'series' ? (
+                <Link
+                  to={`/series/${book.seriesId}/${book.language}/book/${book.id}/preview`}
+                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                >
+                  Preview
+                </Link>
+              ) : book.type === 'novel' ? (
+                <Link
+                  to={`/novels/${book.id}/${book.language}/preview`}
+                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                >
+                  Preview
+                </Link>
+              ) : book.type === 'short' ? (
+                <Link
+                  to={`/shorts/${book.id}/${book.language}/preview`}
+                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                >
+                  Preview
+                </Link>
+              ) : null}
+            </div>
+
+            {/* Platform Links */}
+            <div>
+              <h3 className="text-lg font-display text-primary mb-3">Available on:</h3>
+              <div className="flex gap-3">
+                {book.platforms?.map((platform) => (
+                  <a
+                    key={platform.platform}
+                    href={platform.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                    title={`Buy via ${capitalizePlatform(platform.platform)}`}
+                  >
+                    <img
+                      src={getPlatformIcon(platform.platform)}
+                      alt={`Buy via ${capitalizePlatform(platform.platform)}`}
+                      className="w-24 h-10 object-contain"
+                    />
+                  </a>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </div>

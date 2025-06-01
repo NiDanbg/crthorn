@@ -1,6 +1,7 @@
 {
   "title": "Blut und Sternenstaub",
   "shortDescription": "Ein episches Science-Fiction-Abenteuer von Crispin Thorn: Blut und Sternenstaub",
+  "genre": "Sci-Fi",
   "books": [
     {
       "id": "ancient-blue",
@@ -8,7 +9,20 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
-      "epubFileName": "ancient-blue_de.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/ancient-blue-de"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.de/dp/ancient-blue"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/ancient-blue-de"
+        }
+      ],
       "price": 1.99,
       "genre": "sci-fi",
       "is_latest": false
@@ -19,7 +33,20 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
-      "epubFileName": "red-and-ancient-blue_de.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/red-and-ancient-blue-de"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.de/dp/red-and-ancient-blue"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/red-and-ancient-blue-de"
+        }
+      ],
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": false
@@ -30,7 +57,20 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
-      "epubFileName": "cosmic-red_de.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/cosmic-red-de"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.de/dp/cosmic-red"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/cosmic-red-de"
+        }
+      ],
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": false
@@ -41,7 +81,20 @@
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
-      "epubFileName": "steel-gray_de.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/steel-gray-de"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.de/dp/steel-gray"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/steel-gray-de"
+        }
+      ],
       "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true

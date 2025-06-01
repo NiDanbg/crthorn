@@ -2,7 +2,20 @@
     {
         "id": "blood-of-the-yenisei",
         "title": "Blood of the Yenisei",
-        "epubFileName": "blood-of-the-yenisei_en.epub",
+        "platforms": [
+            {
+                "platform": "laterpress",
+                "url": "https://laterpress.com/books/blood-of-the-yenisei"
+            },
+            {
+                "platform": "amazon",
+                "url": "https://amazon.com/dp/blood-of-the-yenisei"
+            },
+            {
+                "platform": "draft2digital",
+                "url": "https://draft2digital.com/books/blood-of-the-yenisei"
+            }
+        ],
         "price": 4.99,
         "genre": "fiction",
         "is_latest": false

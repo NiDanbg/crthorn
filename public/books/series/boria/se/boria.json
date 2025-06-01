@@ -1,12 +1,25 @@
 {
   "title": "Boria",
-  "shortDescription": "Fantasy series by Crispin Thorn: Boria",
+  "shortDescription": "Fantasyserie av Crispin Thorn: Boria",
   "genre": "fantasy",
   "books": [
     {
       "id": "the-healer-of-blackstone",
       "title": "Läkaren från Blackstone",
-      "epubFileName": "the-healer-of-blackstone_se.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-healer-of-blackstone-se"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.se/dp/the-healer-of-blackstone"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-healer-of-blackstone-se"
+        }
+      ],
       "price": 9.99,
       "genre": "fantasy",
       "is_latest": false
@@ -14,7 +27,20 @@
     {
       "id": "the-guardian-of-briest",
       "title": "Väktaren av Briest",
-      "epubFileName": "the-guardian-of-briest_se.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-guardian-of-briest-se"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.se/dp/the-guardian-of-briest"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-guardian-of-briest-se"
+        }
+      ],
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false

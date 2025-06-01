@@ -6,7 +6,20 @@
     {
       "id": "the-healer-of-blackstone",
       "title": "The Healer of Blackstone",
-      "epubFileName": "the-healer-of-blackstone_en.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-healer-of-blackstone"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.com/dp/the-healer-of-blackstone"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-healer-of-blackstone"
+        }
+      ],
       "price": 9.99,
       "genre": "fantasy",
       "is_latest": false
@@ -14,7 +27,20 @@
     {
       "id": "the-guardian-of-briest",
       "title": "The Guardian of Briest",
-      "epubFileName": "the-guardian-of-briest_en.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-guardian-of-briest"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.com/dp/the-guardian-of-briest"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-guardian-of-briest"
+        }
+      ],
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
@@ -22,7 +48,20 @@
     {
       "id": "two-worlds",
       "title": "Two Worlds",
-      "epubFileName": "two-worlds_en.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/two-worlds"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.com/dp/two-worlds"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/two-worlds"
+        }
+      ],
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false

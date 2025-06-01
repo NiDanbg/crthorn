@@ -1,10 +1,15 @@
+export interface Platform {
+  platform: string;
+  url: string;
+}
+
 export interface Book {
   id: string;
   title: string;
   coverImage: string;
   longDescription: string;
   previewFileName: string;
-  epubFileName: string;
+  platforms: Platform[];
   price: number;
   genre: string;
   is_latest: boolean;
@@ -34,7 +39,7 @@ export interface Novel {
     coverImage: string;
     longDescription: string;
     previewFileName: string;
-    epubFileName: string;
+    platforms: Platform[];
     price: number;
     genre: string;
     is_latest: boolean;
@@ -50,7 +55,7 @@ export interface ShortStory {
     coverImage: string;
     longDescription: string;
     previewFileName: string;
-    epubFileName: string;
+    platforms: Platform[];
     price: number;
     genre: string;
     is_latest: boolean;

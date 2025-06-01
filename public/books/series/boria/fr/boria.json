@@ -1,12 +1,25 @@
 {
   "title": "Boria",
-  "shortDescription": "Fantasy series by Crispin Thorn: Boria",
+  "shortDescription": "Série fantastique de Crispin Thorn: Boria",
   "genre": "fantasy",
   "books": [
     {
       "id": "the-healer-of-blackstone",
       "title": "Le Guérisseur de Blackstone",
-      "epubFileName": "the-healer-of-blackstone_fr.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-healer-of-blackstone-fr"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.fr/dp/the-healer-of-blackstone"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-healer-of-blackstone-fr"
+        }
+      ],
       "price": 9.99,
       "genre": "fantasy",
       "is_latest": false
@@ -14,7 +27,20 @@
     {
       "id": "the-guardian-of-briest",
       "title": "La Gardienne de Briest",
-      "epubFileName": "the-guardian-of-briest_fr.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/the-guardian-of-briest-fr"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.fr/dp/the-guardian-of-briest"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/the-guardian-of-briest-fr"
+        }
+      ],
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
@@ -22,7 +48,20 @@
     {
       "id": "two-worlds",
       "title": "Deux mondes",
-      "epubFileName": "two-worlds_fr.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://laterpress.com/books/two-worlds-fr"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://amazon.fr/dp/two-worlds"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://draft2digital.com/books/two-worlds-fr"
+        }
+      ],
       "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
