@@ -1,25 +1,32 @@
-# The Guardian of Briest
+**_Ancient Blue_** is a science fiction novel blending romance and adventure that marks the beginning of the *Blood and Stardust* series.  
+Step into the dynamic, multilayered world crafted by **Crispin Thorn**, where humanity's origins and the clash of ancient civilizations take center stage.
 
-**"The Guardian of Briest"**: The second book in the captivating *"Boria"* series
 
-Return to Crispin Thorn's mesmerizing world, where ancient secrets, political intrigues, and clashes of will continue to shape Boria's fate. In *The Guardian of Briest*, the journey deepens as the lines between friend and foe blur, and long-buried truths come to light.
+*Ancient Blue* introduces **Peter Hammett**, a geologist and spelunker who discovers **Arya** — a representative of an ancient alien race trapped in time. Arya is on a quest to find a key capable of activating a forgotten defense system designed to counter the alien **Xylar’n** race, whose looming threat is rising once more.
 
-Haunted by fragmented memories and forced to master powers he barely understands, **Nick Vidov** finds himself drawn to the mysterious **Briest plateau**. In the body of **Nolan Storrer**, he must wrestle with his dual identity and the forces vying for his allegiance, while navigating treacherous political currents and confronting ancient guardians who hold the key to his past and future.
+As Arya and Peter journey from forgotten caves in the Grand Canyon to secret archives in New York and Louisiana, they face powerful enemies — both human and alien.
 
-Accompanied by familiar faces and new allies, Nick will cross paths with a powerful but secretive order and face trials that will push him beyond the limits of his abilities. A desperate race to uncover the truth leads him into the depths of Briest, where he must embrace his destiny before it consumes him.
+With ancient secrets surfacing and tension growing between the protagonists, Peter and Arya uncover not just the truth about the Xylar’n but also a bond that could forever change their destinies.
 
----
-
-## Why should you read *The Guardian of Briest*?
-
-- **An evolving world**: Crispin Thorn masterfully expands the complex world of Boria, introducing new locations, powerful forces, and shocking revelations.
-
-- **Compelling characters**: Nick's journey leads to a deeper exploration of his dual identity, while supporting characters like **Kira** and **Sweeper** face their own internal battles and unexpected decisions.
-
-- **Mysterious forces**: Ancient prophecies, power struggles, and the hidden influence of *The Endless* keep readers guessing until the last page.
-
-- **Epic scope and stakes**: Tension-filled battles, intricate political maneuvers, and personal sacrifices make *The Guardian of Briest* an engrossing sequel.
+*Ancient Blue* is a gripping sci-fi thriller packed with emotional drama, complex characters, and edge-of-your-seat tension.  
+**Will Arya find the "key" and activate the Solar System's Defense System in time?**
 
 ---
 
-Prepare to be swept away by this breathtaking second book in the *Boria* series, where truth hides beneath layers of power and every decision has the potential to unravel the world. **Order *The Guardian of Briest* now** and immerse yourself in the heart of this unforgettable saga!
+## Why Choose *Ancient Blue*?
+
+### An Original and Multilayered Story  
+In *Ancient Blue*, **Crispin Thorn** weaves elements of archaeological mystery, science fiction, and adventure into a compelling narrative. The plot explores questions about the origins of life, human identity, and the cultural clashes between civilizations.
+
+### Unforgettable Characters  
+**Peter** and **Arya** are deeply layered protagonists who experience emotional and moral growth throughout the story. Their dynamic forms the heart of the narrative, blending the high stakes of their mission with the strength of their personal connection.
+
+### Rich Sci-Fi Elements  
+Vividly described sci-fi concepts enrich the plot and create an immersive world that pulls readers in completely.
+
+### Memorable Antagonists  
+From the cunning and manipulative Xylar’n agent **Fir’lan** to the ambitious and ruthless collector **Damon Crowley**, the story’s villains are as multidimensional and captivating as its heroes.
+
+---
+
+*Ancient Blue* delivers a captivating tale of ancient mysteries, alien intrigue, and the impossible love that blossoms between two worlds.

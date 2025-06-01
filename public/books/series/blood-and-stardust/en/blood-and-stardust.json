@@ -11,20 +11,17 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/ancient-blue"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/ancient-blue"
+          "url": "https://www.amazon.com/dp/B0DHVGH23L"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/ancient-blue"
+          "url": "https://books2read.com/u/3L2Nke"
         }
       ],
       "genre": "sci-fi",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": true
     },
     {
       "id": "red-and-ancient-blue",
@@ -34,20 +31,17 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/red-and-ancient-blue"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/red-and-ancient-blue"
+          "url": "https://www.amazon.com/dp/B0DJL9X7VH"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/red-and-ancient-blue"
+          "url": "https://books2read.com/u/bM8nVG"
         }
       ],
       "genre": "sci-fi",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview":true
     },
     {
       "id": "cosmic-red",
@@ -57,20 +51,17 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/cosmic-red"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/cosmic-red"
+          "url": "https://www.amazon.com/dp/B0DQVZ8978"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/cosmic-red"
+          "url": "https://books2read.com/u/mZ6pll"
         }
       ],
       "genre": "sci-fi",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview":true
     },
     {
       "id": "steel-gray",
@@ -80,20 +71,13 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/steel-gray"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/steel-gray"
-        },
-        {
-          "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/steel-gray"
+          "url": "https://www.amazon.com/dp/B0F2SY25S5"
         }
       ],
       "genre": "sci-fi",
-      "is_latest": true
+      "is_latest": true,
+      "has_preview":true
     }    
   ]
 }

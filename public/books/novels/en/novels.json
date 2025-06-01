@@ -4,19 +4,10 @@
         "title": "Blood of the Yenisei",
         "platforms": [
             {
-                "platform": "laterpress",
-                "url": "https://laterpress.com/books/blood-of-the-yenisei"
-            },
-            {
-                "platform": "amazon",
-                "url": "https://amazon.com/dp/blood-of-the-yenisei"
-            },
-            {
                 "platform": "draft2digital",
-                "url": "https://draft2digital.com/books/blood-of-the-yenisei"
+                "url": "https://books2read.com/u/49qJ9Y"
             }
         ],
-        "price": 4.99,
         "genre": "fiction",
         "is_latest": false,
         "has_preview": true
