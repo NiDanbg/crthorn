@@ -35,23 +35,17 @@ export const loadSeries = async (): Promise<Series[]> => {
 
 export const loadNovels = async (): Promise<Novel[]> => {
   try {
-    console.log('Loading novels metadata...');
     const response = await fetch('/books/novels/metadata.json');
     const novelsMetadata = await response.json();
-    console.log('Novels metadata:', novelsMetadata);
     
     const novels: Novel[] = [];
     
     for (const meta of novelsMetadata) {
-      console.log('Processing novel:', meta.id);
       const novelData = await Promise.all(
         meta.languages.map(async (lang: string) => {
-          console.log(`Loading novel data for ${meta.id} in ${lang}...`);
           const response = await fetch(`/books/novels/${lang}/novels.json`);
           const data = await response.json();
-          console.log(`Novel data for ${meta.id} in ${lang}:`, data);
           const novel = data.find((book: any) => book.id === meta.id);
-          console.log(`Found novel:`, novel);
           if (novel) {
             return {
               ...novel,
@@ -67,7 +61,6 @@ export const loadNovels = async (): Promise<Novel[]> => {
       );
       
       const validData = novelData.filter((data): data is NonNullable<typeof data> => data !== null);
-      console.log('Valid data for novel:', validData);
       
       if (validData.length > 0) {
         novels.push({
@@ -78,7 +71,6 @@ export const loadNovels = async (): Promise<Novel[]> => {
       }
     }
     
-    console.log('Final novels array:', novels);
     return novels;
   } catch (error) {
     console.error('Error loading novels:', error);

@@ -3,6 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import { Book } from '../types';
 import { loadSeries, loadNovels, loadShortStories } from '../utils/dataLoader';
 import ReactMarkdown from 'react-markdown';
+import EpubViewer from './EpubViewer';
 
 const BookDetail: React.FC = () => {
   const { type, id, seriesId, language } = useParams<{ type: string; id: string; seriesId?: string; language?: string }>();
@@ -11,21 +12,16 @@ const BookDetail: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [markdown, setMarkdown] = useState<string>('');
-  const [previewMarkdown, setPreviewMarkdown] = useState<string>('');
-  const [showPreview, setShowPreview] = useState(false);
 
   useEffect(() => {
     const fetchBook = async () => {
       try {
-        console.log('Fetching book with params:', { type, id, seriesId, language });
         let bookData: Book | null = null;
 
         // Determine the type from the URL path
         const pathType = window.location.pathname.split('/')[1]; // 'novels', 'shorts', or 'series'
-        console.log('Path type:', pathType);
 
         if (pathType === 'series' && seriesId && language) {
-          console.log('Loading series book...');
           const series = await loadSeries();
           const seriesData = series.find(s => s.id === seriesId);
           if (seriesData) {
@@ -46,14 +42,10 @@ const BookDetail: React.FC = () => {
             }
           }
         } else if (pathType === 'novels') {
-          console.log('Loading novel...');
           const novels = await loadNovels();
-          console.log('Loaded novels:', novels);
           const novel = novels.find(n => n.id === id);
-          console.log('Found novel:', novel);
           if (novel) {
             const langData = novel.data.find(d => d.language === language);
-            console.log('Found language data:', langData);
             if (langData) {
               bookData = {
                 ...langData,
@@ -67,7 +59,6 @@ const BookDetail: React.FC = () => {
             }
           }
         } else if (pathType === 'shorts') {
-          console.log('Loading short story...');
           const shorts = await loadShortStories();
           const short = shorts.find(s => s.id === id);
           if (short) {
@@ -85,8 +76,6 @@ const BookDetail: React.FC = () => {
             }
           }
         }
-
-        console.log('Final book data:', bookData);
 
         if (bookData) {
           setBook(bookData);
@@ -111,15 +100,6 @@ const BookDetail: React.FC = () => {
 
     fetchBook();
   }, [type, id, seriesId, language]);
-
-  const handlePreview = async () => {
-    if (book && book.previewFileName) {
-      const previewFile = book.previewFileName.replace('.md', '.epub');
-      const resp = await fetch(previewFile);
-      if (!resp.ok) throw new Error('Preview not found');
-      setShowPreview(true);
-    }
-  };
 
   const getPlatformIcon = (platform: string) => {
     switch (platform) {
@@ -173,11 +153,25 @@ const BookDetail: React.FC = () => {
     <div className="max-w-4xl mx-auto py-12 px-4">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
-          <img
-            src={book.coverImage}
-            alt={book.title}
-            className="w-full rounded-lg shadow-lg"
-          />
+          {book.has_preview ? (
+            <EpubViewer
+              previewFile={book.type === 'series' 
+                ? `/books/series/${book.seriesId}/${book.language}/${book.id}/preview.epub`
+                : book.type === 'novel'
+                ? `/books/novels/${book.language}/${book.id}/preview.epub`
+                : `/books/shorts/${book.language}/${book.id}/preview.epub`
+              }
+              title={book.title}
+              coverImageUrl={book.coverImage}
+              className="w-full"
+            />
+          ) : (
+            <img
+              src={book.coverImage}
+              alt={book.title}
+              className="w-full rounded-lg shadow-lg"
+            />
+          )}
         </div>
         <div>
           <h1 className="text-3xl font-display text-primary mb-4">{book.title}</h1>
@@ -190,31 +184,33 @@ const BookDetail: React.FC = () => {
           </div>
 
           <div className="space-y-4">
-            {/* Preview Button */}
-            <div>
-              {book.type === 'series' ? (
-                <Link
-                  to={`/series/${book.seriesId}/${book.language}/book/${book.id}/preview`}
-                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                >
-                  Preview
-                </Link>
-              ) : book.type === 'novel' ? (
-                <Link
-                  to={`/novels/${book.id}/${book.language}/preview`}
-                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                >
-                  Preview
-                </Link>
-              ) : book.type === 'short' ? (
-                <Link
-                  to={`/shorts/${book.id}/${book.language}/preview`}
-                  className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                >
-                  Preview
-                </Link>
-              ) : null}
-            </div>
+            {/* Only show preview button if there's no embedded preview */}
+            {!book.has_preview && (
+              <div>
+                {book.type === 'series' ? (
+                  <Link
+                    to={`/series/${book.seriesId}/${book.language}/book/${book.id}/preview`}
+                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                  >
+                    Preview
+                  </Link>
+                ) : book.type === 'novel' ? (
+                  <Link
+                    to={`/novels/${book.id}/${book.language}/preview`}
+                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                  >
+                    Preview
+                  </Link>
+                ) : book.type === 'short' ? (
+                  <Link
+                    to={`/shorts/${book.id}/${book.language}/preview`}
+                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                  >
+                    Preview
+                  </Link>
+                ) : null}
+              </div>
+            )}
 
             {/* Platform Links */}
             {/* <div>
@@ -241,24 +237,6 @@ const BookDetail: React.FC = () => {
           </div>
         </div>
       </div>
-      {/* Preview Modal */}
-      {showPreview && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60">
-          <div className="bg-white max-w-2xl w-full rounded-lg shadow-lg p-8 relative">
-            <button
-              onClick={() => setShowPreview(false)}
-              className="absolute top-2 right-2 text-gray-500 hover:text-primary text-2xl"
-              aria-label="Close preview"
-            >
-              &times;
-            </button>
-            <h2 className="text-xl font-display text-primary mb-4">Preview</h2>
-            <div className="prose max-w-none">
-              <ReactMarkdown>{previewMarkdown}</ReactMarkdown>
-            </div>
-          </div>
-        </div>
-      )}
     </div>
   );
 };

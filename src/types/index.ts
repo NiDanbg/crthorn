@@ -12,6 +12,7 @@ export interface Book {
   platforms: Platform[];
   genre: string;
   is_latest: boolean;
+  has_preview?: boolean;
   type: 'series' | 'novel' | 'short';
   language: string;
   seriesId?: string;
@@ -41,6 +42,7 @@ export interface Novel {
     platforms: Platform[];
     genre: string;
     is_latest: boolean;
+    has_preview?: boolean;
     language: string;
   }>;
 }
@@ -56,6 +58,7 @@ export interface ShortStory {
     platforms: Platform[];
     genre: string;
     is_latest: boolean;
+    has_preview?: boolean;
     language: string;
   }>;
 } 

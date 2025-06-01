@@ -18,6 +18,7 @@
         ],
         "price": 4.99,
         "genre": "fiction",
-        "is_latest": false
+        "is_latest": false,
+        "has_preview": true
     }
 ]
