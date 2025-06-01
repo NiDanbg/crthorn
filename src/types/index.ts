@@ -10,7 +10,6 @@ export interface Book {
   longDescription: string;
   previewFileName: string;
   platforms: Platform[];
-  price: number;
   genre: string;
   is_latest: boolean;
   type: 'series' | 'novel' | 'short';
@@ -40,7 +39,6 @@ export interface Novel {
     longDescription: string;
     previewFileName: string;
     platforms: Platform[];
-    price: number;
     genre: string;
     is_latest: boolean;
     language: string;
@@ -56,7 +54,6 @@ export interface ShortStory {
     longDescription: string;
     previewFileName: string;
     platforms: Platform[];
-    price: number;
     genre: string;
     is_latest: boolean;
     language: string;

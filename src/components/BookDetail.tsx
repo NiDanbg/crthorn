@@ -182,7 +182,6 @@ const BookDetail: React.FC = () => {
         <div>
           <h1 className="text-3xl font-display text-primary mb-4">{book.title}</h1>
           <p className="text-text text-lg mb-4">{book.genre}</p>
-          <p className="text-accent text-2xl font-bold mb-6">${book.price.toFixed(2)}</p>
           
           <div className="prose max-w-none mb-8">
             <div className="text-text">
@@ -218,7 +217,7 @@ const BookDetail: React.FC = () => {
             </div>
 
             {/* Platform Links */}
-            <div>
+            {/* <div>
               <h3 className="text-lg font-display text-primary mb-3">Available on:</h3>
               <div className="flex gap-3">
                 {book.platforms?.map((platform) => (
@@ -238,7 +237,7 @@ const BookDetail: React.FC = () => {
                   </a>
                 ))}
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

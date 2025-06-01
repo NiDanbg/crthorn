@@ -20,7 +20,6 @@
           "url": "https://draft2digital.com/books/the-healer-of-blackstone"
         }
       ],
-      "price": 9.99,
       "genre": "fantasy",
       "is_latest": false
     },
@@ -41,7 +40,6 @@
           "url": "https://draft2digital.com/books/the-guardian-of-briest"
         }
       ],
-      "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
     },
@@ -62,7 +60,6 @@
           "url": "https://draft2digital.com/books/two-worlds"
         }
       ],
-      "price": 8.99,
       "genre": "fantasy",
       "is_latest": false
     }

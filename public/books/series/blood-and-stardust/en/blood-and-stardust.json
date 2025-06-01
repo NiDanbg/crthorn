@@ -23,7 +23,6 @@
           "url": "https://draft2digital.com/books/ancient-blue"
         }
       ],
-      "price": 1.99,
       "genre": "sci-fi",
       "is_latest": false
     },
@@ -47,7 +46,6 @@
           "url": "https://draft2digital.com/books/red-and-ancient-blue"
         }
       ],
-      "price": 4.99,
       "genre": "sci-fi",
       "is_latest": false
     },
@@ -71,7 +69,6 @@
           "url": "https://draft2digital.com/books/cosmic-red"
         }
       ],
-      "price": 4.99,
       "genre": "sci-fi",
       "is_latest": false
     },
@@ -95,7 +92,6 @@
           "url": "https://draft2digital.com/books/steel-gray"
         }
       ],
-      "price": 4.99,
       "genre": "sci-fi",
       "is_latest": true
     }    
