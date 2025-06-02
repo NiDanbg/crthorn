@@ -11,6 +11,10 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/ancient-blue-eng"
+        },
+        {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DHVGH23L"
         },
@@ -31,6 +35,10 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/red-and-ancient-blue-eng"
+        },
+        {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DJL9X7VH"
         },
@@ -50,6 +58,10 @@
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
       "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/cosmic-red-eng"
+        },
         {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DQVZ8978"
