@@ -6,42 +6,50 @@
     {
       "id": "the-healer-of-blackstone",
       "title": "Der Heiler von Blackstone",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-healer-of-blackstone-de"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.de/dp/the-healer-of-blackstone"
-        },
-        {
-          "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-healer-of-blackstone-de"
+          "url": "https://www.amazon.com/dp/B0DSTRYXNB"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     },
     {
       "id": "the-guardian-of-briest",
       "title": "Die Wächterin von Briest",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
-        {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-guardian-of-briest-de"
-        },
-        {
+         {
           "platform": "amazon",
-          "url": "https://amazon.de/dp/the-guardian-of-briest"
-        },
-        {
-          "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-guardian-of-briest-de"
+          "url": "https://www.amazon.com/dp/B0DSV469C2"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
+    },
+    {
+      "id": "two-worlds",
+      "title": "Zwei Welten",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DT11SLLJ"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": false
     }
   ]
 }

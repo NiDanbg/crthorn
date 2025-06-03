@@ -1,25 +1,52 @@
-# Two Worlds
+# *Deux Mondes* : Troisième livre de la série épique *Boria*  
+**Un voyage vers la vérité au-delà du connu**
 
-**"Two Worlds"**: Book Three of the Epic Series *Boria* – A Journey to Truth Beyond the Familiar
-
-Dive into the conflict-torn world of Boria, where the boundaries of reality blur, and the truth about the **Timeless Ones** is unveiled. **Crispin Thorn** takes you deep into *Two Worlds*, where **Nick Vidov**, now aware of the connection between the two realms, struggles to understand his role while facing unimaginable trials.
-
-Torn between his familiar life and the unfamiliar reality of Boria, Nick must master the secrets pulling him toward two distinct existences. Along the way, old friends and new enemies await, each playing their part in the looming war threatening the entire continent. Whether Nick will merely serve as a pawn or rise as the one to shape the outcome of this conflict will only become clear when the interests of the two worlds finally intertwine.
-
----
-
-## Why should you read *Two Worlds*?
-
-- **A Mirror Reality**: Crispin Thorn presents a world where the connections between realities are blurred to the point of no recognition. *"Here"* and *"There"* merge into surreal imagery, challenging everything you hold as truth.
-
-- **The Origins Unveiled**: Discover what it means to be *"Timeless"* and their role across both worlds, as well as Nick's part in the resolution of this battle.
-
-- **Intrigue Beyond Imagination**: Immerse yourself in a web of secrets surrounding **Briest**, where lies unravel and the truth turns out to be stranger and more perilous than anyone could have imagined.
-
-- **Fateful Choices**: Follow Nick’s journey and witness clashes and decisions that will keep you on edge until the very end, as he uncovers the price of sacrifice.
+Plongez dans le monde déchiré par les conflits de **Boria**,  
+où les lignes de la réalité s’estompent  
+et où la vérité sur les *« Intemporels »* émerge.  
+**Crispin Thorn** vous emmène dans les profondeurs de *Deux Mondes*,  
+où **Nick Vidov**, désormais conscient du lien entre les deux mondes,  
+se bat pour comprendre son rôle et affronte des épreuves inimaginables.
 
 ---
 
-Get ready to be swept away by this captivating third installment of *Boria*, where **destiny is stronger than choice**, and one man faces a challenge capable of reshaping realities!
+Tiraillé entre sa vie connue et la réalité inconnue de Boria,  
+**Nick** doit maîtriser les secrets qui le tirent vers deux existences différentes.  
+Sur son chemin, il rencontre de vieux amis et de nouveaux ennemis,  
+chacun jouant un rôle dans la guerre imminente qui menace tout le continent.
 
-**Order *Two Worlds* now** and immerse yourself in a whirlwind of emotions and revelations!
+> Nick sera-t-il un simple outil  
+> ou deviendra-t-il l’homme qui déterminera l’issue de cette bataille ?  
+> La réponse se révèlera lorsque les intérêts des deux mondes s’entrelaceront définitivement.
+
+---
+
+## Pourquoi devriez-vous lire *Deux Mondes* ?
+
+- **Réalité en miroir**  
+  *Crispin Thorn présente un monde où les liens entre les réalités s’estompent jusqu’à devenir méconnaissables,  
+  et où « ICI » et « LÀ-BAS » s’entrelacent en images surréalistes, changeant tout ce que vous croyez être vrai.*
+
+- **Révélation des origines**  
+  *Découvrez ce que signifie être « Intemporel »,  
+  quel est leur rôle dans les deux mondes,  
+  ainsi que le rôle de Nick dans l’issue de cette bataille.*
+
+- **Intrigue au-delà de l’imagination**  
+  *Plongez dans un réseau de secrets autour de **Briest**,  
+  où les mensonges se dénouent  
+  et où la vérité s’avère plus étrange et plus dangereuse que toutes les suppositions.*
+
+- **Décisions fatidiques**  
+  *Suivez le chemin de Nick et soyez témoin de conflits et de choix qui vous tiendront en haleine jusqu’à la fin,  
+  alors qu’il découvre le prix du sacrifice.*
+
+---
+
+### Préparez-vous à être absorbé  
+par cette troisième partie captivante de *Boria*,  
+où **le destin est plus fort que le choix**,  
+et où un homme fait face à un défi capable de **changer les réalités** !
+
+### Commandez *Deux Mondes* maintenant  
+et plongez dans une tempête d’émotions et de révélations !

@@ -1,25 +1,37 @@
-# The Guardian of Briest
+# *La Gardienne de Briest* : Deuxième livre de la captivante série *Boria*
 
-**"The Guardian of Briest"**: The second book in the captivating *"Boria"* series
+Replongez dans le monde envoûtant de **Crispin Thorn**, où les anciens secrets, les intrigues politiques et les conflits de volontés continuent de façonner le destin de **Boria**.
 
-Return to Crispin Thorn's mesmerizing world, where ancient secrets, political intrigues, and clashes of will continue to shape Boria's fate. In *The Guardian of Briest*, the journey deepens as the lines between friend and foe blur, and long-buried truths come to light.
-
-Haunted by fragmented memories and forced to master powers he barely understands, **Nick Vidov** finds himself drawn to the mysterious **Briest plateau**. In the body of **Nolan Storrer**, he must wrestle with his dual identity and the forces vying for his allegiance, while navigating treacherous political currents and confronting ancient guardians who hold the key to his past and future.
-
-Accompanied by familiar faces and new allies, Nick will cross paths with a powerful but secretive order and face trials that will push him beyond the limits of his abilities. A desperate race to uncover the truth leads him into the depths of Briest, where he must embrace his destiny before it consumes him.
+Dans *La Gardienne de Briest*, le voyage s’approfondit alors que les frontières entre ami et ennemi s’estompent, et que des vérités longtemps enfouies refont surface.
 
 ---
 
-## Why should you read *The Guardian of Briest*?
+Poursuivi par des souvenirs fragmentés et contraint de maîtriser des forces qu’il comprend à peine,  
+**Nick Vidov** est attiré par le mystérieux plateau de **Briest**.  
+Dans le corps de **Nolan Storr**, il doit lutter contre sa double identité et les forces qui se battent pour sa loyauté, tout en naviguant dans des courants politiques perfides et en affrontant les anciens gardiens qui détiennent la clé de son passé et de son avenir.
 
-- **An evolving world**: Crispin Thorn masterfully expands the complex world of Boria, introducing new locations, powerful forces, and shocking revelations.
+Accompagné de visages familiers et de nouveaux alliés, Nick croisera le chemin d’un ordre puissant mais secret et fera face à des épreuves qui le pousseront au-delà de ses limites.  
 
-- **Compelling characters**: Nick's journey leads to a deeper exploration of his dual identity, while supporting characters like **Kira** and **Sweeper** face their own internal battles and unexpected decisions.
-
-- **Mysterious forces**: Ancient prophecies, power struggles, and the hidden influence of *The Endless* keep readers guessing until the last page.
-
-- **Epic scope and stakes**: Tension-filled battles, intricate political maneuvers, and personal sacrifices make *The Guardian of Briest* an engrossing sequel.
+> Une course désespérée pour découvrir la vérité l’emmène dans les profondeurs de **Briest**, où il doit accepter son destin avant qu’il ne l’engloutisse.
 
 ---
 
-Prepare to be swept away by this breathtaking second book in the *Boria* series, where truth hides beneath layers of power and every decision has the potential to unravel the world. **Order *The Guardian of Briest* now** and immerse yourself in the heart of this unforgettable saga!
+## Pourquoi devriez-vous lire *La Gardienne de Briest* ?
+
+- **Un monde en mutation**  
+  *Crispin Thorn élargit avec maîtrise le monde complexe de Boria, présentant de nouveaux lieux, des forces puissantes et des révélations choquantes.*
+
+- **Des personnages captivants**  
+  *Le voyage de Nick l’emmène dans une exploration plus profonde de sa double identité, tandis que les personnages secondaires, comme **Kira** et **Le Faucheur**, font face à leurs propres batailles intérieures et à des décisions inattendues.*
+
+- **Forces mystérieuses**  
+  *D’anciennes prophéties, des luttes de pouvoir et l’influence cachée des *« Infinités »* gardent le lecteur en haleine jusqu’à la dernière page.*
+
+- **Enjeux épiques**  
+  *Des batailles tendues, des manœuvres politiques complexes et des sacrifices personnels font de *La Gardienne de Briest* une suite absorbante.*
+
+---
+
+### Préparez-vous à être emporté par ce deuxième livre haletant de *Boria*, où **la vérité se cache sous des couches de pouvoir** et où chaque décision a le potentiel de détruire le monde.
+
+### Commandez *La Gardienne de Briest* maintenant et plongez au cœur de cette saga inoubliable !

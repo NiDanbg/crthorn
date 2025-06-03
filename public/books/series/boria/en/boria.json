@@ -6,6 +6,9 @@
     {
       "id": "the-healer-of-blackstone",
       "title": "The Healer of Blackstone",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
           "platform": "laterpress",
@@ -21,11 +24,15 @@
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     },
     {
       "id": "the-guardian-of-briest",
       "title": "The Guardian of Briest",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
           "platform": "laterpress",
@@ -41,11 +48,15 @@
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     },
     {
       "id": "two-worlds",
       "title": "Two Worlds",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
           "platform": "laterpress",
@@ -61,7 +72,8 @@
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     }
   ]
 }

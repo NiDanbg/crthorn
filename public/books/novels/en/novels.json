@@ -11,5 +11,18 @@
         "genre": "fiction",
         "is_latest": false,
         "has_preview": true
+    },
+    {
+        "id": "love-2.0",
+        "title": "Love 2.0",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0F893JHZV"
+            }
+        ],
+        "genre": "romantic comedy",
+        "is_latest": true,
+        "has_preview": true
     }
 ]

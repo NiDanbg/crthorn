@@ -6,62 +6,62 @@
     {
       "id": "the-healer-of-blackstone",
       "title": "Le Guérisseur de Blackstone",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-healer-of-blackstone-fr"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.fr/dp/the-healer-of-blackstone"
+          "url": "https://www.amazon.fr/dp/B0DVZHVV84"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-healer-of-blackstone-fr"
+          "url": "https://books2read.com/u/mYk6zV"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     },
     {
       "id": "the-guardian-of-briest",
       "title": "La Gardienne de Briest",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-guardian-of-briest-fr"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.fr/dp/the-guardian-of-briest"
+          "url": "https://www.amazon.fr/dp/B0DVZPBR7M"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-guardian-of-briest-fr"
+          "url": "https://books2read.com/u/3RkLyx"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     },
     {
       "id": "two-worlds",
       "title": "Deux mondes",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/two-worlds-fr"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.fr/dp/two-worlds"
+          "url": "https://www.amazon.fr/dp/B0DW48943J"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/two-worlds-fr"
+          "url": "https://books2read.com/u/4N0okY"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false
+      "is_latest": false,
+      "has_preview": false
     }
   ]
 }

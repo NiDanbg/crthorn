@@ -1,27 +1,66 @@
-# The Healer of Blackstone
-
-**"The Healer of Blackstone"**: Immerse yourself in a world of lost memories and other lives.
-
-The world of **Boria** is filled with secrets that whisper in the darkness, waiting to be unveiled. Into this atmosphere steps a man – **Nick Vidov**, whose memory has been erased in a strange incident. For him, there is no past, no name, only vague images from another life that seems not to belong to him. Realizing that his only chance to understand who he is and why he's here is to trust his instincts, Nick embarks on a journey that takes him from the muddy roads of an unfamiliar province to pursuits and secret battles, far from his usual life as a university professor.
-
-This new world calls him a **"Healer" – Nolan Storrer of Blackstone**. When an unexpected encounter with a traveling caravan binds him to the caravan mistress **Mayan Lee**, he's thrown into a turbulent whirlwind of intrigues and dangers. Secrets from the past, intertwined with power struggles, rise from the shadows, threatening peace in Boria. Nick finds himself at the center of events that seem detached from his memories but awaken unsuspected powers and skills.
-
-With each step along this path, Nick increasingly wavers between accepting the fate of a healer or fighting to reclaim his own life. *Will finding the truth heal the wounds of the past, or consume him forever? Are the powers he's beginning to manifest a gift or a curse?*
-
-**Will you understand what makes him so special?**
+# *Le Guérisseur de Blackstone*  
+*Plongez dans un monde de souvenirs perdus et d’autres vies.*
 
 ---
 
-## Why should you read *"The Healer of Blackstone"*?
+Le monde de **Boria** est empli de secrets qui murmurent dans l’obscurité,  
+attendant d’être révélés.  
+Dans cette atmosphère énigmatique, un homme émerge : **Nick Vidov**,  
+dont la mémoire a été effacée lors d’un étrange incident.  
 
-- **Unique and multi-layered story**: *Crispin Thorn* kicks off the series with an intriguing plot that explores human identity, personal struggles, social injustices, and the interweaving of magic and science.
-
-- **Memorable characters**: Nick, Mayan, Sweeper, and the other characters draw you into their complex dramas and rich personalities.
-
-- **Captivating fantasy elements**: Mysticism, ancient secrets, and conflicts in a medieval world, with subtle references to modernity, add depth and authenticity to the story.
-
-- **Mysterious antagonist**: In the shadow of intrigues and power struggles lurks a threat whose intentions are currently unclear, ratcheting up the tension on every page.
+Pour lui, il n’y a ni passé, ni nom, seulement des images floues d’une autre vie qui semble ne pas lui appartenir.  
+Conscient que son seul espoir de comprendre qui il est et pourquoi il se trouve ici réside dans son instinct, Nick se lance dans un voyage qui le mène des chemins boueux d’une province inconnue à des poursuites et à des batailles secrètes, loin de sa vie habituelle de professeur universitaire.
 
 ---
 
-**Order *"The Healer of Blackstone"* now and plunge into a breathtaking journey where every choice carries the weight of an unknown destiny!**
+Ce nouveau monde l’appelle **"Le Guérisseur"** – *Nolan Storr de Blackstone*.  
+Lorsqu’une rencontre inattendue avec une caravane itinérante  
+le lie à la maîtresse de caravane **Mayan Li**,  
+il est précipité dans un tourbillon d’intrigues et de dangers.
+
+Des secrets du passé, entrelacés avec des luttes de pouvoir,  
+émergent de l’ombre, menaçant la paix de **Boria**.  
+Nick se retrouve au cœur d’événements  
+qui semblent arrachés à ses souvenirs,  
+mais qui éveillent en lui des forces et des compétences insoupçonnées.
+
+---
+
+> À chaque pas sur ce chemin, Nick hésite de plus en plus :  
+> doit-il accepter le destin du Guérisseur  
+> ou se battre pour retrouver sa propre vie ?  
+> La vérité guérira-t-elle les blessures du passé  
+> ou l’engloutira-t-elle à jamais ?  
+> Les forces qu’il commence à manifester  
+> sont-elles un don ou une malédiction ?
+
+**Découvrirez-vous ce qui le rend si spécial ?**
+
+---
+
+## Pourquoi devriez-vous lire *Le Guérisseur de Blackstone* ?
+
+- **Une histoire unique et riche en couches**  
+  *Crispin Thorn commence la série avec une intrigue captivante  
+  qui explore l’identité humaine, les luttes personnelles,  
+  les injustices sociales et l’entrelacement entre magie et science.*
+
+- **Des personnages mémorables**  
+  *Nick, Mayan, Sweeper et les autres personnages  
+  vous plongent dans leurs drames complexes et leurs caractères riches.*
+
+- **Des éléments de fantasy envoûtants**  
+  *Mystère, secrets anciens et conflits dans un monde médiéval,  
+  avec des références subtiles à la modernité,  
+  ajoutent profondeur et authenticité à l’histoire.*
+
+- **Un antagoniste énigmatique**  
+  *Dans l’ombre des intrigues et des luttes de pouvoir  
+  se cache une menace dont les intentions restent floues,  
+  augmentant la tension à chaque page.*
+
+---
+
+### Commandez *Le Guérisseur de Blackstone* dès maintenant  
+et plongez dans un voyage haletant  
+où **chaque choix porte le poids d’un destin inconnu** !
