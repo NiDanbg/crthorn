@@ -184,36 +184,9 @@ const BookDetail: React.FC = () => {
           </div>
 
           <div className="space-y-4">
-            {/* Only show preview button if there's no embedded preview */}
-            {!book.has_preview && (
-              <div>
-                {book.type === 'series' ? (
-                  <Link
-                    to={`/series/${book.seriesId}/${book.language}/book/${book.id}/preview`}
-                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                  >
-                    Preview
-                  </Link>
-                ) : book.type === 'novel' ? (
-                  <Link
-                    to={`/novels/${book.id}/${book.language}/preview`}
-                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                  >
-                    Preview
-                  </Link>
-                ) : book.type === 'short' ? (
-                  <Link
-                    to={`/shorts/${book.id}/${book.language}/preview`}
-                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                  >
-                    Preview
-                  </Link>
-                ) : null}
-              </div>
-            )}
 
             {/* Platform Links */}
-            {/* <div>
+            <div>
               <h3 className="text-lg font-display text-primary mb-3">Available on:</h3>
               <div className="flex gap-3">
                 {book.platforms?.map((platform) => (
@@ -233,7 +206,7 @@ const BookDetail: React.FC = () => {
                   </a>
                 ))}
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
