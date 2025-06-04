@@ -12,6 +12,7 @@ module.exports = {
         accent: '#7c3aed',
         text: '#1f2937',
         error: '#dc2626',
+        turkishBlue: '#1B3B6F',
       },
       fontFamily: {
         display: ['"Inter"', 'sans-serif'],

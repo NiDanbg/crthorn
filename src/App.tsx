@@ -32,11 +32,11 @@ const App: React.FC = () => {
   return (
     <Router>
       <div className="min-h-screen bg-background text-text">
-        <nav className="bg-primary/10 backdrop-blur-sm border-b border-primary/20 fixed w-full z-50">
+        <nav className="bg-turkishBlue shadow-md border-b border-turkishBlue/20 fixed w-full z-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-20">
               <div className="flex items-center">
-                <Link to="/" className="flex items-center space-x-2 text-2xl font-display text-primary hover:text-accent transition-colors group">
+                <Link to="/" className="flex items-center space-x-2 text-2xl font-display text-white hover:text-accent transition-colors group">
                   <svg 
                     width="40" 
                     height="40" 
@@ -92,11 +92,11 @@ const App: React.FC = () => {
                 </Link>
               </div>
               <div className="flex space-x-8">
-                <NavLink to="/series">Series</NavLink>
-                <NavLink to="/novels">Novels</NavLink>
-                <NavLink to="/shorts">Short Stories</NavLink>
-                <NavLink to="/about">About</NavLink>
-                <NavLink to="/contact">Contact</NavLink>
+                <NavLink to="/series" className="text-white/90 hover:text-accent font-medium">Series</NavLink>
+                <NavLink to="/novels" className="text-white/90 hover:text-accent font-medium">Novels</NavLink>
+                <NavLink to="/shorts" className="text-white/90 hover:text-accent font-medium">Short Stories</NavLink>
+                <NavLink to="/about" className="text-white/90 hover:text-accent font-medium">About</NavLink>
+                <NavLink to="/contact" className="text-white/90 hover:text-accent font-medium">Contact</NavLink>
               </div>
             </div>
           </div>
@@ -182,8 +182,8 @@ const App: React.FC = () => {
           </Routes>
         </main>
 
-        <footer className="bg-primary/10 backdrop-blur-sm border-t border-primary/20 mt-12 py-8">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-text">
+        <footer className="bg-turkishBlue shadow-md border-t border-turkishBlue/20 mt-12 py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
             <p>Krasimir Tenev | Copyright © 2024</p>
           </div>
         </footer>
@@ -192,15 +192,15 @@ const App: React.FC = () => {
   );
 };
 
-const NavLink: React.FC<{ to: string; children: React.ReactNode }> = ({ to, children }) => {
+const NavLink: React.FC<{ to: string; children: React.ReactNode; className?: string }> = ({ to, children, className = '' }) => {
   const location = useLocation();
   const isActive = location.pathname === to;
 
   return (
     <Link
       to={to}
-      className={`text-text hover:text-accent transition-colors ${
-        isActive ? 'text-accent' : ''
+      className={`${className} transition-colors ${
+        isActive ? 'text-accent font-semibold' : ''
       }`}
     >
       {children}
