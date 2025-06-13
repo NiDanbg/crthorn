@@ -1,6 +1,6 @@
 {
   "title": "Boria",
-  "shortDescription": "Fantasy series by Crispin Thorn: Boria",
+  "shortDescription": "Fantasy series",
   "genre": "fantasy",
   "books": [
     {
@@ -11,16 +11,12 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-healer-of-blackstone"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/the-healer-of-blackstone"
+          "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-healer-of-blackstone"
+          "url": "https://books2read.com/u/47yL2g"
         }
       ],
       "genre": "fantasy",
@@ -35,16 +31,12 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/the-guardian-of-briest"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/the-guardian-of-briest"
+          "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/the-guardian-of-briest"
+          "url": "https://books2read.com/u/bWaWjG"
         }
       ],
       "genre": "fantasy",
@@ -59,16 +51,12 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://laterpress.com/books/two-worlds"
-        },
-        {
           "platform": "amazon",
-          "url": "https://amazon.com/dp/two-worlds"
+          "url": "https://www.amazon.com/dp/B0DSR63R9B"
         },
         {
           "platform": "draft2digital",
-          "url": "https://draft2digital.com/books/two-worlds"
+          "url": "https://books2read.com/u/m2DpL1"
         }
       ],
       "genre": "fantasy",
