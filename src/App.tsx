@@ -7,6 +7,7 @@ import { Book, Series } from './types';
 import { loadLatestBooks, loadSeries, loadNovels, loadShortStories } from './utils/dataLoader';
 import SeriesLanguagePage from './components/SeriesLanguagePage';
 import BookPreviewPage from './components/BookPreviewPage';
+import Contact from './components/Contact';
 
 const App: React.FC = () => {
   const [latestBooks, setLatestBooks] = useState<Book[]>([]);
@@ -169,14 +170,7 @@ const App: React.FC = () => {
             <Route path="/contact" element={
               <div className="max-w-3xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
                 <h1 className="text-3xl font-display text-primary text-center mb-8">Contact</h1>
-                <div className="prose mx-auto text-center">
-                  <p>For inquiries, please reach out through the following channels:</p>
-                  <p className="mt-4">
-                    <a href="mailto:thorncrispin@gmail.com" className="text-secondary hover:text-accent transition-colors">
-                    thorncrispin@gmail.com
-                    </a>
-                  </p>
-                </div>
+                <Contact />
               </div>
             } />
           </Routes>
