@@ -3,12 +3,14 @@ import { useParams } from 'react-router-dom';
 import BookCard from './BookCard';
 import { Book } from '../types';
 import { loadSeries } from '../utils/dataLoader';
+import ReactMarkdown from 'react-markdown';
 
 const SeriesLanguagePage: React.FC = () => {
   const { seriesId, language } = useParams<{ seriesId: string; language: string }>();
   const [books, setBooks] = useState<Book[]>([]);
   const [loading, setLoading] = useState(true);
   const [seriesTitle, setSeriesTitle] = useState('');
+  const [seriesDescription, setSeriesDescription] = useState('');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -19,6 +21,16 @@ const SeriesLanguagePage: React.FC = () => {
           const langData = series.data.find(d => d.language === language);
           if (langData) {
             setSeriesTitle(langData.title);
+            // Fetch series description
+            try {
+              const response = await fetch(`/books/series/${seriesId}/${language}/description.md`);
+              if (response.ok) {
+                const description = await response.text();
+                setSeriesDescription(description);
+              }
+            } catch (error) {
+              console.error('Error loading series description:', error);
+            }
             const seriesBooks: Book[] = langData.books.map(book => ({
               ...book,
               type: 'series' as const,
@@ -46,6 +58,11 @@ const SeriesLanguagePage: React.FC = () => {
       <h1 className="text-3xl font-display text-primary text-center mb-8">
         {seriesTitle}
       </h1>
+      {seriesDescription && (
+        <div className="prose max-w-none mb-12">
+          <ReactMarkdown>{seriesDescription}</ReactMarkdown>
+        </div>
+      )}
       {loading ? (
         <div className="text-center">Loading...</div>
       ) : (
