@@ -8,10 +8,14 @@ import { loadLatestBooks, loadSeries, loadNovels, loadShortStories } from './uti
 import SeriesLanguagePage from './components/SeriesLanguagePage';
 import BookPreviewPage from './components/BookPreviewPage';
 import Contact from './components/Contact';
+import CookieConsent from './components/CookieConsent';
+import PrivacyPolicy from './components/PrivacyPolicy';
+import CookieManager from './utils/cookieManager';
 
 const App: React.FC = () => {
   const [latestBooks, setLatestBooks] = useState<Book[]>([]);
   const [loading, setLoading] = useState(true);
+  const cookieManager = CookieManager.getInstance();
 
   console.log(latestBooks);
 
@@ -29,6 +33,15 @@ const App: React.FC = () => {
 
     fetchData();
   }, []);
+
+  const handleCookieAccept = () => {
+    cookieManager.setConsent(true);
+  };
+
+  const handleCookieDecline = () => {
+    cookieManager.setConsent(false);
+    cookieManager.clearAllCookies();
+  };
 
   return (
     <Router>
@@ -173,14 +186,22 @@ const App: React.FC = () => {
                 <Contact />
               </div>
             } />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           </Routes>
         </main>
 
         <footer className="bg-turkishBlue shadow-md border-t border-turkishBlue/20 mt-12 py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
-            <p>Krasimir Tenev | Copyright © 2024</p>
+            <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-8">
+              <p>Krasimir Tenev | Copyright © 2024</p>
+              <Link to="/privacy-policy" className="text-white/90 hover:text-yellow-300 transition-colors">
+                Privacy Policy
+              </Link>
+            </div>
           </div>
         </footer>
+
+        <CookieConsent onAccept={handleCookieAccept} onDecline={handleCookieDecline} />
       </div>
     </Router>
   );
