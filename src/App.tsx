@@ -93,11 +93,11 @@ const App: React.FC = () => {
                 </Link>
               </div>
               <div className="flex space-x-8">
-                <NavLink to="/series" className="text-white/90 hover:text-accent font-medium">Series</NavLink>
-                <NavLink to="/novels" className="text-white/90 hover:text-accent font-medium">Novels</NavLink>
-                <NavLink to="/shorts" className="text-white/90 hover:text-accent font-medium">Short Stories</NavLink>
-                <NavLink to="/about" className="text-white/90 hover:text-accent font-medium">About</NavLink>
-                <NavLink to="/contact" className="text-white/90 hover:text-accent font-medium">Contact</NavLink>
+                <NavLink to="/series" className="text-white/90 hover:text-yellow-300 font-medium">Series</NavLink>
+                <NavLink to="/novels" className="text-white/90 hover:text-yellow-300 font-medium">Novels</NavLink>
+                <NavLink to="/shorts" className="text-white/90 hover:text-yellow-300 font-medium">Short Stories</NavLink>
+                <NavLink to="/about" className="text-white/90 hover:text-yellow-300 font-medium">About</NavLink>
+                <NavLink to="/contact" className="text-white/90 hover:text-yellow-300 font-medium">Contact</NavLink>
               </div>
             </div>
           </div>
