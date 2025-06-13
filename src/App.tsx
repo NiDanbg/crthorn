@@ -172,8 +172,8 @@ const App: React.FC = () => {
                 <div className="prose mx-auto text-center">
                   <p>For inquiries, please reach out through the following channels:</p>
                   <p className="mt-4">
-                    <a href="mailto:contact@crthorn.com" className="text-secondary hover:text-accent transition-colors">
-                      contact@crthorn.com
+                    <a href="mailto:thorncrispin@gmail.com" className="text-secondary hover:text-accent transition-colors">
+                    thorncrispin@gmail.com
                     </a>
                   </p>
                 </div>
