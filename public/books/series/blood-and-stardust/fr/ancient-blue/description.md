@@ -1,32 +1,43 @@
-**_Ancient Blue_** is a science fiction novel blending romance and adventure that marks the beginning of the *Blood and Stardust* series.  
-Step into the dynamic, multilayered world crafted by **Crispin Thorn**, where humanity's origins and the clash of ancient civilizations take center stage.
+# *Bleu Ancien* – Le début de la série de science-fiction *Sang et Poussière d'Étoiles*
 
-
-*Ancient Blue* introduces **Peter Hammett**, a geologist and spelunker who discovers **Arya** — a representative of an ancient alien race trapped in time. Arya is on a quest to find a key capable of activating a forgotten defense system designed to counter the alien **Xylar’n** race, whose looming threat is rising once more.
-
-As Arya and Peter journey from forgotten caves in the Grand Canyon to secret archives in New York and Louisiana, they face powerful enemies — both human and alien.
-
-With ancient secrets surfacing and tension growing between the protagonists, Peter and Arya uncover not just the truth about the Xylar’n but also a bond that could forever change their destinies.
-
-*Ancient Blue* is a gripping sci-fi thriller packed with emotional drama, complex characters, and edge-of-your-seat tension.  
-**Will Arya find the "key" and activate the Solar System's Defense System in time?**
+*Bleu Ancien* est un **roman de science-fiction mêlant romance et aventure** qui marque le **début de la série** imaginée par **Crispin Thorn**, où les **origines de l'humanité** et le **choc des civilisations anciennes** prennent une place centrale.
 
 ---
 
-## Why Choose *Ancient Blue*?
+### Une rencontre hors du temps, une menace imminente
 
-### An Original and Multilayered Story  
-In *Ancient Blue*, **Crispin Thorn** weaves elements of archaeological mystery, science fiction, and adventure into a compelling narrative. The plot explores questions about the origins of life, human identity, and the cultural clashes between civilizations.
-
-### Unforgettable Characters  
-**Peter** and **Arya** are deeply layered protagonists who experience emotional and moral growth throughout the story. Their dynamic forms the heart of the narrative, blending the high stakes of their mission with the strength of their personal connection.
-
-### Rich Sci-Fi Elements  
-Vividly described sci-fi concepts enrich the plot and create an immersive world that pulls readers in completely.
-
-### Memorable Antagonists  
-From the cunning and manipulative Xylar’n agent **Fir’lan** to the ambitious and ruthless collector **Damon Crowley**, the story’s villains are as multidimensional and captivating as its heroes.
+*Bleu Ancien* présente **Peter Hammett**, un géologue et spéléologue qui découvre **Arya**, une représentante d'une **ancienne race extraterrestre** piégée dans le temps.  
+Arya est en quête d'une **clé** capable d'activer un **système de défense oublié**, conçu pour contrer la race alien **Xilarien**, dont la **menace grandissante** resurgit.
 
 ---
 
-*Ancient Blue* delivers a captivating tale of ancient mysteries, alien intrigue, and the impossible love that blossoms between two worlds.
+### Une odyssée entre mondes souterrains et secrets anciens
+
+Alors qu'Arya et Peter voyagent des **grottes oubliées du Grand Canyon** aux **archives secrètes de New York et de Louisiane**, ils affrontent de **puissants ennemis** — humains comme extraterrestres.
+
+Entre **secrets anciens** et **tension croissante**, Peter et Arya découvrent non seulement la **vérité sur les Xilariens**, mais aussi un **lien profond** qui pourrait bouleverser leurs destins à jamais.
+
+> *Bleu Ancien* est un **thriller de science-fiction haletant**, empreint de **drame émotionnel**, de **personnages complexes** et d'une **tension palpable**.  
+> Arya trouvera-t-elle la **clé** et parviendra-t-elle à **activer le Système de Défense Solaire à temps** ?
+
+---
+
+## Pourquoi choisir *Bleu Ancien* ?
+
+- **Une histoire originale et riche**  
+  Crispin Thorn entremêle avec brio **mystère archéologique**, **science-fiction** et **aventure** dans un récit captivant.  
+  L'intrigue explore des **questions sur les origines de la vie**, l'**identité humaine** et les **conflits culturels entre civilisations**.
+
+- **Des personnages inoubliables**  
+  *Peter* et *Arya* sont des protagonistes **profondément nuancés**, en proie à une **évolution émotionnelle et morale** tout au long du récit.  
+  Leur dynamique forme le **cœur de l'histoire**, mêlant **enjeux planétaires** et **liens personnels intenses**.
+
+- **Des éléments de science-fiction saisissants**  
+  Des **concepts sci-fi minutieusement décrits** enrichissent l'intrigue et créent un **monde immersif** qui captive le lecteur.
+
+- **Des antagonistes mémorables**  
+  De l'agent xilarien **rusé et manipulateur Fir'lan** au collectionneur **ambitieux et impitoyable Damon Crowley**, les antagonistes sont tout aussi **complexes et fascinants** que les héros.
+
+---
+
+### *Bleu Ancien* offre un **récit captivant** sur des **mystères ancestraux**, des **intrigues extraterrestres** et un **amour impossible** né entre deux mondes.

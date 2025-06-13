@@ -6,14 +6,6 @@
             {
                 "platform": "laterpress",
                 "url": "https://laterpress.com/books/the-scent-of-chestnuts"
-            },
-            {
-                "platform": "amazon",
-                "url": "https://amazon.com/dp/the-scent-of-chestnuts"
-            },
-            {
-                "platform": "draft2digital",
-                "url": "https://draft2digital.com/books/the-scent-of-chestnuts"
             }
         ],
         "price": 1.00,

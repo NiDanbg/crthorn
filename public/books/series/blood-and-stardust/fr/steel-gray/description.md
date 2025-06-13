@@ -1,33 +1,45 @@
-# *Steel Gray*  
-**The Fourth Book in the Epic Sci-Fi Series *Blood and Stardust***
+# *Gris Acier* : Le quatrième tome de la saga épique *Sang et Poussière d'Étoiles*
 
-Immerse yourself in the dynamic and captivating world of **Crispin Thorne**, where human destinies, vampiric intrigues, and the ancient wisdom of the **Lemurians** collide with the looming threat of the **Xylar’n Armada**. *Steel Gray* takes you on a thrilling cosmic journey as the war escalates into an even more dangerous phase, and the revelation of ancient secrets threatens to change everything.
-
-As the elite Xylar’n operative **Sa’lays** uncovers truths that shake her own convictions, the young **Archon Timothy** struggles under the weight of responsibility, seeking guidance from the wisdom of the past. On Earth, the Lemurian **Thalia** faces an impossible choice while investigating mysterious Xylar’n outposts and confronting forbidden technology. Meanwhile, **Arya** races against time to decipher the secrets of Xylar’n power, while **Colonel Loren Ashton** and **Lord Sebastian Mornau** lead a desperate battle for survival on the Lunar Base and Earth against a full-scale Xylar’n invasion.  
-Six fates intertwine in a web of lies, betrayals, and ancient secrets.
-
-Yet, as the heroes fight on different fronts, something stirs in the shadows — a threat older and more terrifying than anything they’ve imagined, poised to consume not just Earth, but the entire galaxy.  
-**Will they uncover the truth and find a path to salvation before it’s too late?**
-
-*Steel Gray* is a gripping and emotional **military sci-fi thriller** that will keep you on the edge of your seat until the final page.  
-**Can the heroes overcome their differences, unveil the secrets of the past, and protect their world from annihilation?**
+Plongez dans l'univers envoûtant de **Crispin Thorne**, où les destins humains, les intrigues vampiriques et la sagesse ancestrale des **Lémuriens** convergent face à la menace grandissante de l'**Armada xilarienne**. *Gris Acier* vous entraîne dans une épopée spatiale haletante alors que la guerre entre dans une phase plus périlleuse encore, et où la révélation d'anciens secrets menace de tout bouleverser.
 
 ---
 
-## Why Read *Steel Gray*?
+### Un conflit aux multiples visages
 
-### A Unique, Multi-Layered Story  
-**Crispin Thorne** expands the series with a riveting plot that explores war, peace, betrayal, loyalty, and the clash of ancient civilizations.
+Tandis que **Sa'lays**, l'élite du renseignement xilarien, découvre des vérités qui ébranlent ses certitudes, le jeune **Archonte Timothy** lutte sous le poids de ses responsabilités et cherche à percer la sagesse du passé. 
 
-### Memorable Characters  
-**Sa’lays**, **Timothy**, **Thalia**, **Arya**, **Loren**, **Sebastian**, and others draw you in with their complex dramas, inner conflicts, and rich character development.
+Sur Terre, la Lémurienne **Thalia** est confrontée à un choix impossible, enquêtant sur des bases xilariennes mystérieuses et tombant sur une technologie interdite. 
 
-### Captivating Sci-Fi Elements  
-The marvels of **Lemurian technology**, the mysteries of **Xylar’n power**, **epic space battles**, and **futuristic conflicts** add depth and authenticity to the story.
+Parallèlement, **Arya** court contre la montre pour percer les secrets de la puissance xilarienne, tandis que le **Colonel Loren Ashton** et le **Lord Sebastian Mornau** mènent une bataille désespérée pour la survie de la **Base Lunaire** et de la Terre face à une invasion massive. 
 
-### Multi-Level Threats  
-The **Xylar’n armada** and their invasion, combined with political intrigue, betrayals, and an enigmatic ancient menace, keep tension at a breaking point.
+> Six destins s'entrelacent dans une toile de mensonges, de trahisons et de mystères anciens.
 
 ---
 
-**Order *Steel Gray* now** and dive into a breathtaking **cosmic odyssey** where every choice carries the weight of the galaxy’s fate!
+### Une menace tapie dans l’ombre
+
+Mais tandis que les héros luttent sur différents fronts, une menace bien plus ancienne et redoutable que tout ce qu'ils auraient pu imaginer se tapit dans l'ombre, prête à engloutir non seulement la Terre, mais toute la galaxie.
+
+**Nos héros parviendront-ils à dévoiler la vérité et à trouver le chemin du salut avant qu'il ne soit trop tard ?**
+
+---
+
+### Un thriller militaire et scientifique
+
+*Gris Acier* est un **thriller militaire et scientifique** captivant et émouvant, qui vous tiendra en haleine jusqu'à la dernière page.
+
+> Nos héros pourront-ils surmonter leurs différences, percer les secrets du passé et protéger leur monde de l'anéantissement ?
+
+---
+
+## Pourquoi lire *Gris Acier* ?
+
+- Une intrigue haletante aux ramifications interstellaires  
+- Des personnages complexes, tiraillés entre devoir et émotion  
+- Des révélations anciennes qui changent le cours de l’histoire  
+- Une écriture immersive et riche en suspense  
+
+---
+
+### Commandez *Gris Acier* dès maintenant et embarquez pour une **odyssée cosmique à couper le souffle** où chaque choix pèse sur le destin de la galaxie !
+
