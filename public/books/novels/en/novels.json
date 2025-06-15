@@ -24,5 +24,18 @@
         "genre": "romantic comedy",
         "is_latest": true,
         "has_preview": true
+    },
+    {
+        "id": "the-circle-of-the-old-mill",
+        "title": "The Circle of the Old Mill",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0F893JHZV"
+            }
+        ],
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": true,
+        "has_preview": true
     }
 ]

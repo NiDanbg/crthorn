@@ -1,0 +1,15 @@
+[
+    {
+        "id": "the-circle-of-the-old-mill",
+        "title": "Кръгът от Старата мелница",
+        "platforms": [
+            {
+                "platform": "laterpress",
+                "url": "https://the-circle-of-the-old-mill-bg.laterpress.com/"
+            }
+        ],
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": true,
+        "has_preview": false
+    }
+]
