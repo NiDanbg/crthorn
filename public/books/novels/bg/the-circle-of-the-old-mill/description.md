@@ -1,50 +1,51 @@
-# *The Circle of the Old Mill*  
-*A Supernatural Thriller by Crispin Thorn*
+# **Кръгът от Старата мелница**  
+*Свръхестествен трилър*
 
-> *Some secrets were meant to stay buried. Especially in a town like Miller’s Creek.*
-
----
-
-## A Return That Was Never Meant to Be
-
-**Cale Madison** returns to the godforsaken town of **Miller’s Creek** with one goal:  
-**Sell his late father’s house and sever all ties with the past.**  
-But in a place where time seems to stand still, the past never truly dies.
-
-When he stumbles upon an **enigmatic key** and **cryptic notes** left behind by his father, Cale is pulled into a world whose existence he never suspected—a world of **secret societies**, **ancient rituals**, and an **old mill** hiding something far more sinister than memories.
-
-> It guards a **Portal**.
+> **Някои тайни е трябвало да останат погребани. Особено в градче като Милърс Крийк.**
 
 ---
 
-## A Town with a Secret Order
+## **Завръщане към миналото, което никога не е отминало**
 
-Beneath Miller’s Creek’s quiet façade lurks **The Circle of Guardians**, an ancient order protecting the boundary between **our world** and **The Beyond**.
+**Кейл Мадисън** се завръща в забравеното от бога градче **Милърс Крийк** с една-единствена цел:  
+да продаде къщата на покойния си баща и да скъса завинаги с миналото.
 
-But now:
-- **The Circle is fractured**
-- **The Seal is weakening**
-- And with the **winter solstice** approaching, something **ancient and malevolent** prepares to cross over.
+Но в място, в което **времето сякаш е спряло**, миналото никога не умира.
 
----
+Откривайки **тайнствен ключ** и **загадъчни бележки**, оставени от баща му, Кейл е въвлечен в свят, за чието съществуване не е и подозирал — свят на **тайни общества**, **древни ритуали** и една **стара мелница**, която пази нещо далеч по-опасно от спомени:
 
-## A Legacy He Never Wanted
-
-His father’s death was **no accident**.  
-And someone within The Circle is a **traitor**.
-
-Now, Cale must choose:
-- Flee from his **birthright**
-- Or embrace the role he was **born to play**— and stand against the darkness threatening to consume everything he loves.
+> **Тя пази портал.**
 
 ---
 
-## Why Read *The Circle of the Old Mill*?
+## **Орден от сенките**
 
-- A **gripping supernatural thriller** blending **small-town mystery** and **epic fantasy**
-- Perfect for fans of *Stranger Things* and *Twin Peaks*
-- Secrets, betrayals, ancient forces, and one man’s battle against fate
+Зад спокойната фасада на Милърс Крийк се крие **Кръгът от Пазители** – древен орден, който от поколения защитава границата между **нашия свят** и **Отвъдното**.
+
+Но сега:
+- **Кръгът е разбит**
+- **Печатът отслабва**
+- А със **зимното слънцестоене**, нещо **древно и зло** се готви да премине отвъд
 
 ---
 
-### *Dive into The Circle of the Old Mill—if you dare.*
+## **Наследството на един изгубен син**
+
+Смъртта на баща му не е била злополука.  
+И някой вътре в Кръга е **предател**.
+
+Кейл трябва да избере:
+- Да избяга от **наследството си**
+- Или да приеме **ролята, за която е роден** и да се изправи срещу **тъмнината**, заплашваща да погълне всичко, което обича
+
+---
+
+## **Защо да прочетеш „Кръгът от Старата мелница“?**
+
+- **Свръхестествен трилър**, смесващ **мистерията на малкия град** с **епично фентъзи**
+- Идеален за фенове на *Stranger Things* и *Туин Пийкс*
+- **Тайни**, **предателства**, **древни сили** и една лична битка срещу съдбата
+
+---
+
+### *Гмурнете се в „Кръгът от Старата мелница“ и открийте истината... ако смеете.*
