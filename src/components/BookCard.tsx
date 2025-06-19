@@ -10,7 +10,7 @@ const BookCard: React.FC<BookCardProps> = ({ book }) => {
   const getBookPath = (lang?: string) => {
     switch (book.type) {
       case 'series':
-        return `/series/${book.seriesId}/${book.language}/book/${book.id}`;
+        return `/series/${book.seriesId}/${lang || book.language}/book/${book.id}`;
       case 'novel':
         return `/novels/${book.id}/${lang || book.language}`;
       case 'short':
@@ -46,9 +46,9 @@ const BookCard: React.FC<BookCardProps> = ({ book }) => {
         <div className="p-4">
           <h3 className="text-xl font-display text-primary mb-2">{book.title}</h3>
           <p className="text-text text-sm">{book.genre}</p>
-          {(book.type === 'novel' || book.type === 'short') && (
+          {book.languages && book.languages.length > 0 && (
             <div className="flex flex-wrap gap-2 mt-4">
-              {book.languages?.map((language: string) => (
+              {book.languages.map((language: string) => (
                 <Link
                   key={language}
                   to={getBookPath(language)}

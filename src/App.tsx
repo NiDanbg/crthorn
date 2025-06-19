@@ -137,7 +137,7 @@ const App: React.FC = () => {
                     ) : (
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {latestBooks.map(book => (
-                          <BookCard key={`${book.id}-${book.language}${book.seriesId ? `-${book.seriesId}` : ''}`} book={book} />
+                          <BookCard key={book.id} book={book} />
                         ))}
                       </div>
                     )}
@@ -239,28 +239,32 @@ const CategoryPage: React.FC<{ type: 'series' | 'novels' | 'shorts' }> = ({ type
           if (type === 'novels') {
             const novels = await loadNovels();
             novels.forEach(novel => {
-              novel.data.forEach(langData => {
+              // Create one book entry per novel, using the first language's data as the base
+              const firstLangData = novel.data[0];
+              if (firstLangData) {
                 data.push({
-                  ...langData,
+                  ...firstLangData,
                   id: novel.id,
                   type: 'novel',
-                  language: langData.language,
+                  language: firstLangData.language,
                   languages: novel.languages
                 });
-              });
+              }
             });
           } else if (type === 'shorts') {
             const shorts = await loadShortStories();
             shorts.forEach(short => {
-              short.data.forEach(langData => {
+              // Create one book entry per short story, using the first language's data as the base
+              const firstLangData = short.data[0];
+              if (firstLangData) {
                 data.push({
-                  ...langData,
+                  ...firstLangData,
                   id: short.id,
                   type: 'short',
-                  language: langData.language,
+                  language: firstLangData.language,
                   languages: short.languages
                 });
-              });
+              }
             });
           }
           setBooks(data);
@@ -291,7 +295,7 @@ const CategoryPage: React.FC<{ type: 'series' | 'novels' | 'shorts' }> = ({ type
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {books.map(book => (
-            <BookCard key={`${book.id}-${book.language}${book.seriesId ? `-${book.seriesId}` : ''}`} book={book} />
+            <BookCard key={book.id} book={book} />
           ))}
         </div>
       )}

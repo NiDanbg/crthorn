@@ -140,39 +140,40 @@ export const loadLatestBooks = async (): Promise<Book[]> => {
             ...book,
             type: 'series',
             seriesId: series.id,
-            language: langData.language
+            language: langData.language,
+            languages: series.languages
           });
         }
       });
     });
   });
 
-  // Add novels
+  // Add novels - create one entry per novel
   novels.forEach(novel => {
-    novel.data.forEach((langData: Novel['data'][0]) => {
-      if (langData.is_latest) {
-        allBooks.push({
-          id: novel.id,
-          ...langData,
-          type: 'novel',
-          language: langData.language
-        });
-      }
-    });
+    const latestLangData = novel.data.find((langData: Novel['data'][0]) => langData.is_latest);
+    if (latestLangData) {
+      allBooks.push({
+        id: novel.id,
+        ...latestLangData,
+        type: 'novel',
+        language: latestLangData.language,
+        languages: novel.languages
+      });
+    }
   });
 
-  // Add short stories
+  // Add short stories - create one entry per short story
   shorts.forEach(short => {
-    short.data.forEach((langData: ShortStory['data'][0]) => {
-      if (langData.is_latest) {
-        allBooks.push({
-          id: short.id,
-          ...langData,
-          type: 'short',
-          language: langData.language
-        });
-      }
-    });
+    const latestLangData = short.data.find((langData: ShortStory['data'][0]) => langData.is_latest);
+    if (latestLangData) {
+      allBooks.push({
+        id: short.id,
+        ...latestLangData,
+        type: 'short',
+        language: latestLangData.language,
+        languages: short.languages
+      });
+    }
   });
 
   return allBooks;
