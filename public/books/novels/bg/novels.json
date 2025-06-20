@@ -11,5 +11,18 @@
         "genre": "Urban Fantasy, Supernatural Thriller",
         "is_latest": false,
         "has_preview": false
+    },
+    {
+        "id": "blood-of-the-yenisei",
+        "title": "Кръвта на Енисей",
+        "platforms": [
+            {
+                "platform": "laterpress",
+                "url": "https://blood-of-the-yenisei-bg.laterpress.com/"
+            }
+        ],
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": false,
+        "has_preview": true
     }
 ]
