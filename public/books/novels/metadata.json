@@ -9,13 +9,20 @@
     {
         "id": "love-2.0",
         "languages": [
-            "en"
+            "en",
+	    "bg"
         ]
     },
     {
         "id": "the-circle-of-the-old-mill",
         "languages": [
             "en",
+            "bg"
+        ]
+    },
+    {
+        "id": "the-bus-of-the-lost",
+        "languages": [
             "bg"
         ]
     }

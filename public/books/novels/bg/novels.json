@@ -24,5 +24,31 @@
         "genre": "Urban Fantasy, Supernatural Thriller",
         "is_latest": false,
         "has_preview": true
-    }
+    },
+    {
+        "id": "love-2.0",
+        "title": "Love 2.0",
+        "platforms": [
+            {
+                "platform": "laterpress",
+                "url": "https://love-20-bg.laterpress.com/"
+            }
+        ],
+        "genre": "romantic comedy",
+        "is_latest": false,
+        "has_preview": true
+     },
+     {
+        "id": "the-bus-of-the-lost",
+        "title": "Рейсът на изгубените",
+        "platforms": [
+            {
+                "platform": "laterpress",
+                "url": "https://the-bus-of-the-lost-bg.laterpress.com/"
+            }
+        ],
+        "genre": "romantic comedy",
+        "is_latest": false,
+        "has_preview": true
+     }
 ]
