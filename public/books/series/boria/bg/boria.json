@@ -18,6 +18,38 @@
       "genre": "fantasy",
       "is_latest": false,
       "has_preview": true
+    },
+    {
+      "id": "the-guardian-of-briest",
+      "title": "Пазителката на Бриест",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-bg.laterpress.com/book/the-guardian-of-briest-bg"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": true
+    },
+    {
+      "id": "two-worlds",
+      "title": "Два свята",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-bg.laterpress.com/book/two-worlds-bg"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": true
     }
     
   ]

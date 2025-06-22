@@ -11,6 +11,10 @@
       "previewFileName": "preview.epub",
       "platforms": [
         {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/the-healer-of-blackstone-eng"
+        },
+        {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
         },
@@ -21,7 +25,7 @@
       ],
       "genre": "fantasy",
       "is_latest": false,
-      "has_preview": false
+      "has_preview": true
     },
     {
       "id": "the-guardian-of-briest",
@@ -30,6 +34,10 @@
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
       "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng"
+        },
         {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
@@ -41,7 +49,7 @@
       ],
       "genre": "fantasy",
       "is_latest": false,
-      "has_preview": false
+      "has_preview": true
     },
     {
       "id": "two-worlds",
@@ -50,6 +58,10 @@
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
       "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/two-worlds-eng"
+        },
         {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0DSR63R9B"
@@ -61,7 +73,7 @@
       ],
       "genre": "fantasy",
       "is_latest": false,
-      "has_preview": false
+      "has_preview": true
     }
   ]
 }

@@ -21,7 +21,7 @@
       ],
       "genre": "sci-fi",
       "is_latest": false,
-      "has_preview": false
+      "has_preview":true
     },
     {
       "id": "red-and-ancient-blue",
@@ -41,7 +41,7 @@
       ],
       "genre": "sci-fi",
       "is_latest": false,
-      "has_preview":false
+      "has_preview":true
     },
     {
       "id": "cosmic-red",
@@ -61,7 +61,7 @@
       ],
       "genre": "sci-fi",
       "is_latest": false,
-      "has_preview":false
+      "has_preview":true
     },
     {
       "id": "steel-gray",
@@ -77,7 +77,7 @@
       ],
       "genre": "sci-fi",
       "is_latest": false,
-      "has_preview":false
+      "has_preview":true
     }    
   ]
 }
