@@ -85,6 +85,14 @@
         {
           "platform": "amazon",
           "url": "https://www.amazon.com/dp/B0F2SY25S5"
+        },
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/steel-gray-en"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/3JMJBK"
         }
       ],
       "genre": "sci-fi",
@@ -93,3 +101,4 @@
     }    
   ]
 }
+
