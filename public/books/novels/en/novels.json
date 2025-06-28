@@ -22,7 +22,7 @@
             }
         ],
         "genre": "romantic comedy",
-        "is_latest": true,
+        "is_latest": false,
         "has_preview": true
     },
     {
@@ -37,5 +37,18 @@
         "genre": "Urban Fantasy, Supernatural Thriller",
         "is_latest": true,
         "has_preview": true
-    }
+    },
+     {
+        "id": "the-bus-of-the-lost",
+        "title": "The Bus of the Lost",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0FDGKLG71"
+            }
+        ],
+        "genre": "Supernatural drama with allegorical elements, psychological fantasy",
+        "is_latest": false,
+        "has_preview": true
+     }
 ]
