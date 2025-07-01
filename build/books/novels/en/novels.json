@@ -1,0 +1,54 @@
+[
+    {
+        "id": "blood-of-the-yenisei",
+        "title": "Blood of the Yenisei",
+        "platforms": [
+            {
+                "platform": "draft2digital",
+                "url": "https://books2read.com/u/49qJ9Y"
+            }
+        ],
+        "genre": "fiction",
+        "is_latest": false,
+        "has_preview": true
+    },
+    {
+        "id": "love-2.0",
+        "title": "Love 2.0",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0F893JHZV"
+            }
+        ],
+        "genre": "romantic comedy",
+        "is_latest": false,
+        "has_preview": true
+    },
+    {
+        "id": "the-circle-of-the-old-mill",
+        "title": "The Circle of the Old Mill",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0FD8ZLXJN"
+            }
+        ],
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": true,
+        "has_preview": true
+    },
+     {
+        "id": "the-bus-of-the-lost",
+        "title": "The Bus of the Lost",
+        "platforms": [
+            {
+                "platform": "amazon",
+                "url": "https://www.amazon.com/dp/B0FDGKLG71"
+            }
+        ],
+        "genre": "Supernatural drama with allegorical elements, psychological fantasy",
+        "is_latest": false,
+        "has_preview": true
+     }
+]

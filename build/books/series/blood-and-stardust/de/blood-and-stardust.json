@@ -1,0 +1,71 @@
+{
+  "title": "Blut und Sternenstaub",
+  "shortDescription": "Ein episches Science-Fiction-Abenteuer von Crispin Thorn: Blut und Sternenstaub",
+  "genre": "Sci-Fi",
+  "books": [
+    {
+      "id": "ancient-blue",
+      "title": "Uraltes Blau",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+       {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
+        }        
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview": true
+    },
+    {
+      "id": "red-and-ancient-blue",
+      "title": "Rot und Uraltes Blau",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DLCGHLBW"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview": false
+    },
+    {
+      "id": "cosmic-red",
+      "title": "Kosmisches Rot",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DR74K3T6"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview": false
+    },
+    {
+      "id": "steel-gray",
+      "title": "Stählernes Grau",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DZVNDZ46"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview": true
+    }    
+  ]
+}

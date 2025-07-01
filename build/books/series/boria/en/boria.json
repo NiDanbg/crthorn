@@ -1,0 +1,79 @@
+{
+  "title": "Boria",
+  "shortDescription": "Fantasy series",
+  "genre": "fantasy",
+  "books": [
+    {
+      "id": "the-healer-of-blackstone",
+      "title": "The Healer of Blackstone",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/the-healer-of-blackstone-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/47yL2g"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": true
+    },
+    {
+      "id": "the-guardian-of-briest",
+      "title": "The Guardian of Briest",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/bWaWjG"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": true
+    },
+    {
+      "id": "two-worlds",
+      "title": "Two Worlds",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://boria-eng.laterpress.com/book/two-worlds-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DSR63R9B"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/m2DpL1"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": true
+    }
+  ]
+}

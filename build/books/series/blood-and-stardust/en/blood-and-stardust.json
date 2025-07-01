@@ -1,0 +1,104 @@
+{
+  "title": "Blood and Stardust",
+  "shortDescription": "Sci-Fi series",
+  "genre": "Sci-Fi",
+  "books": [
+    {
+      "id": "ancient-blue",
+      "title": "Ancient Blue",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/ancient-blue-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DHVGH23L"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/3L2Nke"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview": true
+    },
+    {
+      "id": "red-and-ancient-blue",
+      "title": "Red and Ancient Blue",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/red-and-ancient-blue-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DJL9X7VH"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/bM8nVG"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    },
+    {
+      "id": "cosmic-red",
+      "title": "Cosmic Red",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/cosmic-red-eng"
+        },
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DQVZ8978"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/mZ6pll"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    },
+    {
+      "id": "steel-gray",
+      "title": "Steel Gray",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0F2SY25S5"
+        },
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust-eng.laterpress.com/book/steel-gray-en"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/3JMJBK"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": true,
+      "has_preview":true
+    }    
+  ]
+}
+

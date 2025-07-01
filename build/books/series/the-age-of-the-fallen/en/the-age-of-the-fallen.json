@@ -1,22 +1,22 @@
 {
-  "title": "Епохата на Падналите",
+  "title": "The Age of the Fallen",
   "shortDescription": "Fantasy series",
   "genre": "fantasy",
   "books": [
-       {
+    {
       "id": "the-key-of-ascension",
-      "title": "Ключът на възхода",
+      "title": "The Key of Ascension",
       "coverImage": "cover.jpg",
       "longDescription": "description.md",
       "previewFileName": "preview.epub",
       "platforms": [
         {
-          "platform": "laterpress",
-          "url": "https://the-age-of-the-fallen-bg.laterpress.com/book/the-key-of-ascension-bg"
+          "platform": "amazon",
+          "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
         }
       ],
       "genre": "fantasy",
-      "is_latest": false,
+      "is_latest": true,
       "has_preview": true
     }
   ]
