@@ -4,10 +4,13 @@
     <meta charset="utf-8">
     <title>Page Not Found</title>
     <script type="text/javascript">
-      // If not already on index.html, redirect to it, preserving path, search, and hash
-      if (!location.pathname.endsWith('/index.html')) {
-        var newUrl = '/index.html' + location.search + location.hash;
-        window.location.replace(newUrl);
+      // If the current path is not /index.html, redirect to /index.html?redirect=originalPath
+      if (
+        location.pathname !== '/index.html' &&
+        !location.pathname.startsWith('/static/')
+      ) {
+        var redirectUrl = '/index.html?redirect=' + encodeURIComponent(location.pathname + location.search + location.hash);
+        window.location.replace(redirectUrl);
       }
     </script>
   </head>
