@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <script type="text/javascript">
+      // If not already on index.html, redirect to it, preserving path, search, and hash
+      if (!location.pathname.endsWith('/index.html')) {
+        var newUrl = '/index.html' + location.search + location.hash;
+        window.location.replace(newUrl);
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Redirecting...</h1>
+  </body>
+</html> 

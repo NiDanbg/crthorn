@@ -11,6 +11,7 @@ import Contact from './components/Contact';
 import CookieConsent from './components/CookieConsent';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import CookieManager from './utils/cookieManager';
+import NotFound from './components/NotFound';
 
 const App: React.FC = () => {
   const [latestBooks, setLatestBooks] = useState<Book[]>([]);
@@ -187,6 +188,7 @@ const App: React.FC = () => {
               </div>
             } />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
 
