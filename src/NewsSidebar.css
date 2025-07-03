@@ -1,0 +1,7 @@
+/* src/NewsSidebar.css */
+
+/* Добавяме разделителна линия след всяка новина, освен последната */
+.news-item:not(:last-child) {
+  border-bottom: 1px solid #e5e7eb; /* това е Tailwind's gray-200 */
+  padding-bottom: 1.5rem; /* това е Tailwind's pb-6 */
+}

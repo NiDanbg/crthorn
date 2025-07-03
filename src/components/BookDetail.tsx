@@ -4,6 +4,7 @@ import { Book } from '../types';
 import { loadSeries, loadNovels, loadShortStories } from '../utils/dataLoader';
 import ReactMarkdown from 'react-markdown';
 import EpubViewer from './EpubViewer';
+import SEOHead from './SEOHead';
 
 const BookDetail: React.FC = () => {
   const { type, id, seriesId, language } = useParams<{ type: string; id: string; seriesId?: string; language?: string }>();
@@ -150,67 +151,73 @@ const BookDetail: React.FC = () => {
   }
 
   return (
-    <div className="max-w-4xl mx-auto py-12 px-4">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div>
-          {book.has_preview ? (
-            <EpubViewer
-              previewFile={book.type === 'series' 
-                ? `/books/series/${book.seriesId}/${book.language}/${book.id}/preview.epub`
-                : book.type === 'novel'
-                ? `/books/novels/${book.language}/${book.id}/preview.epub`
-                : `/books/shorts/${book.language}/${book.id}/preview.epub`
-              }
-              title={book.title}
-              coverImageUrl={book.coverImage}
-              className="w-full"
-            />
-          ) : (
-            <img
-              src={book.coverImage}
-              alt={book.title}
-              className="w-full rounded-lg shadow-lg"
-            />
-          )}
-        </div>
-        <div>
-          <h1 className="text-3xl font-display text-primary mb-4">{book.title}</h1>
-          <p className="text-text text-lg mb-4">{book.genre}</p>
-          
-          <div className="prose max-w-none mb-8">
-            <div className="text-text">
-              <ReactMarkdown>{markdown}</ReactMarkdown>
-            </div>
+    <>
+      <SEOHead 
+        title={`${book.title} - Crispin Thorn`}
+        description={`${book.title} by Crispin Thorn. ${book.genre} novel available in ${book.language}. Read the full description and find where to buy.`}
+      />
+      <div className="max-w-4xl mx-auto py-12 px-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div>
+            {book.has_preview ? (
+              <EpubViewer
+                previewFile={book.type === 'series' 
+                  ? `/books/series/${book.seriesId}/${book.language}/${book.id}/preview.epub`
+                  : book.type === 'novel'
+                  ? `/books/novels/${book.language}/${book.id}/preview.epub`
+                  : `/books/shorts/${book.language}/${book.id}/preview.epub`
+                }
+                title={book.title}
+                coverImageUrl={book.coverImage}
+                className="w-full"
+              />
+            ) : (
+              <img
+                src={book.coverImage}
+                alt={book.title}
+                className="w-full rounded-lg shadow-lg"
+              />
+            )}
           </div>
+          <div>
+            <h1 className="text-3xl font-display text-primary mb-4">{book.title}</h1>
+            <p className="text-text text-lg mb-4">{book.genre}</p>
+            
+            <div className="prose max-w-none mb-8">
+              <div className="text-text">
+                <ReactMarkdown>{markdown}</ReactMarkdown>
+              </div>
+            </div>
 
-          <div className="space-y-4">
+            <div className="space-y-4">
 
-            {/* Platform Links */}
-            <div>
-              <h3 className="text-lg font-display text-primary mb-3">Available on:</h3>
-              <div className="flex gap-3">
-                {book.platforms?.map((platform) => (
-                  <a
-                    key={platform.platform}
-                    href={platform.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
-                    title={`Buy via ${capitalizePlatform(platform.platform)}`}
-                  >
-                    <img
-                      src={getPlatformIcon(platform.platform)}
-                      alt={`Buy via ${capitalizePlatform(platform.platform)}`}
-                      className="w-24 h-10 object-contain"
-                    />
-                  </a>
-                ))}
+              {/* Platform Links */}
+              <div>
+                <h3 className="text-lg font-display text-primary mb-3">Available on:</h3>
+                <div className="flex gap-3">
+                  {book.platforms?.map((platform) => (
+                    <a
+                      key={platform.platform}
+                      href={platform.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="px-6 py-3 bg-secondary text-white rounded-lg hover:bg-secondary-dark transition-colors inline-flex items-center justify-center"
+                      title={`Buy via ${capitalizePlatform(platform.platform)}`}
+                    >
+                      <img
+                        src={getPlatformIcon(platform.platform)}
+                        alt={`Buy via ${capitalizePlatform(platform.platform)}`}
+                        className="w-24 h-10 object-contain"
+                      />
+                    </a>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 };
 

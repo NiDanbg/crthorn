@@ -73,3 +73,53 @@
 ::selection {
   @apply bg-primary/20 text-primary;
 }
+
+
+/* Стил за страничната колона с новини */
+.news-sidebar {
+  width: 300px; /* Ширина на колоната */
+  float: right; /* Позициониране вдясно */
+  margin-left: 20px; /* Отстояние от основното съдържание */
+  padding: 15px;
+  background-color: #f9f9f9; /* Светъл фон */
+  border-left: 1px solid #ddd; /* Разделителна линия */
+}
+
+/* Стил за всяка отделна новина */
+.news-item {
+  border-bottom: 1px solid #eee; /* Линия между новините */
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.news-item:last-child {
+  border-bottom: none; /* Премахваме линията на последната новина */
+  margin-bottom: 0;
+}
+
+.news-date {
+  font-size: 0.8em;
+  color: #888;
+  margin-bottom: 5px;
+}
+
+.news-title {
+  font-size: 1.1em;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.news-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.news-title a:hover {
+  text-decoration: underline;
+  color: #000;
+}
+
+.news-content {
+  font-size: 0.9em;
+  line-height: 1.4;
+}
