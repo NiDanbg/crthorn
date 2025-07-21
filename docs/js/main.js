@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const newsFiles = ['2025-07-21-welcome-to-my-new-website.md']; 
             const latestNewsFile = newsFiles.sort().reverse()[0];
             if (latestNewsFile) {
-                const response = await fetch(`/news/${siteLang}/${latestNewsFile}`);
+                const response = await fetch(`news/${siteLang}/${latestNewsFile}`);
                 if (response.ok) {
                     const md = await response.text();
                     const { metadata, content } = parseMarkdown(md);
@@ -215,7 +215,7 @@ async function renderNewsPage() {
         
         try {
             // 1. Зареждаме индекса на новините
-            const indexResponse = await fetch('/news/index.json');
+            const indexResponse = await fetch('news/index.json');
             if (!indexResponse.ok) throw new Error('News index not found.');
             
             const newsFiles = await indexResponse.json();
@@ -236,7 +236,7 @@ async function renderNewsPage() {
 
             // 3. Обхождаме файловете от индекса и ги показваме
             for (const file of newsFiles) {
-                const response = await fetch(`/news/${siteLang}/${file}`);
+                const response = await fetch(`news/${siteLang}/${file}`);
                 if (response.ok) {
                     const md = await response.text();
                     const { metadata, content } = parseMarkdown(md);
