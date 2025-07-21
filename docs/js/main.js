@@ -62,27 +62,47 @@ document.addEventListener('DOMContentLoaded', () => {
     // =========================================================================
     // ФУНКЦИИ ЗА РЕНДИРАНЕ НА СЪДЪРЖАНИЕ
     // =========================================================================
-    async function renderHomepage() {
+        async function renderHomepage() {
         const latestWorkIds = ["klyuchat-na-vazhoda", "dva-svyata", "stomaneno-sivo"];
         const latestWorks = latestWorkIds.map(id => findBookById(id)).filter(book => book);
         let latestNewsHtml = '';
+        
+        // --- ПРОМЕНЕНА ЛОГИКА ---
         try {
-            const newsFiles = ['2025-07-21-welcome-to-my-new-website.md']; 
-            const latestNewsFile = newsFiles.sort().reverse()[0];
-            if (latestNewsFile) {
-                const response = await fetch(`news/${siteLang}/${latestNewsFile}`);
-                if (response.ok) {
-                    const md = await response.text();
-                    const { metadata, content } = parseMarkdown(md);
-                    const excerpt = content.split(' ').slice(0, 30).join(' ') + '...';
-                    latestNewsHtml = `
-                        <div class="latest-news-section">
-                            <h2>${siteLang === 'en' ? 'Latest News' : 'Последни новини'}</h2>
-                            <div class="news-excerpt"><h3>${metadata.title}</h3><p>${excerpt}</p><a href="#/news" class="read-more">${siteLang === 'en' ? 'Read all news' : 'Прочети всички новини'} →</a></div>
-                        </div>`;
+            // 1. Четем индекса на новините
+            const indexResponse = await fetch('news/index.json');
+            if (indexResponse.ok) {
+                const newsFiles = await indexResponse.json();
+                
+                // 2. Проверяваме дали има новини
+                if (newsFiles.length > 0) {
+                    // 3. Взимаме последния файл от списъка (най-новия)
+                    const latestNewsFile = [...newsFiles].reverse()[0]; 
+                    
+                    // 4. Зареждаме съдържанието му
+                    const response = await fetch(`news/${siteLang}/${latestNewsFile}`);
+                    if (response.ok) {
+                        const md = await response.text();
+                        const { metadata, content } = parseMarkdown(md);
+                        const excerpt = content.split(' ').slice(0, 30).join(' ') + '...';
+                        latestNewsHtml = `
+                            <div class="latest-news-section">
+                                <h2>${siteLang === 'en' ? 'Latest News' : 'Последни новини'}</h2>
+                                <div class="news-excerpt">
+                                    <h3>${metadata.title}</h3>
+                                    <p>${excerpt}</p>
+                                    <a href="#/news" class="read-more">${siteLang === 'en' ? 'Read all news' : 'Прочети всички новини'} →</a>
+                                </div>
+                            </div>`;
+                    }
                 }
             }
-        } catch (error) { console.error("Could not fetch latest news:", error); }
+        } catch (error) {
+            console.error("Could not fetch latest news:", error);
+            // Ако има грешка, просто не показваме секцията за новини.
+        }
+        // --- КРАЙ НА ПРОМЕНЕНАТА ЛОГИКА ---
+
         const authorIntro = {
             en: `Krasimir Tenev (also writing under the pen name Crispin Thorn) is a Bulgarian author of fantasy and science fiction, creator of the worlds of Boria, the Age of the Fallen, and the Blood and Stardust universe. <a href="#/about">Learn more...</a>`,
             bg: `Красимир Тенев (пишещ и под псевдонима Crispin Thorn) е български автор на фентъзи и научна фантастика, създател на световете на Бория, Епохата на падналите и вселената на Кръв и звезден прах. <a href="#/about">Научете повече...</a>`
@@ -90,7 +110,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const html = `
             <div class="hero-section"><div class="container"><h1>${siteLang === 'en' ? 'Welcome to My Worlds' : 'Добре дошли в Моите светове'}</h1><p class="author-intro">${authorIntro[siteLang]}</p></div></div>
             <div class="container homepage-content"><h2>${siteLang === 'en' ? 'Latest Works' : 'Най-нови творби'}</h2><div class="books-grid">${latestWorks.map(renderBookCard).join('')}</div><div class="all-books-link"><a href="#/library" class="btn">${siteLang === 'en' ? 'Explore the Full Library' : 'Разгледай цялата библиотека'}</a></div>${latestNewsHtml}</div>`;
-        mainContent.innerHTML = html; document.title = `Krasimir Tenev | Author Portal`;
+        mainContent.innerHTML = html;
+        document.title = `Krasimir Tenev | Author Portal`;
     }
 
     function renderBookCard(book) {
