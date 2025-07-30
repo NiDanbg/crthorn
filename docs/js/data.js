@@ -22,7 +22,7 @@ const authorData = {
             es: { title: "El Sanador de Blackstone", genre: "Fantasía Épica", cover: "/images/es/boria-1.jpg", synopsis: "/synopsis/es/el-sanador-de-blackstone.txt", excerpt: "/books/es/el-sanador-de-blackstone.md" },
             nl: { title: "De Genezer van Blackstone", genre: "Epische Fantasy", cover: "/images/nl/boria-1.jpg", synopsis: "/synopsis/nl/de-genezer-van-blackstone.txt", excerpt: "/books/nl/de-genezer-van-blackstone.md" },
             pt: { title: "O Curandeiro de Blackstone", genre: "Fantasia Épica", cover: "/images/pt/boria-1.jpg", synopsis: "/synopsis/pt/o-curandeiro-de-blackstone.txt", excerpt: "/books/pt/o-curandeiro-de-blackstone.md" },
-            sv: { title: "Läkaren från Blackstone", genre: "Episk Fantasy", cover: "/images/sv/boria-1.jpg", synopsis: "/synopsis/sv/lakaren-fran-blackstone.txt", excerpt: "/books/sv/lakaren-fran-blackstone.md" }
+            se: { title: "Läkaren från Blackstone", genre: "Episk Fantasy", cover: "/images/se/boria-1.jpg", synopsis: "/synopsis/se/lakaren-fran-blackstone.txt", excerpt: "/books/se/lakaren-fran-blackstone.md" }
         },
         links: [
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSL4ZJ23" },
@@ -36,8 +36,8 @@ const authorData = {
             { "platform": "Amazon", "lang": "ES", "url": "https://www.amazon.com/dp/B0DVP9ZFPL" },
             { "platform": "Amazon", "lang": "NL", "url": "https://www.amazon.com/dp/B0DTP8TC7X" },
             { "platform": "Amazon", "lang": "PT", "url": "https://www.amazon.com/dp/B0DV4KPXKW" },
-            { "platform": "Amazon", "lang": "SV", "url": "https://www.amazon.com/dp/B0DWFDR9P4" },
-            { "platform": "Draft2Digital", "lang": "SV", "url": "https://books2read.com/u/mKkVK5" }
+            { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0DWFDR9P4" },
+            { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/mKkVK5" }
 
         ]
     },
@@ -51,7 +51,7 @@ const authorData = {
             fr: { title: "La Gardienne de Briest", genre: "Fantasy Épique", cover: "/images/fr/boria-2.jpg", synopsis: "/synopsis/fr/la-gardienne-de-briest.txt", excerpt: "/books/fr/la-gardienne-de-briest.md" },
             nl: { title: "De Bewaakster van Briest", genre: "Epische Fantasy", cover: "/images/nl/boria-2.jpg", synopsis: "/synopsis/nl/de-bewaakster-van-briest.txt", excerpt: "/books/nl/de-bewaakster-van-briest.md" },
             pt: { title: "A Guardiã de Briest", genre: "Fantasia Épica", cover: "/images/pt/boria-2.jpg", synopsis: "/synopsis/pt/a-guardia-de-briest.txt", excerpt: "/books/pt/a-guardia-de-briest.md" },
-            sv: { title: "Väktaren av Briest", genre: "Episk Fantasy", cover: "/images/sv/boria-2.jpg", synopsis: "/synopsis/sv/vaktaren-av-briest.txt", excerpt: "/books/sv/vaktaren-av-briest.md" }
+            se: { title: "Väktaren av Briest", genre: "Episk Fantasy", cover: "/images/se/boria-2.jpg", synopsis: "/synopsis/se/vaktaren-av-briest.txt", excerpt: "/books/se/vaktaren-av-briest.md" }
         },
         links: [
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSLDJ5PF" },
@@ -64,8 +64,8 @@ const authorData = {
             { "platform": "Draft2Digital", "lang": "FR", "url": "https://books2read.com/u/3RkLyx" },
             { "platform": "Amazon", "lang": "NL", "url": "https://www.amazon.com/dp/B0DTPFX93T" },
             { "platform": "Amazon", "lang": "PT", "url": "https://www.amazon.com/dp/B0DTZ4NJ7Q" },
-            { "platform": "Amazon", "lang": "SV", "url": "https://www.amazon.com/dp/B0DWFNLPVF" },
-            { "platform": "Draft2Digital", "lang": "SV", "url": "https://books2read.com/u/mdRqLW" }
+            { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0DWFNLPVF" },
+            { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/mdRqLW" }
 
 
         ]
@@ -80,7 +80,7 @@ const authorData = {
             fr: { title: "Deux Mondes", genre: "Fantasy Épique", cover: "/images/fr/boria-3.jpg", synopsis: "/synopsis/fr/deux-mondes.txt", excerpt: "/books/fr/deux-mondes.md" },
             nl: { title: "Twee Werelden", genre: "Epische Fantasy", cover: "/images/nl/boria-3.jpg", synopsis: "/synopsis/nl/twee-werelden.txt", excerpt: "/books/nl/twee-werelden.md" },
             pt: { title: "Dois Mundos", genre: "Fantasia Épica", cover: "/images/pt/boria-3.jpg", synopsis: "/synopsis/pt/dois-mundos.txt", excerpt: "/books/pt/dois-mundos.md" },
-            sv: { title: "Två Världar", genre: "Episk Fantasy", cover: "/images/sv/boria-3.jpg", synopsis: "/synopsis/sv/tva-varldar.txt", excerpt: "/books/sv/tva-varldar.md" }
+            se: { title: "Två Världar", genre: "Episk Fantasy", cover: "/images/se/boria-3.jpg", synopsis: "/synopsis/se/tva-varldar.txt", excerpt: "/books/se/tva-varldar.md" }
         },
         links: [
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSR63R9B" },
@@ -93,8 +93,8 @@ const authorData = {
             { "platform": "Draft2Digital", "lang": "FR", "url": "https://books2read.com/u/4N0okY" },
             { "platform": "Amazon", "lang": "NL", "url": "https://www.amazon.com/dp/B0DTSV83XD" },
             { "platform": "Amazon", "lang": "PT", "url": "https://www.amazon.com/dp/B0DV5HGMYL" },
-            { "platform": "Amazon", "lang": "SV", "url": "https://www.amazon.com/dp/B0FB98GQ1C" },
-            { "platform": "Draft2Digital", "lang": "SV", "url": "https://books2read.com/u/3nj2XR" }
+            { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FB98GQ1C" },
+            { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/3nj2XR" }
 
 
         ]
@@ -247,7 +247,7 @@ const authorData = {
                 de: { title: "Der Schlüssel des Aufstiegs", genre: "Fantasy", cover: "/images/de/der-schluessel-des-aufstiegs.jpg", synopsis: "/synopsis/de/der-schluessel-des-aufstiegs.txt", excerpt: "/books/de/der-schluessel-des-aufstiegs.md" },
                 it: { title: "La Chiave dell'Ascesa", genre: "Fantasy", cover: "/images/it/la-chiave-dellascesa.jpg", synopsis: "/synopsis/it/la-chiave-dellascesa.txt", excerpt: "/books/it/la-chiave-dellascesa.md" },
                 fr: { title: "La Clé de l'Ascension", genre: "Fantasy", cover: "/images/fr/la-cle-de-lascension.jpg", synopsis: "/synopsis/fr/la-cle-de-lascension.txt", excerpt: "/books/fr/la-cle-de-lascension.md" },
-                sv: { title: "Nyckeln till Uppståndelsen", genre: "Fantasy", cover: "/images/sv/nyckeln-till-uppståndelsen.jpg", synopsis: "/synopsis/sv/nyckeln-till-uppståndelsen.txt", excerpt: "/books/sv/nyckeln-till-uppståndelsen.md" }
+                se: { title: "Nyckeln till Uppståndelsen", genre: "Fantasy", cover: "/images/se/nyckeln-till-uppståndelsen.jpg", synopsis: "/synopsis/se/nyckeln-till-uppståndelsen.txt", excerpt: "/books/se/nyckeln-till-uppståndelsen.md" }
                  },
                  links: [
                         { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FFYNX1Y3" },
@@ -255,8 +255,8 @@ const authorData = {
                         { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.com/dp/B0FHD73Q92" },
                         { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.com/dp/B0FHF1FCK5" },
                         { "platform": "Draft2Digital", "lang": "FR", "url": "https://books2read.com/u/4jj5Yo" },
-                        { "platform": "Amazon", "lang": "SV", "url": "https://www.amazon.com/dp/B0FHQF3XS4" },
-                        { "platform": "Draft2Digital", "lang": "SV", "url": "https://books2read.com/u/3yy6vZ" },
+                        { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FHQF3XS4" },
+                        { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/3yy6vZ" },
                         { "platform": "Laterpress", "lang": "BG", "url": "https://the-age-of-the-fallen-bg.laterpress.com/book/the-key-of-ascension-bg" }
                         
                         ]
@@ -298,13 +298,23 @@ const authorData = {
               {
                   id: "kragat-ot-starata-melnica",
                   i18n: {
-                      bg: { title: "kragat-ot-starata-melnica", genre: "Мистерия", cover: "/images/bg/kragat-ot-starata-melnica.jpg", synopsis: "/synopsis/bg/kragat-ot-starata-melnica.txt", excerpt: "/books/bg/kragat-ot-starata-melnica.md" },
-                      en: { title: "the-circle-from-the-old-mill", genre: "Mystery", cover: "/images/en/the-circle-from-the-old-mill.jpg", synopsis: "/synopsis/en/the-circle-from-the-old-mill.txt", excerpt: "/books/en/the-circle-from-the-old-mill.md" }
+                      bg: { title: "Кръгът от Старата мелница", genre: "Мистерия", cover: "/images/bg/kragat-ot-starata-melnica.jpg", synopsis: "/synopsis/bg/kragat-ot-starata-melnica.txt", excerpt: "/books/bg/kragat-ot-starata-melnica.md" },
+                      en: { title: "The Circle from the Old Mill", genre: "Mystery", cover: "/images/en/the-circle-from-the-old-mill.jpg", synopsis: "/synopsis/en/the-circle-from-the-old-mill.txt", excerpt: "/books/en/the-circle-from-the-old-mill.md" },
+                      se: { title: "Cirkeln från den Gamla Kvarnen", genre: "Urban Fantasy", cover: "/images/se/cirkeln-frn-den-gamla-kvarnen.jpg", synopsis: "/synopsis/se/cirkeln-frn-den-gamla-kvarnen.txt", excerpt: "/books/se/cirkeln-frn-den-gamla-kvarnen.md" },
+                      fr: { title: "Le Cercle du Vieux Moulin", genre: "Urban Fantasy", cover: "/images/fr/le-cercle-du-vieux-moulin.jpg", synopsis: "/synopsis/fr/le-cercle-du-vieux-moulin.txt", excerpt: "/books/fr/le-cercle-du-vieux-moulin.md" }
+
+
+
                    },
                    links: [
                        { "platform": "Laterpress", "lang": "BG", "url": "https://the-circle-of-the-old-mill-bg.laterpress.com/" }, 
                        { "platform": "Draft2Digital", "lang": "BG", "url": "https://books2read.com/u/bpgBDz" },
-                       { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FD8ZLXJN" }
+                       { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FD8ZLXJN" },
+                       { "platform": "Draft2Digital", "lang": "FR", "url": "https://https://books2read.com/u/bpoVv9" },
+                       { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.com/dp/B0FKGHXKC3" },
+                       { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/boAVKv" },
+                       { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FKGTG535" }
+
 
                            ]
               },       
@@ -312,8 +322,8 @@ const authorData = {
               {
                   id: "reysat-na-izgubenite",
                   i18n: {
-                      bg: { title: "reysat-na-izgubenite", genre: "Магически реализъм", cover: "/images/bg/reysat-na-izgubenite.jpg", synopsis: "/synopsis/bg/reysat-na-izgubenite.txt", excerpt: "/books/bg/reysat-na-izgubenite.md" },
-                      en: { title: "the-bus-of-the-lost", genre: "Magical realism", cover: "/images/en/the-bus-of-the-lost.jpg", synopsis: "/synopsis/en/the-bus-of-the-lost.txt", excerpt: "/books/en/the-bus-of-the-lost.md" }
+                      bg: { title: "Рейсът на изгубените", genre: "Магически реализъм", cover: "/images/bg/reysat-na-izgubenite.jpg", synopsis: "/synopsis/bg/reysat-na-izgubenite.txt", excerpt: "/books/bg/reysat-na-izgubenite.md" },
+                      en: { title: "The Bus of the Lost", genre: "Magical realism", cover: "/images/en/the-bus-of-the-lost.jpg", synopsis: "/synopsis/en/the-bus-of-the-lost.txt", excerpt: "/books/en/the-bus-of-the-lost.md" }
                    },
                    links: [
                        { "platform": "Laterpress", "lang": "BG", "url": "https://the-bus-of-the-lost-bg.laterpress.com/" }, 
