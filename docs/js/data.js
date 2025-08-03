@@ -25,9 +25,9 @@ const authorData = {
             se: { title: "Läkaren från Blackstone", genre: "Episk Fantasy", cover: "/images/se/boria-1.jpg", synopsis: "/synopsis/se/lakaren-fran-blackstone.txt", excerpt: "/books/se/lakaren-fran-blackstone.md" }
         },
         links: [
+            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/the-healer-of-blackstone-eng" },
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSL4ZJ23" },
             { "platform": "Draft2Digital", "lang": "EN", "url": "https://books2read.com/u/47yL2g" },
-            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/the-healer-of-blackstone-eng" },
             { "platform": "Laterpress", "lang": "BG", "url": "https://boria-bg.laterpress.com/book/the-healer-of-blackstone-el-bg" },
             { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.com/dp/B0DSTRYXNB" },
             { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.com/dp/B0DT6MZ2TH" },
@@ -54,9 +54,9 @@ const authorData = {
             se: { title: "Väktaren av Briest", genre: "Episk Fantasy", cover: "/images/se/boria-2.jpg", synopsis: "/synopsis/se/vaktaren-av-briest.txt", excerpt: "/books/se/vaktaren-av-briest.md" }
         },
         links: [
+            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng" },
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSLDJ5PF" },
             { "platform": "Laterpress", "lang": "BG", "url": "https://boria-bg.laterpress.com/book/the-guardian-of-briest-bg" },
-            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng" },
             { "platform": "Draft2Digital", "lang": "EN", "url": "https://books2read.com/u/bWaWjG" },
             { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.com/dp/B0DSV469C2" },
             { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.com/dp/B0DT9PMY24" },
@@ -83,9 +83,9 @@ const authorData = {
             se: { title: "Två Världar", genre: "Episk Fantasy", cover: "/images/se/boria-3.jpg", synopsis: "/synopsis/se/tva-varldar.txt", excerpt: "/books/se/tva-varldar.md" }
         },
         links: [
+            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/two-worlds-eng" },
             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0DSR63R9B" },
             { "platform": "Laterpress", "lang": "BG", "url": "https://boria-bg.laterpress.com/book/two-worlds-bg" },
-            { "platform": "Laterpress", "lang": "EN", "url": "https://boria-eng.laterpress.com/book/two-worlds-eng" },
             { "platform": "Draft2Digital", "lang": "EN", "url": "https://books2read.com/u/m2DpL1" },
             { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.com/dp/B0DT11SLLJ" },
             { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.com/dp/B0DTDGVKK9" },
@@ -278,6 +278,7 @@ const authorData = {
                    },
                    links: [
                        { "platform": "Laterpress", "lang": "BG", "url": "https://blood-of-the-yenisei-bg.laterpress.com/" }, 
+                       { "platform": "Laterpress", "lang": "EN", "url": "https://blood-of-the-yenisei.laterpress.com/" }, 
                        { "platform": "Draft2Digital", "lang": "EN", "url": "https://books2read.com/u/49qJ9Y" }
                            ]
               },       
@@ -331,7 +332,23 @@ const authorData = {
                        { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FDGKLG71" }
 
                            ]
-              },       
+              },    
+
+              {
+                  id: "prizrachen-kod",
+                  i18n: {
+                      bg: { title: "Призрачен код", genre: "Киберпънк, Ноар", cover: "/images/bg/prizrachen-kod.jpg", synopsis: "/synopsis/bg/prizrachen-kod.txt", excerpt: "/books/bg/prizrachen-kod.md" },
+                      en: { title: "Phantom Code", genre: "Cyberpunk, Noir", cover: "/images/en/phantom-code.jpg", synopsis: "/synopsis/en/phantom-code.txt", excerpt: "/books/en/phantom-code.md" }
+                   },
+                   links: [
+                       { "platform": "Laterpress", "lang": "BG", "url": "https://phantom-code-bg.laterpress.com/" }, 
+                       { "platform": "Draft2Digital", "lang": "BG", "url": "https://books2read.com/u/mKMrZL" },
+                       { "platform": "Laterpress", "lang": "EN", "url": "https://phantom-code-en.laterpress.com/" }, 
+                       { "platform": "Draft2Digital", "lang": "EN", "url": "https://books2read.com/u/bzNw5L" },
+                       { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FKZZ883N" }
+
+                           ]
+              },    
 
 
 
