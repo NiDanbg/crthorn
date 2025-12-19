@@ -1,0 +1,83 @@
+{
+  "title": "Кръв и звезден прах",
+  "shortDescription": "Sci-Fi серия",
+  "genre": "Sci-Fi",
+  "books": [
+    {
+      "id": "ancient-blue",
+      "title": "Древно синьо",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust.laterpress.com/book/ancient-blue"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/38q556"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    },
+    {
+      "id": "red-and-ancient-blue",
+      "title": "Червено и древно синьо",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust.laterpress.com/book/red-and-ancient-blue-bg"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/bwkEeY"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    },
+    {
+      "id": "cosmic-red",
+      "title": "Космическо червено",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust.laterpress.com/book/cosmic-red-bg"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/bOqVRg"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    },
+    {
+      "id": "steel-gray",
+      "title": "Стоманено сиво",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "laterpress",
+          "url": "https://blood-and-stardust.laterpress.com/book/steel-gray-bg"
+        }
+      ],
+      "genre": "sci-fi",
+      "is_latest": false,
+      "has_preview":true
+    }    
+  ]
+}

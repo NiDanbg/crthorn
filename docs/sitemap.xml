@@ -46,6 +46,12 @@
 
     <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=bg</loc></url>
     <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=en</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=de</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=it</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=fr</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=nl</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=pt</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/princa-ot-iztok?lang=se</loc></url>
 
     <!-- Поредица: Кръв и звезден прах -->
     <url><loc>https://www.crthorn.com/#/book/drevno-sinio?lang=bg</loc></url>
@@ -89,6 +95,10 @@
 
     <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=bg</loc></url>
     <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=en</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=de</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=it</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=fr</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/klyuchat-na-izobilieto?lang=se</loc></url>
 
     <!-- Самостоятелни романи -->
     <url><loc>https://www.crthorn.com/#/book/kravta-na-enisey?lang=bg</loc></url>
@@ -104,6 +114,23 @@
 
     <url><loc>https://www.crthorn.com/#/book/reysat-na-izgubenite?lang=bg</loc></url>
     <url><loc>https://www.crthorn.com/#/book/reysat-na-izgubenite?lang=en</loc></url>
+
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=bg</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=en</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=de</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=it</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=fr</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/dyrvoto-na-syznanieto?lang=se</loc></url>
+
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=bg</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=en</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=de</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=it</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=fr</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/gnostichnia-shifar?lang=se</loc></url>
+
+    <url><loc>https://www.crthorn.com/#/book/prizrachen-kod?lang=bg</loc></url>
+    <url><loc>https://www.crthorn.com/#/book/prizrachen-kod?lang=en</loc></url>
 
     <!-- Разкази -->
     <url><loc>https://www.crthorn.com/#/book/shepot-na-nepoznata?lang=bg</loc></url>

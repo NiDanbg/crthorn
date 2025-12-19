@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ФУНКЦИИ ЗА РЕНДИРАНЕ НА СЪДЪРЖАНИЕ
     // =========================================================================
         async function renderHomepage() {
-        const latestWorkIds = ["klyuchat-na-vazhoda", "dva-svyata", "stomaneno-sivo"];
+        const latestWorkIds = ["klyuchat-na-izobilieto", "princa-ot-iztok", "gnostichnia-shifar", "dyrvoto-na-syznanieto"];
         const latestWorks = latestWorkIds.map(id => findBookById(id)).filter(book => book);
         let latestNewsHtml = '';
         

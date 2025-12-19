@@ -1,0 +1,17 @@
+[
+    {
+        "id": "whisper-of-a-stranger",
+        "title": "Whispers of a Stranger",
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": false,
+        "has_preview": true
+    },
+    {
+        "id": "the-requiem-for-the-world-that-chose-me",
+        "title": "The Requiem for the World That Chose Me",
+        "genre": "Urban Fantasy, Supernatural Thriller",
+        "is_latest": false,
+        "has_preview": true
+    }
+    
+]

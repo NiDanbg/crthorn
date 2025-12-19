@@ -100,15 +100,30 @@ const authorData = {
         ]
     },
 
-                {
-                    id: "princa-ot-iztok",
+    {
+          id: "princa-ot-iztok",
                    
-                    i18n: {
-                        bg: { title: "Принца от изток", genre: "Епично фентъзи", cover: "/images/common/cover-placeholder.jpg", synopsis: "/synopsis/bg/princa-ot-iztok.txt", excerpt: "/books/bg/princa-ot-iztok.md" },
-                        en: { title: "The Prince from the East", genre: "Epic Fantasy", cover: "/images/common/cover-placeholder.jpg", synopsis: "/synopsis/en/the-prince-from-the-east.txt", excerpt: "/books/en/the-prince-from-the-east.md" }
-                    },
-                    links: []
-                }
+          i18n: {
+              bg: { title: "Принца от изток", genre: "Епично фентъзи", cover: "/images/en/the-prince-of-the-east-en.jpg", synopsis: "/synopsis/bg/princa-ot-iztok.txt", excerpt: "/books/bg/princa-ot-iztok.md" },
+              en: { title: "The Prince from the East", genre: "Epic Fantasy", cover: "/images/en/the-prince-of-the-east-en.jpg", synopsis: "/synopsis/en/the-prince-from-the-east.txt", excerpt: "/books/en/the-prince-from-the-east.md" },
+              de: { title: "Der Prinz aus dem Osten", genre: "Epische Fantasy", cover: "/images/de/der-prinz-aus-dem-osten.jpg", synopsis: "/synopsis/de/der-prinz-aus-dem-osten.txt", excerpt: "/books/de/der-prinz-aus-dem-osten.md" },
+              it: { title: "Il Principe dell'Est", genre: "Fantasy Epico", cover: "/images/it/il-principe-dellest.jpg", synopsis: "/synopsis/it/dil-principe-dellest.txt", excerpt: "/books/it/il-principe-dellest.md" },
+              fr: { title: "Le Prince de l'Est", genre: "Fantasy Épique", cover: "/images/fr/le-prince-de-lest.jpg", synopsis: "/synopsis/fr/le-prince-de-lest.txt", excerpt: "/books/fr/le-prince-de-lest.md" },
+              nl: { title: "De Prins uit het Oosten", genre: "Epische Fantasy", cover: "/images/nl/de-prins-uit-het-oosten.jpg", synopsis: "/synopsis/nl/de-prins-uit-het-oosten.txt", excerpt: "/books/nl/de-prins-uit-het-oosten.md" },
+              pt: { title: "O Príncipe do Leste", genre: "Fantasia Épica", cover: "/images/pt/o-prncipe-do-leste.jpg", synopsis: "/synopsis/pt/o-prncipe-do-leste.txt", excerpt: "/books/pt/o-prncipe-do-leste.md" },
+	      se: { title: "Prinsen från östern", genre: "Episk Fantasy", cover: "/images/se/prinsen-frn-stern.jpg", synopsis: "/synopsis/se/prinsen-frn-stern.txt", excerpt: "/books/se/prinsen-frn-stern.md" }
+		},
+           links: [
+            { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FYPS13BY" },
+            { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.de/dp/B0FYSN3XB4" },
+            { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.it/dp/B0FYZ98MDP" },
+            { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.fr/dp/B0DCV41KHR" },
+            { "platform": "Amazon", "lang": "NL", "url": "https://www.amazon.nl/dp/B0G2LPJVVH" },
+            { "platform": "Amazon", "lang": "PT", "url": "https://www.amazon.com.br/dp/B0G2M359K2" },
+            { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FZNKFDMS" }
+
+	    ]
+      }
             ]
         },
         {
@@ -257,11 +272,32 @@ const authorData = {
                         { "platform": "Draft2Digital", "lang": "FR", "url": "https://books2read.com/u/4jj5Yo" },
                         { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FHQF3XS4" },
                         { "platform": "Draft2Digital", "lang": "SE", "url": "https://books2read.com/u/3yy6vZ" },
+ 			{ "platform": "Draft2Digital", "lang": "BG", "url": "https://books2read.com/u/b6EYyp" },
                         { "platform": "Laterpress", "lang": "BG", "url": "https://the-age-of-the-fallen-bg.laterpress.com/book/the-key-of-ascension-bg" }
                         
                         ]
                },
-               { id: "klyuchat-na-izobilieto", status: "in-progress", i18n: { bg: { title: "Ключът на изобилието", genre: "Фентъзи", cover: "/images/common/cover-placeholder.jpg" }, en: { title: "The Key of Abundance", genre: "Fantasy", cover: "/images/common/cover-placeholder.jpg" } }, links: [] }
+               { id: "klyuchat-na-izobilieto", 
+	         i18n: { 
+		     bg: { title: "Ключът на изобилието", genre: "Фентъзи", cover: "/images/bg/the-key-of-abundance-bg.jpg", synopsis: "/synopsis/bg/the-key-of-abundance-bg.txt", excerpt: "/books/bg/the-key-of-abundance-bg.md" }, 
+		     en: { title: "The Key of Abundance", genre: "Fantasy", cover: "/images/en/the-key-of-abundance.jpg", synopsis: "/synopsis/en/the-key-of-abundance.txt", excerpt: "/books/en/the-key-of-abundance.md" }, 
+                     de: { title: "Der Schlüssel der Fülle", genre: "Fantasy", cover: "/images/de/der-schlssel-der-flle.jpg", synopsis: "/synopsis/de/der-schlssel-der-flle.txt", excerpt: "/books/de/der-schlssel-der-flle.md" },
+                     it: { title: "La Chiave della Cornucopia", genre: "Fantasy", cover: "/images/it/la-chiave-della-cornucopia.jpg", synopsis: "/synopsis/it/la-chiave-della-cornucopia.txt", excerpt: "/books/it/la-chiave-della-cornucopia.md" },
+                     fr: { title: "La Clé de l’Abondance", genre: "Fantasy", cover: "/images/fr/la-cl-de-labondance.jpg", synopsis: "/synopsis/fr/la-cl-de-labondance.txt", excerpt: "/books/fr/la-cl-de-labondance.md" },
+                     se: { title: "Nyckeln till Överflöd", genre: "Fantasy", cover: "/images/se/nyckeln-till-verfld.jpg", synopsis: "/synopsis/se/nyckeln-till-verfld.txt", excerpt: "/books/se/nyckeln-till-verfld.md" }
+
+
+ 
+                      }, 
+                      links: [
+			     { "platform": "Draft2Digital", "lang": "BG", "url": "https://books2read.com/u/mYO9BV" },
+			     { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FQMRJNSP" },
+			     { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.de/dp/B0FR1NWNSL" },
+			     { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.it/dp/B0FQNZL513" },
+                             { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.fr/dp/B0FQVC1LWK" },
+                             { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0FQMWY15F" }
+                       ] 
+                       }
             ]
         }
     ],
@@ -270,6 +306,51 @@ const authorData = {
     // САМОСТОЯТЕЛНИ РОМАНИ
     // =========================================================================
     novels: [
+             {
+             id: "dyrvoto-na-syznanieto",
+                  i18n: {
+                      bg: { title: "Дървото на съзнанието", genre: "Трилър, Конспиративен трилър", cover: "/images/bg/dyrvoto-na-syznanieto.jpg", synopsis: "/synopsis/bg/dyrvoto-na-syznanieto.txt", excerpt: "/books/bg/dyrvoto-na-syznanieto.md" },
+                      en: { title: "The Tree of Consciousness", genre: "Techno-Thriller, Global Conspiracy", cover: "/images/en/the-tree-of-consciousness.jpg", synopsis: "/synopsis/en/the-tree-of-consciousness.txt", excerpt: "/books/en/the-tree-of-consciousness.md" },
+                      de: { title: "Der Baum des Bewusstseins", genre: "Techno-Thriller, Verschwörungsthriller", cover: "/images/de/der-baum-des-bewusstseins.jpg", synopsis: "/synopsis/de/der-baum-des-bewusstseins.txt", excerpt: "/books/de/der-baum-des-bewusstseins.md" },
+                      it: { title: "L'Albero della Coscienza", genre: "Techno-thriller, Thriller cospirativo", cover: "/images/it/lalbero-della-coscienza.jpg", synopsis: "/synopsis/it/lalbero-della-coscienza.txt", excerpt: "/books/it/lalbero-della-coscienza.md" },
+                      fr: { title: "L'Arbre de la Conscience", genre: "Techno-thriller, Thriller conspirationniste", cover: "/images/fr/larbre-de-la-conscience.jpg", synopsis: "/synopsis/fr/larbre-de-la-conscience.txt", excerpt: "/books/fr/larbre-de-la-conscience.md" },
+                      se: { title: "Medvetandets träd", genre: "Fantasy", cover: "/images/se/medvetandets-trd.jpg", synopsis: "/synopsis/se/medvetandets-trd.txt", excerpt: "/books/se/medvetandets-trd.md" }
+
+                   },
+                   links: [
+                             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FVZ6GCJV" },
+			     { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.de/dp/B0G2DZK7XP" },
+			     { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.it/dp/B0G2F79CPV" },
+                             { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.fr/dp/B0FWBD9MQ6" },
+                             { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0G5FC6PVH" }
+
+                           ]
+              },    
+
+             {
+             id: "gnostichnia-shifar",
+                  i18n: {
+                      bg: { title: "Гностичният Шифър", genre: "Исторически Техно-трилър, Конспиративен трилър", cover: "/images/bg/gnostichnia-shifar.jpg", synopsis: "/synopsis/bg/gnostichnia-shifar.txt", excerpt: "/books/bg/gnostichnia-shifar.md" },
+                      en: { title: "The Gnostic Cipher", genre: "Techno-Thriller, Global Conspiracy", cover: "/images/en/the-gnostic-cipher.jpg", synopsis: "/synopsis/en/the-gnostic-cipher.txt", excerpt: "/books/en/the-gnostic-cipher.md" },
+                      de: { title: "Die Gnostische Chiffre", genre: "Techno-Thriller, Verschwörungsthriller", cover: "/images/de/die-gnostische-chiffre.jpg", synopsis: "/synopsis/de/die-gnostische-chiffre.txt", excerpt: "/books/de/die-gnostische-chiffre.md" },
+                      it: { title: "Il Codice Gnostico", genre: "Techno-thriller, Thriller cospirativo", cover: "/images/it/il-codice-gnostico.jpg", synopsis: "/synopsis/it/il-codice-gnostico.txt", excerpt: "/books/it/il-codice-gnostico.md" },
+                      fr: { title: "Le Chiffre Gnostique", genre: "Techno-thriller, Thriller conspirationniste", cover: "/images/fr/le-chiffre-gnostique.jpg", synopsis: "/synopsis/fr/le-chiffre-gnostique.txt", excerpt: "/books/fr/le-chiffre-gnostique.md" },
+                      se: { title: "Den Gnostiska koden", genre: "Fantasy", cover: "/images/se/den-gnostiska-koden", synopsis: "/synopsis/se/den-gnostiska-koden.txt", excerpt: "/books/se/den-gnostiska-koden.md" }
+
+                   },
+                   links: [
+                             { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FXVWT2LV" },
+			     { "platform": "Amazon", "lang": "DE", "url": "https://www.amazon.de/dp/B0G5QTNHJ2" },
+			     { "platform": "Amazon", "lang": "IT", "url": "https://www.amazon.it/dp/B0G64C5L92" },
+                             { "platform": "Amazon", "lang": "FR", "url": "https://www.amazon.fr/dp/B0G6789BXV" },
+                             { "platform": "Amazon", "lang": "SE", "url": "https://www.amazon.com/dp/B0G6D42JBD" }
+
+                           ]
+              },    
+
+
+
+
               {
                   id: "kravta-na-enisey",
                   i18n: {
@@ -348,7 +429,7 @@ const authorData = {
                        { "platform": "Amazon", "lang": "EN", "url": "https://www.amazon.com/dp/B0FKZZ883N" }
 
                            ]
-              },    
+              }    
 
 
 

@@ -1,0 +1,67 @@
+{
+  "title": "Boria",
+  "shortDescription": "Série fantastique de Crispin Thorn: Boria",
+  "genre": "fantasy",
+  "books": [
+    {
+      "id": "the-healer-of-blackstone",
+      "title": "Le Guérisseur de Blackstone",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.fr/dp/B0DVZHVV84"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/mYk6zV"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": false
+    },
+    {
+      "id": "the-guardian-of-briest",
+      "title": "La Gardienne de Briest",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.fr/dp/B0DVZPBR7M"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/3RkLyx"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": false
+    },
+    {
+      "id": "two-worlds",
+      "title": "Deux mondes",
+      "coverImage": "cover.jpg",
+      "longDescription": "description.md",
+      "previewFileName": "preview.epub",
+      "platforms": [
+        {
+          "platform": "amazon",
+          "url": "https://www.amazon.fr/dp/B0DW48943J"
+        },
+        {
+          "platform": "draft2digital",
+          "url": "https://books2read.com/u/4N0okY"
+        }
+      ],
+      "genre": "fantasy",
+      "is_latest": false,
+      "has_preview": false
+    }
+  ]
+}
