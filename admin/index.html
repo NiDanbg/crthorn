@@ -316,13 +316,22 @@ textarea.text-editor { width: 100%; height: 280px; font-size: 13px; line-height:
   <div class="card" style="max-width:900px">
     <h3>Rebuild static site</h3>
     <p style="color:var(--muted);font-size:13px;margin-bottom:14px">
-      Regenerates <code>dist/</code> from the current data.js / synopsis / books / news / images.
-      Deployment to crthorn.com still happens via your normal git push / CI — this only refreshes
-      the local build for preview.
+      Regenerates <code>dist/</code> from the current data.js / synopsis / books / news / images,
+      for local preview only. Does not touch crthorn.com.
     </p>
     <button class="btn btn-success" onclick="runBuild()">🔨 Build Site</button>
     <div id="build-status"></div>
     <pre class="build-log" id="build-log" style="display:none"></pre>
+  </div>
+  <div class="card" style="max-width:900px">
+    <h3>Publish to crthorn.com</h3>
+    <p style="color:var(--muted);font-size:13px;margin-bottom:14px">
+      Commits and pushes everything to GitHub. This is what actually updates the live site —
+      GitHub then rebuilds and deploys it automatically (usually within a minute or two).
+    </p>
+    <button class="btn" style="background:var(--danger)" onclick="runPublish()">🚀 Publish to crthorn.com</button>
+    <div id="publish-status"></div>
+    <pre class="build-log" id="publish-log" style="display:none"></pre>
   </div>
 </div>
 
@@ -1335,6 +1344,37 @@ async function runBuild() {
     }
   } catch (e) {
     statusEl.textContent = '❌ Could not reach build endpoint';
+    statusEl.className = 'build-status fail';
+  }
+}
+
+async function runPublish() {
+  if (!confirm('This will push all local changes to GitHub and update crthorn.com live. Continue?')) return;
+  const statusEl = document.getElementById('publish-status');
+  const logEl    = document.getElementById('publish-log');
+  statusEl.textContent = 'Publishing…';
+  statusEl.className = 'build-status';
+  logEl.style.display = 'none';
+  try {
+    const res = await fetch('/api/publish', { method: 'POST' });
+    const json = await res.json();
+    logEl.style.display = 'block';
+    logEl.textContent = json.log || '';
+    if (json.ok && json.nothing_to_publish) {
+      statusEl.textContent = 'ℹ Nothing to publish — already up to date';
+      statusEl.className = 'build-status';
+      toast('Nothing to publish', 'success');
+    } else if (json.ok) {
+      statusEl.textContent = '✅ Published — crthorn.com will update shortly';
+      statusEl.className = 'build-status ok';
+      toast('Published ✓', 'success');
+    } else {
+      statusEl.textContent = '❌ Publish failed';
+      statusEl.className = 'build-status fail';
+      toast('Publish failed — see log', 'error');
+    }
+  } catch (e) {
+    statusEl.textContent = '❌ Could not reach publish endpoint';
     statusEl.className = 'build-status fail';
   }
 }

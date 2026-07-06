@@ -273,6 +273,45 @@ def api_build():
         return jsonify({'ok': False, 'error': str(e)}), 500
 
 
+# ── Publish (git add/commit/push -> triggers GitHub Actions deploy) ─────────
+
+@app.route('/api/publish', methods=['POST'])
+def api_publish():
+    import datetime
+
+    def run(cmd):
+        r = subprocess.run(cmd, cwd=BASE, capture_output=True, text=True, timeout=60)
+        return r
+
+    log = []
+    try:
+        r = run(['git', 'add', '-A'])
+        log.append(f'$ git add -A\n{r.stdout}{r.stderr}')
+        if r.returncode != 0:
+            return jsonify({'ok': False, 'log': '\n'.join(log)})
+
+        diff = run(['git', 'diff', '--cached', '--quiet'])
+        if diff.returncode == 0:
+            log.append('No changes to publish — dist/ and content are already up to date on GitHub.')
+            return jsonify({'ok': True, 'nothing_to_publish': True, 'log': '\n'.join(log)})
+
+        msg = f"Update site content ({datetime.datetime.now().strftime('%Y-%m-%d %H:%M')})"
+        r = run(['git', 'commit', '-m', msg])
+        log.append(f'$ git commit -m "{msg}"\n{r.stdout}{r.stderr}')
+        if r.returncode != 0:
+            return jsonify({'ok': False, 'log': '\n'.join(log)})
+
+        r = run(['git', 'push'])
+        log.append(f'$ git push\n{r.stdout}{r.stderr}')
+        if r.returncode != 0:
+            return jsonify({'ok': False, 'log': '\n'.join(log)})
+
+        return jsonify({'ok': True, 'log': '\n'.join(log)})
+    except Exception as e:
+        log.append(f'Error: {e}')
+        return jsonify({'ok': False, 'log': '\n'.join(log)}), 500
+
+
 if __name__ == '__main__':
     print()
     print('  Crispin Thorn -- Admin')

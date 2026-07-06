@@ -4,7 +4,6 @@ const authorData = {
         "the-regent"
     ],
     "meta": {
-        "photo": "images/common/author-crispinthorn.jpg",
         "bg": {
             "intro": "Crispin Thorn (творчески псевдоним) е български автор на фентъзи и научна фантастика, създател на световете на Бория, Епохата на падналите и вселената на Кръв и звезден прах. <a href=\"/bg/about/\">Научете повече...</a>",
             "name": "Crispin Thorn",
@@ -14,7 +13,8 @@ const authorData = {
             "intro": "Crispin Thorn (pen name) is a Bulgarian author of fantasy and science fiction, creator of the worlds of Boria, the Age of the Fallen, and the Blood and Stardust universe. <a href=\"/about/\">Learn more...</a>",
             "name": "Crispin Thorn",
             "siteTitle": "Crispin Thorn | Author"
-        }
+        },
+        "photo": "images/common/author-crispinthorn.jpg"
     },
     "novels": [
         {
@@ -1493,50 +1493,84 @@ const authorData = {
         {
             "books": [
                 {
+                    "id": "the-heiress",
                     "i18n": {
                         "en": {
-                            "cover": "images/en/The_Heiress-el-en.webp",
-                            "excerpt": "books/en/the-heiress.md",
+                            "title": "The Heiress",
                             "genre": "military sci-fi",
+                            "cover": "images/en/The_Heiress-el-en.webp",
                             "synopsis": "synopsis/en/the-heiress.txt",
-                            "title": "The Heiress"
+                            "excerpt": "books/en/the-heiress.md"
+                        },
+                        "de": {
+                            "title": "Die Erbin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/The_Heiress-el-gr.webp",
+                            "synopsis": "synopsis/de/the-heiress.txt",
+                            "excerpt": "books/de/the-heiress.md"
                         }
                     },
-                    "id": "the-heiress",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0FXGYF8N7"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/mdB5Xl"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0FXR7FQ7N"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/4XpgBa"
                         }
                     ]
                 },
                 {
+                    "id": "the-regent",
                     "i18n": {
                         "en": {
-                            "cover": "images/en/THE_REGENT.webp",
-                            "excerpt": "books/en/the-regent.md",
+                            "title": "The Regent",
                             "genre": "military sci-fi",
+                            "cover": "images/en/THE_REGENT.webp",
                             "synopsis": "synopsis/en/the-regent.txt",
-                            "title": "The Regent"
+                            "excerpt": "books/en/the-regent.md"
+                        },
+                        "de": {
+                            "title": "Die Regentin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/Die_Regentin-DE.webp",
+                            "synopsis": "synopsis/de/the-regent.txt",
+                            "excerpt": "books/de/the-regent.md"
                         }
                     },
-                    "id": "the-regent",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0GSFKF2M1"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/mZG11y"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0GT1JF88J"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/4jk9Xo"
                         }
                     ]
                 }
