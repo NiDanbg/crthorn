@@ -1,6 +1,6 @@
 const authorData = {
     "featured": [
-        "the-heiress",
+        "klyuchat-na-izobilieto",
         "the-regent"
     ],
     "meta": {
@@ -1493,83 +1493,83 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "the-heiress",
                     "i18n": {
-                        "en": {
-                            "title": "The Heiress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Heiress-el-en.webp",
-                            "synopsis": "synopsis/en/the-heiress.txt",
-                            "excerpt": "books/en/the-heiress.md"
-                        },
                         "de": {
-                            "title": "Die Erbin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/The_Heiress-el-gr.webp",
+                            "excerpt": "books/de/the-heiress.md",
+                            "genre": "military sci-fi",
                             "synopsis": "synopsis/de/the-heiress.txt",
-                            "excerpt": "books/de/the-heiress.md"
+                            "title": "Die Erbin"
+                        },
+                        "en": {
+                            "cover": "images/en/The_Heiress-el-en.webp",
+                            "excerpt": "books/en/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "synopsis": "synopsis/en/the-heiress.txt",
+                            "title": "The Heiress"
                         }
                     },
+                    "id": "the-heiress",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FXGYF8N7"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdB5Xl"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FXR7FQ7N"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4XpgBa"
                         }
                     ]
                 },
                 {
-                    "id": "the-regent",
                     "i18n": {
-                        "en": {
-                            "title": "The Regent",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/THE_REGENT.webp",
-                            "synopsis": "synopsis/en/the-regent.txt",
-                            "excerpt": "books/en/the-regent.md"
-                        },
                         "de": {
-                            "title": "Die Regentin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/Die_Regentin-DE.webp",
+                            "excerpt": "books/de/the-regent.md",
+                            "genre": "military sci-fi",
                             "synopsis": "synopsis/de/the-regent.txt",
-                            "excerpt": "books/de/the-regent.md"
+                            "title": "Die Regentin"
+                        },
+                        "en": {
+                            "cover": "images/en/THE_REGENT.webp",
+                            "excerpt": "books/en/the-regent.md",
+                            "genre": "military sci-fi",
+                            "synopsis": "synopsis/en/the-regent.txt",
+                            "title": "The Regent"
                         }
                     },
+                    "id": "the-regent",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0GSFKF2M1"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mZG11y"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0GT1JF88J"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4jk9Xo"
                         }
                     ]
