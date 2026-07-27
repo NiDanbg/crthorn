@@ -1,196 +1,157 @@
-CHAPTER 1
+- 1 -
 
-The air in the medical bay of the Rising Sun hung heavy with the stench of charred flesh and antiseptic. Before the battle, a sterile emptiness had defined this space—a handful of examination beds lined up in rigid rows, its stark white walls reflecting the cold glare of the overhead panels.
-Now, its capacity had doubled. Medical drones darted among the wounded—silver spheres whose sensors emitted a thin, monotonous whine. Humanoid units handled the more delicate procedures: suturing torn tissue, calibrating stasis fields, administering serums. Their metallic fingers never trembled. Not once.
-Rami walked slowly down the aisle of casualties. She had shed her commander's uniform for a navy-blue tunic—the standard issue worn by the medical technicians. The gesture was deliberate. Here, among the bleeding and the broken, she refused to be the Princess Regent. She simply wanted to be a fellow human being who could look them in the eye.
-Kenjiro trailed exactly four paces behind her. His left shoulder was heavily bandaged, yet he had outright refused to take a bed among the patients. His hand rested on the hilt of his katana—not in anticipation of an attack, but out of a habit rooted so deeply it likely governed even his dreams.
-Rami paused beside a bed near the far wall. The boy lying there couldn't have been a day over twenty. His left arm vanished beneath the cerulean glow of a stasis field, its energy pulsing in a steady, rhythmic simulation of breath. His face was gaunt, but his eyes were wide and alert.
-"How are you holding up, Lieutenant...?" Rami checked the data on the holographic terminal hovering above the bed. "Lieutenant Takeo?"
-The young man struggled to sit up. She gently pressed a palm against his uninjured shoulder, stopping him.
-"Princess Rami?" His voice was a harsh rasp. "Is it really you?"
+The throne room of the Hinode Teikoku was not built for debate. It was forged to end it.
+Rami stood at its center, beneath a vault of black stone and gold leaf. Twelve pillars rose like a petrified forest, and suspended between them were the provincial banners—silk steeped in the colors of a hundred worlds, conquered or assimilated over the centuries. At the far end, upon the high dais, sat her father. Emperor Kenshin Tokanawa wore no battle armor this morning. He was clad in the mourning white of a sovereign counting his dead.
+Eight hundred and seventy-four.
+Rami knew the number down to the last digit. She had carried it from the bridge of the Rising Sun all the way here, the way one carries a stone in a pocket—as a reminder of its sheer weight.
+"Victory," Lord Sato uttered, and the word sounded like an accusation in his mouth. The old aristocrat stepped forward, stroking his well-groomed beard. "We call it a victory, Your Majesty. But let the Council remember the cost. Seven ships. Nearly nine hundred souls. Thirty percent of the entire fleet's combat strength, incinerated in a single morning. If this is a victory, I dread the next."
+A murmur of agreement rippled through the councilors. Rami did not turn around. She had learned that looking at whisperers lent them a significance they do not possess.
+"The enemy lost twice as many," she noted calmly.
+"The enemy can afford such losses." This voice was new. General Misotishi emerged from behind Sato, weighed down by his lavish garments. Every fold of his robes cost as much as the monthly stipend of the technicians who had restored the scorched hulls of her ships. "Shogun Koriyama has commanded the frontier sectors for fifteen years. He builds a fleet in three shipyards while we assemble committees. And behind him stand daimyo—Nagata on the border, Yamashita in the Ring, and dozens of others still feigning neutrality. I ask the Council: is it prudent to provoke such a man by sending a child to face him?"
+There it was. The word. Child. Rami had stopped flinching at the sound of it somewhere around her third battle.
+"It was prudent," she said, "when the child saved three systems that this Council had already written off."
+"Silence."
+Kenshin's voice was not loud. It didn't need to be. It descended over the hall like the lid of a coffin, and the room yielded.
+The Emperor stood. He descended the steps of the dais—slowly, for the power that furrows the face does not spare the knees. He stopped before the Council, his daughter standing at his left side.
+"General Misotishi asks if it is wise to antagonize Koriyama." Kenshin let the name hang in the air. "Koriyama has been antagonized for fifteen years, General. He was antagonized when he raised a banner over sectors that had sworn fealty to this throne. He was antagonized when he proclaimed himself Shogun without receiving the title here. We are not provoking him. We are simply late in stopping him."
+Misotishi bowed his head, but not enough to hide his clenched jaw.
+"There is a more crucial issue than prudence," Kenshin continued. "The issue of legitimacy. Koriyama wages war as a Shogun—with an army, a fleet, and vassals. And who answers him? The Emperor?" He shook his head. "The Emperor reigns. The Emperor cannot occupy the throne and simultaneously command every squadron across hundreds of systems. And while the throne remains silent on the battlefield, every soldier, every daimyo, and every wavering world sees only one thing: a Shogun with a sword, and an Emperor with a crown who will not step down among the blades. That is the war Koriyama is winning before firing a single torpedo. The war over who holds command."
+Councilor Hirose stirred. The oldest man in the room—having outlived three emperors and earned the trust of a fourth—raised his hand with the slow solemnity of one permitted to speak out of turn.
+"Your Majesty describes a sickness as old as the Empire," he stated. "And a cure just as ancient. When House Arakawa raised a rebellion during the Second Expansion, Emperor Tenji did not step down from the throne. He appointed a Regent of the Armies—the voice of the crown among the battle standards—so that the rebel's blade would not be the only one with a name. The Regent did not govern provinces. He did not collect taxes. He did not sit in this chair. He commanded the war in the sovereign's name. Arakawa fell in two years."
+"A precedent," Sato muttered. "Precedents are double-edged swords. A Regent of the Armies is simply a Shogun by another name. Are we handing one person the entire military might of the Empire?"
+"Not just to one person," Kenshin said. "To the blood of this throne."
+The silence this time was different. It was the silence of men performing complex calculations.
+Rami understood everything before her father even looked at her.
+
+* * *
+
+He summoned her after the session to the small reception room behind the throne hall—the place where emperors conferred when they did not wish a hundred ears to catch their hesitations. The walls here were bare. The sole window overlooked the gardens, arranged in the strict geometry her father favored: even nature in this palace was forced to stand in formation.
+Kenjiro remained at the threshold. His left shoulder was still bandaged from the battle; he did not sit, did not lean, but held a stillness that proved not a single detail escaped his notice.
+"Did you know?" Rami asked.
+"I decided last night." Kenshin approached the window. "Hirose found the legal precedent this morning. The rest was theater for the Council."
+"They need to believe they are complicit in a decision that has already been made."
+And me? Did I have a say?
+He turned around. For a moment, the sovereign's mask vanished, replaced by the face of a father who simultaneously saw the infant he once cradled and the commander who had just buried nine hundred souls.
+"You will carry this burden, Rami. Not me. That is why you have the right to refuse before I announce it to a hundred witnesses." He clasped his hands behind his back. "Regent of the Armies. My voice where the crown cannot be present. You will command the fleet, the defenses, the war against Koriyama and anyone who serves him. You will wield the authority of the throne within these bounds—and only within them. You will not govern provinces. You will not touch the treasury. You will not step onto the dais before the throne as long as I draw breath." His voice lowered. "And when the war is over, you will return the power I entrust to you. All of it. Do you understand why I am telling you this now, and not later?"
+"Because later it will be too late to refuse."
+"Because later you might not want to give it back." He looked at her without reproach, with the weary clarity of a man who knows the taste of greatness. "I have seen good people enter conflicts as servants of duty, only to emerge enamored with their own indispensability. You are seventeen. I am giving you an army. This is poison, Rami, even when administered as a cure."
+She held his gaze.
+"Why, then?"
+"Because the alternative is to watch a seventeen-year-old girl save three star systems, only for the Council to confiscate her ship the next morning." Something cold passed over his face, fleetingly, like a draft under a closed door. "Order comes at a price, my daughter. A day will come when you must choose between compassion and stability, and that day will make you hate yourself. But the Empire survives because someone makes that choice. Today, I am choosing you. Not because you are ready. But because you are the only one I can trust with the swords, without fearing where you might turn them."
+Rami remained silent. A deep affection pulsed within his words, sheathed in something harder than steel, and she did not yet know how to tell the two apart.
+"The seal I gave you in secret," Kenshin said. "Do you have it with you?"
+From the folds of her tunic, Rami withdrew an object wrapped in dark silk. She unfolded it. Resting on her palm was a seal of black obsidian, engraved with a dragon biting its own tail—the symbol of Kenshin the First, the founder of the dynasty. She had shown it to a select few, one by one, behind tightly closed doors. The cold stone remembered the touch of General Hojo and those veterans who had believed in a seventeen-year-old girl simply because this dragon stood behind her.
+"Until now, it was a whisper," Kenshin continued. "A sign for a handful of people that the hand guiding you was mine. Tomorrow, the secrecy falls away. This same dragon will openly stand behind your every command. Use it sparingly. Wielded in the wrong place, it incriminates me. Wielded properly, it turns a princess into the voice of a thousand years of history."
+The obsidian was heavy in her palm—cold and massive, as if it had grown denser since she had last held it.
+"Tomorrow, before the Council, you will kneel as an heir," Kenshin said, "and you will rise as a Regent. Tonight, you are still merely my daughter. Make the most of it. You will not have many nights like this."
+
+* * *
+
+Kenjiro caught up with her in the corridor leading to the shuttle deck. For a while, they walked in silence past the guards, who bowed a fraction lower than they had yesterday—the news was already pulsing through the palace network, traveling faster than an official decree.
+"You're going to need a command staff," he said at last. "People you trust, not those appointed by the Council."
+"I know." Rami gripped the obsidian seal in her pocket. "Akira. Takeshi, if he agrees to serve under a girl's command. You."
+"I already serve."
+"You guarded the princess." She stopped and turned to him. "Tomorrow, you will be guarding the Regent, who sends people to their deaths at her own discretion. That is a different person, Kenjiro. I won't take offense if you decide your oath was to the former."
+The samurai observed her for a long moment. Then, his lips twitched into the faintest of smiles.
+"A sword that has been broken once," he said quietly, "knows the line between the blade and the butchery. I will guard the one who remembers that difference. You still remember it."
+Beyond the viewports lay the capital's orbital station—thousands of lights, thousands of vessels suspended in anticipation of an order that, until this moment, no one had the legitimate right to give. Tomorrow, it would come from her.
+Somewhere amidst that swarm of lights was Amaterasu—the unit she had formed in the bowels of an ice moon when her world offered nothing but a hiding place. Tomorrow, its existence would become official. Its name would merge into the Imperial registries the way a stream vanishes into a great river, and its people would wear insignia that no one would dare contest.
+Rami felt no regret. A name is given to that which must remain hidden. Tomorrow, hiding places would become obsolete.
+She took out the seal and stared for a moment at the black dragon, coiled in an endless circle. Then she put it away.
+Koriyama was wounded, but not broken. Somewhere beyond the frontier veil, he was counting his dead, building new frigates, and preparing for the war that was only just beginning to reveal its true scale. Months would pass between this moment and their next clash—time that would forge the princess from the throne room into something even her father did not yet dare to name.
+But that was yet to come. Tonight, Rami still had the right to be exhausted. She still had the right to be afraid.
+Tomorrow, she would only have the right to lead.
+ 
+- 2 -
+
+The air in the medical bay of the Rising Sun was thick with the layered stench of charred flesh and antiseptic. Before the battle, a sterile emptiness had reigned here: a handful of beds for routine exams lined up in strict rows, and pristine white walls reflecting the cold glare of the overhead panels. Now, the ward was operating at double its capacity. Medical drones darted among the wounded—silvery spheres whose sensors emitted a high, monotonously piercing whine. Humanoid units performed the delicate procedures: suturing tissue, calibrating stasis fields, and injecting serums. Their metallic fingers never trembled. Not once.
+Rami walked slowly past the wounded. She had swapped her commander's uniform for a dark blue tunic—the exact same kind worn by the medical technicians. The gesture was calculated. Here, among the casualties, she refused to be the Crown Princess. She wanted to remain simply a human being, looking them squarely in the eye.
+Kenjiro trailed her at a distance of four paces. His left shoulder was still bandaged, but he had refused to take a bed among the patients. His hand rested on the hilt of his katana out of a habit so deeply ingrained that it didn't leave him even in his sleep.
+Rami stopped by a bed at the far end of the ward. The boy lying there could hardly have been twenty. His left arm vanished beneath the pale blue glow of a stasis field; the energy modulated rhythmically, mimicking the rise and fall of breath. His face was drawn, but his gaze remained alert.
+"How are you feeling, Lieutenant...?" Rami checked the data on the holographic terminal above the bed. "Lieutenant Takeo?"
+The young man made an attempt to sit up. She stopped him gently, placing a hand on his uninjured shoulder.
+"Princess Rami?" His voice was raspy. "Is it really you?"
 "It is. And don't try to get up—the doctors will accuse me of interfering with their work."
-The boy managed a faint smile, though the warmth never reached his eyes.
-"I've been thinking about the battle," he confessed. "I saw Koriyama's flagship lose its shields. I've never seen anything like it. It was as if reality itself were tearing apart."
-Rami swallowed hard. The memories of the engagement still burned fresh in her mind—the shredded hulls, the blinding detonations, the desperate voices over the comms that abruptly cut to dead static.
+The boy offered a faint smile, though the joy didn't quite reach his eyes.
+"I'm thinking about the battle," he said. "I saw the defenses of Koriyama's flagship collapse. I've never seen anything like it. It was as if reality itself tore apart."
+Rami swallowed hard. Memories of the clash still burned fresh in her mind—the shredded hulls, the blinding explosions, the voices over the comms that abruptly dissolved into dead static.
 "It was terrifying," she admitted. "For all of us."
 "But we won, right?"
-She caught something more than just a question in his tone. It was a plea for meaning, a desperate need to justify the agony of his mangled arm.
+In his voice, she caught something more than just a question. It was a plea for meaning, something to justify the agony in his mangled arm.
 "We survived," Rami corrected him gently. "For now, that's enough."
-She stayed by his side for a few more minutes. She listened to him recount the sheer chaos, the catastrophic system failures in his fighter, the exact moment he realized he wouldn't make it back to the mothership—and the eerie calm that washed over him once he decided to face death head-on, staring down the enemy. Rami watched him process the trauma. He was weaving the horror into a narrative he could actually bear.
-It's what we all do. We try to cage the monster in words to strip away its power.
-She moved on to the adjacent bed. Commander Hoshino—a veteran engineer from the decimated escort ships—lay on her side. The left half of her face and neck was mottled with the raw, reddish tracks of regenerative therapy. The brand-new skin looked smooth and pink—an unnatural contrast to the weathered lines on the other side.
+She stayed by his side for a few more minutes. She listened to his account of the chaos, of his fighter's systems failing, of the moment he realized he wouldn't make it back to the mothership, and of the strange calm that followed his decision to face death head-on. Rami watched him process the trauma. He was turning the horror into a narrative he could bear.
+That was what they were all doing. Trying to cage the monster with words, hoping to strip away its power.
+She moved to the adjacent bed. Commander Hoshino, a veteran engineer from the destroyed escort ships, was lying on her side. The left half of her face and neck was covered in the reddish traces of regenerative therapy. The new skin looked smooth and pink—an unnatural contrast to the wrinkles on the other side.
 "How is the recovery coming along, Commander?" Rami asked, taking a seat on a metal stool.
-"Painfully, Your Highness." Hoshino attempted a smile, but her face twisted into a wince instead. "The doctors promise that in two months, there won't be a trace left. But I'm in no rush—scars build character."
-Rami smiled for the first time in hours. The levity was fleeting, however, and her expression soon darkened again.
-"And your team?"
+"Painfully, Your Highness." Hoshino tried to smile, but her face twisted into a grimace. "The doctors promise that in two months, there won't be a trace left. But I'm in no rush—scars build character."
+Rami smiled; for a fleeting moment, the exhaustion receded. Then her expression darkened again.
+"And what happened to your team?"
 Hoshino's features hardened.
-"We lost four. Junior Lieutenant Haruki Koda was nineteen. Fresh out of the academy. The last thing he told me before our shift was that his mother had sent him a recipe for homemade ramen. He promised to cook it for us when we got back."
-Rami fell silent. There were no words that could ever fill a void like that. She simply laid her hand over Hoshino's fingers and gave them a firm, grounding squeeze.
-She continued her rounds, stopping for every single person. Their stories layered over one another in her mind—shards of a single war refracted through dozens of shattered lives. The pilot who had executed three combat maneuvers with a thruster engulfed in flames. The navigator who kept feeding coordinates to the bitter end while shrapnel shredded her thigh. The gunner who said absolutely nothing—he only stared at her with eyes that held a sheer abyss for which Rami had no name.
-When she finally stepped out of the medical bay, Kenjiro was waiting by the door. He stood perfectly still with his arms crossed, but she noticed that the bandage on his shoulder was already soaked through with blood.
+"We lost four people. Junior Lieutenant Haruki Koda was nineteen. He had just graduated from the academy. The last thing he told me before our shift was that his mother had sent him a recipe for homemade ramen. He promised to cook it for us when we got home."
+Rami fell silent. There were no words that could fill a void like that. She simply placed her hand over Hoshino's fingers and squeezed them tightly.
+She continued her rounds. She stopped at every bed. Their stories layered over one another in her mind—fragments of a single war refracted through dozens of different fates. The pilot who executed three combat maneuvers with an engine on fire. The navigator who kept transmitting coordinates until the very end, even as shrapnel shredded her thigh. The gunner who said nothing at all, merely staring at her with eyes full of an abyss for which Rami had no name.
+When she exited the medical sector, Kenjiro was waiting for her by the doors. He stood motionless with his arms crossed, but she noticed that the bandage on his shoulder was already soaked with blood.
 "You're bleeding," she pointed out.
 "It's superficial."
 "Kenjiro."
-"I will change the dressing once you conclude your inspection of the hangars, Your Highness."
-She didn't argue the point. She knew him far too well for that.
-
-* * *
-
-The hangars existed in an entirely different reality. Instead of the muted, sterile silence of the medbay, organized chaos reigned supreme here. The cavernous bays echoed with an industrial roar—welding torches cast electric arcs that cleaved through the shadows like furious lightning strikes. Pneumatic hammers pounded in a staccato rhythm. High-frequency laser cutters emitted a piercing shriek that set teeth on edge. The air hung thick with the stench of machine oil, molten metal, and heavy ionization.
-The frigate Dragon sat bolted to the main platform. Rami paused before it, rooted to the spot.
-Once, the ship had embodied aerodynamic perfection. Clean lines, mirrored armor, methodically placed weapon systems—centuries of engineering evolution forged in steel and composites. Now, the vessel resembled a casualty that the abyss had chewed up and spat out. A massive crater yawned in the hull—not a jagged breach from a kinetic round, but a complex, cauterized wound scorched by a concentrated energy beam. The metal plating had melted and warped into bizarre, blistered configurations. The portside weapon turrets were reduced to a shapeless mass. Shield projectors jutted out like mangled limbs.
-Akira emerged from the bowels of the ship the moment he spotted her. His face was streaked with soot, his hair plastered to his forehead with sweat, and his eyes were bloodshot. Yet, that familiar spark Rami knew so well still burned in his gaze. He hadn't stopped working since the battle ended.
-"The damage exceeds our estimates," he stated, bypassing the pleasantries. Rami valued that about him—his absolute refusal to sugarcoat the truth. "The main power artery is severed. Destroyed in three critical sectors. We need new conduits, new distribution nodes, and new breakers. Standard protocol dictates a six-week turnaround."
-Rami stepped closer to the damaged section. She ran her fingers along the edge of the melted metal—it felt smooth to the touch, almost like glass.
+"I will change the dressing once you finish the hangar inspection, Your Highness."
+She didn't contest his decision. She knew him far too well.
+The hangars inhabited an entirely different reality. Instead of the hushed silence of the infirmary, organized chaos reigned here. The massive bays echoed with an industrial roar—welding torches cast electrical arcs that slashed through the shadows like furious lightning strikes. Pneumatic hammers pounded in a choppy rhythm. High-frequency laser cutters unleashed a piercing shriek that set teeth on edge. The smell of machine oil, molten metal, and ozone filled the space.
+The frigate Dragon sat moored to the main platform. Rami stopped in front of it and froze.
+Once, the ship had been the embodiment of aerodynamic perfection. Clean lines, mirrored armor, methodically arranged weapon systems—centuries of engineering evolution cast in steel and composites. Now, the vessel looked like prey that the abyss had chewed up and spat out. A massive hole gaped in the hull, seared through by a concentrated energy beam. The metal plating had melted and warped into grotesque shapes. The weapon turrets on the port side were reduced to a shapeless mass. The shield projectors jutted out like broken limbs.
+Akira emerged from the ship's bowels the moment he spotted her. His face was streaked with soot, his hair plastered to his forehead with sweat, and his eyes were bloodshot. Yet, that familiar spark still burned in his gaze. He hadn't stopped working since the battle ended.
+"The damage exceeds our estimates," he stated, bypassing any pleasantries. Rami appreciated that about him—his utter inability to sugarcoat the truth. "The main power manifold is severed in three critical sectors, and the molecular structure of the conduits has destabilized. We need new power buses, distribution nodes, and relays. Standard protocol dictates six weeks."
+Rami stepped up to the damaged section.
+She ran her fingers along the edge of the melted metal—the cooled surface felt as smooth as glass to the touch.
 "Show me the schematics," she ordered.
-Akira activated a portable projector. The holographic grid of the power channels pulsed between them—red lines for weaponry, blue for shields, green for thrust, and yellow for life support systems. In three distinct zones, the colors vanished, replaced by the flashing markers of a critical failure.
-Rami studied the projection with the intense focus of a strategist plotting a breakthrough. Her finger traced alternative routes, searching for unconventional solutions. Akira waited with his arms crossed; he knew that look all too well.
-"What happens if we bypass the central grid?" she asked after a minute. "Instead of rebuilding the entire hierarchical system, we construct a series of independent power cells. Each one will supply a specific cluster of modules."
-Akira furrowed his brow.
-"Modular cells are highly unstable. If one takes a hit in combat, the chain reaction could..."
-"We'll isolate them physically. An emergency jettison system. At the slightest sign of an overload, the entire cell gets catapulted into space."
-"You'll drop ten percent of your overall efficiency," Akira warned, though a hint of genuine intrigue now laced his voice.
-"But I'll buy us five weeks. Right now, momentum is vastly more valuable than perfection."
-As they debated the technical specifics, technicians and mechanics began to gather around them. Most listened in silence, their calloused hands folded across their chests. Rami noticed an older man—his face heavily lined, his skin mottled with old welding scars. He was watching her with a mixture of profound respect and deep-seated skepticism.
-"Do you have any objections, Chief Mechanic...?" she asked, recognizing his rank by the frayed chevrons on his sleeve.
-"Taniguchi, Your Highness." He hesitated for a fraction of a second. "It's not about the tech. The engineering is sound. But the people... The people are at their breaking point. We've lost friends. Some of the boys think this is entirely pointless. That we don't stand a snowball's chance in hell against Koriyama."
-There was no defiance in his tone. Only raw, unvarnished pain. Rami understood instantly that he wasn't challenging her plan; he was simply sharing the crushing emotional weight his crew was carrying.
-She swept her gaze across the gathered crowd. Dozens of eyes were locked onto her. Engineers in grease-stained jumpsuits, technicians with dark bags under their eyes, and mechanics with bandaged hands. These were the very people who held the metal of her army together.
-"Can you tell me why you're here?" she asked quietly. "I'm assuming it isn't for the paycheck."
-A heavy silence fell over the hangar. Somewhere in the distance, a welding torch hissed and died out.
-"I'm from Kepler-442b," a young woman spoke up. She looked to be about Akira's age. Her voice was deadpan, but the knuckles of her clenched fists were completely white. "Koriyama turned my colony to ash. I lost my parents there."
-"I'm from New Tokyo," another voice chimed in. "I saw what they did to the civilians."
+Akira activated his portable projector. The holographic grid of the power channels vibrated between them: red lines for weaponry, blue for shields, green for propulsion, and yellow for life support. In three zones, the colors died out, replaced by blinking markers indicating critical failure.
+Rami studied the projection with the cold intensity of a strategist plotting a breakthrough. Her finger traced alternative routes through the ship's architecture. Akira waited with his arms crossed—he knew that look.
+"What happens if we bypass the central grid?" she asked a minute later. "Instead of rebuilding the entire hierarchical system, we construct a series of independent power cells. Each one will supply a specific cluster of modules."
+Akira furrowed his brows.
+"Modular cells are unstable. If one takes a hit in combat, the chain reaction could..."
+"We'll isolate them physically with magnetic bulkheads. An emergency decoupling system. At the slightest sign of an overload, the cell is jettisoned into the vacuum."
+"You'll lose ten percent of your overall efficiency," Akira warned, though a hint of intrigue was already creeping into his voice.
+"But I'll gain five weeks. Right now, time is more valuable than perfection."
+As they debated the technical parameters, a crowd of mechanics gathered around them. Most listened in silence, their work-scarred arms crossed over their chests. Rami noticed one of the older men—his face deeply lined, his skin mottled with weld burns. He was watching her with a mix of respect and skepticism.
+"Do you have any objections, Chief Mechanic?" she asked, recognizing his rank by the worn chevrons on his sleeve.
+"Taniguchi, Your Highness." He hesitated. "It's not the engineering. That's viable. But the people... The people are at their breaking point. We've lost comrades. Many believe it's pointless. That we don't stand a chance against Koriyama."
+There was no defiance in his tone, only raw, unvarnished pain. Taniguchi wasn't arguing; he was simply voicing the collective burden that was bending the crew's backs.
+She swept her gaze over the gathered crowd. Dozens of pairs of eyes were fixed on her. Engineers in grease-stained coveralls, technicians with dark circles of insomnia under their eyes, mechanics with bandaged hands. The people holding the steel of this army together.
+"Can any of you tell me why you're here?" she asked softly. "I highly doubt it's for the paycheck."
+Silence fell over the deck. Somewhere in the distance, a welding torch hissed and died.
+"I'm from Kepler-442b," a young woman spoke up, about Akira's age. Her voice was flat, but her knuckles were white from clenching her fists.
+"I'm from New Tokyo," another added. "I saw what they did to the civilians."
 Rami nodded slowly.
-"I know your stories. That is exactly why we are here. Not for abstract military doctrines. We are here for the people we've lost and for the ones we still have a chance to save."
-She turned her attention directly back to Taniguchi.
-"We lost a battle yesterday. But we haven't lost the war. Koriyama is banking on our fear, on the paralyzing grip of our despair. Every single ship we put back on the line, every system we get up and running—that is absolute proof that we haven't surrendered. Proof that their sacrifices were not in vain."
-Her words carried no hollow pathos. There was no excessive theatricality. Her speech was precise, like a finely tuned instrument applied to the exact right spot.
-Taniguchi stared at her for a long moment. Finally, his tense shoulders dropped, and he gave a slow nod.
-"You said one week for the Dragon?"
+"I know your stories. That's why we're here. Not for abstract doctrines, but for the people we've lost. And for the ones we can still save."
+She turned her attention directly to Taniguchi.
+"Yesterday, we won. At a cost that tastes as bitter as defeat, but we won. And the war isn't over. Koriyama is counting on our fear, on the paralysis of our despair. Every ship we put back on the line, every system we bring online—it proves that we haven't surrendered. That their sacrifices weren't in vain."
+Her words lacked forced pathos or theatrical flair. Her speech was a calibrated instrument, struck at precisely the right angle.
+Taniguchi stared at her for a long time. Finally, his arms dropped to his sides, and he nodded.
+"One week for the Dragon, you said?"
 "Three days."
-A beat of silence. One of the techs behind him let out a heavy breath.
-"We'll get it done," Taniguchi stated firmly.
-The work commenced immediately. Rami remained in the hangars for another two hours—not to micromanage, but because she could sense that her presence was needed. She watched as hesitation morphed into laser-focused concentration, as the crews naturally self-organized, and as hands that had hung limply just moments before now gripped their tools with undeniable purpose.
-This is the only thing I can give them, she thought. Meaning. Something worth pushing forward for.
-Later, she assembled the team leads in the central section. The holographic projector mapped out an aggressively ambitious recovery plan—schedules, resource allocation, and strict priorities. The numbers were utterly merciless, and every single person in the room knew it.
-"I'll be completely upfront with you," she said as the briefing wrapped up. "What I am asking of you borders on the impossible. Twelve-hour shifts. Constant improvisation. Solving problems that haven't even been written into the manuals yet. But I believe you will pull this off. Because you've already done it. Yesterday, you achieved the impossible—you survived."
-Spontaneous applause erupted, but she cut it off with a swift raise of her hand.
-"One last thing. Every one of you has family. Friends. People out there who are worried sick about you. I want you to know that I am personally taking charge of their well-being. Medications, rations, security—it will all be taken care of. You take care of my ships. I take care of you."
-When the crews finally dispersed, Rami remained on the platform, alone for a fleeting moment. The battle-induced adrenaline had evaporated, and the exhaustion that took its place wasn't merely physical. It felt heavier than gravity, seeping deep into her very bones. But beneath it all, something new was pulsing—a sensation that was simultaneously fragile and as sharp as a honed blade.
-Yesterday, I was a strategist, she thought. Today, I have to be a leader. The difference doesn't lie in the title. The difference lies in the way they look at me, and in my absolute readiness not to betray them.
+A pause. Someone among the technicians behind him let out a sharp breath.
+"We'll get it done," Taniguchi said firmly.
+Work resumed immediately. Rami stayed in the hangars for another two hours; her presence was required. She watched as hesitation melted into sharp focus, as the teams self-organized, as hands that had hung limply only moments ago now gripped their tools with undeniable purpose.
+It was the only thing she could give them. Meaning. A reason to keep pushing forward.
+Later, she assembled the team leads in the central section. The holographic projector mapped out a ruthless reconstruction plan—schedules, resources, priorities. The numbers left no room for illusions, and everyone in the room knew it.
+"I will be blunt," she said finally. "What I am asking of you borders on the impossible. Twelve-hour shifts. Constant improvisations. Solving problems that aren't in any manual. But I believe you will succeed. Because you already did. Yesterday, you achieved the impossible—you survived."
+Applause erupted spontaneously, but she cut it off with a swift gesture.
+"One last thing. Every single one of you has family. Friends. People who are sick with worry for you. I am taking personal responsibility for them. Medical supplies, rations, security—everything will be provided. You take care of the ships. I'll take care of you."
+When the room finally emptied, Rami remained alone on the platform. The adrenaline of the battle had evaporated, and the exhaustion that took its place wasn't merely physical. It felt more crushing than gravity, seeping deep into her bones. But beneath it all, something new was pulsing. A sensation both fragile and sharp as a honed blade.
+Yesterday, she had drawn up strategies. Today, she was forging willpower. The difference lay in the way they looked at her, and in her ironclad resolve not to betray their trust.
 
 * * *
 
-The bridge of the Rising Sun was enveloped in the bluish glow of the monitors. The viewports revealed the abyss—a black void strewn with stars and the wreckage of the battle. Rescue shuttles still maneuvered through the debris, their lights blinking in a slow, fading rhythm.
-Rami approached the glass. Her pale reflection met her gaze, eyes shadowed and lips pressed into a thin line. Not a trace remained of the princess she had been just six months ago.
-Is this for the best?
-Kenjiro materialized beside her, silent as a shadow. He had changed his bandage; the gauze no longer showed any bloodstains.
-"How are you feeling?" he asked.
-She watched the skeletal metal husks of the ships drifting slowly in zero gravity.
-"Tired. Scared." A moment of silence stretched between them. "But also ready."
+The bridge of the Rising Sun was bathed in the pale blue glow of the monitors. The viewports revealed the abyss—a pitch-black void strewn with stars and the wreckage of the clash. Rescue shuttles were still maneuvering through the debris; their running lights blinked in a slow, fading rhythm.
+Rami stepped up to the glass. Her pale reflection met her gaze with dark shadows beneath her eyes and lips pressed into a thin line. Not a trace remained of the princess she had been six months ago.
+Was that for the best?
+Kenjiro drifted up beside her, silent as a ghost. He had changed his dressing—there were no fresh bloodstains on the gauze yet.
+"How do you feel?" he asked.
+Her eyes followed the metal skeletons of the drifting ships as they tumbled lazily through zero gravity.
+"Tired. Scared." A beat of silence passed. "But ready."
 "Koriyama will return," Kenjiro said quietly.
-It wasn't a warning, but a statement of fact—as dry and precise as a technical damage report.
+It sounded like a statement of fact, as dry and precise as a technical damage report.
 "I know."
-Rami pulled back from the viewport and squared her shoulders, even though every muscle fiber protested. Her gaze turned to steel.
-"But before that, we have another battle to fight." She strode away resolutely, her footsteps echoing across the metal deck. "Kenjiro, prepare the shuttle for the capital. The Council is waiting."
-Behind her, beyond the thick glass, the lights of the rescue teams continued to flicker. Rami, however, did not look back.
-CHAPTER 2
-
-The Imperial Council chamber smelled of aged wood and filtered air. The soaring vaults receded into the gloom, while massive black marble pillars slashed across the polished floor tiles with dense shadows. Along the walls, holographic interfaces poured out silent streams of data—lists of names, structural damage analyses, and statistics that reduced human tragedy to dry administrative units.
-Rami remembered them alive just an hour ago. Lieutenant Takeo in his stasis field. Commander Hoshino with the regenerated skin on her face. Sub-Lieutenant Haruki Koda, who had sworn to cook homemade ramen. Here, they were merely rows in a spreadsheet, marked in red.
-She stood in the center of the chamber. Dozens of gazes bored into her back. Beside her, Kenjiro and Akira took up positions that appeared ceremonial but adhered to strict tactical protocol—close enough to react, far enough to respect etiquette. She had just concluded her report on the Battle of Yamato, and her words still hung in the air—sharp, bitter, and impossible to retract.
-I was too blunt, she thought. In politics, honesty is an expensive weapon—powerful, but with a dangerous recoil.
-She had presented the victory unvarnished—decisive, yet bloody. She spared no details about the casualties, as the numbers were already public knowledge anyway. But now, watching the petrified faces of the councilors, she realized: to them, the truth was merely an inconvenience.
-General Misotishi rose slowly, with the measured grace of a man who knows exactly where to strike. Rami had long suspected his ties to the Shogun, though she lacked proof. Now, however, his body language gave him away. Instead of a field uniform, he wore lavish robes—dark blue silk woven with gold threads, standing in stark contrast to her own dusty, worn-out gear. His face radiated an air of tranquility and deceptive statesmanlike dignity.
-He had prepared for this battle, she realized, clasping her hands tightly behind her back to hide the tremors of exhaustion. While I was fighting enemies on the outside, he was sharpening his blade in here.
-Misotishi bowed deeply to Emperor Kenshin, who sat motionless upon the throne. Power had left visible marks on the young ruler's face. His eyes remained profound and watchful—the eyes of a man who had learned to listen not only to words but to the silence between them.
-"Your Majesty, esteemed members of the council," Misotishi's voice resonated within the chamber. "We are all in awe of Princess Rami's bravery. Her courage is legendary, her devotion to the Empire unquestionable."
-He paused to let the words gain weight. Rami felt her muscles tense.
-"But courage, gentlemen, when unguided by wisdom and experience, ceases to be a virtue. It becomes... recklessness."
-The echo of the final word slowly faded into the walls. Several councilors exchanged glances. Something shifted in the room—invisible yet palpable, like a sudden spike in atmospheric pressure.
-Misotishi pointed at the screens.
-"Look at this data, honorable councilors. Do not view it as mere statistics. Every one of these names is a son, a father, a husband. Every destroyed ship was a home to hundreds of souls. A home reduced to stardust."
-He activated the terminal. The data projected into the center of the chamber—three-dimensional graphs that laid bare the casualties with agonizing clarity.
-"The Princess's fleet suffered eighty-three percent losses. Out of fifteen vessels, only three survived, and with heavy damage, at that. Out of six thousand personnel, four thousand two hundred perished. That, gentlemen, is not a victory. It is a catastrophe that ended in sheer luck."
-Rami listened, every word piercing her like a dagger. They were my people. I led them. I lost them. Yet at the same time, she knew the truth—without this catastrophe, the enemy fleet would have struck the heart of the Empire.
-"The Princess claims this victory was vital," Misotishi continued, his tone growing harsher. "I do not contest the mission. But the methods... the methods raise grave concerns. She threw an entire fleet against a superior foe, relying on improvisation and unorthodox tactics that undermine the very foundation of our military doctrine."
-He switched off the projection and addressed the council directly.
-"Military doctrine is not born of whim. It is built upon centuries of experience and thousands of battles. When we begin to improvise in critical moments, when we gamble on chance instead of strategy, we jeopardize the very bedrock of our power."
-Lady Mo Sukawa, seated beside him in her white silk dress, smiled. Her smile was flawless and utterly hollow.
-"Youthful enthusiasm has always possessed a certain charm," her voice carried to every corner of the room. "In times of peace, it inspires. But when dealing with the lives of thousands of soldiers, with the fate of entire star systems... perhaps we should place our trust in experience, rather than impulsivity."
-Her words, delivered with exquisite politeness, sounded almost like a compliment. But everyone in the chamber read the subtext: Rami is too young. Too inexperienced. Too dangerous.
-Rami clenched her fists behind her back until her nails dug into her palms. Then, she slowly relaxed her fingers.
-They were talking about her people. About her battle. But she wasn't the one who had reduced her subordinates to numbers—they were.
-Captain Motozawa's face flashed before her, capturing the exact second an enemy plasma torpedo cleaved his ship in half. Commander Suzuki's voice in his final transmission, right before the comms drowned in static. These were not statistical units. They were men and women who had followed her and died defending everything they held dear.
-Rami stepped forward. Instead of taking her place behind the podium, as protocol dictated, she began to walk slowly along the semicircle of council chairs. The maneuver caught the room off guard; dozens of eyes darted to follow her.
-"My 'unorthodox' methods, General Misotishi," her voice rang out smooth and level, though she refused to look at him, "turned out to be the sole reason we won. Your 'centuries-old military doctrine' would have doomed us to total annihilation against an enemy that outmatches us not only in numbers but in technology."
-She stopped by Daimyo Nagata's chair. The old warlord watched her from beneath heavy eyelids but didn't flinch. Rami turned back to the chamber and pointed at the screens behind her.
-"Yes, the cost is steep. Every lost soul weighs heavily on my conscience." Her tone remained low, measured. "But allow me to ask you: what was the alternative? If the enemy fleet had broken through our lines, if it had reached Kyoto, Nara, the capital itself—what would the death toll be then?"
-She resumed pacing. She walked past Lady Sukawa, whose gaze tracked Rami with the precision of a targeting system.
-"Every sacrifice in that battle thwarted the invasion of three worlds. People died to protect families who will never even learn their names. You speak of 'caution.' What does caution mean when the enemy is already at your gates?"
-Daimyo Nagata leaned forward. Beside him, Daimyo Watanabe—a younger man with a reputation as a cold-blooded strategist—nodded barely perceptibly. Many, however, maintained a stony silence. Their faces betrayed a lingering doubt, poisoned by Misotishi's calculated rhetoric.
-He is in his element here, Rami admitted to herself. In this chamber, words cut deeper than swords. And he wields them to perfection.
-Misotishi smiled—the gesture looked so polished, it was as if he had rehearsed it in front of a mirror.
-"Sentiment is a poor advisor in war, Princess," he stated. "I, too, cherish the Empire. I, too, accept the necessity of sacrifice. But there is a distinct difference between strategic risk and the reckless squandering of resources."
-He activated the holographic table. A three-dimensional model sprang to life—a complex web of fortifications, entrenched bases, and patrol vectors.
-"Here is my proposal. Instead of throwing our fleets into offensives, we will forge an impenetrable defensive perimeter. We will dig in at key strategic nodes and force the enemy to enter our sphere of influence, where the advantage is firmly ours."
-The plan looked flawless—logical, systematic, and meticulously mapped out.
-"This approach will bleed the enemy dry, rather than drag us into frontal collisions. We will preserve our manpower. We will buy time for our manufacturing sectors to construct new vessels and train fresh personnel."
-Rami listened to him, and for a fleeting second, she felt a sharp pang of hesitation. His words sounded reasonable. Stable. Safe. Perhaps there really is a better way. Perhaps I am too...
-Misotishi turned to the council.
-"The Princess's path leads to more bloodshed, to ruin and death that may ultimately prove in vain. My path promises peace, stability, and a future where we won't have to mourn thousands of dead for every position gained."
-Rami stopped.
-She stood at the edge of the holotable, the projection's bluish glow carving her face into stark light and shadow. She stared at Misotishi's defensive lines—those clean, perfect, geometric boundaries—and saw something in them that the others were missing.
-She saw a cage.
-Don't let them use our deaths for their games, Captain Yoshida's words echoed in her mind, spoken mere hours before his ship was reduced to cosmic dust.
-Rami pivoted sharply and spoke before the doubt could paralyze her.
-"Your plan sounds brilliant, General."
-She ran her fingers along the edge of the table—slowly, almost thoughtfully.
-"Exceedingly logical. Exceptionally rational. But it is built upon one fatal flaw."
-"And what might that be?" Misotishi asked. His tone was condescending, but the fingers of his right hand curled into a barely noticeable fist.
-She smiled.
-"You assume the enemy is on the outside."
-Dead silence descended upon the chamber. The only sound was the quiet hum of the cooling systems overhead.
-"Your blueprint is ideal for repelling a foreign aggression," she continued, this time standing dead still before the councilors. Her voice didn't waver—this wasn't a speech; it was a statement of fact. "But what if the greatest threat is already inside our walls? What if this war is not merely against an outside occupier, but is being fueled from right here? By people who wear the mask of loyal subjects, while methodically orchestrating the collapse of the Empire?"
-She provided no proof. She named no names. But her gaze slashed through Misotishi and swept onward—slowly, calculatingly—across the faces of everyone present. The implication was crystal clear. And everyone felt it.
-A shadow of uncertainty rippled through the room. Several councilors shifted uneasily. Lady Sukawa's smile did not falter, but her eyes narrowed into thin slits.
-Misotishi remained motionless. Only a muscle in his cheek twitched, barely visible.
-"Those are... incredibly serious accusations, Princess," he said. His voice maintained its composure, but his jaw clamped into a hard line. "Accusations backed by absolutely no evidence."
-"Are they?" Rami tilted her head. "Perhaps it is time we asked ourselves not only how we fight our enemies, but why we do it. Perhaps we need to look beyond the visible. It is entirely possible that the real battle is not being fought for planets and systems, but for the very soul of the Empire."
-She fell silent. The monotonous drone of the cooling modules filled the quiet.
-"Perhaps there are those who stand to profit from this war. Individuals for whom peace is a threat, and conflict—an opportunity."
-Rami looked toward the throne. Emperor Kenshin sat rigidly, but his gaze was intensely focused—tracking every word, every gesture, every ripple of tension in the hall.
-The Emperor stood up. His movements were deliberate, governed by an authoritative bearing forged over decades. When he spoke, the murmurs in the chamber died instantly.
-"Enough."
-The word rang out like a hammer striking metal.
-"Princess Rami has achieved a strategic victory that halted the enemy's advance at a critical juncture. For this, she deserves our gratitude."
-He locked eyes with her. For a fleeting moment, Rami read something more than approval in his gaze—it was a warning. Tread carefully, his expression conveyed. You have the right to attack, but if you cannot prove your words, you will be devoured.
-"At the same time, General Misotishi's concerns regarding the cost of this victory are well-founded. We cannot squander the lives of our soldiers, regardless of the scale of our objectives."
-He addressed the entire council, his voice taking on an edge of steel:
-"As for the broader issues raised in this debate—they require meticulous investigation and analysis. I will consult with my military advisors and intelligence services. The decision regarding our future strategy will be made after a comprehensive review of all factors." He waited a heartbeat. "I expect everyone to continue fulfilling their duties with absolute loyalty."
-He dismissed the council with a sharp wave of his hand.
-The councilors began to rise from their seats—slowly, laboriously, as if surfacing from deep water. Whispers slithered through the room immediately, but they were hushed, guarded. No one wanted to be caught by the wrong ears.
-Rami and Misotishi remained rooted to the spot, locked in a staredown across the empty space. Figures with bowed heads filed past them, but the distance between the two felt electrified, exactly like the gap between two live electrodes.
-There was something bleeding through the General's gaze that she had seen before—in Koriyama's eyes, right when his flagship's shields collapsed. Cold, naked hatred. But there was something else, too—cool calculation. Misotishi wasn't feeling fear. He was surprised. And that was dangerous, because it meant he had underestimated her and wouldn't make that mistake a second time.
-Rami didn't break eye contact. She withstood his pressure second after agonizing second, until finally, the General gave a barely perceptible nod—a gesture that could have passed for respect, but was far more likely a promise of payback. He turned on his heel and walked away.
-Lady Sukawa followed him. The white silk of her dress rustled against the floor tiles, and her perfume left a trail in the air—sickly sweet, heavy, and suffocating.
-Rami waited until the chamber was empty. She took a deep breath, but it offered no relief. The adrenaline that had sustained her through the debate was draining away, leaving behind a chilling realization—she hadn't won. Not entirely. She had planted a seed of doubt, but seeds take time to sprout, and time was running out.
-"Princess."
-Kenjiro stood three paces behind her. His hand rested on the hilt of his katana—a habit ingrained so deeply it likely didn't leave him even in his sleep. His face remained expressionless.
-"Speak," Rami said.
-"Misotishi wasn't rattled. That means he has backing outside this room."
-"I know."
-Akira approached from the other side. He kept his hands shoved deep into the pockets of his grease-stained coveralls—he was the only person in the chamber who hadn't bothered to change out of his work gear. A streak of soot he'd forgotten to wipe off smeared his cheek.
-"You need proof, Rami," he said quietly, addressing her directly, just as he always did when they were alone. "The speech was strong. But words without facts are just noise."
-"I know that, too."
-She headed for the exit, her footsteps echoing across the polished floor. Kenjiro and Akira fell into step beside her. The wall and the blade.
-The massive double doors swung shut behind them with a hollow thud.
-Out in the corridor, the air was cooler, carrying the scent of metal and ionized dust. The dim light from the wall panels cast uniform shadows. Rami walked briskly—not because she was in a hurry, but because she knew if she slowed down, the exhaustion would finally take her down.
-"Koriyama is well aware that we have allies on the council," she said without looking back. "But we also know about his agents in there. The cards are on the table. The next move has to be ours."
-"What move, exactly?" Akira asked.
-Rami stopped. She turned and looked at them—Kenjiro with his hand on his sword, Akira with his hands in his pockets. The soldier and the engineer. The weapon and the mind.
-"Misotishi is just a symptom," she stated. "Koriyama is the disease. If we keep treating the symptoms, we lose. We need to strike right at the core. Something he can't deny or sweep under the rug."
-"The truth," Kenjiro said.
-"The truth," Rami confirmed. "The deadliest weapon we have in our arsenal."
-She continued down the corridor. Behind her, the political fire in the chamber continued to smolder. Ahead of her, the outlines of the future were already taking shape in the dark. Something was coming. Something that would change everything.
-She had to find it before the noose tightened around her neck for good.
+Rami stepped back from the viewport and squared her shoulders, even though every muscle fiber in her body protested. Her gaze turned to steel.
+"But before that, we have another battle to fight." She strode forward with purpose, her footsteps echoing against the metal decking. "Kenjiro, prep the shuttle for the capital. The Council is waiting for us."
+Behind her, beyond the thick glass, the lights of the rescue teams continued to blink. Rami, however, didn't look back.
