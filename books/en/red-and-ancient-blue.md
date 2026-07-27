@@ -776,4 +776,4 @@ He slid into the car and nodded at the driver. The vehicle sped toward the airpo
 
 "Time for action," Bartoldo growled into his phone. "Don’t underestimate him—he’s ruthless and stops at nothing." 
 
-If Cornell loses, I won’t hold my clan’s territory alone. Sebastian’s appetite for South America is insatiable. And the Stellar—they’ve eyed Chile for ages. Damn it all! He struck the armrest. These thoughts enraged him. As if cartels weren’t enough, now Lord Radu Vladislav withdraws. ‘Too old,’ the fossil says. The man’s been ancient for two millennia! Why retire now? 
+If Cornell loses, I won’t hold my clan’s territory alone. Sebastian’s appetite for South America is insatiable. And the Stellar—they’ve eyed Chile for ages. Damn it all! He struck the armrest. These thoughts enraged him. As if cartels weren’t enough, now Lord Radu Vladislav withdraws. ‘Too old,’ the fossil says. The man’s been ancient for two millennia! Why retire now?

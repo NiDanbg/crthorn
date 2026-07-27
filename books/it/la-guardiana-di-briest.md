@@ -143,4 +143,3 @@ Olana De Rur si alzò con la fatica degli anni. Lisciò la sua veste bianca e si
 Senza capire quando la conversazione fosse finita, assorbiti dalla forza delle parole dette, i giovani sentivano ancora la sua conclusione e continuavano a fissare i carboni che di tanto in tanto divampavano, finché uno dopo l'altro non trovarono conforto nell'oscurità, fondendosi con la cenere grigia della loro esistenza passata.
 
 Così anche la coscienza degli studenti dopo ogni conversazione con la Profetessa acquisiva una nuova forma di sedimentazione e la loro percezione del mondo circostante cambiava.
-

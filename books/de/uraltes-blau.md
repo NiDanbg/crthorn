@@ -564,5 +564,4 @@ Peter überwand geschickt mehrere Hindernisse und blieb plötzlich stehen. Er la
 
 „Nur ein Lichtspiel?“ Er trat näher und untersuchte es vorsichtig.
 
-„Zu schön, um wahr zu sein.“  
-
+„Zu schön, um wahr zu sein.“

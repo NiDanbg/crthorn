@@ -306,4 +306,3 @@ Puis — le vide. Un vide douloureux, lumineux, qui le hantait dans chaque rêve
 Mais les souvenirs étaient fragmentaires, pareils à un miroir brisé dont les éclairs reflétaient des portions d’une image plus vaste désormais hors de portée. Plus il tentait de les rassembler, plus ils lui glissaient entre les doigts tels du sable.
 
 Il ne restait qu’une certitude : il devait fuir. Que le danger approchait. Et que cette fois, il n’y aurait peut-être nulle part où se cacher.
-

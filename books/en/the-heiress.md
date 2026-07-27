@@ -1,165 +1,159 @@
-CHAPTER 1
+- 1 -
 
-The thin beam of the laser soldering iron hissed like a serpent, touching the microscopic circuit with jeweler's precision. Its light, focused into an indescribably fine thread of energy, melted the metal atom by atom, creating bonds so fragile that the slightest tremor of a hand could shatter them. Sweat trickled down Princess Rami's temple—a salty droplet threatening to fall onto the sensitive circuitry, but she didn't notice it. Her entire world had shrunk to the size of the small silver sphere levitating on a magnetic field above her workbench. A sphere studded with lenses no larger than grains of rice, with sensors capable of detecting the most negligible change in the gravitational field, and with almost invisible thrust nozzles, each etched with microscopic channels for perfect thrust control.
-Just two more bonds, ran through her mind as her eyes tracked the beam. Two more touches and the quantum gyroscope will be in place. Then the "Mosquito" will be able to navigate in zero gravity with millimeter precision.
-“Induction stabilizer—calibrated. Quantum gyroscope—synchronized. Just need to configure the flight recognition matrix and…" she murmured under her breath, her violet eyes—a rare genetic trait of the imperial line—squinted in absolute concentration. Her lips moved soundlessly, repeating the formulas she knew by heart: Kepler's equations for orbital mechanics, Planck's constants for quantum calculations, Neumann's algorithms for self-learning systems.
-In her mind's eye, she saw the small drone gliding between the asteroids at the border—silent, invisible, lethally effective. How it would map every rock fragment, every gravitational anomaly, every possible pirate hideout. How the data would be transmitted instantly to the Empire's command ships, giving them a tactical advantage enemy fleets could never overcome.
-If Father could only see the possibilities… if he could understand that the Empire's future lies not in tea ceremonies and intricate bows, but in innovations like this…
-Her chambers, though spacious and opulent, were a reflection of her untamed genius. The high ceiling of lacquered wood was adorned with traditional reliefs of dragons and phoenixes, but the eye was immediately drawn to the walls covered in shimmering holographic schematics. Complex diagrams of hyperdrives alternated with three-dimensional star charts of uncharted sectors, each one alive and moving. Here shimmered a simulation of a black hole, there rotated a model of a new planetary system. Data pulsed in a continuous stream, fed from the Empire's stellar network.
-Instead of priceless silk scrolls of ancient poetry, the walls displayed diagrams of revolutionary technologies—blueprints for energy shields that could turn asteroids into impregnable fortresses, and schematics for terraforming capable of transforming barren moons into blooming gardens for millions.
-The large workbench in the corner was a true battlefield of creation. It was littered with tools whose sheen betrayed hours of relentless use, with parts of robots in various stages of assembly, with copper wires thin as hairs, and with unfinished inventions that to the uninitiated eye would look like whimsical sculptures from the future. Here lay a prototype of a universal translator, capable of deciphering any language in the Galaxy within seconds. There stood a half-assembled mechanical exoskeleton, designed to allow the elderly to retain the strength and speed of their youth.
-The only hint of order came from the huge windows of crystallized glass that looked out onto the immaculately arranged gardens of the Imperial Palace. Out there, every bush was sculpted into a perfect geometric shape, every pebble was laid according to ancient principles, every path was cleaned and polished to a mirror shine. Waterfalls descended in perfectly symmetrical cascades, and bridges were carved with the precision of clockwork. A beautiful yet relentless reflection of order—a silent reproach to the creative chaos within.
-Her work jumpsuit, once pure white, was now stained with machine oil, coolant, and solvents. Each stain told a story—here a red speck from an overheated crystal, there a blue-green blotch from a punctured electrolyte container. A few strands of jet-black hair had escaped her careless bun and stuck to her damp, sweaty forehead.
-She was Princess Rami no Kimi, heir to Hinode Teikoku—The Empire of the Rising Sun, which spanned thousands of light-years and encompassed hundreds of systems. In her veins flowed the blood of a thousand generations of emperors, each of whom had ruled with the wisdom of tradition and the strength of undisputed authority. But in this moment, she was none of that.
-She was an inventor on the verge of a great discovery. A seventeen-year-old girl in whose hands lay the future of the stars.
-The door of polished cypress, adorned with motifs of flying cranes, slid noiselessly on its hidden rails. Into her chambers stepped Emperor Kenshin no Miko, her father. Tall and commanding in his ceremonial robes of the finest silk, dyed a deep purple and trimmed with gold, he was the living embodiment of the very tradition Rami so stubbornly evaded.
-His kimono was a masterpiece of centuries-old craftsmanship—every stitch laid with jeweler's precision, every motif embroidered with threads of real gold. Across his chest swirled a mythological scene: nine dragons dancing among clouds, a symbol of the emperor's divine wisdom. A wide belt of lacquered sea beast leather held the dynasty's ceremonial sword, whose blade had not left its scabbard for three generations.
-Emperor Kenshin stopped at the threshold; his steps were silent on the tatami mat of rice straw. He observed her for a moment with an expression wrestling with conflicting emotions. In his serious eyes, dark as a night sky, one could read a father's pride at her obvious genius. How could he not be proud? His daughter was a more brilliant engineer than the entire academy on planet Tokyo, and her inventions could change the course of wars.
-But simultaneously, his gaze held a deep concern for the path she had taken. Every day, she drifted further from her duties, from the preparation that would make her worthy of the throne. Every day, the millennia-old traditions of her Empire became more alien, more superfluous to her.
-How like her mother she is, he thought, watching her focused face. The same defiance, the same burning desire to change the world. But Yuki was not the heir. She could afford to be a dreamer. Rami cannot.
-She didn't sense him. Her entire being was absorbed in the final, most delicate bond. One wrong angle, one tremor of the hand, and months of work would turn into a useless pile of metal. Her breathing was shallow, almost imperceptible, her heart marking the seconds with a steady rhythm.
+The thin beam of the laser soldering iron hissed over the circuit board, melting the metal on a molecular level. The light had narrowed to a thread finer than a hair, forging connections that even the slightest tremor of a hand would turn to scrap. A drop of sweat beaded on Rami's temple. She did not wipe it away. Any movement now threatened months of labor.
+Her entire world had condensed into the silver sphere levitating in the magnetic field above the workbench. Its surface was dotted with rice-sized lenses, gravitational deviation sensors, and micro-thrusters with engraved thrust channels. Two more connections. Then the quantum gyroscope would fall into place, and the Mosquito would position itself in zero gravity with unerring precision—silent, invisible, patient. Out among the border asteroids, it would map every jagged rock and every anomaly, transmitting the data back to the command cruisers before the enemy ever realized they had been exposed.
+Her lips silently mouthed constants the way others whispered prayers. Kepler's orbital equations. Planck's constant. Machine-learning algorithms. Her violet eyes—the hallmark of the Imperial bloodline—were narrowed to slits.
+The chamber around her painted a true portrait of her character. Beneath the high ceiling adorned with embossed dragons flickered holographic diagrams: hyperdrive schematics, star charts updating in real time, and a planetary system simulation patiently revolving in the corner. Where other princesses kept scrolls of poetry, her walls were hung with energy shield blueprints and terraforming projects for dead moons. The workbench resembled a battlefield after a grueling campaign—scarred tools, scattered components, and a half-assembled exoskeleton designed to restore mobility to crippled veterans.
+The only sense of order in the room intruded from outside, filtering through the crystal windows. The palace gardens cascaded down in symmetrical terraces—shrubs pruned into perfect cubes and spheres, waterfalls with millimeter-precise flow rates, walkways polished to a mirror shine. Flawless order, standing like a silent rebuke to the chaos within.
+She was Ramichi, the heir to the Hinode Teikoku—the Empire of the Rising Sun, whose borders encompassed hundreds of star systems. The blood of a thousand generations of rulers flowed in her veins. Yet here, surrounded by machine oil on her coveralls and the smoke of solder, the title lost all meaning. Here, she was just a seventeen-year-old girl holding a possible future in the palms of her hands.
+The polished cypress door slid open soundlessly.
+She did not hear it. Her entire being was focused on that final solder joint. So when the voice finally spoke, it shattered the silence like a thrown stone.
 "Rami."
-His voice was deep and calm, honed by decades of diplomatic negotiations and imperial audiences. It cut through her focus swiftly and sharply, like a katana's edge. She flinched, her muscles tensing in surprise. The soldering iron slipped from her fingers. It clattered onto the metal workbench with an alarming ring.
-With a jerky movement, she tried to hide the small spherical drone behind a pile of spare parts, but it was too late. The Emperor's eyes had noticed the invention, and his gaze darkened with even deeper concern.
-"Father! I didn't hear you come in."
-Her words carried a note of guilt, like a child caught misbehaving. Her heart was still pounding wildly, but no longer from concentration—from sudden apprehension.
-The Emperor stepped inside with the slow, measured strides of a man accustomed to commanding everything around him by his mere presence. The golden rays of the afternoon sun, filtering through the special glass that protected the palace from Kyoto's harmful radiation, illuminated the dust motes dancing around him like a miniature galaxy. He surveyed the disorder in her room with a look mixing patience and weariness—the look of a father who had had this conversation too many times.
-How do I explain it to her? he asked himself. How do I tell her that genius is not enough? That the Empire needs not only innovators but also leaders who understand the power of tradition, the magic of symbols, the mystery of power?
-"Your calligraphy tutor reported that you missed your lesson again."
-His words were spoken without reproach, but brooking no argument. A statement of fact.
-Rami stood up, wiping her hands on her work jumpsuit, only managing to smear an oil stain into a spiral shape. The movement was unconscious, a habit from years in the workshop, but in her father's presence it suddenly seemed inappropriate, unworthy.
-Why do I always look like a mechanic when he's here? she thought with a sudden surge of confusion. Why can't I be both—a princess and an inventor?
-"I… I'm sorry. I lost track of time. I was working on something… insignificant."
-The lie slipped out easily, a defensive reflex honed by hundreds of similar situations. But even as she said it, she knew it was meaningless. Nothing she did was insignificant to her.
-Yet, enthusiasm welled up inside her, irrepressible as a flame. It always overrode caution, always pushed her to speak, to explain, to share the thrill of discovery. Her eyes lit up, their violet glints playing like precious gems under the lamp, and she grabbed the drone, forgetting all shame or prudence.
-"No, it's actually important! Look!"
-The words poured out of her like a waterfall.
-"It's not just any drone, Father! This is the 'Mosquito'—Compact Maneuverable Reconnaissance-Explorer! I've been working on it for months. Do you see these sensors? Each one is more sensitive than all the equipment on a scout ship. And these nozzles—they're powered by ion thrust, so silent the sharpest sonar can't detect it."
-She rotated the device in her hands, showing him its different elements, with the pride of a mother presenting her child.
-"I developed a navigation algorithm that allows it to map asteroid fields in real-time, calculate gravitational anomalies, and predict trajectories with flawless accuracy. Can you imagine how complex that is? Every asteroid alters the field around it, and when you have thousands of such bodies…"
-Her eyes shone, her hands tracing invisible schematics in the air.
-"It can locate deposits of rare minerals through spectral analysis—titanium, lithium, platinum, even those new crystals for hyperdrives. Or warn of pirate ambushes hidden behind asteroids. Can you imagine how many lives that would save? Can you? A whole fleet of these drones would guard our borders better than thousands of ships, would give us eyes and ears in every corner of the Empire!"
-For a moment, silence reigned in the room. The Emperor watched her fiery exuberance with an expression, a mixture of pain and affection. He saw before him not only his daughter but also a reflection of his own youth—the time when he too had dreamed of changes, when he had believed he could make the world better with a single idea, a single discovery.
-How right my teacher Hirose was, he thought. 'Youth sees the possibilities, maturity the limitations. Both are needed for wisdom.'
+Her hand jerked. The soldering iron clattered onto the bench, and the beam died. Months of work hung by a thread—and held. Reacting faster than thought, she shoved the sphere behind a pile of spare parts. Too late. Emperor Kenshin had already seen her.
+He stood on the threshold, his steps never having disturbed the peace of the tatami mats. The ceremonial kimono draped over his shoulders in heavy purple folds; nine dragons coiled through clouds of gold thread across his chest, and resting at his waist was the dynasty's sword, passed down through three generations. Everything about him was orderly, calculated, inherited. Everything about her was the exact opposite.
+"Father. I didn't hear you."
+Her voice betrayed what her face tried to hide—the guilt of a child caught red-handed.
+Kenshin swept his gaze across the room—the holograms, the scattered tools, the stains on her coveralls. He felt no anger, only the deep weariness of a man who had had this conversation far too often and already knew how it would end.
+"Your calligraphy master informed me you missed your lesson again."
+It wasn't a reprimand; it was a statement of fact. That was what stung the most.
+"I was working on something trivial." The lie formed on its own, born of an old defensive reflex. But even as she said it, Rami realized how pointless it was. Nothing she created here was trivial to her.
+And because passion always eclipsed caution, she added, "Actually, it's not trivial." Rami pulled the sphere back into the light, forgetting to hide it. "This is the Mosquito. A scout probe more sensitive than the sensor array of an entire cruiser. Its ion thrust runs so quietly that no scanner will detect it. It maps an asteroid field in real time, calculates gravitational anomalies, and predicts trajectories. A swarm of these drones along the borders will guard the Empire better than a thousand heavy ships. It will give us eyes everywhere."
+Her hands traced invisible schematics in the air. Her eyes shone. For a fleeting moment, Kenshin did not see his daughter, but his own reflection from forty years ago—back when he, too, had believed that one bold idea could rearrange the universe overnight.
+He saw it. And that was precisely why his voice grew sterner.
 "Ramichi."
-Her name sounded again, this time more categorical, raising a barrier between her world of endless possibilities and the harsh reality of power. Her exuberance cut off like an interrupted melody. Sensing the change in his tone, she wilted.
-He waited for her to fall completely silent, the patience in his gaze battling a rising anxiety. In the silence, the sunlight continued to filter through the window, painting shifting patterns on the floor—time, which waited for no one, which stopped for neither genius nor power.
-"Your calling is not to create devices, no matter how brilliant they are." His tone was stern but not devoid of tenderness. "Your duty is to learn to rule the Empire. Calligraphy, the tea ceremony, the study of political alliances… these are not obsolete rituals, as you believe. They are the language of power. A language you must master to perfection if you want others to respect you, to follow you, to believe in you."
-He stepped towards her until only a pace remained between them—close enough to see the stubbornness in her eyes, but far enough to preserve his imperial dignity.
-"When you meet Lord Ito from the Osaka trade guild, the way you hold the calligraphy brush will reveal more about your character than all your inventions. When you negotiate with the envoys from New Kyoto, the ceremony with which you serve them tea will determine whether they see a leader in you, or a child playing princess."
-"But my inventions can be more useful to the Empire!" she tried to argue, now more quietly, less confidently. She felt her arguments crumbling before the strength of his experience, his wisdom. "Technology brings real prosperity, real might. Not the observance of protocol, not age-old rituals…"
-The Emperor sighed deeply, and in that sigh was the entire weight of the years, all the weariness from the endless battles between pragmatism and tradition.
-"Technology is a tool, Rami. A powerful tool, I won't deny it. But tradition is the foundation upon which this Empire is built." He pointed towards the window, towards the gardens and the endless horizon beyond. "It is the bond that holds us together when the forces of politics threaten to tear us apart. It is what makes people follow us not out of fear, but out of respect."
-He fell silent, letting his words find their place in her consciousness.
-"You will be the empress of a thousand different peoples, each with their own culture and beliefs. You will have to negotiate with shoguns who value honor more than life, and with daimyo for whom a single incorrectly presented tea is a mortal insult, more humiliating than a lost battle. You will have to deal with merchant princes who interpret any hesitation as weakness, and pirate chieftains who revere only strength and tradition."
-He softened his tone to almost pleading:
-"Your devices will not help you then, my daughter. You will need something older, more enduring—the skill to speak their language, the ability to make their hearts follow you, not just their minds."
-In the golden light of the room, a chasm yawned between them—the clash between her free, practical spirit and his world, woven from duty and millennia-old traditions.
-Two people who loved each other boundlessly, but spoke different languages—she the language of the future, he the language of the past.
-Why can't he understand? Why doesn't he see that tradition without progress is death, and progress without tradition is chaos? Rami asked herself, gripping the drone even tighter in her hands.
-Why can't she understand? Why doesn't she see that power without respect is tyranny, and innovation without wisdom is ruin? Kenshin thought, gazing into the defiance burning in her eyes.
-The Emperor sighed again. His expression softened, but his words held an inflexibility as hard as mountain rock.
-"I can no longer allow you to neglect your preparation, Rami. Our time is running out. The Council of Elders is losing patience, and some governors are already questioning your readiness for the throne. Therefore, I have made a decision."
-Rami looked at him suspiciously. Something told her that what she was about to hear would not please her at all.
+The full name drew a line in the sand. Her enthusiasm withered.
+"Your duty is not to assemble drones, no matter how brilliant they may be. Your duty is to learn how to rule an Empire. Calligraphy, the tea ceremony, the study of alliances—these are not antiquated customs. This is the language power uses to speak to itself. If you cannot master it, no one will follow you."
+He stepped farther into the room. A meter separated them—close enough for him to see the stubbornness in her eyes, yet far enough for her to stand her ground.
+"When you sit across from Master Ito of the guilds, the way you hold your brush will reveal more about you than any invention of yours. Machines won't save you in that room, daughter. There, you will need something older and more resilient—the ability to speak so that hearts follow you before minds have calculated the cost."
+"But my machines are saving lives right now," she countered, though her voice was already losing its edge. "One Mosquito is more useful than a hundred ceremonies. Progress is power, Father. Not a bow."
+"Progress is a tool." Kenshin pointed toward the window, the gardens, and the horizon beyond. "A powerful one, I admit. But tradition is the soil in which all of this is rooted. It keeps us whole when politics threatens to tear us apart. Make the people follow us out of reverence, not fear."
+Kenshin paused, letting the words settle.
+"You will rule thousands of worlds. Shoguns who value honor more than their own lives. Daimyos for whom a poorly served tea is a graver insult than a lost battle. Merchants who will seize upon your every hesitation. You won't outmatch them with a more perfect machine. You will win them or lose them by who you are."
+For a moment, nothing stood between them but the golden light and the chasm of two generations. Two people who loved each other to the point of aching, yet broadcast on entirely different frequencies—she speaking the language of the future, he in the code of the past.
+Kenshin sighed. His expression softened, but his will did not.
+"I can no longer allow you to neglect your preparations. Time is running out—not mine, but yours. The council of elders is losing patience. Some governors are already openly asking if the heir is ready. That is why I have made a decision."
+Her instinct flared before her mind could catch up.
 "What decision?"
-"I have appointed a new personal bodyguard for you. His name is Kenjiro Tanaka." The Emperor pronounced the name slowly, solemnly, with the importance of an edict. "He is one of our best agents, skilled in martial arts and etiquette. He will accompany you everywhere. His task will be not only to protect you but also to ensure you adhere to your schedule and the palace protocol."
-The air in Rami's lungs froze. For a moment, the room spun, the holograms blurred, and indignation washed over her like an icy wave, sweeping away every other thought but anger.
-"A bodyguard?" she uttered barely audibly, but her tone rose with each subsequent word. "Or a warden?"
-"Father, you can't do this! This is… this is an attempt to control me! I am not a prisoner! I am not a criminal who needs supervision!"
-She stepped towards him, and fury flared in her eyes, etching onto her face an expression from ancient imperial portraits—commanding, defiant, dangerous.
-"I've labored over this invention for months! Can you imagine what it means for our borders, for the security of merchant ships, for…"
-"You are the heir to the throne!" For the first time since the conversation began, the Emperor raised his voice. His words carried a previously unshown power that echoed off the palace walls like thunder. The holograms flickered from the sound's intensity. "And it is time you grew up and accepted your destiny, Rami! This is not a game! It is not a pastime for a bored noble! You are the future Empress of the greatest civilization in the known galaxy!"
-For a moment, silence hung between them, dense as the gravitational field of a black hole. The sunlight continued to filter through the window, but now it seemed colder, more soulless.
-The Emperor composed himself, but his tone remained unyielding.
-"Mr. Tanaka will arrive tomorrow at dawn. I expect you to treat him with the respect his rank and task demand. This is not a suggestion, Rami. This is an imperial command."
-With these words, he turned with the practiced, crisp movement of a veteran of a thousand ceremonies and exited. The wide sleeves of his kimono fluttered like the wings of a great bird. The door slid shut silently behind him, and the room was left with only the quiet hiss of the climate control and the distant murmur of the waterfall in the gardens.
-Rami remained alone in the room, which suddenly felt vast and empty. She clutched the small spherical drone, feeling the metal grow warm in her palms. Anger and helplessness boiled within her like lava in a volcano, seeking an outlet that wasn't there.
-Control, she thought bitterly. It's always about control. Never about what I think, what I feel, what I can give to the Empire. Always only about how I must behave, how I must look, how I must speak.
-She approached the window and gazed out at the flawless gardens. Every bush was trimmed into a perfect geometric shape—cubes, spheres, pyramids, creating a harmony of green and gold. Every path gleamed with cleanliness. The waterfalls descended in completely identical cascades, with identical intervals, at identical angles, and with identical force. Even the leaves on the trees seemed arranged according to an invisible pattern.
-The strict order outside seemed more suffocating than ever. Beauty, yes, but soulless, devoid of imperfections and unexpected discoveries. Beauty created to impress, not to inspire.
-A gilded cage, she thought, as her palm left a print on the cold glass. These are my chambers. This is my life. The most beautiful cage in the galaxy, but a cage nonetheless.
-She looked at her reflection in the glass. A girl in a stained work jumpsuit stared back, torn between love for her father and a desperate desire to be herself. In her face, genius and defiance, dreams of the future and anger at the present wrestled.
-No. I will not surrender.
-She returned to her workbench, and a new, cold determination flared in her violet eyes. She would show them. She would be both—an inventor and a worthy heir.
-But by her own rules.
+"I have assigned you a personal bodyguard. Kenjiro Tanaka." He spoke the name slowly, with all the inexorable weight of a royal decree. "One of our best men. He will accompany you everywhere and ensure you adhere to your protocol and your schedule."
+The air left her lungs.
+"A bodyguard," she repeated quietly. Then her voice rose, "Or a jailer? I am not a prisoner, Father. I'm not some criminal to be put under surveillance."
+She stepped toward him. Something flared in her eyes that he recognized from the old portraits lining the halls—imperious, defiant, dangerous. Their shared blood showed most clearly in conflict.
+"You are the heir to the throne!" Kenshin's voice struck the walls, making the holograms flicker. "It is time to grow up, Rami. This is not the hobby of a bored aristocrat. You will be the Empress of the greatest civilization in the galaxy, whether you like it or not."
+Silence fell between them, thick and frigid. The sunlight remained bright, but it no longer provided any warmth. Kenshin composed himself. His tone leveled out, yet remained unyielding.
+"Mr. Tanaka arrives tomorrow at dawn. You will treat him with the respect his rank and assignment demand. This is not a request."
+He turned with the sharp precision of a man who had spent his entire life steeped in ceremony. His wide sleeves swayed like the wings of a bird of prey. The door slid shut behind him, leaving in its wake only the hiss of the climate control and the distant murmur of the waterfalls.
+Rami was left alone. The chamber suddenly felt heavy. She gripped the sphere until its casing grew warm against her palm, staring out at the immaculate gardens—geometric beauty sculpted to command respect, not to harbor life.
+A gilded cage. The most magnificent one in the galaxy, but a cage nonetheless. Its bars were forged not of metal, but of expectations. Staring back at her from the glass was the reflection of a girl in grease-stained coveralls, torn between love and the desperate yearning to just be herself.
+I won't surrender, she thought. I won't choose between being an heir and being an inventor. I will be both. But on my own terms.
+
+* * *
+
+Kenshin did not return to his quarters. His feet carried him to the Mirror Room—a cramped, windowless space where screens lined the walls. Here, the Empire was viewed in its true form, not as the court poets painted it.
+Councilor Hirose was already waiting for him. An old man, hunched like a comma, with a gaze that had outlived three emperors.
+"She didn't take the news well," Hirose said. It was a statement of fact.
+"She thinks it's about control." Kenshin stopped in front of the largest map. Across it, star systems glowed in a tranquil imperial blue. Almost all of them. "Let her think that. Better she hate me as a jailer than learn the truth."
+Hirose followed his gaze. At the far edge of the map, three systems pulsed in blood-red.
+"Again?" the old man asked quietly.
+"Third signal this month." Kenshin tapped one of the dots, and a face floated up above it—stern, with unruly gray hair. "Hideyoshi Koriyama. Shogun of the border sectors. Officially, a loyal vassal. Unofficially, he's building a fleet and talking about 'order' that the Empire has supposedly forgotten."
+"The ramblings of an ambitious old man." Hirose shrugged. "Half the Daimyos talk like that over cups of sake."
+"Half the Daimyos don't have three shipyards hidden behind declarations of loyalty." Kenshin's voice remained steady, but the tension beneath it was palpable. "Last week, one of my operatives in his court stopped transmitting. Went dark. You know what that means."
+Hirose knew. The silence of an informant rarely brought good news.
+"And that's why you're sending your best agent to guard the girl, instead of using him against Koriyama."
+Kenshin did not answer right away. He stared at the red dots, seeing a threat he dared not speak aloud. If Koriyama was looking for a way to break the Emperor's will, he would not strike at the fleet. He would strike at the only thing Kenshin could not afford to lose.
+"If they lay a hand on her," he finally said, "there will be no negotiations. No councils or ceremonies. I will burn the sector where they touch her, and every living thing inside it." He said it calmly, the way one delivers a weather forecast. It was exactly this composure that made it terrifying. "That is why Tanaka will be by her side. Not because I don't trust her. But because I trust no one else."
+Hirose looked at him for a long time. He had served this man for forty years and still could not tell where the father ended and the Emperor began.
+"One day you'll have to tell her," the old man said. "About Koriyama. About everything. You can't prepare her for the throne by keeping her in the dark."
+"One day." Kenshin banished the Shogun's image with a flick of his wrist. The red dots remained, pulsing in the darkness, as patient as an infection. "But not today. Today, let her build her drones a little longer and think of me as a tyrant. She'll learn the price of order soon enough."
+He turned and left, while the screens behind him continued to glow—hundreds of systems in blue, three in red, and a young heir somewhere in between, still believing her greatest battle was with her father.
  
-CHAPTER 2
-The air in Rami's private laboratory was saturated with the familiar scent of ozone and machine oil—a mixture that always soothed her. Here, thirty meters beneath the impeccable gleam of the Imperial Palace, amidst the hum of servomotors and the flickering light of holographic consoles, she felt truly free. Every blinking light, every wire and bolt in this vast space was an expression of her creativity, of her will. She was free. At least, until a few hours ago.
-"A gilded cage… overseers…" she muttered, tightening the last bolt on her new prototype with more force than necessary.
-The wrench clattered against the metal.
-"Next time, I'll program a drone to serve my tea. Maybe that will be 'traditional' enough for him…"
-Why can't he understand? she thought, recalling her father's expression from earlier. I'm not one of his court ladies to busy myself with embroidery and dancing. I am an engineer. I am an inventor.
-This new project wasn't like her previous toys. This wasn't the small, spherical "Mosquito" that could hide in the palm of her hand. This drone was an expression of her anger. Threatening. Angular, shaped like a predatory turtle, its entire form wrapped in a matte-black composite that absorbed light. A combat drone. A direct reaction to the conversation with her father.
-If they want me to engage in war and politics, fine, she thought, running a finger over the prototype's smooth curves. I'll give them war and politics. But in my own way.
-But the presence by the massive armored door ruined everything.
-Kenjiro Tanaka. Her new bodyguard. Or, as she preferred to think of him—her new jailer. He stood as motionless as a statue carved from granite and resolve. His impeccable samurai uniform—a dark blue base with thin grey accents, every thread in place—stood in stark contrast to her stained work overalls and the creative chaos of the laboratory.
-His hands were clasped behind his back in the perfect posture of a sentinel, his face an impenetrable mask of professional focus. His high cheekbones and the severe line of his lips gave the impression of a man who had never smiled. Only his eyes moved—dark, watchful, tracking her every movement with a slightly confused, yet unwavering expression.
-Who is this man? she wondered, stealing glances at him as she worked. What is he thinking, standing there watching me like a museum exhibit?
-At first, Rami tried to ignore him. She buried herself in her work, focused on the delicate adjustments of the plasma inductors. But his silent observation began to grate. It was like a constant, quiet buzzing in the periphery of her consciousness—a presence she couldn't disregard, no matter how hard she tried.
-She abruptly dropped the wrench. It clattered against the metal workbench and fell to the floor with a deafening racket. The sound echoed through the lab. Kenjiro didn't flinch. Not even an eyelid twitched.
-Incredible, she thought. Statues have more expression than him.
-Rami stood up and approached one of the consoles. With a few quick, irritated motions, she activated the audio system. Deafening, throbbing synth-rock shook the laboratory. The bass frequencies made the robotic arms on the walls twitch in time with the rhythm, and the holographic projectors flickered in a cacophony of color. She grinned challengingly at him, expecting at least a drop of discomfort.
-No reaction. He continued to stand there, the embodiment of order in her world of creative disorder.
-Alright, she thought, her irritation now morphing into a personal challenge. If music doesn't work…
-"Fine then!" she shouted over the music. Her cry echoed in the space. "Test time!"
-She jumped onto the central platform, her heart pounding with excitement. This was the moment of truth. The new drone was there, motionless and menacing, like a sleeping black panther. She activated the primary systems and felt the familiar thrill of discovery.
-The drone rose a meter from the floor, borne aloft by the nearly silent anti-gravity engines. Its movement was smooth, elegant—just as she had designed it. For a moment, Rami felt a surge of pride.
-Then, suddenly, the machine shuddered and emitted a grating, dissonant sound that cut through even the pounding music.
+- 2 -
+
+The air in the laboratory hung heavy with the scent of heated metal and machine oil—an aroma that grounded Rami in reality more convincingly than any tea ceremony. Thirty meters beneath the palace's flawless splendor, amidst the muffled hum of servomotors and the flickering light of holographic consoles, titles lost their meaning. Every blinking light, every wire, and every bolt had been placed by her own hand. Here, her will met neither a council to weigh it nor a father to tame it.
+At least until a few hours ago.
+"A golden cage. Wardens," she muttered, tightening the prototype's final bolt with more force than the metal required.
+The wrench squeaked against the threading.
+"Next time I'll program a drone to serve the tea. Maybe then he'll find the activity traditional enough."
+She did not belong to the circle of ladies-in-waiting raised only for embroidery and dance. She was an engineer. And this new project was nothing like her previous toys. Mosquito fit in the palm of her hand and served curiosity; this thing served wrath. Angular, shaped like a predatory turtle, and encased in a matte-black composite that devoured the light, it was a combat drone—a response to the conversation with her father, spoken in the only language she had mastered to perfection.
+If they wanted to push her into war and politics, she would give them both, in her own way.
+Only his presence by the armored door ruined everything.
+Kenjiro Tanaka. Her new bodyguard—or, as she preferred to call him, her new warden. He stood motionless, his hands clasped behind his back, maintaining the posture of a man for whom waiting was no burden. His dark blue uniform with gray piping looked immaculate down to the very last thread, turning her grease-stained coveralls and the surrounding creative chaos into a silent accusation. His high cheekbones and the straight line of his lips gave his face the expression of a man who could not remember his last smile. Only his eyes moved—dark, serene—tracking her every action with an attentiveness devoid of both warmth and intrusion.
+At first, Rami resolved to ignore him. She immersed herself in the delicate tuning of the plasma inductors, but his silence possessed a certain density. It lingered on the periphery of her awareness like a quiet, persistent tone that no amount of willpower could drown out.
+She dropped the wrench. It clattered against the workbench and tumbled to the floor. Kenjiro didn't flinch. He didn't even blink.
+Rami straightened up, strode over to the console, and with a few sharp motions cranked up the music. Synthetic rock shook the room; the bass made the robotic arms along the walls tremble, and the projectors flickered in a chaos of color. She threw him a defiant smile, waiting for at least a shadow of discomfort.
+Nothing. He stood like a pillar of order, driven right into the center of her disarray.
+"Fine then!" she shouted over the music. "Time for a test."
+She hopped onto the central platform, her pulse quickening. This was the moment of truth. The drone waited, motionless and black. She activated the primary systems and felt that familiar thrill—the one that kept her awake while the palace slept.
+The machine rose a meter into the air, hovering on its anti-gravity drives. It moved smoothly and deliberately, exactly according to the blueprints. For a moment, pride warmed her chest.
+Then the hull shuddered, emitting a grinding screech that cut right through the music.
 "Oops."
-Her mind instantly switched to emergency mode. I probably overdid the power output on the plasma inductor. The frequency harmonics are interfering with the anti-gravity fields. I need to modulate the frequency before it overloads…
-But it was too late for corrections. The drone began to lurch chaotically around the lab like a drunken pterodactyl.
-It slammed into a rack of delicate tools, scattering them across the floor in a deafening clatter. Then it spun uncontrollably and flew threateningly low over one of her unfinished projects—a fragile prototype communication satellite—nearly taking off its delicate antenna.
-No, no, no! she panicked, her hands already flying over the control panel. Just don't let it hit the main console…
-Kenjiro still hadn't moved, but he was no longer watching her. His gaze was fixed on the drone's chaotic flight, tracking it with the keenness of a hunter stalking a dangerous beast.
-He's preparing for something, she realized. His body seemed relaxed, but it was tensed like a coiled spring ready to strike.
-"Everything's under control!" she cried, though her trembling tone betrayed her. Her fingers flew across the keys in an attempt to master the rebellious prototype. But the drone had a will of its own, its own ruthless logic.
-Why isn't it responding to commands? All systems are green...
-And then it happened. With a sudden, piercing shriek from its overloaded sensors, the drone made a sharp U-turn and shot like an arrow straight towards Kenjiro.
-"No!"
-Rami screamed and frantically slammed her finger onto the red emergency stop button. But the command was lost in the chaos of the frenzied software.
-Time slowed to a crawl, stretched to infinity. Rami saw Kenjiro's eyes narrow—not in fear, but in absolute concentration. His movement was so lightning-fast, so graceful, it was almost imperceptible. His entire body became a single, deadly line.
-His hand shot towards the hilt of the katana at his hip. His fingers wrapped around the familiar grip—leather wrapped in silk, worn smooth by countless hours of practice. The steel left its scabbard with a hissing sigh and flashed under the lights like a streak of fire.
-A clean, whistling shwiiing followed—the sound of a perfect blade slicing the air.
-The drone, flying towards him at bullet speed, was cleaved into two perfectly equal halves. They thudded to the floor with a dull metallic clang mere centimeters from his feet, like dead birds. A few sparks jumped from their severed innards, accompanied by a thin wisp of smoke.
-Complete silence fell over the laboratory. Even the music seemed to have died, as if the sound waves themselves had frozen in astonishment.
-Rami stood with her mouth agape, her gaze darting between the smoldering remains of the prototype and Kenjiro. He was sheathing his katana with a single, practiced motion—smooth, controlled, without a hint of a tremor. His face remained unchanged, as if he hadn't just performed the impossible.
-My God, she thought, her heart hammering like a trapped bird. I saw it. I saw him move. He's no ordinary man. That was… a dance. A deadly dance.
-But the admiration lasted only a moment before being swept away by anger.
-"You… you destroyed it!"
-Her tone was a mix of awe and pure fury. She stepped towards him, gesticulating wildly.
-"That was months of work! Do you know how complex the targeting algorithms were?! How many hours I spent optimizing the energy matrices?!"
-Kenjiro finally turned fully towards her. His movement was slow and controlled—like everything about him. He spoke in a deep, calm tone, devoid of any emotion; like the smooth surface of a lake that betrayed no depths beneath.
-"It posed a threat to your safety, Princess. My duty is to protect you. Even from your own inventions."
-Duty, she repeated the word with contempt. With him, everything was duty.
-"A threat?" she shrieked, stepping even closer. "It was a prototype! I was going to stop it! I know my machines better than anyone! You're just a… a destroyer! You understand nothing of innovation, of progress! To you, everything is order and duty, and swinging swords at things you don't understand!"
-For the first time, something flickered in his expressionless face—a barely perceptible change in the line of his lips. Not anger. Something sadder.
-"I understand my duty," he replied without raising his voice. His words had the solidity of good steel—hard, but not brittle. "And I understand danger. I saw how your machine moved. I saw it was out of control. And a weapon without control is a threat to everyone around. It is a lesson Bushido has taught us for centuries."
-"Oh, please, don't lecture me about Bushido!" Rami laughed sarcastically, though her heart was still racing madly. Her hands were trembling. "You're just a warden sent by my father to watch me! Another golden chain in my cage! Why did you even take this assignment? What do you gain from guarding a spoiled princess who doesn't give a damn about your ancient codes?"
-For the first time, a crack appeared in Kenjiro's stony mask. A barely noticeable twitch of his jaw. In the darkness of his eyes, something deeper flickered—not anger, not insult, but perhaps… pain?
-He was silent for long seconds, weighing his words with apothecary precision. When he finally spoke, his words were quieter, but more saturated.
-"I accepted because the Emperor commanded it. And because my loyalty to the throne is unquestioning."
-He paused for a moment, his gaze locking with hers.
-"But I stayed because I saw genuine fear in your father's eyes. Not for the Empire. For you. He is afraid, Princess. For your life. And that fear makes him vulnerable."
-Fear? My father? He hasn't been afraid of anything his entire life.
-"This is my path," Kenjiro continued, a barely restrained bitterness detectable in his words. "To serve. To protect. To be a sword in the hands of those wiser than I. Even when that sword breaks. Even when that sword is unwanted."
-Rami fell silent. She was still angry, but curiosity began to override her rage. There was no arrogance, no self-pity in his words. Only unshakable certainty, mixed with something that resembled a deep, lonely wisdom.
-He's not doing this out of a lust for power, she realized. He does it because… because he doesn't know how to live any other way.
-She looked towards the severed drone. The cut was impeccably clean—a single, perfect line that divided the complex machine into two perfectly symmetrical halves. There were no jagged edges, no collateral damage. All the internal components were visible, yet untouched. It was the work of a master. The work of a man who understood not only how to destroy, but how to do so with minimal harm.
-Perhaps… the thought crossed her mind, but she immediately stopped it. No. He still destroyed my work.
-But then she remembered the look in his eyes the moment the drone shot towards him. Not fear. Not anger. Only… cold assessment. He had calculated the threat and reacted with precisely the necessary force.
-She took a deep breath and ran a hand through her disheveled hair. Somewhere deep inside, her anger began to recede, making way for something else… respect? No, not yet. But perhaps the seed of understanding.
-"Alright," she said finally, more calmly. "You're a man of principles. I get it. And you're good at what you do. Too good."
-She bent down and picked up one half of the drone. The metal was still warm from the energy discharges. She turned it over in her hands, studying the interior.
-"Well, at least now I can see the internal components more easily," she said with a crooked smile. "Won't have to disassemble the entire housing."
-She looked at him probingly. There was something new in her eyes—not hostility, but a businesslike curiosity.
+Her mind instantly switched to diagnostic mode. She had overloaded the inductor; the frequency harmonics were overlapping with the anti-gravity fields. She needed to drop the frequency before the system collapsed, but the window for corrections had closed.
+The drone launched itself across the lab in an unpredictable, erratic trajectory. It swept through a tool rack, scattering implements with a metallic clatter. It spun and buzzed low over an unfinished communications satellite, nearly ripping off its fragile antenna. Rami's hands worked frantically, but her commands were swallowed by the rebellious software.
+Kenjiro was no longer looking at her. His eyes were locked on the machine's movements—reading them the way one reads an opponent. His body remained relaxed, and that was exactly how she knew: he was ready. Relaxed, like a bowstring drawn taut a fraction of a second before the release.
+"Everything is under control!" she yelled, though her voice betrayed her.
+All the indicators glowed green, but the drone was obeying none of them.
+Then it happened. With a sharp shriek from its overloaded sensors, the machine flipped in midair and charged straight at Kenjiro.
+"No!" Rami slammed the emergency abort button, but the command was lost in the chaos.
+Kenjiro moved. He was so fast that her eyes couldn't track him—a single, continuous line drawn through space. His hand found the leather-and-silk-wrapped hilt; the steel left the scabbard with a barely audible hiss, severing the light. The blade passed through the drone as if through water.
+The machine split in two. The halves thumped onto the floor a mere handspan from his feet, while sparks and a thin trail of smoke bled from the severed circuits.
+Silence fell. Even the music had stopped—she had muted it without even realizing it.
+Rami stared from the smoking remains to him. Kenjiro was sheathing his katana with a practiced motion, his hands completely steady, his face untouched by what had just occurred. It wasn't a pose. To him, this wasn't a feat, but merely a reflex.
+She had seen how he moved. Not like a man, but like a logical conclusion, deduced so rapidly that the body had arrived at it before the mind.
+Then her awe twisted into anger.
+"You ruined it!" Her voice shook. She marched toward him. "That was months of work. Do you have any idea how complex those targeting algorithms were? How many nights I spent poring over those energy matrices?"
+Kenjiro finally turned to her, his movements slow and measured.
+"The machine was threatening your life, Princess. My duty is to protect you. Even from your own creations, if necessary."
+"A threat?" She closed the distance between them. "It's a prototype. I command the system; I know how to shut it down. All you do is destroy. You understand nothing of progress. For you, the world ends at order, obedience, and a sword swung at things you fail to comprehend."
+For a fleeting moment, a shadow crept across his expressionless face—a slight tension around his lips. It wasn't anger, but something older and more bitter.
+"I understand my duty," he replied without raising his voice. "And I recognize danger. I saw how the machine moved. It was out of control. A weapon without control kills the one wielding it just as often as the one it's aimed at."
+"Don't quote codices at me." She laughed, but her heart was still racing, her hands shaking. "You're a warden, sent by my father. Just another golden link in my chain. Why did you even accept? What does a man stand to gain by guarding a spoiled princess who despises his laws?"
+The stone mask cracked. His jaw tightened. A shadow of pain flickered in his dark eyes. He remained silent for a long time—not because he lacked an answer, but as if he were weighing how much of the truth he could reveal to her.
+"I accepted because the Emperor commanded it. My loyalty to the throne is unconditional." He paused. "But I stayed for another reason. When your father speaks of you, fear is visible in his eyes. Not for the empire. For you. He fears for your life, Princess, and that fear makes him vulnerable. Vulnerable emperors breed wars."
+Fear. Her father. The concept didn't fit the man she knew—the one who could freeze entire councils with his silence alone.
+"This is my path," Kenjiro continued. "To serve. To protect. To be a sword in the hand of those wiser than I." His voice trailed off. "Even when the sword breaks. It has happened once before."
+He offered no explanation. He didn't tear his gaze away from her, but something inside him shuttered closed—like a door cracked open for a second, then instantly slammed shut. Rami didn't ask. She understood only that beneath his armor he hid a wound far older than tonight's insult, and that he had no intention of showing it to her.
+Her anger began to settle. She looked at the sundered drone. The cut was immaculate—a single line that had cleaved the complex machine into two mirrored halves, the optical cables severed cleanly without fraying. The work of a man who knew not just how to destroy, but how to achieve his goal with minimal collateral damage.
+"Alright," she said, her voice calmer now. "I understand you. A man of principle. And a master of his craft. Almost too good a master."
+She bent down and picked up one half of the hull. The metal was still searing hot from the electrical discharges.
+"At least I can see the circuit boards more clearly now," she said with a bitter smile. "You saved me the disassembly."
+She regarded him—no longer as an intruder, but as a technical challenge.
 "Do you want to help me fix it?"
-Kenjiro raised an eyebrow—the first unguarded expression he had shown since entering the laboratory.
-"I do not understand these… machines," he said slowly, the word "machines" sounding foreign and unfamiliar in his mouth.
-"I'll teach you," she replied, the idea flashing in her mind like a chemical reaction—swift, unpredictable, yet logical. "You're good at… disassembly. Perhaps you'll be good at assembly too. Besides…" she looked him over appraisingly, "I want you to tell me, from a practical standpoint, how it could be improved. As a weapon."
-The last word hung in the air between them like a challenge. Kenjiro looked at her for several long seconds, trying to decipher the complex code hidden in her face. A struggle was visible in his eyes—between duty and curiosity, between tradition and something new.
-Finally, slowly and carefully, like a man stepping onto thin ice for the first time, he nodded.
-"Very well."
-Rami smiled faintly—her first genuine smile in hours. It was a small victory. The first crack in his impenetrable armor.
-She placed the drone half on the wide workbench and cleared a space among the tools and unfinished schematics. The lab suddenly felt smaller, more personal. It was no longer territory she had to defend from an intruder. It was a place of work.
-"Excellent," she said, switching on the nearby lamp. The light flooded the severed drone in a bright pool. "First, we need to recalibrate the energy core to prevent overloads. Here, look at this…"
-She began to explain, pointing to the intricate weave of wires and crystals within the machine's housing. Her finger traced the paths of the energy flows, her words filled with the enthusiasm of someone talking about their favorite subject...
+One of Kenjiro's eyebrows arched—his first involuntary reaction since stepping over the threshold.
+"I know nothing of such mechanisms."
+"I'll teach you." The impulse came suddenly, surprising even her. "You're good at taking things apart. You might be good at putting them back together. And I want you to tell me something the courtiers wouldn't dare say: how to make it a more effective weapon. From experience, not from blueprints."
+The final word hung between them. Kenjiro studied her for several seconds, as if searching for a catch. Then he nodded—cautiously, like a man stepping onto thin ice.
+"Alright."
+Rami smiled. Her first genuine smile in hours. A small victory—the first crack in his armor.
+She cleared the tools away and laid the hull onto the broad workbench. The lab seemed to shrink. It no longer felt like a fortress defended against an enemy, but rather like a workshop.
+"First, we need to recalibrate the core so it doesn't overload. Look," she switched on the work lamp, and harsh light flooded the bisected machine. Her finger traced the tangle of wiring and crystals, her voice brimming with the enthusiasm of someone firmly back on their own turf. "These elements are plasma capacitors. They accumulate energy and release it in the form of controlled pulses. Under a sudden surge, they synchronize and hit resonance. That's why the drone lost control."
+Kenjiro leaned in. The distance between them shrank to a functional margin. His face remained serious, but a spark of curiosity flared in his eyes.
+"How is the movement vector controlled?" His direct tone caught her off guard.
+"From here," she pointed to a few silvery disks. "Gyro-stabilizers. They generate magnetic fields that counteract the anti-gravity drives. Like a rudder, but in three dimensions." She trailed off, looking at him with newfound interest. "Why do you ask?"
+"In combat, maneuverability is paramount. A powerful weapon that cannot find its target is useless."
+He was thinking like a warrior. This was to her advantage.
+"So I should emphasize maneuverability over speed?"
+"Both." He paused. "But control takes precedence. A weapon you do not fully master will turn against your own people."
+She nodded. There was a tactical logic in his words that she often neglected in the name of technical perfection.
+"Alright. Then we start with the stabilizers."
+The next few minutes passed in unexpected harmony. Rami explained with fervor, and Kenjiro asked questions that were brief, incisive, and geared entirely toward practical application. He wanted to know how the machine would handle under pressure, how it would react to jamming, and where its vulnerable zones lay.
+"Here," he pointed at the central module. "Is this the control unit?"
+"The tactical analysis processor. It processes the sensor data and makes decisions for maneuvers and attacks."
+"So, if someone were to disable it..."
+"The drone goes blind. It becomes a warrior without a commander."
+Their eyes met. In his gaze, she could discern something akin to approval.
+"Interesting."
+Despite the tension and the ruined prototype, Rami felt her guard slipping. It had been a long time since anyone had listened to her ideas like this. The courtiers pretended to understand. Her father listened absentmindedly. But this cold samurai was asking the right questions.
+"Kenjiro," she said, testing the sound of his name.
+"Yes, Princess?"
+"Do you think I could be a good engineer? Out there, beyond the palace walls?"
+The question surprised even her. But here she was—exposed, awaiting his verdict.
+He looked at her, taking his time. In his gaze lay appraisal, not courtesy.
+"Your knowledge is impressive. But it is not enough. Out there, dangers exist that the laboratory cannot prepare you for."
+It was painfully blunt, and for that exact reason, she believed him.
+"That's why I have you, isn't it?" She tried to smile. "To protect me from the unforeseen."
+"Until then," he replied gravely, but a new note lingered in his voice—the onset of an unspoken agreement.
+They continued in a silence that no longer weighed on them. The music had long since stopped; the machines hummed with a steady, soothing rhythm. For the first time in hours, Rami didn't feel alone.
+"You know," she said, wiping her hands on a rag, "maybe this warden isn't as bad as I imagined."
+The corner of his mouth twitched—so faintly it might have been a trick of the light, yet it was enough to breathe life back into his stony face.
+"And I am beginning to understand," he said slowly, "that the princess I was assigned to protect is a more complex system than expected."
+They looked at each other again, this time without hostility or suspicion—just two people beginning to know each other.
+Maybe the cage wouldn't be so lonely after all.

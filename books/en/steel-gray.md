@@ -390,4 +390,4 @@ The new projection visualized deeper infiltration, with Aqua Loria's AI bypassin
 
 Thalia allowed herself a tight smile. The plan was taking shape.  
 
-"We'll need specialized gear..."  
+"We'll need specialized gear..."

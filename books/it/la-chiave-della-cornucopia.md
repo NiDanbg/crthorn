@@ -304,5 +304,4 @@ E poi — il vuoto. Un vuoto doloroso, luminoso, che lo perseguitava in ogni sog
 
 Ma i ricordi erano frammentari, come uno specchio rotto i cui pezzi riflettevano parti diverse di un quadro più ampio che non poteva più vedere nella sua interezza. Più cercava di riunirli, più gli sfuggivano tra le dita come sabbia.  
 
-Rimaneva solo una certezza — che doveva fuggire. Che il pericolo si avvicinava. E che questa volta, forse, non c'era nessun posto in cui nascondersi.  
-
+Rimaneva solo una certezza — che doveva fuggire. Che il pericolo si avvicinava. E che questa volta, forse, non c'era nessun posto in cui nascondersi.

@@ -18,226 +18,127 @@ const authorData = {
     },
     "novels": [
         {
+            "id": "kragat-ot-starata-melnica",
             "i18n": {
-                "bg": {
-                    "cover": "images/bg/kravta-na-enisey.webp",
-                    "excerpt": "books/bg/kravta-na-enisey.md",
-                    "genre": "Градско фентъзи",
-                    "synopsis": "synopsis/bg/kravta-na-enisey.txt",
-                    "title": "Кръвта на Енисей"
-                },
                 "en": {
-                    "cover": "images/en/the-blood-of-yenisei.webp",
-                    "excerpt": "books/en/the-blood-of-yenisei.md",
-                    "genre": "Urban Fantasy",
-                    "synopsis": "synopsis/en/the-blood-of-yenisei.txt",
-                    "title": "The Blood of Yenisei"
-                }
-            },
-            "id": "kravta-na-enisey",
-            "links": [
-                {
-                    "lang": "BG",
-                    "platform": "Laterpress",
-                    "url": "https://blood-of-the-yenisei-bg.laterpress.com/"
-                },
-                {
-                    "lang": "EN",
-                    "platform": "Laterpress",
-                    "url": "https://blood-of-the-yenisei.laterpress.com/"
-                },
-                {
-                    "lang": "EN",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/49qJ9Y"
-                }
-            ]
-        },
-        {
-            "i18n": {
-                "bg": {
-                    "cover": "images/bg/love-2-0.webp",
-                    "excerpt": "books/bg/love-2-0.md",
-                    "genre": "Романтика",
-                    "synopsis": "synopsis/bg/love-2-0.txt",
-                    "title": "Love 2.0"
-                },
-                "en": {
-                    "cover": "images/en/love-2-0.webp",
-                    "excerpt": "books/en/love-2-0.md",
-                    "genre": "Romance",
-                    "synopsis": "synopsis/en/love-2-0.txt",
-                    "title": "Love 2.0"
-                }
-            },
-            "id": "love-2-0",
-            "links": [
-                {
-                    "lang": "BG",
-                    "platform": "Laterpress",
-                    "url": "https://love-20-bg.laterpress.com/"
-                },
-                {
-                    "lang": "BG",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/bxDVev"
-                },
-                {
-                    "lang": "EN",
-                    "platform": "Amazon",
-                    "url": "https://www.amazon.com/dp/B0F893JHZV"
-                }
-            ]
-        },
-        {
-            "i18n": {
-                "bg": {
-                    "cover": "images/bg/kragat-ot-starata-melnica.webp",
-                    "excerpt": "books/bg/kragat-ot-starata-melnica.md",
-                    "genre": "Мистерия",
-                    "synopsis": "synopsis/bg/kragat-ot-starata-melnica.txt",
-                    "title": "Кръгът от Старата мелница"
-                },
-                "en": {
-                    "cover": "images/en/the-circle-from-the-old-mill.webp",
-                    "excerpt": "books/en/the-circle-from-the-old-mill.md",
+                    "title": "The Circle from the Old Mill",
                     "genre": "Mystery",
+                    "cover": "images/en/the-circle-from-the-old-mill.webp",
                     "synopsis": "synopsis/en/the-circle-from-the-old-mill.txt",
-                    "title": "The Circle from the Old Mill"
+                    "excerpt": "books/en/the-circle-from-the-old-mill.md"
                 },
                 "fr": {
-                    "cover": "images/fr/le-cercle-du-vieux-moulin.webp",
-                    "excerpt": "books/fr/le-cercle-du-vieux-moulin.md",
+                    "title": "Le Cercle du Vieux Moulin",
                     "genre": "Urban Fantasy",
+                    "cover": "images/fr/le-cercle-du-vieux-moulin.webp",
                     "synopsis": "synopsis/fr/le-cercle-du-vieux-moulin.txt",
-                    "title": "Le Cercle du Vieux Moulin"
+                    "excerpt": "books/fr/le-cercle-du-vieux-moulin.md"
                 },
                 "se": {
-                    "cover": "images/se/cirkeln-frn-den-gamla-kvarnen.webp",
-                    "excerpt": "books/se/cirkeln-frn-den-gamla-kvarnen.md",
+                    "title": "Cirkeln från den Gamla Kvarnen",
                     "genre": "Urban Fantasy",
+                    "cover": "images/se/cirkeln-frn-den-gamla-kvarnen.webp",
                     "synopsis": "synopsis/se/cirkeln-frn-den-gamla-kvarnen.txt",
-                    "title": "Cirkeln från den Gamla Kvarnen"
+                    "excerpt": "books/se/cirkeln-frn-den-gamla-kvarnen.md"
                 }
             },
-            "id": "kragat-ot-starata-melnica",
             "links": [
                 {
-                    "lang": "BG",
-                    "platform": "Laterpress",
-                    "url": "https://the-circle-of-the-old-mill-bg.laterpress.com/"
-                },
-                {
-                    "lang": "BG",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/bpgBDz"
-                },
-                {
-                    "lang": "EN",
                     "platform": "Amazon",
+                    "lang": "EN",
                     "url": "https://www.amazon.com/dp/B0FD8ZLXJN"
                 },
                 {
-                    "lang": "FR",
                     "platform": "Draft2Digital",
+                    "lang": "FR",
                     "url": "https://books2read.com/u/bpoVv9"
                 },
                 {
-                    "lang": "FR",
                     "platform": "Amazon",
+                    "lang": "FR",
                     "url": "https://www.amazon.com/dp/B0FKGHXKC3"
                 },
                 {
-                    "lang": "SE",
                     "platform": "Draft2Digital",
+                    "lang": "SE",
                     "url": "https://books2read.com/u/boAVKv"
                 },
                 {
-                    "lang": "SE",
                     "platform": "Amazon",
+                    "lang": "SE",
                     "url": "https://www.amazon.com/dp/B0FKGTG535"
                 }
             ]
         },
         {
+            "id": "prizrachen-kod",
             "i18n": {
-                "bg": {
-                    "cover": "images/bg/reysat-na-izgubenite.webp",
-                    "excerpt": "books/bg/reysat-na-izgubenite.md",
-                    "genre": "Магически реализъм",
-                    "synopsis": "synopsis/bg/reysat-na-izgubenite.txt",
-                    "title": "Рейсът на изгубените"
-                },
                 "en": {
-                    "cover": "images/en/the-bus-of-the-lost.webp",
-                    "excerpt": "books/en/the-bus-of-the-lost.md",
-                    "genre": "Magical realism",
-                    "synopsis": "synopsis/en/the-bus-of-the-lost.txt",
-                    "title": "The Bus of the Lost"
+                    "title": "Phantom Code",
+                    "genre": "Cyberpunk, Noir",
+                    "cover": "images/en/phantom-code.webp",
+                    "synopsis": "synopsis/en/phantom-code.txt",
+                    "excerpt": "books/en/phantom-code.md"
                 }
             },
-            "id": "reysat-na-izgubenite",
             "links": [
                 {
-                    "lang": "BG",
                     "platform": "Laterpress",
-                    "url": "https://the-bus-of-the-lost-bg.laterpress.com/"
-                },
-                {
-                    "lang": "BG",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/mqPyvd"
-                },
-                {
                     "lang": "EN",
+                    "url": "https://phantom-code-en.laterpress.com/"
+                },
+                {
+                    "platform": "Draft2Digital",
+                    "lang": "EN",
+                    "url": "https://books2read.com/u/bzNw5L"
+                },
+                {
                     "platform": "Amazon",
-                    "url": "https://www.amazon.com/dp/B0FDGKLG71"
+                    "lang": "EN",
+                    "url": "https://www.amazon.com/dp/B0FKZZ883N"
                 }
             ]
         },
         {
+            "id": "love-2-0",
             "i18n": {
-                "bg": {
-                    "cover": "images/bg/prizrachen-kod.webp",
-                    "excerpt": "books/bg/prizrachen-kod.md",
-                    "genre": "Киберпънк, Ноар",
-                    "synopsis": "synopsis/bg/prizrachen-kod.txt",
-                    "title": "Призрачен код"
-                },
                 "en": {
-                    "cover": "images/en/phantom-code.webp",
-                    "excerpt": "books/en/phantom-code.md",
-                    "genre": "Cyberpunk, Noir",
-                    "synopsis": "synopsis/en/phantom-code.txt",
-                    "title": "Phantom Code"
+                    "title": "Love 2.0",
+                    "genre": "Romance",
+                    "cover": "images/en/love-2-0.webp",
+                    "synopsis": "synopsis/en/love-2-0.txt",
+                    "excerpt": "books/en/love-2-0.md"
                 }
             },
-            "id": "prizrachen-kod",
             "links": [
                 {
-                    "lang": "BG",
-                    "platform": "Laterpress",
-                    "url": "https://phantom-code-bg.laterpress.com/"
-                },
-                {
-                    "lang": "BG",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/mKMrZL"
-                },
-                {
-                    "lang": "EN",
-                    "platform": "Laterpress",
-                    "url": "https://phantom-code-en.laterpress.com/"
-                },
-                {
-                    "lang": "EN",
-                    "platform": "Draft2Digital",
-                    "url": "https://books2read.com/u/bzNw5L"
-                },
-                {
-                    "lang": "EN",
                     "platform": "Amazon",
-                    "url": "https://www.amazon.com/dp/B0FKZZ883N"
+                    "lang": "EN",
+                    "url": "https://www.amazon.com/dp/B0F893JHZV"
+                }
+            ]
+        },
+        {
+            "id": "kravta-na-enisey",
+            "i18n": {
+                "en": {
+                    "title": "The Blood of Yenisei",
+                    "genre": "Urban Fantasy",
+                    "cover": "images/en/the-blood-of-yenisei.webp",
+                    "synopsis": "synopsis/en/the-blood-of-yenisei.txt",
+                    "excerpt": "books/en/the-blood-of-yenisei.md"
+                }
+            },
+            "links": [
+                {
+                    "platform": "Laterpress",
+                    "lang": "EN",
+                    "url": "https://blood-of-the-yenisei.laterpress.com/"
+                },
+                {
+                    "platform": "Draft2Digital",
+                    "lang": "EN",
+                    "url": "https://books2read.com/u/49qJ9Y"
                 }
             ]
         }
@@ -246,581 +147,538 @@ const authorData = {
         {
             "books": [
                 {
+                    "id": "lechitelyat-ot-blekstoun",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/boria-1.webp",
-                            "excerpt": "books/bg/lechitelyat-ot-blekstoun.md",
-                            "genre": "Епично фентъзи",
-                            "synopsis": "synopsis/bg/lechitelyat-ot-blekstoun.txt",
-                            "title": "Лечителят от Блекстоун"
+                        "en": {
+                            "title": "The Healer of Blackstone",
+                            "genre": "Epic Fantasy",
+                            "cover": "images/en/boria-1.webp",
+                            "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
+                            "excerpt": "books/en/the-healer-of-blackstone.md"
                         },
                         "de": {
-                            "cover": "images/de/boria-1.webp",
-                            "excerpt": "books/de/der-heiler-von-blackstone.md",
+                            "title": "Der Heiler von Blackstone",
                             "genre": "Epische Fantasy",
+                            "cover": "images/de/boria-1.webp",
                             "synopsis": "synopsis/de/der-heiler-von-blackstone.txt",
-                            "title": "Der Heiler von Blackstone"
-                        },
-                        "en": {
-                            "cover": "images/en/boria-1.webp",
-                            "excerpt": "books/en/the-healer-of-blackstone.md",
-                            "genre": "Epic Fantasy",
-                            "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
-                            "title": "The Healer of Blackstone"
-                        },
-                        "es": {
-                            "cover": "images/es/boria-1.webp",
-                            "excerpt": "books/es/el-sanador-de-blackstone.md",
-                            "genre": "Fantasía Épica",
-                            "synopsis": "synopsis/es/el-sanador-de-blackstone.txt",
-                            "title": "El Sanador de Blackstone"
+                            "excerpt": "books/de/der-heiler-von-blackstone.md"
                         },
                         "fr": {
-                            "cover": "images/fr/boria-1.webp",
-                            "excerpt": "books/fr/le-guerisseur-de-blackstone.md",
+                            "title": "Le Guérisseur de Blackstone",
                             "genre": "Fantasy Épique",
+                            "cover": "images/fr/boria-1.webp",
                             "synopsis": "synopsis/fr/le-guerisseur-de-blackstone.txt",
-                            "title": "Le Guérisseur de Blackstone"
+                            "excerpt": "books/fr/le-guerisseur-de-blackstone.md"
                         },
                         "it": {
-                            "cover": "images/it/boria-1.webp",
-                            "excerpt": "books/it/il-guaritore-di-blackstone.md",
+                            "title": "Il Guaritore di Blackstone",
                             "genre": "Fantasy Epico",
+                            "cover": "images/it/boria-1.webp",
                             "synopsis": "synopsis/it/il-guaritore-di-blackstone.txt",
-                            "title": "Il Guaritore di Blackstone"
+                            "excerpt": "books/it/il-guaritore-di-blackstone.md"
                         },
                         "nl": {
-                            "cover": "images/nl/boria-1.webp",
-                            "excerpt": "books/nl/de-genezer-van-blackstone.md",
+                            "title": "De Genezer van Blackstone",
                             "genre": "Epische Fantasy",
+                            "cover": "images/nl/boria-1.webp",
                             "synopsis": "synopsis/nl/de-genezer-van-blackstone.txt",
-                            "title": "De Genezer van Blackstone"
+                            "excerpt": "books/nl/de-genezer-van-blackstone.md"
+                        },
+                        "es": {
+                            "title": "El Sanador de Blackstone",
+                            "genre": "Fantasía Épica",
+                            "cover": "images/es/boria-1.webp",
+                            "synopsis": "synopsis/es/el-sanador-de-blackstone.txt",
+                            "excerpt": "books/es/el-sanador-de-blackstone.md"
                         },
                         "pt": {
-                            "cover": "images/pt/boria-1.webp",
-                            "excerpt": "books/pt/o-curandeiro-de-blackstone.md",
+                            "title": "O Curandeiro de Blackstone",
                             "genre": "Fantasia Épica",
+                            "cover": "images/pt/boria-1.webp",
                             "synopsis": "synopsis/pt/o-curandeiro-de-blackstone.txt",
-                            "title": "O Curandeiro de Blackstone"
+                            "excerpt": "books/pt/o-curandeiro-de-blackstone.md"
                         },
                         "se": {
-                            "cover": "images/se/boria-1.webp",
-                            "excerpt": "books/se/lakaren-fran-blackstone.md",
+                            "title": "Läkaren från Blackstone",
                             "genre": "Episk Fantasy",
+                            "cover": "images/se/boria-1.webp",
                             "synopsis": "synopsis/se/lakaren-fran-blackstone.txt",
-                            "title": "Läkaren från Blackstone"
+                            "excerpt": "books/se/lakaren-fran-blackstone.md"
                         }
                     },
-                    "id": "lechitelyat-ot-blekstoun",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Laterpress",
+                            "lang": "EN",
                             "url": "https://boria-eng.laterpress.com/book/the-healer-of-blackstone-eng"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/47yL2g"
                         },
                         {
-                            "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://boria-bg.laterpress.com/book/the-healer-of-blackstone-el-bg"
-                        },
-                        {
-                            "lang": "DE",
                             "platform": "Amazon",
+                            "lang": "DE",
                             "url": "https://www.amazon.com/dp/B0DSTRYXNB"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Draft2Digital",
+                            "lang": "DE",
                             "url": "https://books2read.com/u/bMjX97"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Amazon",
+                            "lang": "IT",
                             "url": "https://www.amazon.com/dp/B0DT6MZ2TH"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Draft2Digital",
+                            "lang": "IT",
                             "url": "https://books2read.com/u/bMjXa7"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
+                            "lang": "FR",
                             "url": "https://www.amazon.com/dp/B0DVZHVV84"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
+                            "lang": "FR",
                             "url": "https://books2read.com/u/mYk6zV"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Amazon",
+                            "lang": "ES",
                             "url": "https://www.amazon.com/dp/B0DVP9ZFPL"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Draft2Digital",
+                            "lang": "ES",
                             "url": "https://books2read.com/u/mVEgNA"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
+                            "lang": "NL",
                             "url": "https://www.amazon.com/dp/B0DTP8TC7X"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Draft2Digital",
+                            "lang": "NL",
                             "url": "https://books2read.com/u/mqd0Ge"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
+                            "lang": "PT",
                             "url": "https://www.amazon.com/dp/B0DV4KPXKW"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Draft2Digital",
+                            "lang": "PT",
                             "url": "https://books2read.com/u/mvgn76"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Amazon",
+                            "lang": "SE",
                             "url": "https://www.amazon.com/dp/B0DWFDR9P4"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Draft2Digital",
+                            "lang": "SE",
                             "url": "https://books2read.com/u/mKkVK5"
                         }
                     ]
                 },
                 {
+                    "id": "princa-ot-iztok",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/boria-2.webp",
-                            "excerpt": "books/bg/pazitelkata-na-briest.md",
-                            "genre": "Епично фентъзи",
-                            "synopsis": "synopsis/bg/pazitelkata-na-briest.txt",
-                            "title": "Пазителката на Бриест"
+                        "en": {
+                            "title": "The Prince of the East",
+                            "genre": "Epic Fantasy",
+                            "cover": "images/en/the-prince-of-the-east-en.webp",
+                            "synopsis": "synopsis/en/the-prince-from-the-east.txt",
+                            "excerpt": "books/en/the-prince-from-the-east.md"
                         },
                         "de": {
-                            "cover": "images/de/boria-2.webp",
-                            "excerpt": "books/de/die-waechterin-von-briest.md",
+                            "title": "Der Prinz aus dem Osten",
                             "genre": "Epische Fantasy",
-                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
-                            "title": "Die Wächterin von Briest"
-                        },
-                        "en": {
-                            "cover": "images/en/boria-2.webp",
-                            "excerpt": "books/en/the-guardian-of-briest.md",
-                            "genre": "Epic Fantasy",
-                            "synopsis": "synopsis/en/the-guardian-of-briest.txt",
-                            "title": "The Guardian of Briest"
+                            "cover": "images/de/der-prinz-aus-dem-osten.webp",
+                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
+                            "excerpt": "books/de/der-prinz-aus-dem-osten.md"
                         },
                         "fr": {
-                            "cover": "images/fr/boria-2.webp",
-                            "excerpt": "books/fr/la-gardienne-de-briest.md",
+                            "title": "Le Prince de l'Est",
                             "genre": "Fantasy Épique",
-                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
-                            "title": "La Gardienne de Briest"
+                            "cover": "images/fr/le-prince-de-lest.webp",
+                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
+                            "excerpt": "books/fr/le-prince-de-lest.md"
                         },
                         "it": {
-                            "cover": "images/it/boria-2.webp",
-                            "excerpt": "books/it/la-guardiana-di-briest.md",
+                            "title": "Il Principe dell'Est",
                             "genre": "Fantasy Epico",
-                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
-                            "title": "La Guardiana di Briest"
+                            "cover": "images/it/il-principe-dellest.webp",
+                            "synopsis": "synopsis/it/il-principe-dellest.txt",
+                            "excerpt": "books/it/il-principe-dellest.md"
                         },
                         "nl": {
-                            "cover": "images/nl/boria-2.webp",
-                            "excerpt": "books/nl/de-bewaakster-van-briest.md",
+                            "title": "De Prins uit het Oosten",
                             "genre": "Epische Fantasy",
-                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
-                            "title": "De Bewaakster van Briest"
+                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
+                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
+                            "excerpt": "books/nl/de-prins-uit-het-oosten.md"
                         },
                         "pt": {
-                            "cover": "images/pt/boria-2.webp",
-                            "excerpt": "books/pt/a-guardia-de-briest.md",
+                            "title": "O Príncipe do Leste",
                             "genre": "Fantasia Épica",
-                            "synopsis": "synopsis/pt/a-guardia-de-briest.txt",
-                            "title": "A Guardiã de Briest"
+                            "cover": "images/pt/o-prncipe-do-leste.webp",
+                            "synopsis": "synopsis/pt/o-prncipe-do-leste.txt",
+                            "excerpt": "books/pt/o-prncipe-do-leste.md"
                         },
                         "se": {
-                            "cover": "images/se/boria-2.webp",
-                            "excerpt": "books/se/vaktaren-av-briest.md",
+                            "title": "Prinsen från östern",
                             "genre": "Episk Fantasy",
-                            "synopsis": "synopsis/se/vaktaren-av-briest.txt",
-                            "title": "Väktaren av Briest"
+                            "cover": "images/se/prinsen-frn-stern.webp",
+                            "synopsis": "synopsis/se/prinsen-frn-stern.txt",
+                            "excerpt": "books/se/prinsen-frn-stern.md"
                         }
                     },
-                    "id": "pazitelkata-na-briest",
                     "links": [
                         {
-                            "lang": "EN",
-                            "platform": "Laterpress",
-                            "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng"
-                        },
-                        {
-                            "lang": "EN",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://boria-bg.laterpress.com/book/the-guardian-of-briest-bg"
-                        },
-                        {
                             "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bWaWjG"
+                            "url": "https://www.amazon.com/dp/B0FYPS13BY"
                         },
                         {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/b5yknl"
+                        },
+                        {
+                            "platform": "Amazon",
                             "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DSV469C2"
+                            "url": "https://www.amazon.de/dp/B0FYSN3XB4"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/boRDw0"
+                            "url": "https://books2read.com/u/491Jj0"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DT9PMY24"
+                            "url": "https://www.amazon.it/dp/B0FYZ98MDP"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "IT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3JdXJg"
+                            "url": "https://books2read.com/u/boRMQv"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DVZPBR7M"
+                            "url": "https://www.amazon.fr/dp/B0DCV41KHR"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3RkLyx"
+                            "url": "https://books2read.com/u/mBpR7y"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DTPFX93T"
+                            "url": "https://www.amazon.nl/dp/B0G2LPJVVH"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "NL",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/boRDW0"
+                            "url": "https://books2read.com/u/491OwX"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DTZ4NJ7Q"
-                        },
-                        {
                             "lang": "PT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3L7YpM"
+                            "url": "https://www.amazon.com.br/dp/B0G2M359K2"
                         },
                         {
-                            "lang": "SE",
+                            "platform": "Draft2Digital",
+                            "lang": "PT",
+                            "url": "https://books2read.com/u/baeLOy"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DWFNLPVF"
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0FZNKFDMS"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mdRqLW"
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/boJxO1"
                         }
                     ]
                 },
                 {
+                    "id": "dva-svyata",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/boria-3.webp",
-                            "excerpt": "books/bg/dva-sviata.md",
-                            "genre": "Епично фентъзи",
-                            "synopsis": "synopsis/bg/dva-sviata.txt",
-                            "title": "Два свята"
+                        "en": {
+                            "title": "Two Worlds",
+                            "genre": "Epic Fantasy",
+                            "cover": "images/en/boria-3.webp",
+                            "synopsis": "synopsis/en/two-worlds.txt",
+                            "excerpt": "books/en/two-worlds.md"
                         },
                         "de": {
-                            "cover": "images/de/boria-3.webp",
-                            "excerpt": "books/de/zwei-welten.md",
+                            "title": "Zwei Welten",
                             "genre": "Epische Fantasy",
+                            "cover": "images/de/boria-3.webp",
                             "synopsis": "synopsis/de/zwei-welten.txt",
-                            "title": "Zwei Welten"
-                        },
-                        "en": {
-                            "cover": "images/en/boria-3.webp",
-                            "excerpt": "books/en/two-worlds.md",
-                            "genre": "Epic Fantasy",
-                            "synopsis": "synopsis/en/two-worlds.txt",
-                            "title": "Two Worlds"
+                            "excerpt": "books/de/zwei-welten.md"
                         },
                         "fr": {
-                            "cover": "images/fr/boria-3.webp",
-                            "excerpt": "books/fr/deux-mondes.md",
+                            "title": "Deux Mondes",
                             "genre": "Fantasy Épique",
+                            "cover": "images/fr/boria-3.webp",
                             "synopsis": "synopsis/fr/deux-mondes.txt",
-                            "title": "Deux Mondes"
+                            "excerpt": "books/fr/deux-mondes.md"
                         },
                         "it": {
-                            "cover": "images/it/boria-3.webp",
-                            "excerpt": "books/it/due-mondi.md",
+                            "title": "Due Mondi",
                             "genre": "Fantasy Epico",
+                            "cover": "images/it/boria-3.webp",
                             "synopsis": "synopsis/it/due-mondi.txt",
-                            "title": "Due Mondi"
+                            "excerpt": "books/it/due-mondi.md"
                         },
                         "nl": {
-                            "cover": "images/nl/boria-3.webp",
-                            "excerpt": "books/nl/twee-werelden.md",
+                            "title": "Twee Werelden",
                             "genre": "Epische Fantasy",
+                            "cover": "images/nl/boria-3.webp",
                             "synopsis": "synopsis/nl/twee-werelden.txt",
-                            "title": "Twee Werelden"
+                            "excerpt": "books/nl/twee-werelden.md"
                         },
                         "pt": {
-                            "cover": "images/pt/boria-3.webp",
-                            "excerpt": "books/pt/dois-mundos.md",
+                            "title": "Dois Mundos",
                             "genre": "Fantasia Épica",
+                            "cover": "images/pt/boria-3.webp",
                             "synopsis": "synopsis/pt/dois-mundos.txt",
-                            "title": "Dois Mundos"
+                            "excerpt": "books/pt/dois-mundos.md"
                         },
                         "se": {
-                            "cover": "images/se/boria-3.webp",
-                            "excerpt": "books/se/tva-varldar.md",
+                            "title": "Två Världar",
                             "genre": "Episk Fantasy",
+                            "cover": "images/se/boria-3.webp",
                             "synopsis": "synopsis/se/tva-varldar.txt",
-                            "title": "Två Världar"
+                            "excerpt": "books/se/tva-varldar.md"
                         }
                     },
-                    "id": "dva-svyata",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Laterpress",
+                            "lang": "EN",
                             "url": "https://boria-eng.laterpress.com/book/two-worlds-eng"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0DSR63R9B"
                         },
                         {
-                            "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://boria-bg.laterpress.com/book/two-worlds-bg"
-                        },
-                        {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/m2DpL1"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Amazon",
+                            "lang": "DE",
                             "url": "https://www.amazon.com/dp/B0DT11SLLJ"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Draft2Digital",
+                            "lang": "DE",
                             "url": "https://books2read.com/u/3G0PXL"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Amazon",
+                            "lang": "IT",
                             "url": "https://www.amazon.com/dp/B0DTDGVKK9"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Draft2Digital",
+                            "lang": "IT",
                             "url": "https://books2read.com/u/mVEnkM"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
+                            "lang": "FR",
                             "url": "https://www.amazon.com/dp/B0DW48943J"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
+                            "lang": "FR",
                             "url": "https://books2read.com/u/4N0okY"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
+                            "lang": "NL",
                             "url": "https://www.amazon.com/dp/B0DTSV83XD"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Draft2Digital",
+                            "lang": "NL",
                             "url": "https://books2read.com/u/mVEl0r"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
+                            "lang": "PT",
                             "url": "https://www.amazon.com/dp/B0DV5HGMYL"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Draft2Digital",
+                            "lang": "PT",
                             "url": "https://books2read.com/u/mBWEdv"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Amazon",
+                            "lang": "SE",
                             "url": "https://www.amazon.com/dp/B0FB98GQ1C"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Draft2Digital",
+                            "lang": "SE",
                             "url": "https://books2read.com/u/3nj2XR"
                         }
                     ]
                 },
                 {
+                    "id": "pazitelkata-na-briest",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/en/the-prince-of-the-east-en.webp",
-                            "excerpt": "books/bg/princa-ot-iztok.md",
-                            "genre": "Епично фентъзи",
-                            "synopsis": "synopsis/bg/princa-ot-iztok.txt",
-                            "title": "Принца от изток"
+                        "en": {
+                            "title": "The Guardian of Briest",
+                            "genre": "Epic Fantasy",
+                            "cover": "images/en/boria-2.webp",
+                            "synopsis": "synopsis/en/the-guardian-of-briest.txt",
+                            "excerpt": "books/en/the-guardian-of-briest.md"
                         },
                         "de": {
-                            "cover": "images/de/der-prinz-aus-dem-osten.webp",
-                            "excerpt": "books/de/der-prinz-aus-dem-osten.md",
+                            "title": "Die Wächterin von Briest",
                             "genre": "Epische Fantasy",
-                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
-                            "title": "Der Prinz aus dem Osten"
-                        },
-                        "en": {
-                            "cover": "images/en/the-prince-of-the-east-en.webp",
-                            "excerpt": "books/en/the-prince-from-the-east.md",
-                            "genre": "Epic Fantasy",
-                            "synopsis": "synopsis/en/the-prince-from-the-east.txt",
-                            "title": "The Prince of the East"
+                            "cover": "images/de/boria-2.webp",
+                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
+                            "excerpt": "books/de/die-waechterin-von-briest.md"
                         },
                         "fr": {
-                            "cover": "images/fr/le-prince-de-lest.webp",
-                            "excerpt": "books/fr/le-prince-de-lest.md",
+                            "title": "La Gardienne de Briest",
                             "genre": "Fantasy Épique",
-                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
-                            "title": "Le Prince de l'Est"
+                            "cover": "images/fr/boria-2.webp",
+                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
+                            "excerpt": "books/fr/la-gardienne-de-briest.md"
                         },
                         "it": {
-                            "cover": "images/it/il-principe-dellest.webp",
-                            "excerpt": "books/it/il-principe-dellest.md",
+                            "title": "La Guardiana di Briest",
                             "genre": "Fantasy Epico",
-                            "synopsis": "synopsis/it/il-principe-dellest.txt",
-                            "title": "Il Principe dell'Est"
+                            "cover": "images/it/boria-2.webp",
+                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
+                            "excerpt": "books/it/la-guardiana-di-briest.md"
                         },
                         "nl": {
-                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
-                            "excerpt": "books/nl/de-prins-uit-het-oosten.md",
+                            "title": "De Bewaakster van Briest",
                             "genre": "Epische Fantasy",
-                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
-                            "title": "De Prins uit het Oosten"
+                            "cover": "images/nl/boria-2.webp",
+                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
+                            "excerpt": "books/nl/de-bewaakster-van-briest.md"
                         },
                         "pt": {
-                            "cover": "images/pt/o-prncipe-do-leste.webp",
-                            "excerpt": "books/pt/o-prncipe-do-leste.md",
+                            "title": "A Guardiã de Briest",
                             "genre": "Fantasia Épica",
-                            "synopsis": "synopsis/pt/o-prncipe-do-leste.txt",
-                            "title": "O Príncipe do Leste"
+                            "cover": "images/pt/boria-2.webp",
+                            "synopsis": "synopsis/pt/a-guardia-de-briest.txt",
+                            "excerpt": "books/pt/a-guardia-de-briest.md"
                         },
                         "se": {
-                            "cover": "images/se/prinsen-frn-stern.webp",
-                            "excerpt": "books/se/prinsen-frn-stern.md",
+                            "title": "Väktaren av Briest",
                             "genre": "Episk Fantasy",
-                            "synopsis": "synopsis/se/prinsen-frn-stern.txt",
-                            "title": "Prinsen från östern"
+                            "cover": "images/se/boria-2.webp",
+                            "synopsis": "synopsis/se/vaktaren-av-briest.txt",
+                            "excerpt": "books/se/vaktaren-av-briest.md"
                         }
                     },
-                    "id": "princa-ot-iztok",
                     "links": [
                         {
+                            "platform": "Laterpress",
                             "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FYPS13BY"
+                            "url": "https://boria-eng.laterpress.com/book/the-guardian-of-briest-eng"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/b5yknl"
+                            "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
                         },
                         {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/bWaWjG"
+                        },
+                        {
+                            "platform": "Amazon",
                             "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.de/dp/B0FYSN3XB4"
+                            "url": "https://www.amazon.com/dp/B0DSV469C2"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/491Jj0"
+                            "url": "https://books2read.com/u/boRDw0"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.it/dp/B0FYZ98MDP"
+                            "url": "https://www.amazon.com/dp/B0DT9PMY24"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "IT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/boRMQv"
+                            "url": "https://books2read.com/u/3JdXJg"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.fr/dp/B0DCV41KHR"
+                            "url": "https://www.amazon.com/dp/B0DVZPBR7M"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mBpR7y"
+                            "url": "https://books2read.com/u/3RkLyx"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.nl/dp/B0G2LPJVVH"
+                            "url": "https://www.amazon.com/dp/B0DTPFX93T"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "NL",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/491OwX"
+                            "url": "https://books2read.com/u/boRDW0"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com.br/dp/B0G2M359K2"
-                        },
-                        {
                             "lang": "PT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/baeLOy"
+                            "url": "https://www.amazon.com/dp/B0DTZ4NJ7Q"
                         },
                         {
-                            "lang": "SE",
+                            "platform": "Draft2Digital",
+                            "lang": "PT",
+                            "url": "https://books2read.com/u/3L7YpM"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FZNKFDMS"
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0DWFNLPVF"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/boJxO1"
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/mdRqLW"
                         }
                     ]
                 }
@@ -841,449 +699,406 @@ const authorData = {
         {
             "books": [
                 {
+                    "id": "stomaneno-sivo",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/krav-i-zvezden-prah-1.webp",
-                            "excerpt": "books/bg/drevno-sinio.md",
-                            "genre": "Научна фантастика",
-                            "synopsis": "synopsis/bg/drevno-sinio.txt",
-                            "title": "Древно синьо"
+                        "en": {
+                            "title": "Steel Gray",
+                            "genre": "Science Fiction",
+                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
+                            "synopsis": "synopsis/en/steel-gray.txt",
+                            "excerpt": "books/en/steel-gray.md"
                         },
                         "de": {
-                            "cover": "images/de/uraltes-blau.webp",
-                            "excerpt": "books/de/uraltes-blau.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/de/uraltes-blau.txt",
-                            "title": "Uraltes Blau"
-                        },
-                        "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
-                            "excerpt": "books/en/ancient-blue.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/en/ancient-blue.txt",
-                            "title": "Ancient Blue"
-                        },
-                        "es": {
-                            "cover": "images/es/azul-аncestral.webp",
-                            "excerpt": "books/es/azul-аncestral.md",
-                            "genre": "Ciencia Ficción",
-                            "synopsis": "synopsis/es/azul-аncestral.txt",
-                            "title": "Azul Ancestral"
+                            "title": "Stählernes Grau",
+                            "genre": "Science-Fiction",
+                            "cover": "images/de/stählernes-grau.webp",
+                            "synopsis": "synopsis/de/stählernes-grau.txt",
+                            "excerpt": "books/de/stählernes-grau.md"
                         },
                         "fr": {
-                            "cover": "images/fr/bleu-ancien.webp",
-                            "excerpt": "books/fr/bleu-ancien.md",
+                            "title": "Gris Acier",
                             "genre": "Science-Fiction",
-                            "synopsis": "synopsis/fr/bleu-ancien.txt",
-                            "title": "Bleu Ancien"
+                            "cover": "images/fr/gris-acier.webp",
+                            "synopsis": "synopsis/fr/gris-acier.txt",
+                            "excerpt": "books/fr/gris-acier.md"
                         },
                         "it": {
-                            "cover": "images/it/l'antico-blu.webp",
-                            "excerpt": "books/it/l'antico-blu.md",
+                            "title": "Grigio d'Acciaio",
                             "genre": "Fantascienza",
-                            "synopsis": "synopsis/it/l'antico-blu.txt",
-                            "title": "L'Antico Blu"
+                            "cover": "images/it/grigio-d'acciaio.webp",
+                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
+                            "excerpt": "books/it/grigio-d'acciaio.md"
                         },
                         "nl": {
-                            "cover": "images/nl/oeroud-blauw.webp",
-                            "excerpt": "books/nl/oeroud-blauw.md",
+                            "title": "Staalgrijs",
                             "genre": "Science Fiction",
-                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
-                            "title": "Oeroud Blauw"
+                            "cover": "images/nl/staalgrijs.webp",
+                            "synopsis": "synopsis/nl/staalgrijs.txt",
+                            "excerpt": "books/nl/staalgrijs.md"
                         }
                     },
-                    "id": "drevno-sinio",
                     "links": [
                         {
-                            "lang": "BG",
                             "platform": "Laterpress",
-                            "url": "https://blood-and-stardust.laterpress.com/book/ancient-blue"
+                            "lang": "EN",
+                            "url": "https://blood-and-stardust-eng.laterpress.com/book/steel-gray-en"
                         },
                         {
-                            "lang": "BG",
                             "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/38q556"
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/3JMJBK"
                         },
                         {
-                            "lang": "EN",
-                            "platform": "Laterpress",
-                            "url": "https://blood-and-stardust-eng.laterpress.com/book/ancient-blue-eng"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3L2Nke"
-                        },
-                        {
-                            "lang": "EN",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DHVGH23L"
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0F2SY25S5"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0DZVNDZ46"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/38aRxL"
-                        },
-                        {
                             "lang": "IT",
+                            "url": "https://www.amazon.com/dp/B0F88LPQW9"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4EV7PA"
-                        },
-                        {
                             "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKC7YXK7"
+                            "url": "https://www.amazon.com/dp/B0F99VQFGF"
                         },
                         {
+                            "platform": "Draft2Digital",
                             "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3ypoxL"
+                            "url": "https://books2read.com/u/4AyxEp"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
-                        },
-                        {
-                            "lang": "ES",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bz5gL9"
-                        },
-                        {
                             "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DY58ZNN2"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mdBwNX"
+                            "url": "https://www.amazon.com/dp/B0FHWQVH7Q"
                         }
                     ]
                 },
                 {
-                    "i18n": {
-                        "bg": {
-                            "cover": "images/bg/krav-i-zvezden-prah-2.webp",
-                            "excerpt": "books/bg/cherveno-i-drevno-sinio.md",
-                            "genre": "Научна фантастика",
-                            "synopsis": "synopsis/bg/cherveno-i-drevno-sinio.txt",
-                            "title": "Червено и Древно синьо"
-                        },
-                        "de": {
-                            "cover": "images/de/rot-und-uraltes-blau.webp",
-                            "excerpt": "books/de/rot-und-uraltes-blau.md",
-                            "genre": "Science-Fiction",
-                            "synopsis": "synopsis/de/rot-und-uraltes-blau.txt",
-                            "title": "Rot und Uraltes Blau"
-                        },
-                        "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-2.webp",
-                            "excerpt": "books/en/red-and-ancient-blue.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/en/red-and-ancient-blue.txt",
-                            "title": "Red and Ancient Blue"
-                        },
-                        "es": {
-                            "cover": "images/es/rojo-y-azul-antiguo.webp",
-                            "excerpt": "books/es/rojo-y-azul-antiguo.md",
-                            "genre": "Ciencia Ficción",
-                            "synopsis": "synopsis/es/rojo-y-azul-antiguo.txt",
-                            "title": "Rojo y Azul Ancestral"
-                        },
-                        "fr": {
-                            "cover": "images/fr/rouge-et-bleu-ancien.webp",
-                            "excerpt": "books/fr/rouge-et-bleu-ancien.md",
-                            "genre": "Science-Fiction",
-                            "synopsis": "synopsis/fr/rouge-et-bleu-ancien.txt",
-                            "title": "Rouge et Bleu Ancien"
-                        },
-                        "it": {
-                            "cover": "images/it/rosso-e-l'antico-blu.webp",
-                            "excerpt": "books/it/rosso-e-l'antico-blu.md",
-                            "genre": "Fantascienza",
-                            "synopsis": "synopsis/it/rosso-e-l'antico-blu.txt",
-                            "title": "Rosso e L'Antico Blu"
-                        },
-                        "nl": {
-                            "cover": "images/nl/rood-en-oeroud-blauw.webp",
-                            "excerpt": "books/nl/rood-en-oeroud-blauw.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/nl/rood-en-oeroud-blauw.txt",
-                            "title": "Rood en Oeroud Blauw"
-                        }
-                    },
-                    "id": "cherveno-i-drevno-sinio",
-                    "links": [
-                        {
-                            "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://blood-and-stardust.laterpress.com/book/red-and-ancient-blue-bg"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bwkEeY"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Laterpress",
-                            "url": "https://blood-and-stardust-eng.laterpress.com/book/red-and-ancient-blue-eng"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bM8nVG"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DJL9X7VH"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DLCGHLBW"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DNVVWRPN"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DLHG88QX"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bpgE76"
-                        },
-                        {
-                            "lang": "ES",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0CYYRK77Q"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0F26X8SZH"
-                        }
-                    ]
-                },
-                {
-                    "i18n": {
-                        "bg": {
-                            "cover": "images/bg/krav-i-zvezden-prah-3.webp",
-                            "excerpt": "books/bg/kosmichesko-cherveno.md",
-                            "genre": "Научна фантастика",
-                            "synopsis": "synopsis/bg/kosmichesko-cherveno.txt",
-                            "title": "Космическо червено"
-                        },
-                        "de": {
-                            "cover": "images/de/kosmisches-rot.webp",
-                            "excerpt": "books/de/kosmisches-rot.md",
-                            "genre": "Science-Fiction",
-                            "synopsis": "synopsis/de/kosmisches-rot.txt",
-                            "title": "Kosmisches Rot"
-                        },
-                        "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
-                            "excerpt": "books/en/cosmic-red.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/en/cosmic-red.txt",
-                            "title": "Cosmic Red"
-                        },
-                        "es": {
-                            "cover": "images/es/rojo-cósmico.webp",
-                            "excerpt": "books/es/rojo-cósmico.md",
-                            "genre": "Ciencia Ficción",
-                            "synopsis": "synopsis/es/rojo-cósmico.txt",
-                            "title": "Rojo Cósmico"
-                        },
-                        "fr": {
-                            "cover": "images/fr/rouge-cosmique.webp",
-                            "excerpt": "books/fr/rouge-cosmique.md",
-                            "genre": "Science-Fiction",
-                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
-                            "title": "Rouge Cosmique"
-                        },
-                        "it": {
-                            "cover": "images/it/rosso-cosmico.webp",
-                            "excerpt": "books/it/rosso-cosmico.md",
-                            "genre": "Fantascienza",
-                            "synopsis": "synopsis/it/rosso-cosmico.txt",
-                            "title": "Rosso Cosmico"
-                        },
-                        "nl": {
-                            "cover": "images/nl/kosmisch-rood.webp",
-                            "excerpt": "books/nl/kosmisch-rood.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
-                            "title": "Kosmisch Rood"
-                        }
-                    },
                     "id": "kosmichesko-cherveno",
+                    "i18n": {
+                        "en": {
+                            "title": "Cosmic Red",
+                            "genre": "Science Fiction",
+                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
+                            "synopsis": "synopsis/en/cosmic-red.txt",
+                            "excerpt": "books/en/cosmic-red.md"
+                        },
+                        "de": {
+                            "title": "Kosmisches Rot",
+                            "genre": "Science-Fiction",
+                            "cover": "images/de/kosmisches-rot.webp",
+                            "synopsis": "synopsis/de/kosmisches-rot.txt",
+                            "excerpt": "books/de/kosmisches-rot.md"
+                        },
+                        "fr": {
+                            "title": "Rouge Cosmique",
+                            "genre": "Science-Fiction",
+                            "cover": "images/fr/rouge-cosmique.webp",
+                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
+                            "excerpt": "books/fr/rouge-cosmique.md"
+                        },
+                        "it": {
+                            "title": "Rosso Cosmico",
+                            "genre": "Fantascienza",
+                            "cover": "images/it/rosso-cosmico.webp",
+                            "synopsis": "synopsis/it/rosso-cosmico.txt",
+                            "excerpt": "books/it/rosso-cosmico.md"
+                        },
+                        "nl": {
+                            "title": "Kosmisch Rood",
+                            "genre": "Science Fiction",
+                            "cover": "images/nl/kosmisch-rood.webp",
+                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
+                            "excerpt": "books/nl/kosmisch-rood.md"
+                        },
+                        "es": {
+                            "title": "Rojo Cósmico",
+                            "genre": "Ciencia Ficción",
+                            "cover": "images/es/rojo-cósmico.webp",
+                            "synopsis": "synopsis/es/rojo-cósmico.txt",
+                            "excerpt": "books/es/rojo-cósmico.md"
+                        }
+                    },
                     "links": [
                         {
-                            "lang": "BG",
                             "platform": "Laterpress",
-                            "url": "https://blood-and-stardust.laterpress.com/book/cosmic-red-bg"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bOqVRg"
-                        },
-                        {
                             "lang": "EN",
-                            "platform": "Laterpress",
                             "url": "https://blood-and-stardust-eng.laterpress.com/book/cosmic-red-eng"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/mZ6pll"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0DQVZ8978"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Amazon",
+                            "lang": "DE",
                             "url": "https://www.amazon.com/dp/B0DR74K3T6"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Amazon",
+                            "lang": "IT",
                             "url": "https://www.amazon.com/dp/B0DRCG6YVZ"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
+                            "lang": "FR",
                             "url": "https://www.amazon.com/dp/B0F9D9LYVH"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
+                            "lang": "FR",
                             "url": "https://books2read.com/u/4jQ192"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Amazon",
+                            "lang": "ES",
                             "url": "https://www.amazon.com/dp/B0F9FSFC3F"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
+                            "lang": "NL",
                             "url": "https://www.amazon.com/dp/B0F1Y8X2FW"
                         }
                     ]
                 },
                 {
+                    "id": "cherveno-i-drevno-sinio",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/krav-i-zvezden-prah-4.webp",
-                            "excerpt": "books/bg/stomaneno-sivo.md",
-                            "genre": "Научна фантастика",
-                            "synopsis": "synopsis/bg/stomaneno-sivo.txt",
-                            "title": "Стоманено сиво"
+                        "en": {
+                            "title": "Red and Ancient Blue",
+                            "genre": "Science Fiction",
+                            "cover": "images/en/krav-i-zvezden-prah-2.webp",
+                            "synopsis": "synopsis/en/red-and-ancient-blue.txt",
+                            "excerpt": "books/en/red-and-ancient-blue.md"
                         },
                         "de": {
-                            "cover": "images/de/stählernes-grau.webp",
-                            "excerpt": "books/de/stählernes-grau.md",
+                            "title": "Rot und Uraltes Blau",
                             "genre": "Science-Fiction",
-                            "synopsis": "synopsis/de/stählernes-grau.txt",
-                            "title": "Stählernes Grau"
-                        },
-                        "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
-                            "excerpt": "books/en/steel-gray.md",
-                            "genre": "Science Fiction",
-                            "synopsis": "synopsis/en/steel-gray.txt",
-                            "title": "Steel Gray"
+                            "cover": "images/de/rot-und-uraltes-blau.webp",
+                            "synopsis": "synopsis/de/rot-und-uraltes-blau.txt",
+                            "excerpt": "books/de/rot-und-uraltes-blau.md"
                         },
                         "fr": {
-                            "cover": "images/fr/gris-acier.webp",
-                            "excerpt": "books/fr/gris-acier.md",
+                            "title": "Rouge et Bleu Ancien",
                             "genre": "Science-Fiction",
-                            "synopsis": "synopsis/fr/gris-acier.txt",
-                            "title": "Gris Acier"
+                            "cover": "images/fr/rouge-et-bleu-ancien.webp",
+                            "synopsis": "synopsis/fr/rouge-et-bleu-ancien.txt",
+                            "excerpt": "books/fr/rouge-et-bleu-ancien.md"
                         },
                         "it": {
-                            "cover": "images/it/grigio-d'acciaio.webp",
-                            "excerpt": "books/it/grigio-d'acciaio.md",
+                            "title": "Rosso e L'Antico Blu",
                             "genre": "Fantascienza",
-                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
-                            "title": "Grigio d'Acciaio"
+                            "cover": "images/it/rosso-e-l'antico-blu.webp",
+                            "synopsis": "synopsis/it/rosso-e-l'antico-blu.txt",
+                            "excerpt": "books/it/rosso-e-l'antico-blu.md"
                         },
                         "nl": {
-                            "cover": "images/nl/staalgrijs.webp",
-                            "excerpt": "books/nl/staalgrijs.md",
+                            "title": "Rood en Oeroud Blauw",
                             "genre": "Science Fiction",
-                            "synopsis": "synopsis/nl/staalgrijs.txt",
-                            "title": "Staalgrijs"
+                            "cover": "images/nl/rood-en-oeroud-blauw.webp",
+                            "synopsis": "synopsis/nl/rood-en-oeroud-blauw.txt",
+                            "excerpt": "books/nl/rood-en-oeroud-blauw.md"
+                        },
+                        "es": {
+                            "title": "Rojo y Azul Ancestral",
+                            "genre": "Ciencia Ficción",
+                            "cover": "images/es/rojo-y-azul-antiguo.webp",
+                            "synopsis": "synopsis/es/rojo-y-azul-antiguo.txt",
+                            "excerpt": "books/es/rojo-y-azul-antiguo.md"
                         }
                     },
-                    "id": "stomaneno-sivo",
                     "links": [
                         {
+                            "platform": "Laterpress",
                             "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://blood-and-stardust.laterpress.com/book/steel-gray-bg"
+                            "url": "https://blood-and-stardust.laterpress.com/book/red-and-ancient-blue-bg"
                         },
                         {
-                            "lang": "EN",
-                            "platform": "Laterpress",
-                            "url": "https://blood-and-stardust-eng.laterpress.com/book/steel-gray-en"
-                        },
-                        {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3JMJBK"
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/bwkEeY"
                         },
                         {
+                            "platform": "Laterpress",
                             "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0F2SY25S5"
+                            "url": "https://blood-and-stardust-eng.laterpress.com/book/red-and-ancient-blue-eng"
                         },
                         {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/bM8nVG"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0DJL9X7VH"
+                        },
+                        {
+                            "platform": "Amazon",
                             "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DZVNDZ46"
+                            "url": "https://www.amazon.com/dp/B0DLCGHLBW"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0F88LPQW9"
+                            "url": "https://www.amazon.com/dp/B0DNVVWRPN"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0F99VQFGF"
+                            "lang": "FR",
+                            "url": "https://www.amazon.com/dp/B0DLHG88QX"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4AyxEp"
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/bpgE76"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHWQVH7Q"
+                            "lang": "ES",
+                            "url": "https://www.amazon.com/dp/B0CYYRK77Q"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.com/dp/B0F26X8SZH"
+                        }
+                    ]
+                },
+                {
+                    "id": "drevno-sinio",
+                    "i18n": {
+                        "en": {
+                            "title": "Ancient Blue",
+                            "genre": "Science Fiction",
+                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
+                            "synopsis": "synopsis/en/ancient-blue.txt",
+                            "excerpt": "books/en/ancient-blue.md"
+                        },
+                        "de": {
+                            "title": "Uraltes Blau",
+                            "genre": "Science Fiction",
+                            "cover": "images/de/uraltes-blau.webp",
+                            "synopsis": "synopsis/de/uraltes-blau.txt",
+                            "excerpt": "books/de/uraltes-blau.md"
+                        },
+                        "fr": {
+                            "title": "Bleu Ancien",
+                            "genre": "Science-Fiction",
+                            "cover": "images/fr/bleu-ancien.webp",
+                            "synopsis": "synopsis/fr/bleu-ancien.txt",
+                            "excerpt": "books/fr/bleu-ancien.md"
+                        },
+                        "it": {
+                            "title": "L'Antico Blu",
+                            "genre": "Fantascienza",
+                            "cover": "images/it/l'antico-blu.webp",
+                            "synopsis": "synopsis/it/l'antico-blu.txt",
+                            "excerpt": "books/it/l'antico-blu.md"
+                        },
+                        "nl": {
+                            "title": "Oeroud Blauw",
+                            "genre": "Science Fiction",
+                            "cover": "images/nl/oeroud-blauw.webp",
+                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
+                            "excerpt": "books/nl/oeroud-blauw.md"
+                        },
+                        "es": {
+                            "title": "Azul Ancestral",
+                            "genre": "Ciencia Ficción",
+                            "cover": "images/es/azul-аncestral.webp",
+                            "synopsis": "synopsis/es/azul-аncestral.txt",
+                            "excerpt": "books/es/azul-аncestral.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Laterpress",
+                            "lang": "BG",
+                            "url": "https://blood-and-stardust.laterpress.com/book/ancient-blue"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/38q556"
+                        },
+                        {
+                            "platform": "Laterpress",
+                            "lang": "EN",
+                            "url": "https://blood-and-stardust-eng.laterpress.com/book/ancient-blue-eng"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/3L2Nke"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0DHVGH23L"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/38aRxL"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "IT",
+                            "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "IT",
+                            "url": "https://books2read.com/u/4EV7PA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "FR",
+                            "url": "https://www.amazon.com/dp/B0DKC7YXK7"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/3ypoxL"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "ES",
+                            "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/bz5gL9"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.com/dp/B0DY58ZNN2"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/mdBwNX"
                         }
                     ]
                 }
@@ -1304,175 +1119,146 @@ const authorData = {
         {
             "books": [
                 {
+                    "id": "klyuchat-na-izobilieto",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/epohata-na-padnalite-1.webp",
-                            "excerpt": "books/bg/kluchat-na-vyzhoda.md",
-                            "genre": "Фентъзи",
-                            "synopsis": "synopsis/bg/kluchat-na-vyzhoda.txt",
-                            "title": "Ключът на Възхода"
+                        "en": {
+                            "title": "The Key of Abundance",
+                            "genre": "Fantasy",
+                            "cover": "images/en/the-key-of-abundance.webp",
+                            "synopsis": "synopsis/en/the-key-of-abundance.txt",
+                            "excerpt": "books/en/the-key-of-abundance.md"
                         },
                         "de": {
-                            "cover": "images/de/der-schluessel-des-aufstiegs.webp",
-                            "excerpt": "books/de/der-schluessel-des-aufstiegs.md",
+                            "title": "Der Schlüssel der Fülle",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/de/der-schluessel-des-aufstiegs.txt",
-                            "title": "Der Schlüssel des Aufstiegs"
-                        },
-                        "en": {
-                            "cover": "images/en/epohata-na-padnalite-1.webp",
-                            "excerpt": "books/en/the-key-of-ascension.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/en/the-key-of-ascension.txt",
-                            "title": "The Key of Ascension"
+                            "cover": "images/de/der-schlssel-der-flle.webp",
+                            "synopsis": "synopsis/de/der-schlssel-der-flle.txt",
+                            "excerpt": "books/de/der-schlssel-der-flle.md"
                         },
                         "fr": {
-                            "cover": "images/fr/la-cle-de-lascension.webp",
-                            "excerpt": "books/fr/la-cle-de-lascension.md",
+                            "title": "La Clé de l’Abondance",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/fr/la-cle-de-lascension.txt",
-                            "title": "La Clé de l'Ascension"
+                            "cover": "images/fr/la-cl-de-labondance.webp",
+                            "synopsis": "synopsis/fr/la-cl-de-labondance.txt",
+                            "excerpt": "books/fr/la-cl-de-labondance.md"
                         },
                         "it": {
-                            "cover": "images/it/la-chiave-dellascesa.webp",
-                            "excerpt": "books/it/la-chiave-dellascesa.md",
+                            "title": "La Chiave della Cornucopia",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/it/la-chiave-dellascesa.txt",
-                            "title": "La Chiave dell'Ascesa"
+                            "cover": "images/it/la-chiave-della-cornucopia.webp",
+                            "synopsis": "synopsis/it/la-chiave-della-cornucopia.txt",
+                            "excerpt": "books/it/la-chiave-della-cornucopia.md"
                         },
                         "se": {
-                            "cover": "images/se/nyckeln-till-uppståndelsen.webp",
-                            "excerpt": "books/se/nyckeln-till-uppståndelsen.md",
+                            "title": "Nyckeln till Överflöd",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/se/nyckeln-till-uppståndelsen.txt",
-                            "title": "Nyckeln till Uppståndelsen"
+                            "cover": "images/se/nyckeln-till-verfld.webp",
+                            "synopsis": "synopsis/se/nyckeln-till-verfld.txt",
+                            "excerpt": "books/se/nyckeln-till-verfld.md"
                         }
                     },
-                    "id": "klyuchat-na-vazhoda",
                     "links": [
                         {
+                            "platform": "Amazon",
                             "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FFYNX1Y3"
+                            "url": "https://www.amazon.com/dp/B0FQMRJNSP"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHBR8DBN"
+                            "url": "https://www.amazon.de/dp/B0FR1NWNSL"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHD73Q92"
+                            "url": "https://www.amazon.it/dp/B0FQNZL513"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "FR",
+                            "url": "https://www.amazon.fr/dp/B0FQVC1LWK"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHF1FCK5"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4jj5Yo"
-                        },
-                        {
                             "lang": "SE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHQF3XS4"
-                        },
-                        {
-                            "lang": "SE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3yy6vZ"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/b6EYyp"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Laterpress",
-                            "url": "https://the-age-of-the-fallen-bg.laterpress.com/book/the-key-of-ascension-bg"
+                            "url": "https://www.amazon.com/dp/B0FQMWY15F"
                         }
                     ]
                 },
                 {
+                    "id": "klyuchat-na-vazhoda",
                     "i18n": {
-                        "bg": {
-                            "cover": "images/bg/the-key-of-abundance-bg.webp",
-                            "excerpt": "books/bg/the-key-of-abundance-bg.md",
-                            "genre": "Фентъзи",
-                            "synopsis": "synopsis/bg/the-key-of-abundance-bg.txt",
-                            "title": "Ключът на изобилието"
+                        "en": {
+                            "title": "The Key of Ascension",
+                            "genre": "Fantasy",
+                            "cover": "images/en/epohata-na-padnalite-1.webp",
+                            "synopsis": "synopsis/en/the-key-of-ascension.txt",
+                            "excerpt": "books/en/the-key-of-ascension.md"
                         },
                         "de": {
-                            "cover": "images/de/der-schlssel-der-flle.webp",
-                            "excerpt": "books/de/der-schlssel-der-flle.md",
+                            "title": "Der Schlüssel des Aufstiegs",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/de/der-schlssel-der-flle.txt",
-                            "title": "Der Schlüssel der Fülle"
-                        },
-                        "en": {
-                            "cover": "images/en/the-key-of-abundance.webp",
-                            "excerpt": "books/en/the-key-of-abundance.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/en/the-key-of-abundance.txt",
-                            "title": "The Key of Abundance"
+                            "cover": "images/de/der-schluessel-des-aufstiegs.webp",
+                            "synopsis": "synopsis/de/der-schluessel-des-aufstiegs.txt",
+                            "excerpt": "books/de/der-schluessel-des-aufstiegs.md"
                         },
                         "fr": {
-                            "cover": "images/fr/la-cl-de-labondance.webp",
-                            "excerpt": "books/fr/la-cl-de-labondance.md",
+                            "title": "La Clé de l'Ascension",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/fr/la-cl-de-labondance.txt",
-                            "title": "La Clé de l’Abondance"
+                            "cover": "images/fr/la-cle-de-lascension.webp",
+                            "synopsis": "synopsis/fr/la-cle-de-lascension.txt",
+                            "excerpt": "books/fr/la-cle-de-lascension.md"
                         },
                         "it": {
-                            "cover": "images/it/la-chiave-della-cornucopia.webp",
-                            "excerpt": "books/it/la-chiave-della-cornucopia.md",
+                            "title": "La Chiave dell'Ascesa",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/it/la-chiave-della-cornucopia.txt",
-                            "title": "La Chiave della Cornucopia"
+                            "cover": "images/it/la-chiave-dellascesa.webp",
+                            "synopsis": "synopsis/it/la-chiave-dellascesa.txt",
+                            "excerpt": "books/it/la-chiave-dellascesa.md"
                         },
                         "se": {
-                            "cover": "images/se/nyckeln-till-verfld.webp",
-                            "excerpt": "books/se/nyckeln-till-verfld.md",
+                            "title": "Nyckeln till Uppståndelsen",
                             "genre": "Fantasy",
-                            "synopsis": "synopsis/se/nyckeln-till-verfld.txt",
-                            "title": "Nyckeln till Överflöd"
+                            "cover": "images/se/nyckeln-till-uppståndelsen.webp",
+                            "synopsis": "synopsis/se/nyckeln-till-uppståndelsen.txt",
+                            "excerpt": "books/se/nyckeln-till-uppståndelsen.md"
                         }
                     },
-                    "id": "klyuchat-na-izobilieto",
                     "links": [
                         {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mYO9BV"
-                        },
-                        {
+                            "platform": "Amazon",
                             "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FQMRJNSP"
+                            "url": "https://www.amazon.com/dp/B0FFYNX1Y3"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.de/dp/B0FR1NWNSL"
+                            "url": "https://www.amazon.com/dp/B0FHBR8DBN"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.it/dp/B0FQNZL513"
+                            "url": "https://www.amazon.com/dp/B0FHD73Q92"
                         },
                         {
+                            "platform": "Amazon",
                             "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.fr/dp/B0FQVC1LWK"
+                            "url": "https://www.amazon.com/dp/B0FHF1FCK5"
                         },
                         {
-                            "lang": "SE",
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/4jj5Yo"
+                        },
+                        {
                             "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FQMWY15F"
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0FHQF3XS4"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/3yy6vZ"
                         }
                     ]
                 }
@@ -1492,47 +1278,6 @@ const authorData = {
         },
         {
             "books": [
-                {
-                    "i18n": {
-                        "de": {
-                            "cover": "images/de/The_Heiress-el-gr.webp",
-                            "excerpt": "books/de/the-heiress.md",
-                            "genre": "military sci-fi",
-                            "synopsis": "synopsis/de/the-heiress.txt",
-                            "title": "Die Erbin"
-                        },
-                        "en": {
-                            "cover": "images/en/The_Heiress-el-en.webp",
-                            "excerpt": "books/en/the-heiress.md",
-                            "genre": "military sci-fi",
-                            "synopsis": "synopsis/en/the-heiress.txt",
-                            "title": "The Heiress"
-                        }
-                    },
-                    "id": "the-heiress",
-                    "links": [
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FXGYF8N7"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mdB5Xl"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FXR7FQ7N"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4XpgBa"
-                        }
-                    ]
-                },
                 {
                     "i18n": {
                         "de": {
@@ -1573,6 +1318,59 @@ const authorData = {
                             "url": "https://books2read.com/u/4jk9Xo"
                         }
                     ]
+                },
+                {
+                    "id": "the-heiress",
+                    "i18n": {
+                        "en": {
+                            "title": "The Heiress",
+                            "genre": "military sci-fi",
+                            "cover": "images/en/The_Heiress-el-en.webp",
+                            "leadMagnet": {
+                                "enabled": false,
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "image": "",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/en/the-heiress.txt",
+                            "excerpt": "books/en/the-heiress.md"
+                        },
+                        "de": {
+                            "title": "Die Erbin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/The_Heiress-el-gr.webp",
+                            "leadMagnet": {
+                                "enabled": false,
+                                "bannerText": "BEVOR DU GEHST: SICHERE DIR 3 KOSTENLOSE KURZGESCHICHTEN!\nWillst du noch tiefer in das Universum der Chrysanthemen-Chroniken eintauchen?\nAls besonderes Geschenk für meine Leser habe ich Die Kaiserlichen Archive zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen.\nDiese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir jetzt VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
+                                "image": "images/de/ja.webp",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/de/the-heiress.txt",
+                            "excerpt": "books/de/the-heiress.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0FXGYF8N7"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/mdB5Xl"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0FXR7FQ7N"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/4XpgBa"
+                        }
+                    ]
                 }
             ],
             "i18n": {
@@ -1590,13 +1388,6 @@ const authorData = {
     "short_stories": [
         {
             "i18n": {
-                "bg": {
-                    "cover": "images/bg/shepot-na-nepoznata.webp",
-                    "excerpt": "books/bg/shepot-na-nepoznata.md",
-                    "genre": "Градско фентъзи, Свръхестествен трилър",
-                    "synopsis": "synopsis/bg/shepot-na-nepoznata.txt",
-                    "title": "Шепот на непозната"
-                },
                 "en": {
                     "cover": "images/en/whisper-of-a-stranger.webp",
                     "excerpt": "books/en/whisper-of-a-stranger.md",
@@ -1609,23 +1400,16 @@ const authorData = {
             "links": []
         },
         {
+            "id": "rekviem-za-sveta",
             "i18n": {
-                "bg": {
-                    "cover": "images/bg/rekviem-za-sveta.webp",
-                    "excerpt": "books/bg/rekviem-za-sveta.md",
-                    "genre": "Градско фентъзи, Свръхестествен трилър",
-                    "synopsis": "synopsis/bg/rekviem-za-sveta.txt",
-                    "title": "Реквием за света, който ме избра"
-                },
                 "en": {
-                    "cover": "images/en/requiem-for-the-world.webp",
-                    "excerpt": "books/en/requiem-for-the-world.md",
+                    "title": "Requiem for the World That Chose Me",
                     "genre": "Urban Fantasy, Supernatural Thriller",
+                    "cover": "images/en/requiem-for-the-world.webp",
                     "synopsis": "synopsis/en/requiem-for-the-world.txt",
-                    "title": "Requiem for the World That Chose Me"
+                    "excerpt": "books/en/requiem-for-the-world.md"
                 }
             },
-            "id": "rekviem-za-sveta",
             "links": []
         }
     ]

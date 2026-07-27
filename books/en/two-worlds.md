@@ -453,5 +453,4 @@ She rose on her toes and kissed Nolan on his clean-shaven cheek. He looked at he
 
 "Yes, of course." She whispered. "If it were him, it wouldn’t have been just a peck on the cheek."  
 
-Nolan, smiling but weary, entered the room and closed the door behind him. He leaned against it, taking a heavy breath. He was wrecked from the day’s events. He missed Nick. Even in the short time they’d been consciously together, he’d grown so accustomed to him that the void now frightened him.  
-
+Nolan, smiling but weary, entered the room and closed the door behind him. He leaned against it, taking a heavy breath. He was wrecked from the day’s events. He missed Nick. Even in the short time they’d been consciously together, he’d grown so accustomed to him that the void now frightened him.

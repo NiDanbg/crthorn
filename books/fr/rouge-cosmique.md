@@ -612,4 +612,3 @@ Le sommeil ne vint pas à Cassian. Dans l'obscurité de la pièce, des images ho
 Cassian se tourna de l'autre côté, cherchant une position plus confortable dans le lit lunaire. Demain serait un nouveau jour. Demain, il rencontrerait les autres pilotes et en apprendrait plus. Allongé là, dans le silence de la nuit lunaire, une pensée revenait encore et encore :
 
 "La troisième option n'est pas pour moi, et les autres... quelle que soit celle que je choisis, je ne serai plus moi... peut-être que c'est mieux ainsi."
-

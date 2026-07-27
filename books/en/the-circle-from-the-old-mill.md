@@ -230,4 +230,4 @@ Tucking the book under his arm, he strode toward his father’s house, determine
 
 It was a map.  
 
-And maybe this map would lead him to the truth. 
+And maybe this map would lead him to the truth.

@@ -30,6 +30,48 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     }
 
+    // Lead-magnet banners — our own modal opens instantly (no provider
+    // trigger delay); Sender.net is loaded on demand, only on click, and
+    // renders its embedded form into the modal once ready.
+    document.querySelectorAll('.lead-magnet-cta').forEach((btn) => {
+        btn.addEventListener('click', () => {
+            const accountId = btn.dataset.accountId;
+            const modal = btn.closest('.lead-magnet-banner')?.nextElementSibling;
+            if (!accountId || !modal || !modal.classList.contains('lead-magnet-modal')) return;
+            modal.classList.add('open');
+            const formId = modal.querySelector('[data-sender-form-id]')?.dataset.senderFormId;
+            if (window.senderForms) {
+                if (formId) window.senderForms.render(formId);
+                return;
+            }
+            (function (s, e, n, d, er) {
+                s['Sender'] = er;
+                s[er] = s[er] || function () { (s[er].q = s[er].q || []).push(arguments); };
+                s[er].l = 1 * new Date();
+                s[er].on = function (event, callback) {
+                    s[er].listeners = s[er].listeners || {};
+                    (s[er].listeners[event] = s[er].listeners[event] || []).push(callback);
+                };
+                const a = e.createElement(n);
+                const m = e.getElementsByTagName(n)[0];
+                a.async = 1;
+                a.src = d;
+                a.onload = () => { if (formId) window.senderForms.render(formId); };
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+            window.sender(accountId);
+        });
+    });
+
+    document.querySelectorAll('.lead-magnet-modal').forEach((modal) => {
+        modal.querySelector('.lead-magnet-modal-close')?.addEventListener('click', () => {
+            modal.classList.remove('open');
+        });
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.classList.remove('open');
+        });
+    });
+
     // Contact form
     const form = document.getElementById('contact-form');
     if (form) {

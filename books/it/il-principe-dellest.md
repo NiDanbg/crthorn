@@ -118,4 +118,3 @@ L'attendente capì che la breve finestra sul passato si era chiusa. La sua voce 
 — Avanti!
 
 La colonna si rimise lentamente in movimento, seguendo Il Peloso che stava scomparendo oltre la curva. Gli zoccoli dei cavalli ripresero a scandire il loro ritmo insistente sulle pietre, e il vento di montagna portò con sé, leggerissimo – quasi impercettibile – un aroma di incertezza proveniente dalla curva più avanti.
-

@@ -773,4 +773,3 @@ Il monta dans la voiture et fit un signe de tête au chauffeur. La voiture déma
 — Il est temps d'agir — gronda Bartoldo dans le téléphone. — Ne sous-estimez pas l'adversaire – il est impitoyable et ne recule devant rien.
 
 Si Cornoil tombe, je ne pourrai pas protéger seul le territoire du clan. L'appétit de Sebastian pour l'Amérique du Sud est insatiable. Sans parler des Étoiles – ils convoitent le Chili depuis longtemps. Au diable tout ça ! Bartoldo frappa l'accoudoir. Ces pensées le mettaient hors de lui. Je n'ai pas assez de problèmes avec les cartels de la drogue, et maintenant cette retraite inattendue de Lord Radu Vladislav. Soi-disant qu'il est devenu trop vieux, ce vieux fou. Mais il est comme ça depuis au moins deux mille ans. Pourquoi a-t-il choisi précisément ce moment pour prendre sa retraite !
-

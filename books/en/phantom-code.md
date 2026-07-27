@@ -131,4 +131,4 @@ A hesitation. "Yeah. Few days before he died, saw this guy lurking by his door. 
 "Doubt it. Only saw his back. But big. Built like a linebacker."  
 Kalata scribbled notes. No smoking gun, but the pieces were aligning. Paranoia. Late-night meets. A stranger at his door. The thud. And that hidden drive. The suicide narrative wasn’t just cracking—it was crumbling.  
 Back in the lobby, the concierge gave him a silent once-over. Kalata nodded curtly and stepped into the gray afternoon.  
-He needed to know what was on that drive. And for that, he’d need help. Someone who could dance with digital ghosts better than he ever could.  
+He needed to know what was on that drive. And for that, he’d need help. Someone who could dance with digital ghosts better than he ever could.

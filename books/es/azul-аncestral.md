@@ -561,4 +561,3 @@ Peter saltó ágilmente varios obstáculos y se detuvo de repente. Escuchó y si
 —¿Será solo un juego de la luz? —Se acercó y examinó con cuidado.
 
 —Demasiado hermoso para ser verdad.
-

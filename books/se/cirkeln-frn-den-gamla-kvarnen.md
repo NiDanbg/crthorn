@@ -225,4 +225,3 @@ Så många frågor. Om hans far, om de gamla, om de konstiga sammanträffanden s
 Han kände nyfikenhet. Och kanske, bara lite grann, hopp.
 
 Med boken under armen gick han mot faderns hus, fast besluten att börja söka svar. För om det var en sak han lärt sig av sin far var det att historia aldrig bara är historia. Den är en karta. Och kanske skulle den här kartan leda honom till sanningen.
-

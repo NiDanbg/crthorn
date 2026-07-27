@@ -6,6 +6,7 @@ import html as _html
 
 BASE_URL = "https://www.crthorn.com"
 GA_ID = "G-VN7CL1LWGY"
+SENDER_ACCOUNT_ID = "ed72b4b7a59839"
 ALL_LANGS = ['bg', 'en', 'de', 'fr', 'it', 'nl', 'es', 'pt', 'se']
 UI_LANGS = ['en', 'bg']
 
@@ -47,6 +48,7 @@ UI_STRINGS = {
         'by': 'by',
         'cookie_text': 'We use cookies to enhance your experience and for analytics. By continuing to browse, you agree to our <a href="/privacy-policy/">Privacy Policy</a>.',
         'cookie_accept': 'Accept',
+        'get_gift': 'Get it free',
     },
     'bg': {
         'synopsis_not_available': 'Няма налична анотация.',
@@ -78,6 +80,7 @@ UI_STRINGS = {
         'by': 'от',
         'cookie_text': 'Използваме "бисквитки", за да подобрим вашето преживяване и за анализи. Продължавайки, вие се съгласявате с нашата <a href="/bg/privacy-policy/">Политика за поверителност</a>.',
         'cookie_accept': 'Приемам',
+        'get_gift': 'Вземи безплатно',
     },
 }
 
@@ -392,6 +395,33 @@ def render_book_list_page(data, lang, kind):
     return f"""<div class="container book-list-page"><h1>{esc(title)}</h1><div class="books-grid">{cards}</div></div>"""
 
 
+def render_lead_magnet(bdata, lang):
+    """Banner + instant custom modal for a free-gift Sender.net embedded form,
+    shown only if configured for this book+language. Sender.net's script is only
+    loaded on click, and its embedded-form widget renders inside our own modal
+    so opening is instant (no provider trigger delay)."""
+    lm = bdata.get('leadMagnet') or {}
+    if not lm.get('enabled') or not lm.get('senderFormId'):
+        return ''
+    ui = ui_lang_of(lang)
+    cta = UI_STRINGS[ui]['get_gift']
+    img_html = f'<img src="/{esc(lm["image"])}" alt="" class="lead-magnet-img">' if lm.get('image') else ''
+    return f"""
+        <div class="lead-magnet-banner">
+            {img_html}
+            <div class="lead-magnet-body">
+                <p>{esc(lm.get('bannerText', ''))}</p>
+                <button type="button" class="btn lead-magnet-cta" data-account-id="{esc(SENDER_ACCOUNT_ID)}">{esc(cta)}</button>
+            </div>
+        </div>
+        <div class="lead-magnet-modal">
+            <div class="lead-magnet-modal-inner">
+                <button type="button" class="lead-magnet-modal-close" aria-label="Close">&times;</button>
+                <div class="sender-form-field" data-sender-form-id="{esc(lm['senderFormId'])}"></div>
+            </div>
+        </div>"""
+
+
 def render_book_detail(data, book, lang, synopsis_html):
     ui = ui_lang_of(lang)
     s = UI_STRINGS[ui]
@@ -419,6 +449,7 @@ def render_book_detail(data, book, lang, synopsis_html):
                 <h1>{esc(bdata['title'])}</h1>
                 {f'<p class="book-genre">{esc(bdata["genre"])}</p>' if bdata.get('genre') else ''}
                 <h3>{esc(s['synopsis'])}</h3><div class="synopsis">{synopsis_html}</div>
+                {render_lead_magnet(bdata, lang)}
                 <h3>{esc(s['available_on'])}</h3>
                 <div class="buy-links">{buy_html}</div>
             </div>
@@ -435,6 +466,7 @@ def render_excerpt_page(book, lang, excerpt_html):
             <h1 class="preview-title">{esc(s['excerpt_from'])} {esc(bdata['title'])}</h1>
             <a href="{book_path(book['id'], lang)}" class="back-link">← {esc(s['back'])}</a>
             <article class="prose">{excerpt_html}</article>
+            {render_lead_magnet(bdata, lang)}
         </div>"""
     return body
 
@@ -451,7 +483,7 @@ def render_news_list_page(lang, articles):
             items += f"""<article class="news-item">
                 <h2><a href="{news_article_path(a['slug'], lang)}" style="color:inherit;text-decoration:none">{esc(a['title'])}</a></h2>
                 <p class="news-meta"><span>{esc(a['date_fmt'])}</span> | <span>{esc(s['by'])} {esc(a['author'])}</span></p>
-                <div class="news-content"><p>{esc(a['excerpt'])}</p></div>
+                <div class="news-content">{a['content_html']}</div>
             </article>"""
     return f"""<div class="container news-page"><h1>{esc(s['news_and_updates'])}</h1><div class="news-list">{items}</div></div>"""
 

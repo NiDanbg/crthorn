@@ -119,4 +119,3 @@ L'ordonnance comprit que la brève fenêtre sur le passé s'était refermée. Sa
 — En avant !
 
 La colonne se remit lentement en marche, suivant Hirsute qui disparaissait déjà derrière le virage. Les sabots des chevaux reprirent leur rythme pressé sur les pierres, et le vent de montagne apporta, tout à fait léger – presque imperceptible – un parfum d'inconnu depuis le virage devant eux.
-

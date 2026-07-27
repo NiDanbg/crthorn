@@ -608,4 +608,4 @@ The alternative is boredom...
 
 Cassian turned onto his side, seeking a more comfortable position in the lunar bed. Tomorrow would be a new day. Tomorrow, he’d meet the other pilots and learn more. But as he lay there in the silence of the lunar night, one thought circled relentlessly in his mind: 
 
-The third option isn’t for me... but the other two? Whichever I choose, I won’t be myself anymore. Maybe that’s for the best. 
+The third option isn’t for me... but the other two? Whichever I choose, I won’t be myself anymore. Maybe that’s for the best.

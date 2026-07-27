@@ -301,5 +301,4 @@ Beelzebub. The name slipped from his lips like a sigh, like a prayer to a forgot
 
 But the memories were broken, shards of a shattered mirror reflecting only pieces of a larger picture he could no longer see. The harder he tried to assemble them, the more they crumbled through his fingers like sand.  
 
-Only one certainty remained—he had to run. Danger was coming. And this time, there might be nowhere left to hide.  
-
+Only one certainty remained—he had to run. Danger was coming. And this time, there might be nowhere left to hide.

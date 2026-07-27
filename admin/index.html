@@ -585,6 +585,9 @@ function renderBookEditor(book, type, seriesId, isNew, texts) {
     const tx = texts[l]   || {};
     const active = l === S.activeLang ? ' active' : '';
     return `<div class="lang-panel${active}" id="blp-${l}">
+      ${d.title ? `<div class="form-row" style="justify-content:flex-end">
+        <button type="button" class="btn-danger btn-sm" onclick="deleteBookTranslation('${l}')">🗑 Delete ${l.toUpperCase()} translation</button>
+      </div>` : ''}
       <div class="form-row"><label>Title</label>
         <input id="bt-${l}" value="${esc(d.title||'')}" oninput="autoFillId()"></div>
       <div class="form-row"><label>Genre</label>
@@ -603,6 +606,26 @@ function renderBookEditor(book, type, seriesId, isNew, texts) {
         <label style="padding-top:6px">Excerpt</label>
         <textarea class="book-ta" id="be-${l}" placeholder="Chapter excerpt (Markdown)...">${esc(tx.excerpt||'')}</textarea>
       </div>
+      <div class="form-row">
+        <label>Free Gift</label>
+        <div style="display:flex;align-items:center;gap:6px">
+          <input type="checkbox" id="lme-${l}" ${d.leadMagnet?.enabled ? 'checked' : ''}
+            style="width:auto">
+          <span style="color:var(--muted);font-size:12px">Show lead-magnet banner for this book/language</span>
+        </div>
+      </div>
+      <div class="form-row" style="align-items:flex-start">
+        <label style="padding-top:6px">Gift Text</label>
+        <textarea class="book-ta" id="lmt-${l}" placeholder="e.g. Get a free bonus story from this world...">${esc(d.leadMagnet?.bannerText || '')}</textarea>
+      </div>
+      <div class="form-row"><label>Gift Image</label>
+        <div class="path-row">
+          <input id="lmi-${l}" value="${esc(d.leadMagnet?.image || '')}">
+          <button class="btn-sm" onclick="browseAndUpload('${l}', 'lmi-${l}')">📁 Browse</button>
+          <button class="btn-sm" style="background:#e2e8f0;color:var(--muted)" onclick="openImgModal('${l}', 'lmi-${l}')">🖼 Gallery</button>
+        </div></div>
+      <div class="form-row"><label>Sender.net Embedded Form ID</label>
+        <input id="lmf-${l}" value="${esc(d.leadMagnet?.senderFormId || '')}" placeholder="data-sender-form-id from the Embedded form's code"></div>
     </div>`;
   }).join('');
 
@@ -678,6 +701,7 @@ async function saveBook() {
   if (!id) { toast('Book ID is required', 'error'); return; }
 
   const wasNew = S.editingIsNew;
+  const oldRef = S.editingIsNew ? null : findBook(S.editingBookId || id);
 
   const i18n      = {};
   const textSaves = [];
@@ -689,10 +713,23 @@ async function saveBook() {
       const cover   = document.getElementById(`bc-${l}`)?.value?.trim();
       const synTxt  = document.getElementById(`bs-${l}`)?.value?.trim();
       const excTxt  = document.getElementById(`be-${l}`)?.value?.trim();
+      const oldLang = oldRef?.book?.i18n?.[l];
       if (genre) i18n[l].genre = genre;
       if (cover) i18n[l].cover = cover;
+      const lmEnabled = document.getElementById(`lme-${l}`)?.checked;
+      const lmText     = document.getElementById(`lmt-${l}`)?.value?.trim();
+      const lmImage    = document.getElementById(`lmi-${l}`)?.value?.trim();
+      const lmFormId   = document.getElementById(`lmf-${l}`)?.value?.trim();
+      if (lmEnabled || lmText || lmImage || lmFormId) {
+        i18n[l].leadMagnet = {
+          enabled: !!lmEnabled,
+          bannerText: lmText || '',
+          image: lmImage || '',
+          senderFormId: lmFormId || '',
+        };
+      }
       if (synTxt) {
-        const synPath = `synopsis/${l}/${id}.txt`;
+        const synPath = oldLang?.synopsis || `synopsis/${l}/${id}.txt`;
         i18n[l].synopsis = synPath;
         textSaves.push(api(`/api/content/${synPath}`, {
           method: 'PUT',
@@ -701,7 +738,7 @@ async function saveBook() {
         }));
       }
       if (excTxt) {
-        const excPath = `books/${l}/${id}.md`;
+        const excPath = oldLang?.excerpt || `books/${l}/${id}.md`;
         i18n[l].excerpt = excPath;
         textSaves.push(api(`/api/content/${excPath}`, {
           method: 'PUT',
@@ -728,8 +765,6 @@ async function saveBook() {
   const typeVal = document.getElementById('btype').value;
   let type = typeVal, seriesId = null;
   if (typeVal.startsWith('series:')) { type = 'series'; seriesId = typeVal.slice(7); }
-
-  const oldRef = S.editingIsNew ? null : findBook(S.editingBookId || id);
 
   if (oldRef) {
     replaceBook(S.editingBookId, book, type, seriesId, oldRef);
@@ -795,6 +830,19 @@ function deleteBook(id) {
   S.editingBookId = null;
   document.getElementById('book-editor').innerHTML = '<div class="placeholder">Book deleted</div>';
   saveData(() => renderBookList());
+}
+
+function deleteBookTranslation(lang) {
+  const id = S.editingBookId;
+  const ref = id ? findBook(id) : null;
+  if (!ref || !ref.book.i18n[lang]) return;
+  if (Object.keys(ref.book.i18n).length <= 1) {
+    toast('This is the only translation left — use "Delete" to remove the whole book instead', 'error');
+    return;
+  }
+  if (!confirm(`Delete the ${lang.toUpperCase()} translation of "${id}"?`)) return;
+  delete ref.book.i18n[lang];
+  saveData(() => { renderBookList(); openBook(id); });
 }
 
 // ═══════════════════════════════════════════════════════════════
