@@ -1,7 +1,7 @@
 const authorData = {
     "featured": [
-        "the-heiress",
-        "the-regent"
+        "the-regent",
+        "the-empress"
     ],
     "meta": {
         "bg": {
@@ -1395,7 +1395,13 @@ const authorData = {
                             "excerpt": "books/en/the-empress.md"
                         }
                     },
-                    "links": []
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/b5AeoA"
+                        }
+                    ]
                 }
             ],
             "i18n": {
