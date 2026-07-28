@@ -1279,101 +1279,101 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "the-heiress",
                     "i18n": {
-                        "en": {
-                            "title": "The Heiress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Heiress-EN.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "synopsis": "synopsis/en/the-heiress.txt",
-                            "excerpt": "books/en/the-heiress.md"
-                        },
                         "de": {
-                            "title": "Die Erbin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/The_Heiress-el-gr.webp",
+                            "excerpt": "books/de/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": false,
                                 "bannerText": "BEVOR DU GEHST: SICHERE DIR 3 KOSTENLOSE KURZGESCHICHTEN!\nWillst du noch tiefer in das Universum der Chrysanthemen-Chroniken eintauchen?\nAls besonderes Geschenk für meine Leser habe ich Die Kaiserlichen Archive zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen.\nDiese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir jetzt VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
+                                "enabled": false,
                                 "image": "images/de/ja.webp",
                                 "senderFormId": "bDkjAn"
                             },
                             "synopsis": "synopsis/de/the-heiress.txt",
-                            "excerpt": "books/de/the-heiress.md"
+                            "title": "Die Erbin"
+                        },
+                        "en": {
+                            "cover": "images/en/The_Heiress-EN.webp",
+                            "excerpt": "books/en/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "erkDWw"
+                            },
+                            "synopsis": "synopsis/en/the-heiress.txt",
+                            "title": "The Heiress"
                         }
                     },
+                    "id": "the-heiress",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FXGYF8N7"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdB5Xl"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FXR7FQ7N"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4XpgBa"
                         }
                     ]
                 },
                 {
-                    "id": "the-regent",
                     "i18n": {
-                        "en": {
-                            "title": "The Regent",
+                        "de": {
+                            "cover": "images/de/Die_Regentin-DE.webp",
+                            "excerpt": "books/de/the-regent.md",
                             "genre": "military sci-fi",
+                            "synopsis": "synopsis/de/the-regent.txt",
+                            "title": "Die Regentin"
+                        },
+                        "en": {
                             "cover": "images/en/The-Regent-EN.webp",
+                            "excerpt": "books/en/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "erkDWw"
                             },
                             "synopsis": "synopsis/en/the-regent.txt",
-                            "excerpt": "books/en/the-regent.md"
-                        },
-                        "de": {
-                            "title": "Die Regentin",
-                            "genre": "military sci-fi",
-                            "cover": "images/de/Die_Regentin-DE.webp",
-                            "synopsis": "synopsis/de/the-regent.txt",
-                            "excerpt": "books/de/the-regent.md"
+                            "title": "The Regent"
                         }
                     },
+                    "id": "the-regent",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0GSFKF2M1"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mZG11y"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0GT1JF88J"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4jk9Xo"
                         }
                     ]
@@ -1400,6 +1400,11 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "EN",
                             "url": "https://books2read.com/u/b5AeoA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0HBSV154M"
                         }
                     ]
                 }
