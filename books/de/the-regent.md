@@ -1,197 +1,158 @@
-KAPITEL 1
+### - 1 -
 
-Die Luft auf der Krankenstation der „Aufgehenden Sonne“ war schwer vom Geruch nach verbranntem Fleisch und Desinfektionsmitteln. Vor dem Gefecht hatte hier eine sterile Leere geherrscht – ein paar Betten für Routineuntersuchungen, in strengen Reihen angeordnet, und weiße Wände, die das kalte Licht der Paneele reflektierten.
-Nun war die Kapazität verdoppelt worden. Dazwischen schwirrten medizinische Drohnen umher – silberne Sphären, deren Technik ein hohes, monoton schneidendes Surren von sich gab. Die humanoiden Einheiten führten die filigranen Eingriffe durch: Sie nähten Gewebe, kalibrierten die Stasisfelder, injizierten Seren. Ihre metallenen Finger zitterten nicht. Niemals.
-Rami ging langsam an den Verwundeten vorbei. Sie hatte ihre Kommandouniform gegen eine dunkelblaue Tunika getauscht – dieselbe, in der auch die Medizintechniker arbeiteten. Diese Geste war wohlüberlegt. Hier, unter den Verletzten, weigerte sie sich, die Prinzessin-Regentin zu sein. Sie wollte einzig und allein ein Mensch sein, der ihnen in die Augen blickte.
-Kenjiro folgte ihr im Abstand von vier Schritten. Seine linke Schulter war noch immer verbunden, doch er hatte sich geweigert, einen Platz unter den Patienten einzunehmen. Seine Hand ruhte auf dem Griff seines Katanas – nicht aus Erwartung eines Angriffs, sondern aus einer Gewohnheit heraus, die so tief verwurzelt war, dass sie ihn wahrscheinlich nicht einmal im Schlaf verließ.
-Rami blieb an einem Bett im hinteren Teil stehen. Der Junge, der darin lag, hatte wohl kaum sein zwanzigstes Lebensjahr erreicht. Sein linker Arm verschwand unter dem bläulichen Leuchten eines Stasisfeldes – die Energie pulsierte rhythmisch, einem Atemzug gleich. Sein Gesicht wirkte ausgezehrt, doch sein Blick blieb wachsam.
-„Wie geht es dir, Leutnant ...?“ Rami überprüfte die Daten auf dem holografischen Terminal über dem Bett. „Leutnant Takeo?“
-Der junge Mann versuchte, sich aufzurichten. Sie hielt ihn behutsam mit der flachen Hand auf seiner gesunden Schulter zurück.
-„Prinzessin Rami?“, fragte er mit heiserer Stimme. „Sind Sie es wirklich?“
-„Ich bin es. Und versuche erst gar nicht aufzustehen – sonst werfen mir die Ärzte noch vor, ich würde sie bei ihrer Arbeit stören.“
+Der Thronsaal von Hinode Teikoku war nicht für Debatten erbaut worden. Er war erschaffen worden, um sie zu beenden.
+Rami stand in seiner Mitte, unter dem Gewölbe aus schwarzem Stein und Blattgold. Zwölf Säulen erhoben sich wie ein versteinerter Wald, und dazwischen hingen die Banner der Provinzen – Seide in den Farben hunderter Welten, die im Laufe der Jahrhunderte erobert oder eingegliedert worden waren. Hinten, auf dem hohen Podest, saß ihr Vater. Kaiser Kenshin Tokanawa trug an diesem Morgen keine Kampfrüstung. Er hatte das Trauerweiß eines Herrschers angelegt, der seine Toten zählt.
+Achthundertvierundsiebzig.
+Rami kannte die Zahl bis auf die letzte Ziffer. Sie hatte sie von der Brücke der „Aufgehenden Sonne“ bis hierher getragen, so wie man einen Stein in der Tasche trägt – als Erinnerung daran, wie schwer er wiegt.
+„Sieg“, sagte Lord Sato, und das Wort in seinem Mund klang wie eine Anklage. Der alte Aristokrat trat vor und strich sich über den gepflegten Bart. „Wir nennen es einen Sieg, Eure Majestät. Doch möge sich der Rat an den Preis erinnern. Sieben Schiffe. Fast neunhundert Männer. Dreißig Prozent der Kampfkraft der gesamten Flotte, an einem einzigen Morgen zu Asche verbrannt. Wenn das ein Sieg ist, graut mir vor dem nächsten.“
+Ein zustimmendes Flüstern ging durch die Reihen der Räte. Rami drehte sich nicht um. Sie hatte gelernt, dass ein Blick den Flüsternden eine Bedeutung verleiht, die sie nicht besitzen.
+„Der Feind hat das Doppelte verloren“, bemerkte sie ruhig.
+„Der Feind kann sich solche Verluste leisten.“ Diese Stimme war neu. General Misotishi tauchte hinter Sato auf, schwerfällig in seinen prunkvollen Gewändern. Jede Falte daran kostete so viel wie der monatliche Unterhalt der Techniker, die die versengten Rümpfe ihrer Schiffe repariert hatten. „Shogun Koriyama befehligt die Grenzsektoren seit fünfzehn Jahren. Er baut eine Flotte in drei Werften, während wir Kommissionen bilden. Und hinter ihm stehen Daimyo – Nagata an der Grenze, Yamashita im Ring und Dutzende andere, die noch immer Neutralität heucheln. Ich frage den Rat: Ist es klug, einen solchen Mann zu provozieren, indem wir ihm ein Kind entgegenstellen?“
+Da war es, das Wort. Kind. Rami hatte irgendwo um die dritte Schlacht herum aufgehört, bei seinem Klang zusammenzuzucken.
+„Es war klug“, erwiderte sie, „als das Kind drei Systeme rettete, die dieser Rat bereits abgeschrieben hatte.“
+„Ruhe.“
+Kenshins Stimme war nicht laut. Das war auch nicht nötig. Sie schloss sich über dem Saal wie der Deckel eines Sarges, und der Raum gehorchte.
+Der Kaiser erhob sich. Er stieg die Stufen des Podests hinab – langsam, denn die Macht, die das Gesicht in Falten legt, schont auch die Knie nicht. Er trat vor den Rat, während seine Tochter an seiner linken Seite blieb.
+„General Misotishi fragt, ob es klug ist, Koriyama zu reizen.“ Kenshin ließ den Namen in der Luft hängen. „Koriyama ist seit fünfzehn Jahren gereizt, General. Er war gereizt, als er sein Banner über Sektoren hisste, die diesem Thron die Treue geschworen hatten. Er war gereizt, als er sich selbst zum Shogun ernannte, ohne den Titel hier empfangen zu haben. Wir provozieren ihn nicht. Wir sind zu spät dran, ihn aufzuhalten.“
+Misotishi senkte den Kopf, aber nicht tief genug, um seinen zusammengepressten Kiefer zu verbergen.
+„Es gibt eine wesentlichere Frage als die der Klugheit“, fuhr Kenshin fort. „Die Frage der Legitimität. Koriyama führt Krieg als Shogun – mit einer Armee, mit einer Flotte, mit Vasallen. Und wer antwortet ihm? Der Kaiser?“ Er schüttelte den Kopf. „Der Kaiser regiert. Der Kaiser kann nicht auf dem Thron sitzen und gleichzeitig jedes Geschwader in Hunderten von Systemen befehligen. Und während der Thron auf dem Schlachtfeld schweigt, sieht jeder Soldat, jeder Daimyo und jede wankelmütige Welt nur eines: einen Shogun mit einem Schwert und einen Kaiser mit einer Krone, der nicht zu den Schwertern hinabsteigt. Das ist der Krieg, den Koriyama gewinnt, noch bevor er auch nur einen Torpedo abgefeuert hat. Der Krieg darum, wer das Kommando innehat.“
+Rat Hirose regte sich. Der älteste Mann im Saal – er hatte drei Kaiser überlebt und war der Vertraute eines vierten – hob die Hand mit der langsamen Zeremonie eines Mannes, dem es gestattet ist, zu sprechen, ohne an der Reihe zu sein.
+„Eure Majestät beschreiben eine Krankheit, die so alt ist wie das Kaiserreich“, sagte er. „Und ein Heilmittel, das ebenso antik ist. Als das Haus Arakawa während der Zweiten Expansion rebellierte, stieg Kaiser Tenji nicht vom Thron herab. Er ernannte einen Regenten der Armeen – die Stimme der Krone unter den Kriegsbannern –, damit die Klinge des Rebellen nicht die einzige blieb, die einen Namen trug. Der Regent verwaltete keine Provinzen. Er zog keine Steuern ein. Er saß nicht auf diesem Stuhl. Er befehligte den Krieg im Namen des Herrschers. Arakawa fiel innerhalb von zwei Jahren.“
+„Ein Präzedenzfall“, murmelte Sato. „Präzedenzfälle sind zweischneidige Schwerter. Ein Regent der Armeen ist nichts anderes als ein Shogun unter einem anderen Namen. Übergeben wir einem einzigen Menschen die gesamte militärische Macht des Reiches?“
+„Nicht einem einzigen Menschen“, entgegnete Kenshin. „Sondern dem Blut dieses Throns.“
+Die Stille war diesmal eine andere. Es war das Schweigen von Menschen, die komplizierte Berechnungen anstellten.
+Rami verstand alles, noch bevor ihr Vater sie ansah.
+
+* * *
+
+Nach der Sitzung rief er sie in das kleine Empfangszimmer hinter dem Thronsaal – einen Ort, an dem die Kaiser sich berieten, wenn sie nicht wollten, dass hundert Ohren ihr Zögern vernahmen. Die Wände hier waren kahl. Das einzige Fenster blickte auf die Gärten, die in jener strengen Geometrie angelegt waren, die ihr Vater schätzte: Selbst die Natur wurde in diesem Palast gezwungen, in Reih und Glied zu stehen.
+Kenjiro blieb auf der Schwelle stehen. Seine linke Schulter war nach der Schlacht noch immer verbunden; er setzte sich nicht, er lehnte sich nicht an, sondern verharrte in jener Reglosigkeit, die verriet, dass ihm kein einziges Detail entging.
+„Wusstest du es?“, fragte Rami.
+„Ich habe es letzte Nacht entschieden.“ Kenshin trat an das Fenster. „Hirose hat den rechtlichen Präzedenzfall heute Morgen gefunden. Der Rest war Theater für den Rat.“
+„Sie müssen glauben, dass sie Teil einer Entscheidung sind, die bereits getroffen wurde.“
+Und ich? War ich ein Teil davon?
+Er drehte sich um. Für einen Moment verschwand die Maske des Herrschers und wurde durch das Gesicht eines Vaters ersetzt, der gleichzeitig den Säugling sah, den er gewiegt hatte, und den Kommandanten, der soeben neunhundert Menschen zu Grabe getragen hatte.
+„Du wirst diese Last tragen, Rami. Nicht ich. Deshalb hast du das Recht, abzulehnen, bevor ich es vor hundert Zeugen verkünde.“ Er verschränkte die Arme hinter dem Rücken. „Regent der Armeen. Meine Stimme dort, wo die Krone nicht anwesend sein kann. Du wirst die Flotte befehligen, die Verteidigung, den Krieg gegen Koriyama und jeden, der ihm dient. Du wirst die Autorität des Throns innerhalb dieser Grenzen besitzen – und nur in diesen. Du wirst keine Provinzen regieren. Du wirst die Staatskasse nicht anrühren. Du wirst keinen Fuß auf das Podest vor dem Thron setzen, solange ich atme.“ Seine Stimme wurde leiser. „Und wenn der Krieg vorbei ist, wirst du die Macht, die ich dir anvertraue, zurückgeben. Die gesamte. Verstehst du, warum ich dir das jetzt sage und nicht später?“
+„Weil es später zu spät sein wird, abzulehnen.“
+„Weil du sie später vielleicht nicht mehr zurückgeben willst.“ Er sah sie ohne Vorwurf an, mit der müden Klarheit eines Mannes, der den Geschmack von Größe kennt. „Ich habe gute Menschen gesehen, die als Diener der Pflicht in Konflikte zogen und verliebt in ihre eigene Unersetzlichkeit wieder herauskamen. Du bist siebzehn. Ich gebe dir eine Armee. Das ist ein Gift, Rami, selbst wenn es als Medizin verabreicht wird.“
+Sie hielt seinem Blick stand.
+„Warum dann?“
+„Weil die Alternative darin besteht, zuzusehen, wie ein siebzehnjähriges Mädchen drei Sternensysteme rettet und der Rat am nächsten Morgen ihr Schiff beschlagnahmt.“ Etwas Kaltes huschte über sein Gesicht, nur für einen Moment, wie Zugluft unter einer geschlossenen Tür. „Ordnung hat ihren Preis, meine Tochter. Der Tag wird kommen, an dem du zwischen Mitgefühl und Stabilität wählen musst, und dieser Tag wird dich dazu bringen, dich selbst zu hassen. Aber das Kaiserreich überlebt, weil jemand diese Wahl trifft. Heute wähle ich dich. Nicht, weil du bereit bist. Sondern weil du die Einzige bist, der ich die Schwerter anvertrauen kann, ohne fürchten zu müssen, gegen wen sie sich richten.“
+Rami schwieg. In seinen Worten pulsierte Liebe, umhüllt von etwas, das härter als Stahl war, und sie wusste noch immer nicht, wie sie beides voneinander trennen sollte.
+„Das Siegel, das ich dir im Geheimen gegeben habe“, sagte Kenshin. „Trägst du es bei dir?“
+Rami holte einen in dunkle Seide gewickelten Gegenstand aus den Falten ihrer Tunika. Sie entfaltete ihn. Auf ihrer Handfläche lag ein Siegel aus schwarzem Obsidian, in das ein Drache graviert war, der sich in den eigenen Schwanz biss – das Symbol von Kenshin dem Ersten, dem Gründer der Dynastie. Sie hatte es nur wenigen gezeigt, einzeln, hinter fest verschlossenen Türen. Der kalte Stein erinnerte sich an die Berührung von General Hojo und jener Veteranen, die dem siebzehnjährigen Mädchen nur geglaubt hatten, weil dieser Drache hinter ihr stand.
+„Bisher war es ein Flüstern“, fuhr Kenshin fort. „Ein Zeichen für eine Handvoll Menschen, dass die Hand in deinem Rücken die meine ist. Morgen fällt das Geheimnis. Derselbe Drache wird offen hinter jedem deiner Befehle stehen. Setze ihn sparsam ein. Am falschen Ort verwendet, klagt er mich an. Richtig eingesetzt, verwandelt er eine Prinzessin in die Stimme von tausend Jahren Geschichte.“
+Der Obsidian wog schwer in ihrer Handfläche – kalt und massiv, als wäre er seit dem letzten Mal dichter geworden.
+„Morgen wirst du vor dem Rat als Erbin knien“, sagte Kenshin, „und dich als Regentin erheben. Diese Nacht bist du noch einfach nur meine Tochter. Nutze das. Du wirst nicht mehr viele solcher Nächte haben.“
+
+* * *
+
+Kenjiro holte sie im Korridor ein, der zum Shuttledeck führte. Eine Weile gingen sie schweigend an den Wachen vorbei, die sich ein wenig tiefer verbeugten als noch gestern – die Neuigkeit pulsierte bereits durch das Palastnetzwerk, schneller als ein offizielles Dekret.
+„Du wirst einen Stab brauchen“, sagte er schließlich. „Leute, denen du vertraust, und keine, die vom Rat ernannt wurden.“
+„Ich weiß.“ Rami umklammerte das Obsidiansiegel in ihrer Tasche. „Akira. Takeshi, falls er sich dazu herablässt, unter dem Kommando eines Mädchens zu dienen. Du.“
+„Ich diene bereits.“
+„Du hast die Prinzessin beschützt.“ Sie blieb stehen und wandte sich ihm zu. „Morgen wirst du die Regentin beschützen, die nach eigenem Ermessen Menschen in den Tod schickt. Das ist ein anderer Mensch, Kenjiro. Ich werde nicht beleidigt sein, wenn du entscheidest, dass du dich der Ersteren verschrieben hast.“
+Der Samurai betrachtete sie lange. Dann zuckten seine Lippen zu einem kaum wahrnehmbaren Lächeln.
+„Ein Schwert, das schon einmal gebrochen ist“, sagte er leise, „kennt die Grenze zwischen Klinge und Gemetzel. Ich werde diejenige beschützen, die sich an diesen Unterschied erinnert. Du erinnerst dich noch daran.“
+Jenseits der Bullaugen war die Orbitalstation der Hauptstadt zu sehen – Tausende Lichter, Tausende Schiffe, die reglos auf einen Befehl warteten, den bis zu diesem Moment niemand legitim erteilen durfte. Morgen würde er von ihr kommen.
+Irgendwo in diesem Lichtermeer befand sich auch die „Amaterasu“ – die Einheit, die sie im Inneren eines Eismondes gebildet hatte, als die Welt ihr nichts weiter als ein Versteck bot. Morgen würde ihre Existenz offiziell werden. Ihr Name würde in die kaiserlichen Register einfließen, so wie ein Bach in einem großen Fluss verschwindet, und ihre Leute würden Schulterklappen tragen, die niemand infrage zu stellen wagen würde.
+Rami empfand kein Bedauern. Einen Namen gibt man dem, was verborgen bleiben muss. Morgen würden Verstecke überflüssig werden.
+Sie holte das Siegel hervor und blickte einen Moment lang auf den schwarzen Drachen, der sich zu einem endlosen Kreis zusammenrollte. Dann steckte sie es wieder ein.
+Koriyama war verwundet, aber nicht gebrochen. Irgendwo jenseits des Grenzschleiers zählte er seine Toten, baute neue Fregatten und bereitete den Krieg vor, der sein wahres Ausmaß erst noch offenbaren würde. Zwischen diesem Moment und dem nächsten Zusammenstoß würden Monate vergehen – eine Zeit, die die Prinzessin aus dem Thronsaal in etwas verwandeln würde, das selbst ihr Vater noch nicht auszusprechen wagte.
+Aber das stand noch bevor. In dieser Nacht hatte Rami noch immer das Recht, erschöpft zu sein. Sie hatte noch immer das Recht, sich zu fürchten.
+Morgen würde sie nur noch das Recht haben, zu führen.
+
+ 
+### - 2 -
+
+Die Luft auf der Krankenstation der „Aufgehenden Sonne“ war vom Geruch nach verbranntem Fleisch und Desinfektionsmitteln geschwängert. Vor dem Zusammenstoß herrschte hier eine sterile Leere: einige in strengen Reihen angeordnete Betten für Routineuntersuchungen und weiße Wände, die das kühle Licht der Paneele reflektierten. Nun hatte sich die Kapazität verdoppelt. Dazwischen huschten medizinische Drohnen umher – silberne Sphären, deren Sensoren einen hohen, monotonen, schneidenden Ton von sich gaben. Die humanoiden Einheiten führten die heiklen Eingriffe durch: Sie nähten Gewebe, kalibrierten die Stasisfelder, injizierten Seren. Ihre metallenen Finger zitterten nicht. Niemals.
+Rami schritt langsam an den Verwundeten vorbei. Sie hatte ihre Kommandouniform gegen eine dunkelblaue Tunika getauscht – dieselbe, die auch die Medizintechniker trugen. Die Geste war wohlkalkuliert. Hier, unter den Opfern, weigerte sie sich, die Prinzessin-Regentin zu sein. Sie wollte lediglich ein Mensch bleiben, der ihnen in die Augen sah.
+Kenjiro folgte ihr im Abstand von vier Schritten. Seine linke Schulter war noch immer verbunden, doch er hatte sich geweigert, einen Platz unter den Patienten einzunehmen. Seine Hand ruhte auf dem Griff seines Katanas – aus einer Gewohnheit heraus, die so tief verwurzelt war, dass sie ihn nicht einmal im Schlaf verließ.
+Rami hielt an einem Bett am hinteren Ende. Der Junge dort war kaum zwanzig Jahre alt. Sein linker Arm verschwand unter dem bläulichen Schimmer eines Stasisfeldes; die Energie pulsierte rhythmisch, ähnlich einem Atemzug. Sein Gesicht wirkte eingefallen, aber sein Blick blieb wach.
+„Wie fühlen Sie sich, Lieutenant …?“ Rami überprüfte die Daten auf dem holografischen Terminal über dem Bett. „Lieutenant Takeo?“
+Der junge Mann versuchte, sich aufzurichten. Sie hielt ihn behutsam mit einer Hand auf der gesunden Schulter zurück.
+„Prinzessin Rami?“ Seine Stimme klang heiser. „Sind Sie es wirklich?“
+„Ich bin es. Und versuchen Sie nicht, aufzustehen – die Ärzte werden mir noch vorwerfen, dass ich ihre Arbeit behindere.“
 Der Junge lächelte schwach, obwohl die Freude seine Augen nicht erreichte.
-„Ich denke an die Schlacht“, vertraute er ihr an. „Ich sah, wie die Schilde von Koriyamas Flaggschiff kollabierten. So etwas habe ich noch nie gesehen. Es war, als würde die Realität selbst zerreißen.“
-Rami schluckte schwer. Die Erinnerungen an das Gefecht brannten noch immer in ihr – die aufgerissenen Schiffsrümpfe, die blendenden Explosionen, die Stimmen im Kommunikator, die urplötzlich in absoluter Stille erstickten.
-„Es war grauenhaft“, gestand sie ein. „Für uns alle.“
-„Aber wir haben gesiegt, oder?“
-In seiner Stimme schwang mehr als nur eine Frage mit. Es war ein Flehen nach einem Sinn, der die Agonie in seinem zerfetzten Arm rechtfertigen könnte.
-„Wir haben überlebt“, korrigierte Rami ihn sanft. „Für den Anfang muss das genügen.“
-Sie verweilte noch einige Minuten an seiner Seite. Sie lauschte seinen Schilderungen des Chaos, des Versagens der Systeme in seinem Jäger, von dem Augenblick, in dem er erkannte, dass er nicht zum Mutterschiff zurückkehren würde – und von der seltsamen Gelassenheit, die auf seinen Entschluss folgte, dem Tod mit dem Blick zum Feind ins Auge zu sehen. Rami beobachtete, wie er das Erlebte aufarbeitete. Er verwandelte das Grauen in eine Geschichte, die er ertragen konnte.
-Das tun wir alle. Wir versuchen, das Monster in Worte einzusperren, um ihm seine Macht zu nehmen.
-Sie trat an das benachbarte Bett. Commander Hoshino – eine erfahrene Ingenieurin und Veteranin der zerstörten Eskortschiffe – lag auf der Seite. Die linke Hälfte ihres Gesichts und Halses war von den rötlichen Spuren einer regenerativen Therapie gezeichnet. Die neue Haut wirkte makellos und rosig – ein geradezu widernatürlicher Kontrast zu den tiefen Falten auf der anderen Seite.
-„Wie schreitet die Genesung voran, Commander?“, fragte Rami und ließ sich auf einem metallenen Stuhl nieder.
-„Schmerzhaft, Eure Hoheit.“ Hoshino versuchte ein Lächeln, doch ihr Gesicht verzog sich zu einer schmerzverzerrten Grimasse. „Die Ärzte versprechen, dass in zwei Monaten nichts mehr davon zu sehen sein wird. Aber ich habe es nicht eilig – Narben verleihen schließlich Charakter.“
-Rami lächelte zum ersten Mal seit Stunden. Doch schon bald umwölkte sich ihre Miene wieder.
-„Und Ihr Team?“
-Hoshinos Gesichtszüge verhärteten sich.
-„Wir haben vier Leute verloren. Unterleutnant Haruki Koda war erst neunzehn. Er hatte die Akademie gerade erst abgeschlossen. Das Letzte, was er mir vor seiner Schicht erzählte, war, dass seine Mutter ihm ein Rezept für hausgemachte Ramen geschickt hatte. Er versprach, für uns zu kochen, sobald wir heimkehren.“
-Rami schwieg. Es gab keine Worte, die eine derartige Leere hätten füllen können. Sie legte lediglich ihre Hand auf Hoshinos Finger und drückte sie fest.
-Sie setzte ihren Rundgang fort. Bei jedem Einzelnen blieb sie stehen. Ihre Geschichten überlagerten sich in ihrem Geist – Splitter eines Krieges, gebrochen durch das Prisma dutzender unterschiedlicher Schicksale. Der Pilot, der mit brennendem Triebwerk noch drei Ausweichmanöver geflogen war. Die Navigatorin, die bis zum bitteren Ende Koordinaten übermittelt hatte, während ein Schrapnell ihren Oberschenkel zerfetzte. Der Bordschütze, der kein einziges Wort sprach – er sah sie nur mit Augen an, in denen ein Abgrund klaffte, für den Rami keinen Namen fand.
-Als sie die Krankenstation verließ, wartete Kenjiro bereits an der Tür auf sie. Er stand vollkommen reglos mit verschränkten Armen da, doch ihr entging nicht, dass der Verband an seiner Schulter bereits blutdurchtränkt war.
-„Du blutest“, bemerkte sie.
-„Es ist nur oberflächlich.“
+„Ich denke an die Schlacht“, sagte er leise. „Ich sah, wie die Schilde von Koriyamas Flaggschiff zusammenbrachen. So etwas habe ich noch nie gesehen. Es war, als würde die Realität zerreißen.“
+Rami schluckte. Die Erinnerungen an das Gefecht brannten noch immer – die aufgerissenen Schiffsrümpfe, die blendenden Explosionen, die Stimmen im Kommunikator, die plötzlich in Stille verstummten.
+„Es war furchterregend“, gab sie zu. „Für uns alle.“
+„Aber wir haben gesiegt, nicht wahr?“
+In seiner Stimme vernahm sie mehr als nur eine Frage. Ein Flehen nach einem Sinn, der die Agonie seines zerschmetterten Arms rechtfertigen würde.
+„Wir haben überlebt“, korrigierte Rami. „Fürs Erste ist das genug.“
+Sie blieb noch einige Minuten bei ihm. Sie hörte zu, wie er vom Chaos berichtete, vom Versagen der Systeme in seinem Jäger, von dem Moment, in dem ihm klar geworden war, dass er nicht zum Mutterschiff zurückkehren würde, und von der seltsamen Ruhe, die seinem Entschluss gefolgt war, dem Tod mit dem Gesicht zum Feind entgegenzutreten. Rami beobachtete, wie er das Erlebte verarbeitete. Er verwandelte das Grauen in eine Geschichte, die er ertragen konnte.
+Das taten sie alle. Sie versuchten, das Monster in Worte einzusperren, um ihm seine Macht zu nehmen.
+Sie ging zum Nachbarbett hinüber. Commander Hoshino, eine erfahrene Ingenieurin eines der zerstörten Eskortschiffe, lag auf der Seite. Die linke Hälfte ihres Gesichts und ihr Hals waren mit den rötlichen Spuren einer regenerativen Therapie überzogen. Die neue Haut sah glatt und rosa aus – ein unnatürlicher Kontrast zu den Falten auf der anderen Seite.
+„Wie geht die Genesung voran, Commander?“, fragte Rami und setzte sich auf den metallenen Stuhl.
+„Schmerzhaft, Eure Hoheit.“ Hoshino versuchte zu lächeln, doch ihr Gesicht verzog sich zu einer Grimasse. „Die Ärzte versprechen, dass in zwei Monaten keine Spur mehr davon zu sehen sein wird. Aber ich habe es nicht eilig – Narben verleihen Charakter.“
+Rami lächelte; für einen Moment wich ihre Erschöpfung. Dann verfinsterte sich ihre Miene wieder.
+„Und was ist mit Ihrem Team passiert?“
+Hoshinos Gesicht verhärtete sich.
+„Wir haben vier Leute verloren. Unterleutnant Haruki Koda war neunzehn. Er hatte gerade erst die Akademie abgeschlossen. Das Letzte, was er mir vor der Schicht erzählte, war, dass seine Mutter ihm ein Rezept für hausgemachte Ramen geschickt hatte. Er versprach, sie zu kochen, wenn wir nach Hause kämen.“
+Rami schwieg. Es gab keine Worte, die eine solche Leere füllen konnten. Sie legte nur ihre Hand auf Hoshinos Finger und drückte sie fest.
+Sie setzte ihren Rundgang fort. Bei jedem blieb sie stehen. Ihre Geschichten schichteten sich in ihrem Geist übereinander – Bruchstücke eines Krieges, gebrochen durch Dutzende verschiedener Schicksale. Der Pilot, der drei Kampfmanöver mit einem brennenden Triebwerk geflogen war. Die Navigatorin, die bis zuletzt Koordinaten übermittelt hatte, während ein Schrapnell ihren Oberschenkel zerfetzte. Der Artillerist, der nichts sagte und sie nur aus Augen anblickte, die voller Abgründe waren, für die Rami keinen Namen hatte.
+Als sie den medizinischen Sektor verließ, wartete Kenjiro schon an der Tür auf sie. Er stand regungslos mit verschränkten Armen da, doch sie bemerkte, dass der Verband an seiner Schulter bereits blutdurchtränkt war.
+„Du blutest“, merkte sie an.
+„Es ist oberflächlich.“
 „Kenjiro.“
 „Ich werde den Verband wechseln, sobald Sie die Inspektion in den Hangars abgeschlossen haben, Eure Hoheit.“
-Sie stellte seine Entscheidung nicht infrage. Dafür kannte sie ihn zu gut.
-
-* * *
-
-Die Hangars existierten in einer völlig anderen Realität. Anstelle der gedämpften, sterilen Stille der Krankenstation herrschte hier organisiertes Chaos. Die riesigen Hallen widerhallten vom industriellen Dröhnen – Schweißgeräte spien Lichtbögen aus, welche die Schatten wie zornige Blitze durchschnitten. Presslufthämmer schlugen in einem abgehackten Rhythmus. Hochfrequenz-Laserschneider stießen ein ohrenbetäubendes Kreischen aus, das bis in die Zähne drang. Die Luft war schwer vom Geruch nach Maschinenöl, geschmolzenem Metall und Ozon.
-Die Fregatte „Drache“ lag festgemacht an der Hauptplattform. Rami hielt davor an und verharrte.
-Einst verkörperte das Schiff aerodynamische Perfektion. Klare Linien, spiegelnde Panzerung, methodisch angeordnete Waffensysteme – Jahrhunderte der Ingenieursevolution, in Stahl und Verbundwerkstoffe gegossen. Jetzt glich das Schiff einem Opfer, das der Abgrund zerkaut und wieder ausgespuckt hatte. Im Rumpf klaffte ein riesiges Loch – kein grober Durchschlag eines kinetischen Geschosses, sondern eine komplexe Wunde, gebrannt von einem konzentrierten Energiestrahl. Die Metallplatten waren geschmolzen und hatten sich zu bizarren, blasenartigen Formen verdreht. Die Geschütztürme an der Backbordseite waren nur noch eine unförmige Masse. Die Schildprojektoren ragten wie gebrochene Gliedmaßen hervor.
-Akira tauchte aus dem Inneren des Schiffes auf, sobald er sie bemerkte. Sein Gesicht war rußverschmiert, das Haar klebte ihm schweißnass an der Stirn und seine Augen waren gerötet. In seinem Blick brannte jedoch jenes Feuer, das Rami nur zu gut kannte. Er hatte seit dem Ende der Schlacht nicht aufgehört zu arbeiten.
-„Die Schäden übertreffen unsere Erwartungen“, erklärte er und ließ jegliche Höflichkeitsfloskeln beiseite. Rami schätzte das an ihm – seine Fähigkeit, die Wahrheit nicht zu beschönigen. „Die Hauptenergieversorgung ist unterbrochen. Sie ist in drei kritischen Sektoren zerstört. Wir brauchen neue Energieleitungen, neue Verteilerknoten, neue Sicherungen. Das Standardprotokoll sieht sechs Wochen vor.“
-Rami trat an den beschädigten Bereich heran. Sie strich mit den Fingern über die Kante des geschmolzenen Metalls – es fühlte sich glatt an, fast wie Glas.
-„Zeig mir das Schema“, befahl sie.
-Akira aktivierte einen tragbaren Projektor. Das holografische Netz der Energiekanäle pulsierte zwischen ihnen – rote Linien für die Bewaffnung, blaue für die Schilde, grüne für den Antrieb und gelbe für die Lebenserhaltungssysteme. In drei Zonen verblassten die Farben und wurden durch blinkende Markierungen ersetzt, die einen kritischen Ausfall anzeigten.
-Rami studierte die Projektion mit der Konzentration einer Strategin, die einen Durchbruch plant. Ihr Finger folgte alternativen Routen auf der Suche nach unkonventionellen Lösungen. Akira wartete mit verschränkten Armen – er kannte diesen Gesichtsausdruck.
-„Was passiert, wenn wir das zentrale Netz umgehen?“, fragte sie nach einer Minute. „Anstatt das gesamte hierarchische System wiederherzustellen, bauen wir eine Reihe unabhängiger Energiezellen auf. Jede versorgt dann eine spezifische Gruppe von Modulen.“
+Sie focht seine Entscheidung nicht an. Sie kannte ihn zu gut.
+Die Hangars gehörten einer anderen Realität an. Statt der gedämpften Stille des Lazaretts herrschte hier ein organisiertes Chaos. Die riesigen Hallen widerhallten von industriellem Getöse – Schweißgeräte spuckten Lichtbögen aus, die die Schatten wie zornige Blitze zerschnitten. Presslufthämmer schlugen in einem abgehackten Rhythmus. Hochfrequenz-Laserschneider gaben ein schrilles Kreischen von sich, das durch Mark und Bein ging. Der Geruch von Maschinenöl, geschmolzenem Metall und ionisierter Luft erfüllte den Raum.
+Die Fregatte „Drache“ lag fest verankert auf der Hauptplattform. Rami blieb vor ihr stehen und erstarrte.
+Einst verkörperte das Schiff aerodynamische Perfektion. Klare Linien, spiegelnde Panzerung, methodisch angeordnete Waffensysteme – Jahrhunderte der Ingenieursevolution, gegossen in Stahl und Verbundwerkstoffe. Jetzt glich das Gefährt einer Beute, die der Abgrund zerkaut und wieder ausgespuckt hatte. Im Rumpf klaffte ein riesiges Loch, durchgebrannt von einem konzentrierten Energiestrahl. Die Metallplatten waren geschmolzen und hatten sich zu bizarren Formen verdreht. Die Geschütztürme an der Backbordseite waren nur noch eine formlose Masse. Die Schildprojektoren ragten wie gebrochene Gliedmaßen hervor.
+Akira tauchte aus dem Inneren des Schiffes auf, sobald er sie bemerkte. Sein Gesicht war von Ruß gezeichnet, das Haar klebte ihm schweißnass an der Stirn und seine Augen waren gerötet. In seinem Blick brannte jedoch jenes Feuer, das Rami nur zu gut kannte. Er hatte seit dem Ende der Schlacht nicht aufgehört zu arbeiten.
+„Die Schäden übersteigen unsere Befürchtungen“, erklärte er und ließ die Höflichkeiten beiseite. Rami schätzte das an ihm – seine Fähigkeit, die Wahrheit nicht zu beschönigen. „Die Hauptenergieleitung ist in drei kritischen Sektoren durchtrennt und die molekulare Struktur der Leiter ist destabilisiert. Wir brauchen neue Stromschienen, Verteilerknoten und Sicherungen. Das Standardprotokoll erfordert sechs Wochen.“
+Rami trat an den beschädigten Bereich heran.
+Sie fuhr mit den Fingern über die Kante des geschmolzenen Metalls – die erkaltete Oberfläche fühlte sich an wie glattes Glas.
+„Zeig mir den Schaltplan“, befahl sie.
+Akira aktivierte den tragbaren Projektor. Das holografische Netz der Energiekanäle vibrierte zwischen ihnen: rote Linien für die Bewaffnung, blaue für die Schilde, grüne für den Schub und gelbe für die Lebenserhaltungssysteme. In drei Zonen waren die Farben erloschen und durch blinkende Markierungen ersetzt worden, die einen kritischen Ausfall anzeigten.
+Rami studierte die Projektion mit der kühlen Versunkenheit einer Strategin, die einen Durchbruch vorbereitet. Ihr Finger zog alternative Routen durch die Architektur des Schiffes. Akira wartete mit verschränkten Armen – er kannte diesen Ausdruck.
+„Was passiert, wenn wir das zentrale Netz umgehen?“, fragte sie nach einer Minute. „Anstatt das gesamte hierarchische System wiederherzustellen, bauen wir eine Reihe unabhängiger Energiezellen. Jede wird eine spezifische Gruppe von Modulen speisen.“
 Akira zog die Augenbrauen zusammen.
-„Modulare Zellen sind instabil. Wenn eine im Kampf getroffen wird, könnte die Kettenreaktion ...“
-„Wir werden sie physisch isolieren. Ein Notauswurfsystem. Beim geringsten Anzeichen einer Überlastung wird die gesamte Zelle ins All katapultiert.“
-„Du verlierst dadurch zehn Prozent der Gesamteffizienz“, warnte Akira sie, doch in seiner Stimme schwang bereits Interesse mit.
-„Aber ich gewinne fünf Wochen. Im Moment ist Geschwindigkeit wertvoller als Perfektion.“
-Während sie die technischen Details besprachen, versammelten sich Techniker und Mechaniker um sie herum. Die meisten hörten schweigend zu, mit vor der Brust verschränkten Armen und Händen, die von der harten Arbeit rau waren. Rami bemerkte einen älteren Mann – mit zerfurchtem Gesicht und Haut, die von alten Narben durch Schweißspritzer übersät war. Er beobachtete sie mit einer Mischung aus Respekt und Skepsis.
-„Haben Sie Einwände, Chefmechaniker …?“, fragte sie, da sie seinen Rang an den abgewetzten Abzeichen auf seinem Ärmel erkannte.
-„Taniguchi, Eure Hoheit.“ Er zögerte. „Es liegt nicht an der Technik. Die ist machbar. Aber die Leute ... Die Leute sind am Ende ihrer Kräfte. Wir haben Kameraden verloren. Einige der Jungs denken, es sei sinnlos. Dass wir keine Chance gegen Koriyama haben.“
-In seinem Ton lag keine Provokation. Da war nur nackter Schmerz. Rami begriff, dass er nicht den Plan infrage stellte, sondern die Last der Mannschaft teilte.
-Sie ließ den Blick über die Versammelten schweifen. Dutzende Augen waren auf sie gerichtet. Ingenieure in schmutzigen Overalls, Techniker mit dunklen Ringen unter den Augen, Mechaniker mit bandagierten Händen. Die Menschen, die das Metall dieser Armee zusammenhielten.
-„Können Sie mir sagen, warum Sie hier sind?“, fragte sie leise. „Ich nehme an, nicht wegen der Bezahlung.“
-Es herrschte Stille. Irgendwo in der Ferne zischte ein Schweißgerät und erlosch.
-„Ich komme von Kepler-442b“, meldete sich eine junge Frau in Akiras Alter zu Wort. Ihre Stimme war monoton, aber die Knöchel ihrer geballten Fäuste traten weiß hervor. „Koriyama hat meine Kolonie in Asche gelegt. Ich habe dort meine Eltern verloren.“
+„Modulare Zellen sind instabil. Wenn eine im Kampf getroffen wird, könnte die Kettenreaktion …“
+„Wir werden sie durch magnetische Barrieren physisch isolieren. Ein Notfall-Entkopplungssystem. Beim geringsten Anzeichen einer Überlastung wird die Zelle ins offene All katapultiert.“
+„Du wirst zehn Prozent an Gesamteffizienz einbüßen“, warnte Akira, aber in seiner Stimme schwang bereits Interesse mit.
+„Aber ich werde fünf Wochen gewinnen. Momentan ist Zeit wertvoller als Perfektion.“
+Während sie die technischen Parameter besprachen, versammelten sich die Mechaniker um sie herum. Die meisten hörten schweigend zu, die von der Arbeit gezeichneten Arme vor der Brust verschränkt. Rami bemerkte einen der Älteren – mit zerfurchtem Gesicht und von Schweiß gezeichneter Haut. Er beobachtete sie mit einer Mischung aus Respekt und Skepsis.
+„Haben Sie Einwände, Chefmechaniker?“, fragte sie, da sie seinen Rang an den abgenutzten Streifen auf seinem Ärmel erkannte.
+„Taniguchi, Eure Hoheit.“ Er zögerte. „Es liegt nicht an der Technik. Die ist umsetzbar. Aber die Leute … Die Leute sind am Ende. Wir haben Kameraden verloren. Viele glauben, es sei sinnlos. Dass wir keine Chance gegen Koriyama haben.“
+In seinem Ton lag keine Herausforderung, sondern ausschließlich nackter Schmerz. Taniguchi widersprach nicht, er verlieh nur der gemeinsamen Last Ausdruck, die die Schultern der Besatzung beugte.
+Sie ließ den Blick über die Versammelten schweifen. Dutzende Augenpaare waren auf sie gerichtet. Ingenieure in schmutzigen Overalls, Techniker mit tiefen Augenringen vor Schlaflosigkeit, Mechaniker mit verbundenen Händen. Die Menschen, die das Metall dieser Armee zusammenhielten.
+„Können Sie mir sagen, warum Sie hier sind?“, fragte sie leise. „Wohl kaum wegen der Bezahlung.“
+Stille kehrte ein. Irgendwo in der Ferne zischte ein Schweißgerät und erlosch.
+„Ich komme von Kepler-442b“, meldete sich eine junge Frau, die im gleichen Alter wie Akira war. Ihre Stimme klang gefasst, doch die Knöchel ihrer geballten Fäuste traten weiß hervor.
 „Ich komme aus Neu-Tokio“, fügte ein anderer hinzu. „Ich habe gesehen, was sie den Zivilisten angetan haben.“
 Rami nickte langsam.
-„Ich kenne eure Geschichten. Deshalb sind wir hier. Nicht wegen abstrakter Doktrinen. Sondern wegen der Menschen, die wir verloren haben. Und wegen jener, die wir noch retten können.“
+„Ich kenne Ihre Geschichten. Deshalb sind wir hier. Nicht wegen abstrakter Doktrinen, sondern wegen der Menschen, die wir verloren haben. Und wegen jener, die wir noch retten können.“
 Sie wandte sich direkt an Taniguchi.
-„Gestern haben wir eine Schlacht verloren. Aber wir haben nicht den Krieg verloren. Koriyama verlässt sich auf unsere Angst, auf die Lähmung der Verzweiflung. Jedes Schiff, das wir wieder flottmachen, jedes System, das wieder funktioniert – das ist der Beweis, dass wir nicht aufgegeben haben. Dass ihre Opfer nicht umsonst waren.“
-In ihren Worten lag kein Pathos. Es gab keine übertriebene Theatralik. Ihre Rede war präzise wie ein Werkzeug, das am richtigen Ort angesetzt wird.
-Taniguchi sah sie lange an. Schließlich sanken seine Arme herab und er nickte.
+„Gestern haben wir gesiegt. Zu einem Preis, der so bitter schmeckt wie eine Niederlage, aber wir haben gesiegt. Und der Krieg ist nicht vorbei. Koriyama verlässt sich auf unsere Angst, auf die Lähmung durch die Verzweiflung. Jedes Schiff, das wir wieder in Dienst stellen, jedes System, das wieder funktioniert – das beweist, dass wir nicht aufgegeben haben. Dass ihre Opfer nicht vergeblich waren.“
+Ihren Worten fehlte es an Pathos oder überflüssiger Theatralik. Ihre Rede war ein wohlkalkuliertes Instrument, das genau an der richtigen Stelle angesetzt wurde.
+Taniguchi sah sie lange an. Schließlich ließ er die Arme sinken und nickte.
 „Eine Woche für den ‚Drachen‘, sagten Sie?“
 „Drei Tage.“
-Eine Pause. Einer der Techniker hinter ihm stieß geräuschvoll die Luft aus.
-„Wir machen das“, entschied Taniguchi knapp.
-Die Arbeit begann sofort. Rami blieb noch zwei Stunden in den Hangars – nicht um zu kontrollieren, sondern weil sie spürte, dass ihre Anwesenheit nötig war. Sie beobachtete, wie das Zögern in Konzentration überging, wie sich die Teams selbst organisierten, wie Hände, die eben noch schlaff herabhingen, nun mit einem klaren Ziel die Werkzeuge umklammerten.
-Das ist das Einzige, was ich ihnen geben kann, dachte sie. Einen Sinn. Etwas, wofür es sich weiterzumachen lohnt.
-Später rief sie die Teamleiter in der Zentralsektion zusammen. Der holografische Projektor skizzierte einen aggressiven Wiederaufbauplan – Zeitpläne, Ressourcen, Prioritäten. Die Zahlen waren unerbittlich, und jedem im Raum war das bewusst.
-„Ich werde offen sein“, sagte sie schließlich. „Das, was ich von euch verlange, grenzt an das Unmögliche. Zwölf-Stunden-Schichten. Ständige Improvisation. Die Lösung von Problemen, die in keinen Lehrbüchern stehen. Aber ich glaube daran, dass ihr es schaffen werdet. Denn ihr habt es bereits getan. Gestern habt ihr das Unmögliche vollbracht – ihr habt überlebt.“
-Spontaner Applaus brach aus, doch sie unterband ihn mit einer Geste.
-„Und noch eines zum Schluss. Jeder von euch hat Angehörige. Freunde. Menschen, die um euch bangen. Ich möchte, dass ihr wisst, dass ich die Verantwortung für sie übernehme. Medikamente, Vorräte, Sicherheit – für alles wird gesorgt sein. Ihr kümmert euch um die Schiffe. Ich kümmere mich um euch.“
-Als die Leute gegangen waren, blieb Rami für einen Moment allein auf der Plattform zurück. Das Adrenalin der Schlacht war verflogen, und die Müdigkeit, die an seine Stelle trat, war nicht physischer Natur. Sie fühlte sich schwerer an als die Schwerkraft, drang tief in ihre Knochen ein. Doch darunter pulsierte etwas Neues. Ein Gefühl, gleichzeitig zerbrechlich und scharf wie eine geschliffene Klinge.
-Gestern war ich eine Strategin, dachte sie. Heute muss ich eine Anführerin sein. Der Unterschied liegt nicht im Titel. Der Unterschied liegt in der Art, wie sie mich ansehen, und in meinem unbändigen Willen, sie nicht im Stich zu lassen.
+Pause. Einer der Techniker hinter ihm stieß hörbar den Atem aus.
+„Wir werden es machen“, beschloss Taniguchi knapp.
+Die Arbeit begann auf der Stelle. Rami blieb noch zwei Stunden in den Hangars; ihre Anwesenheit war erforderlich. Sie beobachtete, wie das Zögern in Konzentration überging, wie sich die Teams selbst organisierten, wie die Hände, die noch vor kurzem kraftlos herabgehangen hatten, nun die Werkzeuge mit einem klaren Ziel umklammerten.
+Das war das Einzige, was sie ihnen geben konnte. Einen Sinn. Etwas, wofür es sich lohnte, weiterzumachen.
+Später versammelte sie die Teamleiter in der Zentralsektion. Der holografische Projektor projizierte einen unbarmherzigen Wiederaufbauplan – Zeitpläne, Ressourcen, Prioritäten. Die Zahlen ließen keinen Raum für Illusionen, und das war jedem im Saal bewusst.
+„Ich werde offen sein“, sagte sie schließlich. „Das, was ich von Ihnen verlange, bewegt sich an der Grenze des Machbaren. Zwölf-Stunden-Schichten. Ständige Improvisation. Das Lösen von Problemen, die in keinem Lehrbuch stehen. Aber ich glaube daran, dass Sie es schaffen werden. Denn Sie haben es bereits getan. Gestern haben Sie das Unmögliche vollbracht – Sie haben überlebt.“
+Spontaner Applaus brandete auf, doch sie gebot ihm mit einer Geste Einhalt.
+„Und noch ein Letztes. Jeder von Ihnen hat Angehörige. Freunde. Menschen, die um ihn bangen. Ich übernehme persönlich die Fürsorge für sie. Medikamente, Proviant, Sicherheit – für alles wird gesorgt sein. Sie kümmern sich um die Schiffe. Ich kümmere mich um Sie.“
+Als die Leute auseinandergingen, blieb Rami allein auf der Plattform zurück. Das Adrenalin der Schlacht hatte sich verflüchtigt, und die Erschöpfung, die dessen Platz eingenommen hatte, war nicht physischer Natur. Sie fühlte sich erdrückender an als die Schwerkraft und war tief in ihre Knochen gedrungen. Doch darunter pulsierte etwas Neues. Ein Gefühl, das zugleich zerbrechlich und scharf wie eine geschliffene Klinge war.
+Gestern noch hatte sie Strategien entworfen. Heute flößte sie ihnen Willenskraft ein. Der Unterschied lag in der Art und Weise, wie man sie ansah, und in ihrer eigenen Bereitschaft, sie nicht zu verraten.
 
 * * *
 
-Die Brücke der „Aufgehenden Sonne“ lag im bläulichen Schimmer der Monitore. Die Sichtfenster offenbarten den Abgrund – eine schwarze Leere, übersät mit Sternen und den Trümmern des Gefechts. Zwischen den Wrackteilen manövrierten noch immer Rettungsshuttles; ihre Lichter blinkten in einem langsamen, ersterbenden Rhythmus.
-Rami trat an das Glas. Ihr blasses Spiegelbild blickte ihr entgegen – mit dunklen Ringen unter den Augen und Lippen, die zu einem schmalen Strich zusammengepresst waren. Von jener Prinzessin, die sie noch vor sechs Monaten gewesen war, fehlte jede Spur.
-Ist das vielleicht besser so?
-Kenjiro tauchte neben ihr auf, geräuschlos wie ein Schatten. Er hatte seinen Verband gewechselt – auf der Gaze zeichneten sich keine Blutflecken mehr ab.
+Die Brücke der „Aufgehenden Sonne“ war in den bläulichen Schimmer der Monitore getaucht. Die Bullaugen gaben den Blick auf den Abgrund frei – eine schwarze Leere, übersät mit Sternen und den Überresten des Gefechts. Zwischen den Trümmern manövrierten noch immer Rettungsshuttles; ihre Lichter blinkten in einem langsamen, ersterbenden Rhythmus.
+Rami trat an das Glas heran. Ihr blasses Spiegelbild begrüßte sie mit Schatten unter den Augen und zu einem schmalen Strich zusammengepressten Lippen. Von der Prinzessin, die sie noch vor sechs Monaten gewesen war, war keine Spur mehr geblieben.
+War das zum Guten?
+Kenjiro tauchte geräuschlos neben ihr auf. Er hatte seinen Verband gewechselt – auf der Gaze waren keine Blutflecken mehr zu sehen.
 „Wie fühlst du dich?“, fragte er.
-Ihr Blick folgte den metallenen Skeletten der Schiffe, die langsam in der Schwerelosigkeit trieben.
-„Müde. Verängstigt.“ Es trat Stille ein. „Aber auch bereit.“
-„Koriyama wird zurückkehren“, sagte Kenjiro leise.
-Es war keine Warnung, sondern eine Feststellung – trocken und präzise wie ein technischer Schadensbericht.
+Sie verfolgte mit dem Blick die Metallskelette der Schiffe, die langsam in der Schwerelosigkeit trieben.
+„Müde. Verängstigt.“ Stille kehrte ein. „Aber auch bereit.“
+„Koriyama wird zurückkehren“, sprach Kenjiro leise.
+Es klang wie eine Feststellung, trocken und präzise wie ein technischer Schadensbericht.
 „Ich weiß.“
-Rami wandte sich vom Sichtfenster ab und straffte die Schultern, obwohl jede einzelne Muskelfaser dagegen protestierte. Ihr Blick nahm eine stählerne Härte an.
-„Aber zuvor müssen wir eine andere Schlacht schlagen.“ Sie schritt entschlossen los, und ihre Schritte hallten auf dem Metallboden wider. „Kenjiro, bereite das Shuttle für die Hauptstadt vor. Der Rat erwartet uns.“
-Hinter ihrem Rücken, jenseits des dicken Glases, blinkten die Lichter der Rettungsteams unentwegt weiter. Rami jedoch blickte nicht zurück.
- 
-KAPITEL 2
-
-Der Saal des Imperialen Rates roch nach altem Holz und gefilterter Atmosphäre. Die hohen Gewölbe versanken in der Dunkelheit, während massive Säulen aus schwarzem Marmor die polierten Bodenplatten mit dichten Schatten durchschnitten. An den Wänden ergossen holografische Schnittstellen stumme Datenströme – Namenslisten, Analysen von Strukturschäden, Statistiken, die menschliche Tragödien in trockene Verwaltungseinheiten verwandelten.
-Rami erinnerte sich daran, wie sie noch vor einer Stunde gelebt hatten. Leutnant Takeo in seinem Stasisfeld. Commander Hoshino mit der regenerierten Gesichtshaut. Unterleutnant Haruki Koda, der geschworen hatte, hausgemachte Ramen zu kochen. Hier waren sie lediglich rot markierte Zeilen in einer Tabelle.
-Sie stand in der Mitte des Saals. Dutzende Blicke bohrten sich in ihren Rücken. Neben ihr nahmen Kenjiro und Akira Positionen ein, die zwar zeremoniell wirkten, jedoch einem strengen taktischen Protokoll folgten – nah genug für eine Reaktion, aber weit genug entfernt, um die Etikette zu wahren. Sie hatte soeben ihren Bericht über die Schlacht von Yamato beendet, und ihre Worte schwebten noch immer im Raum – scharf, bitter und unmöglich zurückzunehmen.
-Ich war zu offen, dachte sie. In der Politik ist Ehrlichkeit eine teure Waffe – mächtig, aber mit einem gefährlichen Rückstoß.
-Sie hatte den Sieg ungeschönt präsentiert – entscheidend, aber blutig. Sie hatte die Verluste nicht verschwiegen, da die Zahlen ohnehin bekannt waren. Doch nun, während sie die versteinerten Gesichter der Räte beobachtete, begriff sie: Für sie war die Wahrheit lediglich eine Unannehmlichkeit.
-General Misotishi erhob sich langsam, mit der kalkulierten Leichtigkeit eines Mannes, der genau weiß, wo er zuschlagen muss. Rami verdächtigte ihn schon lange seiner Verbindungen zum Shogun, auch wenn ihr die Beweise fehlten. Jetzt jedoch verriet ihn seine Körpersprache. Statt einer Felduniform trug er prunkvolle Gewänder – dunkelblaue Seide mit Goldfäden, die im Kontrast zu ihrer staubigen, abgenutzten Ausrüstung standen. Sein Gesicht strahlte Ruhe und eine trügerische staatsmännische Würde aus.
-Er hat sich auf diese Schlacht vorbereitet, erkannte sie und verschränkte die Hände hinter dem Rücken, um ihr erschöpfungsbedingtes Zittern zu verbergen. Während ich draußen gegen die Feinde kämpfte, hat er hier seine Klinge gewetzt.
-Misotishi verbeugte sich tief vor Kaiser Kenshin, der reglos auf dem Thron saß. Die Macht hatte sichtbare Spuren im Gesicht des jungen Herrschers hinterlassen. Seine Augen blieben tiefgründig und aufmerksam – die Augen eines Mannes, der gelernt hatte, nicht nur die Worte zu hören, sondern auch das Schweigen dazwischen.
-„Eure Majestät, werte Mitglieder des Rates“, begann Misotishi, und seine Stimme hallte in der Akustik des Saals wider. „Wir alle hegen Bewunderung für die Tapferkeit von Prinzessin Rami. Ihr Mut ist legendär, ihre Hingabe an das Imperium – unbestreitbar.“
-Er legte eine Pause ein, um seinen Worten Gewicht zu verleihen. Rami spürte, wie sich ihre Muskeln anspannten.
-„Aber Tapferkeit, meine Herren, wenn sie nicht von Weisheit und Erfahrung geleitet wird, hört auf, eine Tugend zu sein. Sie verwandelt sich in... Leichtsinn.“
-Das Echo des letzten Wortes verklang langsam an den Wänden. Einige Räte tauschten Blicke aus. Im Saal veränderte sich etwas – unsichtbar, aber spürbar, wie ein abrupter Anstieg des atmosphärischen Drucks.
-Misotishi wies auf die Bildschirme.
-„Betrachten Sie diese Daten, werte Räte. Nehmen Sie sie nicht als bloße Statistik wahr. Jeder dieser Namen ist ein Sohn, ein Vater, ein Ehemann. Jedes zerstörte Schiff war ein Zuhause für Hunderte von Seelen. Ein Zuhause, das zu Sternenstaub zerfiel.“
-Er aktivierte das Terminal. Die Daten wurden in die Mitte des Saals projiziert – dreidimensionale Grafiken, welche die Verluste mit schmerzhafter Klarheit offenbarten.
-„Die Flotte der Prinzessin hat dreiundachtzig Prozent Verluste erlitten. Von fünfzehn Schiffen überlebten nur drei, und das mit schweren Schäden. Von sechstausend Mann fielen viertausendzweihundert. Das, meine Herren, ist kein Sieg. Das ist eine Katastrophe, die glimpflich ausging.“
-Rami hörte zu, und jedes Wort bohrte sich in sie. Es waren meine Leute. Ich habe sie geführt. Ich habe sie verloren. Doch gleichzeitig kannte sie die Wahrheit – ohne diese Katastrophe hätte die feindliche Flotte das Herz des Imperiums erreicht.
-„Die Prinzessin behauptet, dass der Sieg lebenswichtig war“, fuhr Misotishi fort, und sein Ton wurde immer rauer. „Ich stelle die Mission nicht infrage. Aber die Methoden... die Methoden erregen ernsthafte Besorgnis. Sie warf eine ganze Flotte gegen einen überlegenen Gegner und verließ sich auf Improvisation und unkonventionelle Taktiken, die die Grundlagen unserer Militärdoktrin untergraben.“
-Er schaltete die Projektion ab und wandte sich direkt an den Rat.
-„Eine Militärdoktrin ist kein Produkt einer Laune. Sie wurde durch Jahrhunderte an Erfahrung und Tausende von Schlachten geschmiedet. Wenn wir anfangen, in kritischen Momenten zu improvisieren, wenn wir auf den Zufall statt auf Strategie setzen, stellen wir die Fundamente unserer Macht selbst infrage.“
-Lady Mo Sukawa, die in ihrem weißen Seidenkleid neben ihm saß, lächelte. Ihr Lächeln war makellos und vollkommen leer.
-„Jugendlicher Enthusiasmus besaß schon immer einen gewissen Charme“, drang ihre Stimme in jeden Winkel des Saals. „In Friedenszeiten inspiriert er. Aber wenn es um das Leben von Tausenden Soldaten geht, um das Schicksal ganzer Sternensysteme... sollten wir vielleicht auf die Erfahrung vertrauen und nicht auf die Impulsivität.“
-Ihre mit exquisiter Höflichkeit ausgesprochenen Worte klangen beinahe wie ein Kompliment. Doch jeder im Saal verstand den Untertext: Rami ist zu jung. Zu unerfahren. Zu gefährlich.
-Rami ballte die Hände hinter dem Rücken zu Fäusten, bis sich ihre Nägel in die Handflächen bohrten. Dann löste sie langsam die Finger.
-Sie sprachen über ihre Leute. Über ihre Schlacht. Aber nicht sie hatte ihre Untergebenen in Zahlen verwandelt – das hatten diese Leute getan.
-Das Gesicht von Kapitän Motozawa tauchte vor ihr auf, genau in dem Moment, als ein feindliches Plasmatorpedo sein Schiff in zwei Hälften schnitt. Die Stimme von Commander Suzuki in seiner letzten Nachricht, bevor der Sender im statischen Rauschen ertrank. Das waren keine statistischen Einheiten. Es waren Männer und Frauen, die ihr gefolgt waren und bei der Verteidigung von allem Wertvollen ihr Leben gelassen hatten.
-Rami trat vor. Anstatt ihren Platz hinter dem Podium einzunehmen, wie es das Protokoll verlangte, schritt sie langsam an dem Halbkreis der Ratssessel entlang. Dieses Manöver überraschte den Saal; Dutzende Blicke schnellten ihr nach.
-„Meine unkonventionellen Methoden, General Misotishi“, klang ihre Stimme ebenmäßig, während sie sich weigerte, ihn anzusehen, „waren der einzige Grund, warum wir gesiegt haben. Ihre jahrhundertealte Militärdoktrin hätte uns der völligen Auslöschung durch einen Feind preisgegeben, der uns nicht nur zahlenmäßig, sondern auch technologisch überlegen ist.“
-Sie blieb neben dem Sessel von Daimyo Nagata stehen. Der alte Heerführer beobachtete sie unter schweren Lidern, ohne jedoch auch nur mit der Wimper zu zucken. Rami wandte sich dem Saal zu und wies auf die Bildschirme hinter sich.
-„Ja, der Preis ist hoch. Jede verlorene Seele lastet auf meinem Gewissen.“ Ihr Ton blieb leise, abgewogen. „Aber erlauben Sie mir die Frage: Was ist die Alternative? Wenn die feindliche Flotte unsere Linien durchbrochen hätte, wenn sie Kyoto, Nara oder gar die Hauptstadt erreicht hätte – wie hoch wären die Opferzahlen dann gewesen?“
-Sie setzte ihren Gang fort. Sie passierte Lady Sukawa, deren Blick Rami mit der Präzision eines Zielerfassungssystems folgte.
-„Jedes Opfer in dieser Schlacht hat die Invasion von drei Welten verhindert. Menschen sind gestorben, um Familien zu beschützen, die niemals ihre Namen erfahren werden. Sie sprechen von Vorsicht. Was bedeutet Vorsicht, wenn der Feind bereits vor Ihren Toren steht?“
-Daimyo Nagata lehnte sich vor. Neben ihm nickte Daimyo Watanabe – jünger und mit dem Ruf eines kaltblütigen Strategen – kaum merklich. Viele jedoch bewahrten eisiges Schweigen. Ihre Gesichter verrieten Zweifel, vergiftet durch Misotishis berechnende Rhetorik.
-Hier ist er in seinem Element, gestand sich Rami ein. In diesem Saal schneiden Worte tiefer als Schwerter. Und er beherrscht sie in Perfektion.
-Misotishi lächelte – die Geste wirkte derart einstudiert, als hätte er sie vor einem Spiegel geprobt.
-„Sentimentalitäten sind ein schlechter Ratgeber im Krieg, Prinzessin“, erklärte er. „Auch ich sorge mich um das Imperium. Auch ich akzeptiere die Notwendigkeit von Opfern. Es gibt jedoch einen Unterschied zwischen einem strategischen Risiko und der rücksichtslosen Verschwendung von Ressourcen.“
-Er aktivierte den holografischen Tisch. Ein dreidimensionales Modell erschien – ein komplexes Netzwerk aus Fortifikationen, befestigten Stützpunkten und Patrouillenvektoren.
-„Hier ist mein Vorschlag. Anstatt unsere Flotten in eine Offensive zu werfen, werden wir einen undurchdringlichen Verteidigungsperimeter errichten. Wir werden uns an den strategischen Knotenpunkten verschanzen und den Feind zwingen, in unsere Einflusssphäre einzudringen, wo der Vorteil auf unserer Seite liegt.“
-Der Plan wirkte makellos – logisch, systematisch, detailliert gegliedert.
-„Dieser Ansatz wird den Gegner auslaugen, anstatt uns in Frontalzusammenstöße zu verwickeln. Wir werden unsere Streitkräfte schonen. Wir werden Zeit gewinnen, damit unsere Produktionskapazitäten neue Schiffe konstruieren und neue Kader ausbilden können.“
-Rami hörte ihm zu und verspürte für einen Moment heftiges Zögern. Seine Worte klangen vernünftig. Solide. Sicher. Vielleicht gibt es tatsächlich einen besseren Weg. Vielleicht bin ich zu...
-Misotishi wandte sich an den Rat.
-„Der Weg der Prinzessin führt zu neuem Blutvergießen, zu Ruin und Tod, der sich als vergebens erweisen könnte. Mein Weg verspricht Frieden, Stabilität und eine Zukunft, in der wir nicht bei jeder errungenen Position Tausende Gefallene beklagen müssen.“
-Rami blieb stehen.
-Sie stand am Rand des holografischen Tisches, und das bläuliche Leuchten der Projektion schnitt ihr Gesicht in Licht und Schatten. Sie betrachtete Misotishis Verteidigungslinien – diese sauberen, perfekten, geometrischen Grenzen – und sah darin etwas, das die anderen übersahen.
-Sie sah einen Käfig.
-Lass nicht zu, dass sie unseren Tod für ihre Spiele nutzen, hallten die Worte von Kapitän Yoshida in ihrem Bewusstsein wider, gesprochen Stunden bevor sein Schiff zu kosmischem Staub zerfiel.
-Rami drehte sich abrupt um und sprach, bevor der Zweifel sie lähmen konnte.
-„Ihr Plan klingt brillant, General.“
-Sie fuhr mit den Fingern am Rand des Tisches entlang – langsam, beinahe nachdenklich.
-„Äußerst logisch. Äußerst rational. Aber er baut auf einem fatalen Fehler auf.“
-„Und der wäre?“, fragte Misotishi. Sein Ton war herablassend, doch die Finger seiner rechten Hand ballten sich zu einer kaum merklichen Faust.
-Sie lächelte.
-„Sie gehen davon aus, dass der Feind draußen ist.“
-Totenstille senkte sich über den Saal. Das einzige Geräusch war das leise Summen der Kühlsysteme unter der Decke.
-„Ihr Projekt ist ideal zur Abwehr äußerer Aggression“, fuhr sie fort, während sie dieses Mal unbeweglich vor den Räten stand. Ihre Stimme zitterte nicht – das war keine Rede, sondern die Feststellung einer Tatsache. „Aber was, wenn die größte Bedrohung sich bereits innerhalb unserer eigenen Mauern befindet? Was, wenn dieser Krieg nicht nur gegen einen äußeren Okkupanten geführt, sondern von hier aus genährt wird? Von Menschen, die die Maske loyaler Untertanen tragen, während sie methodisch den Untergang des Imperiums vorbereiten?“
-Sie legte keine Beweise vor. Sie nannte keine Namen. Aber ihr Blick zerschnitt Misotishi und glitt weiter – langsam, abschätzend – über die Gesichter aller Anwesenden. Die Andeutung war kristallklar. Und jeder spürte sie.
-Ein Schatten der Unsicherheit durchzog den Saal. Mehrere Räte rutschten unruhig hin und her. Das Lächeln von Lady Sukawa zuckte nicht, aber ihre Augen verengten sich zu schmalen Schlitzen.
-Misotishi blieb unbeweglich. Lediglich ein Muskel an seiner Wange zuckte kaum sichtbar.
-„Das sind... außerordentlich schwere Anschuldigungen, Prinzessin“, sagte er. Seine Stimme bewahrte die Ruhe, doch sein Kiefer spannte sich zu einer harten Linie. „Anschuldigungen, die durch keinerlei Beweise untermauert sind.“
-„Tatsächlich?“ Rami legte den Kopf schief. „Vielleicht ist es an der Zeit, uns nicht nur zu fragen, wie wir unsere Feinde bekämpfen, sondern auch, warum wir es tun. Vielleicht müssen wir über das Sichtbare hinausblicken. Es ist möglich, dass die wahre Schlacht nicht um Planeten und Systeme gefochten wird, sondern um die eigentliche Essenz des Imperiums.“
-Sie verstummte. Das monotone Summen der Kühlmodule füllte die Stille.
-„Vielleicht gibt es Menschen, die aus diesem Krieg Profit schlagen. Persönlichkeiten, für die Frieden eine Bedrohung darstellt und Konflikt eine Chance.“
-Rami blickte zum Thron. Kaiser Kenshin saß unbeweglich da, doch sein Blick war konzentriert – er verfolgte jedes Wort, jede Geste, jedes Zucken im Saal.
-Der Kaiser erhob sich. Seine Bewegungen waren langsam, getragen von einer gebieterischen Haltung, die über Jahrzehnte geformt worden war. Als er das Wort ergriff, verstummte der Lärm im Saal augenblicklich.
-„Genug.“
-Das Wort hallte wie ein Schlag auf Metall.
-„Prinzessin Rami hat einen strategischen Sieg errungen, der den Vormarsch des Feindes in einem kritischen Moment gestoppt hat. Dafür verdient sie unsere Dankbarkeit.“
-Er richtete seinen Blick auf sie. Für einen Moment las Rami in seinen Augen mehr als nur Zustimmung – es war eine Warnung. Sei vorsichtig, besagte sein Ausdruck. Du hast das Recht anzugreifen, aber wenn du deine Worte nicht beweisen kannst, wirst du verschlungen werden.
-„Gleichzeitig sind die Bedenken von General Misotishi über den Preis dieses Sieges berechtigt. Wir dürfen das Leben unserer Soldaten nicht leichtfertig aufs Spiel setzen, unabhängig vom Ausmaß der Ziele.“
-Er wandte sich an den gesamten Rat, und seine Stimme nahm einen stählernen Klang an:
-„Was die weitreichenderen Fragen betrifft, die in dieser Auseinandersetzung aufgeworfen wurden – sie erfordern eine präzise Untersuchung und Analyse. Ich werde mich mit meinen militärischen Beratern und den Geheimdiensten beraten. Die Entscheidung über unsere zukünftige Strategie wird nach einer gründlichen Prüfung aller Faktoren getroffen.“ Er wartete einen Moment. „Ich erwarte von allen, dass sie ihre Pflichten weiterhin mit voller Loyalität erfüllen.“
-Mit einer scharfen Handbewegung löste er die Ratsversammlung auf.
-Die Räte begannen sich von ihren Plätzen zu erheben – langsam, mit Mühe, als tauchten sie aus tiefem Wasser auf. Sofort verbreitete sich ein Flüstern, doch es war gedämpft und vorsichtig. Niemand wollte von unerwünschten Ohren gehört werden.
-Rami und Misotishi blieben unbeweglich und starrten sich über den leeren Raum hinweg an. Um sie herum gingen Gestalten mit gesenkten Köpfen vorbei, doch der Abstand zwischen ihnen schien elektrisiert, genau wie die Lücke zwischen zwei Elektroden.
-Im Blick des Generals spiegelte sich etwas wider, das sie schon einmal gesehen hatte – in den Augen von Koriyama, als die Schilde seines Flaggschiffs kollabierten. Kalter, offener Hass. Aber da war noch etwas anderes – eine kühle Berechnung. Misotishi empfand keine Angst. Er war überrascht. Und das war gefährlich, denn es bedeutete, dass er sie unterschätzt hatte und diesen Fehler kein zweites Mal begehen würde.
-Rami wandte den Blick nicht ab. Sie hielt seinem Druck Sekunde um Sekunde stand, bis der General schließlich kaum merklich nickte – eine Geste, die als Respekt durchgehen konnte, eher jedoch ein Versprechen auf Rache war. Er drehte sich abrupt um und ging.
-Lady Sukawa folgte ihm. Die weiße Seide ihres Kleides raschelte über die Bodenplatten, und ihr Parfüm hinterließ eine Spur – süßlich, schwer, erstickend.
-Rami wartete, bis der Saal sich geleert hatte. Sie holte tief Luft, doch das brachte keine Erleichterung. Das Adrenalin, das sie während der Debatte aufrechterhalten hatte, sickerte davon und hinterließ eine eisige Erkenntnis – sie hatte nicht gewonnen. Nicht ganz. Sie hatte Zweifel gesät, aber das war ein Same, der langsam keimte, und die Zeit lief ihnen davon.
-„Prinzessin.“
-Kenjiro stand drei Schritte hinter ihr. Seine Hand ruhte auf dem Griff seines Katanas – eine Gewohnheit, die so tief verwurzelt war, dass sie ihn wahrscheinlich nicht einmal im Schlaf verließ. Sein Gesicht blieb ausdruckslos.
-„Sprich“, sagte Rami.
-„Misotishi war nicht beunruhigt. Das bedeutet, dass er über Unterstützung außerhalb dieses Saals verfügt.“
-„Ich weiß.“
-Akira näherte sich von der anderen Seite. Er vergrub die Hände tief in den Taschen seines schmutzigen Overalls – er war der Einzige im Saal, der seine Arbeitskleidung nicht gewechselt hatte. Auf seiner Wange befand sich ein Rußstreifen, den er vergessen hatte abzuwischen.
-„Du brauchst Beweise, Rami“, sagte er leise und sprach sie direkt an, wie immer, wenn sie unter sich waren. „Die Rede war stark. Aber Worte ohne Fakten sind nur Lärm.“
-„Auch das weiß ich.“
-Sie ging auf den Ausgang zu, und ihre Schritte hallten auf dem polierten Boden wider. Kenjiro und Akira schritten neben ihr her. Die Mauer und die Klinge.
-Die massiven Türflügel schlossen sich mit einem dumpfen Grollen hinter ihnen.
-Auf dem Korridor war die Luft kühler und roch nach Metall und ionisiertem Staub. Das gedämpfte Licht der Wandpaneele warf gleichmäßige Schatten. Rami ging schnell – nicht weil sie in Eile war, sondern weil sie wusste, dass die Erschöpfung sie übermannen würde, sobald sie ihr Tempo drosselte.
-„Koriyama ist sich bewusst, dass wir Verbündete im Rat haben“, sagte sie, ohne sich umzudrehen. „Aber wir wissen auch von seinen Agenten hier. Die Karten liegen auf dem Tisch. Der nächste Zug muss unser sein.“
-„Welcher genau?“, fragte Akira.
-Rami blieb stehen. Sie drehte sich um und sah sie an – Kenjiro mit der Hand auf dem Schwert, Akira mit den Händen in den Taschen. Der Soldat und der Ingenieur. Die Waffe und der Verstand.
-„Misotishi ist nur ein Symptom“, erklärte sie. „Koriyama ist die Krankheit. Wenn wir weiterhin nur die Symptome behandeln, werden wir verlieren. Wir brauchen einen Schlag direkt ins Zentrum. Etwas, das er weder leugnen noch verbergen kann.“
-„Die Wahrheit“, sagte Kenjiro.
-„Die Wahrheit“, bestätigte Rami. „Die tödlichste Waffe, über die wir verfügen.“
-Sie ging den Korridor weiter. Hinter ihr schwelte das politische Feuer im Saal weiter. Vor ihr zeichneten sich die Umrisse der Zukunft bereits in der Dunkelheit ab. Etwas rückte näher. Etwas, das alles verändern würde.
-Sie musste es finden, bevor sich die Schlinge um ihren Hals endgültig zuzog.
+Rami trat von dem Bullauge zurück und straffte die Schultern, obwohl sich jede Muskelfaser dagegen sträubte. Ihr Blick wurde stählern.
+„Aber zuvor müssen wir eine andere Schlacht schlagen.“ Sie schritt entschlossen los, und ihre Schritte hallten auf dem Metallboden wider. „Kenjiro, bereite das Shuttle für den Flug zur Hauptstadt vor. Der Rat erwartet uns.“
+Hinter ihr, jenseits des dicken Glases, blinkten die Lichter der Rettungsteams weiterhin. Rami sah jedoch nicht zurück.
