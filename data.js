@@ -1262,6 +1262,61 @@ const authorData = {
                     ]
                 },
                 {
+                    "id": "the-regent",
+                    "i18n": {
+                        "bg": {
+                            "title": "Регент",
+                            "genre": "military sci-fi",
+                            "cover": "images/bg/The-Regent-BG.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
+                                "image": "",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/bg/the-regent.txt",
+                            "excerpt": "books/bg/the-regent.md"
+                        },
+                        "en": {
+                            "title": "The Regent",
+                            "genre": "military sci-fi",
+                            "cover": "images/en/The-Regent-EN.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "image": "",
+                                "senderFormId": "erkDWw"
+                            },
+                            "synopsis": "synopsis/en/the-regent.txt",
+                            "excerpt": "books/en/the-regent.md"
+                        },
+                        "de": {
+                            "title": "Die Regentin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/Die_Regentin-DE.webp",
+                            "synopsis": "synopsis/de/the-regent.txt",
+                            "excerpt": "books/de/the-regent.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0GSFKF2M1"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/mZG11y"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/4XqRZ5"
+                        }
+                    ]
+                },
+                {
                     "id": "the-heiress",
                     "i18n": {
                         "bg": {
@@ -1319,61 +1374,6 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "BG",
                             "url": "https://books2read.com/u/38jxEO"
-                        }
-                    ]
-                },
-                {
-                    "id": "the-regent",
-                    "i18n": {
-                        "bg": {
-                            "title": "Регент",
-                            "genre": "military sci-fi",
-                            "cover": "images/bg/The-Regent-BG.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
-                                "image": "",
-                                "senderFormId": "bDkjAn"
-                            },
-                            "synopsis": "synopsis/bg/the-regent.txt",
-                            "excerpt": "books/bg/the-regent.md"
-                        },
-                        "en": {
-                            "title": "The Regent",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The-Regent-EN.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "synopsis": "synopsis/en/the-regent.txt",
-                            "excerpt": "books/en/the-regent.md"
-                        },
-                        "de": {
-                            "title": "Die Regentin",
-                            "genre": "military sci-fi",
-                            "cover": "images/de/Die_Regentin-DE.webp",
-                            "synopsis": "synopsis/de/the-regent.txt",
-                            "excerpt": "books/de/the-regent.md"
-                        }
-                    },
-                    "links": [
-                        {
-                            "platform": "Amazon",
-                            "lang": "EN",
-                            "url": "https://www.amazon.com/dp/B0GSFKF2M1"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "EN",
-                            "url": "https://books2read.com/u/mZG11y"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "BG",
-                            "url": "https://books2read.com/u/4XqRZ5"
                         }
                     ]
                 }
