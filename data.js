@@ -1214,6 +1214,95 @@ const authorData = {
         {
             "books": [
                 {
+                    "id": "the-empress",
+                    "i18n": {
+                        "bg": {
+                            "title": "Императрица",
+                            "genre": "military sci-fi",
+                            "cover": "images/bg/The_Empress-BG.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
+                                "image": "",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/bg/the-empress.txt",
+                            "excerpt": "books/bg/the-empress.md"
+                        },
+                        "en": {
+                            "title": "The Empress",
+                            "genre": "military sci-fi",
+                            "cover": "images/en/The_Empress-EN.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "image": "",
+                                "senderFormId": "erkDWw"
+                            },
+                            "synopsis": "synopsis/en/the-empress.txt",
+                            "excerpt": "books/en/the-empress.md"
+                        },
+                        "de": {
+                            "title": "Die Kaiserin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/Die-Kaiserin-DE.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
+                                "image": "",
+                                "senderFormId": "bkR1Xv"
+                            },
+                            "synopsis": "synopsis/de/the-empress.txt",
+                            "excerpt": "books/de/the-empress.md"
+                        },
+                        "nl": {
+                            "title": "De Keizerin",
+                            "genre": "military sci-fi",
+                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "synopsis": "synopsis/nl/the-empress.txt",
+                            "excerpt": "books/nl/the-empress.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/b5AeoA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0HBSV154M"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/mVMQrM"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/m0RMoW"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/3Gyxk8"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.de/dp/B0HDP7X4LN"
+                        }
+                    ]
+                },
+                {
                     "id": "the-heiress",
                     "i18n": {
                         "bg": {
@@ -1294,85 +1383,16 @@ const authorData = {
                             "platform": "Amazon",
                             "lang": "DE",
                             "url": "https://www.amazon.de/dp/B0FXR7FQ7N"
-                        }
-                    ]
-                },
-                {
-                    "id": "the-empress",
-                    "i18n": {
-                        "bg": {
-                            "title": "Императрица",
-                            "genre": "military sci-fi",
-                            "cover": "images/bg/The_Empress-BG.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
-                                "image": "",
-                                "senderFormId": "bDkjAn"
-                            },
-                            "synopsis": "synopsis/bg/the-empress.txt",
-                            "excerpt": "books/bg/the-empress.md"
                         },
-                        "en": {
-                            "title": "The Empress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Empress-EN.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "synopsis": "synopsis/en/the-empress.txt",
-                            "excerpt": "books/en/the-empress.md"
-                        },
-                        "de": {
-                            "title": "Die Kaiserin",
-                            "genre": "military sci-fi",
-                            "cover": "images/de/Die-Kaiserin-DE.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
-                                "image": "",
-                                "senderFormId": "bkR1Xv"
-                            },
-                            "synopsis": "synopsis/de/the-empress.txt",
-                            "excerpt": "books/de/the-empress.md"
-                        },
-                        "nl": {
-                            "title": "De Keizerin",
-                            "genre": "military sci-fi",
-                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "synopsis": "synopsis/nl/the-empress.txt",
-                            "excerpt": "books/nl/the-empress.md"
-                        }
-                    },
-                    "links": [
                         {
                             "platform": "Draft2Digital",
-                            "lang": "EN",
-                            "url": "https://books2read.com/u/b5AeoA"
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/4j8edj"
                         },
                         {
                             "platform": "Amazon",
-                            "lang": "EN",
-                            "url": "https://www.amazon.com/dp/B0HBSV154M"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "BG",
-                            "url": "https://books2read.com/u/mVMQrM"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "DE",
-                            "url": "https://books2read.com/u/m0RMoW"
+                            "lang": "NL",
+                            "url": "https://www.amazon.nl/dp/B0G4JWMZBR"
                         }
                     ]
                 },
@@ -1457,6 +1477,16 @@ const authorData = {
                             "platform": "Amazon",
                             "lang": "DE",
                             "url": "https://www.amazon.de/dp/B0GT1JF88J"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/m2OPAG"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.nl/dp/B0GTVX344M"
                         }
                     ]
                 }
