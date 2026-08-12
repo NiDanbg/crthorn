@@ -1,6 +1,6 @@
 const authorData = {
     "featured": [
-        "the-regent",
+        "stomaneno-sivo",
         "the-empress"
     ],
     "meta": {
