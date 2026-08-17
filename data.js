@@ -1268,6 +1268,19 @@ const authorData = {
                             "synopsis": "synopsis/fr/the-heiress.txt",
                             "excerpt": "books/fr/the-heiress.md"
                         },
+                        "it": {
+                            "title": "L'Erede",
+                            "genre": "military sci-fi",
+                            "cover": "images/it/LErede-IT.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "synopsis": "synopsis/it/the-heiress.txt",
+                            "excerpt": "books/it/the-heiress.md"
+                        },
                         "nl": {
                             "title": "De Erfgename",
                             "genre": "military sci-fi",
@@ -1385,6 +1398,19 @@ const authorData = {
                             "synopsis": "synopsis/fr/the-regent.txt",
                             "excerpt": "books/fr/the-regent.md"
                         },
+                        "it": {
+                            "title": "La Reggente",
+                            "genre": "military sci-fi",
+                            "cover": "images/it/La_Reggente-IT.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "synopsis": "synopsis/it/the-regent.txt",
+                            "excerpt": "books/it/the-regent.md"
+                        },
                         "nl": {
                             "title": "De Regentes",
                             "genre": "military sci-fi",
@@ -1501,6 +1527,19 @@ const authorData = {
                             },
                             "synopsis": "synopsis/fr/the-empress.txt",
                             "excerpt": "books/fr/the-empress.md"
+                        },
+                        "it": {
+                            "title": "L'Imperatrice",
+                            "genre": "military sci-fi",
+                            "cover": "images/it/LImperatrice-IT.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "synopsis": "synopsis/it/the-empress.txt",
+                            "excerpt": "books/it/the-empress.md"
                         },
                         "nl": {
                             "title": "De Keizerin",
