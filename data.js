@@ -280,415 +280,415 @@ const authorData = {
                     ]
                 },
                 {
-                    "id": "pazitelkata-na-briest",
                     "i18n": {
-                        "en": {
-                            "title": "The Guardian of Briest",
-                            "genre": "Epic Fantasy",
-                            "cover": "images/en/boria-2.webp",
-                            "synopsis": "synopsis/en/the-guardian-of-briest.txt",
-                            "excerpt": "books/en/the-guardian-of-briest.md"
-                        },
                         "de": {
-                            "title": "Die Wächterin von Briest",
-                            "genre": "Epische Fantasy",
                             "cover": "images/de/boria-2.webp",
-                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
-                            "excerpt": "books/de/die-waechterin-von-briest.md"
-                        },
-                        "fr": {
-                            "title": "La Gardienne de Briest",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/boria-2.webp",
-                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
-                            "excerpt": "books/fr/la-gardienne-de-briest.md"
-                        },
-                        "it": {
-                            "title": "La Guardiana di Briest",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/boria-2.webp",
-                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
-                            "excerpt": "books/it/la-guardiana-di-briest.md"
-                        },
-                        "nl": {
-                            "title": "De Bewaakster van Briest",
+                            "excerpt": "books/de/die-waechterin-von-briest.md",
                             "genre": "Epische Fantasy",
-                            "cover": "images/nl/boria-2.webp",
-                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
-                            "excerpt": "books/nl/de-bewaakster-van-briest.md"
+                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
+                            "title": "Die Wächterin von Briest"
+                        },
+                        "en": {
+                            "cover": "images/en/boria-2.webp",
+                            "excerpt": "books/en/the-guardian-of-briest.md",
+                            "genre": "Epic Fantasy",
+                            "synopsis": "synopsis/en/the-guardian-of-briest.txt",
+                            "title": "The Guardian of Briest"
                         },
                         "es": {
-                            "title": "La Guardiana de Briest",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/The_Guardian_of_Briest_EL-ES.webp",
+                            "excerpt": "books/es/pazitelkata-na-briest.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/pazitelkata-na-briest.txt",
-                            "excerpt": "books/es/pazitelkata-na-briest.md"
+                            "title": "La Guardiana de Briest"
+                        },
+                        "fr": {
+                            "cover": "images/fr/boria-2.webp",
+                            "excerpt": "books/fr/la-gardienne-de-briest.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
+                            "title": "La Gardienne de Briest"
+                        },
+                        "it": {
+                            "cover": "images/it/boria-2.webp",
+                            "excerpt": "books/it/la-guardiana-di-briest.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
+                            "title": "La Guardiana di Briest"
+                        },
+                        "nl": {
+                            "cover": "images/nl/boria-2.webp",
+                            "excerpt": "books/nl/de-bewaakster-van-briest.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
+                            "title": "De Bewaakster van Briest"
                         },
                         "pt": {
-                            "title": "A Guardiã de Briest",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/boria-2.webp",
+                            "excerpt": "books/pt/a-guardia-de-briest.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/a-guardia-de-briest.txt",
-                            "excerpt": "books/pt/a-guardia-de-briest.md"
+                            "title": "A Guardiã de Briest"
                         },
                         "se": {
-                            "title": "Väktaren av Briest",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/boria-2.webp",
+                            "excerpt": "books/se/vaktaren-av-briest.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/vaktaren-av-briest.txt",
-                            "excerpt": "books/se/vaktaren-av-briest.md"
+                            "title": "Väktaren av Briest"
                         }
                     },
+                    "id": "pazitelkata-na-briest",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bWaWjG"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSV469C2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRDw0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DT9PMY24"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3JdXJg"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DVZPBR7M"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3RkLyx"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTPFX93T"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRDW0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTZ4NJ7Q"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3L7YpM"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DWFNLPVF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdRqLW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G2S9VZ6S"
                         }
                     ]
                 },
                 {
-                    "id": "dva-svyata",
                     "i18n": {
-                        "en": {
-                            "title": "Two Worlds",
-                            "genre": "Epic Fantasy",
-                            "cover": "images/en/boria-3.webp",
-                            "synopsis": "synopsis/en/two-worlds.txt",
-                            "excerpt": "books/en/two-worlds.md"
-                        },
                         "de": {
-                            "title": "Zwei Welten",
-                            "genre": "Epische Fantasy",
                             "cover": "images/de/boria-3.webp",
-                            "synopsis": "synopsis/de/zwei-welten.txt",
-                            "excerpt": "books/de/zwei-welten.md"
-                        },
-                        "fr": {
-                            "title": "Deux Mondes",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/boria-3.webp",
-                            "synopsis": "synopsis/fr/deux-mondes.txt",
-                            "excerpt": "books/fr/deux-mondes.md"
-                        },
-                        "it": {
-                            "title": "Due Mondi",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/boria-3.webp",
-                            "synopsis": "synopsis/it/due-mondi.txt",
-                            "excerpt": "books/it/due-mondi.md"
-                        },
-                        "nl": {
-                            "title": "Twee Werelden",
+                            "excerpt": "books/de/zwei-welten.md",
                             "genre": "Epische Fantasy",
-                            "cover": "images/nl/boria-3.webp",
-                            "synopsis": "synopsis/nl/twee-werelden.txt",
-                            "excerpt": "books/nl/twee-werelden.md"
+                            "synopsis": "synopsis/de/zwei-welten.txt",
+                            "title": "Zwei Welten"
+                        },
+                        "en": {
+                            "cover": "images/en/boria-3.webp",
+                            "excerpt": "books/en/two-worlds.md",
+                            "genre": "Epic Fantasy",
+                            "synopsis": "synopsis/en/two-worlds.txt",
+                            "title": "Two Worlds"
                         },
                         "es": {
-                            "title": "Dos Mundos",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/Dos_mundos-_el-ES.webp",
+                            "excerpt": "books/es/dva-svyata.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/dva-svyata.txt",
-                            "excerpt": "books/es/dva-svyata.md"
+                            "title": "Dos Mundos"
+                        },
+                        "fr": {
+                            "cover": "images/fr/boria-3.webp",
+                            "excerpt": "books/fr/deux-mondes.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/deux-mondes.txt",
+                            "title": "Deux Mondes"
+                        },
+                        "it": {
+                            "cover": "images/it/boria-3.webp",
+                            "excerpt": "books/it/due-mondi.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/due-mondi.txt",
+                            "title": "Due Mondi"
+                        },
+                        "nl": {
+                            "cover": "images/nl/boria-3.webp",
+                            "excerpt": "books/nl/twee-werelden.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/twee-werelden.txt",
+                            "title": "Twee Werelden"
                         },
                         "pt": {
-                            "title": "Dois Mundos",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/boria-3.webp",
+                            "excerpt": "books/pt/dois-mundos.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/dois-mundos.txt",
-                            "excerpt": "books/pt/dois-mundos.md"
+                            "title": "Dois Mundos"
                         },
                         "se": {
-                            "title": "Två Världar",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/boria-3.webp",
+                            "excerpt": "books/se/tva-varldar.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/tva-varldar.txt",
-                            "excerpt": "books/se/tva-varldar.md"
+                            "title": "Två Världar"
                         }
                     },
+                    "id": "dva-svyata",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSR63R9B"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/m2DpL1"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DT11SLLJ"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3G0PXL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTDGVKK9"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVEnkM"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DW48943J"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4N0okY"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTSV83XD"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVEl0r"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DV5HGMYL"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mBWEdv"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FB98GQ1C"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3nj2XR"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G2SCMPPM"
                         }
                     ]
                 },
                 {
-                    "id": "princa-ot-iztok",
                     "i18n": {
-                        "en": {
-                            "title": "The Prince of the East",
-                            "genre": "Epic Fantasy",
-                            "cover": "images/en/the-prince-of-the-east-en.webp",
-                            "synopsis": "synopsis/en/the-prince-from-the-east.txt",
-                            "excerpt": "books/en/the-prince-from-the-east.md"
-                        },
                         "de": {
-                            "title": "Der Prinz aus dem Osten",
-                            "genre": "Epische Fantasy",
                             "cover": "images/de/der-prinz-aus-dem-osten.webp",
-                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
-                            "excerpt": "books/de/der-prinz-aus-dem-osten.md"
-                        },
-                        "fr": {
-                            "title": "Le Prince de l'Est",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/le-prince-de-lest.webp",
-                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
-                            "excerpt": "books/fr/le-prince-de-lest.md"
-                        },
-                        "it": {
-                            "title": "Il Principe dell'Est",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/il-principe-dellest.webp",
-                            "synopsis": "synopsis/it/il-principe-dellest.txt",
-                            "excerpt": "books/it/il-principe-dellest.md"
-                        },
-                        "nl": {
-                            "title": "De Prins uit het Oosten",
+                            "excerpt": "books/de/der-prinz-aus-dem-osten.md",
                             "genre": "Epische Fantasy",
-                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
-                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
-                            "excerpt": "books/nl/de-prins-uit-het-oosten.md"
+                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
+                            "title": "Der Prinz aus dem Osten"
+                        },
+                        "en": {
+                            "cover": "images/en/the-prince-of-the-east-en.webp",
+                            "excerpt": "books/en/the-prince-from-the-east.md",
+                            "genre": "Epic Fantasy",
+                            "synopsis": "synopsis/en/the-prince-from-the-east.txt",
+                            "title": "The Prince of the East"
                         },
                         "es": {
-                            "title": "El Príncipe del Este",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/Cover-EL_PRINCIPE_DEL_ESTE-el-ES.webp",
+                            "excerpt": "books/es/princa-ot-iztok.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/princa-ot-iztok.txt",
-                            "excerpt": "books/es/princa-ot-iztok.md"
+                            "title": "El Príncipe del Este"
+                        },
+                        "fr": {
+                            "cover": "images/fr/le-prince-de-lest.webp",
+                            "excerpt": "books/fr/le-prince-de-lest.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
+                            "title": "Le Prince de l'Est"
+                        },
+                        "it": {
+                            "cover": "images/it/il-principe-dellest.webp",
+                            "excerpt": "books/it/il-principe-dellest.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/il-principe-dellest.txt",
+                            "title": "Il Principe dell'Est"
+                        },
+                        "nl": {
+                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
+                            "excerpt": "books/nl/de-prins-uit-het-oosten.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
+                            "title": "De Prins uit het Oosten"
                         },
                         "pt": {
-                            "title": "O Príncipe do Leste",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/o-prncipe-do-leste.webp",
+                            "excerpt": "books/pt/o-prncipe-do-leste.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/o-prncipe-do-leste.txt",
-                            "excerpt": "books/pt/o-prncipe-do-leste.md"
+                            "title": "O Príncipe do Leste"
                         },
                         "se": {
-                            "title": "Prinsen från östern",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/prinsen-frn-stern.webp",
+                            "excerpt": "books/se/prinsen-frn-stern.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/prinsen-frn-stern.txt",
-                            "excerpt": "books/se/prinsen-frn-stern.md"
+                            "title": "Prinsen från östern"
                         }
                     },
+                    "id": "princa-ot-iztok",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FYPS13BY"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/b5yknl"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.de/dp/B0FYSN3XB4"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/491Jj0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0FYZ98MDP"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRMQv"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.fr/dp/B0DCV41KHR"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mBpR7y"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.nl/dp/B0G2LPJVVH"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/491OwX"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com.br/dp/B0G2M359K2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/baeLOy"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FZNKFDMS"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boJxO1"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G35DJ35P"
                         }
                     ]
@@ -710,473 +710,473 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "drevno-sinio",
                     "i18n": {
-                        "en": {
-                            "title": "Ancient Blue",
-                            "genre": "Science Fiction",
-                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
-                            "synopsis": "synopsis/en/ancient-blue.txt",
-                            "excerpt": "books/en/ancient-blue.md"
-                        },
                         "de": {
-                            "title": "Uraltes Blau",
-                            "genre": "Science Fiction",
                             "cover": "images/de/uraltes-blau.webp",
-                            "synopsis": "synopsis/de/uraltes-blau.txt",
-                            "excerpt": "books/de/uraltes-blau.md"
-                        },
-                        "fr": {
-                            "title": "Bleu Ancien",
-                            "genre": "Science-Fiction",
-                            "cover": "images/fr/bleu-ancien.webp",
-                            "synopsis": "synopsis/fr/bleu-ancien.txt",
-                            "excerpt": "books/fr/bleu-ancien.md"
-                        },
-                        "it": {
-                            "title": "L'Antico Blu",
-                            "genre": "Fantascienza",
-                            "cover": "images/it/l'antico-blu.webp",
-                            "synopsis": "synopsis/it/l'antico-blu.txt",
-                            "excerpt": "books/it/l'antico-blu.md"
-                        },
-                        "nl": {
-                            "title": "Oeroud Blauw",
+                            "excerpt": "books/de/uraltes-blau.md",
                             "genre": "Science Fiction",
-                            "cover": "images/nl/oeroud-blauw.webp",
-                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
-                            "excerpt": "books/nl/oeroud-blauw.md"
+                            "synopsis": "synopsis/de/uraltes-blau.txt",
+                            "title": "Uraltes Blau"
+                        },
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
+                            "excerpt": "books/en/ancient-blue.md",
+                            "genre": "Science Fiction",
+                            "synopsis": "synopsis/en/ancient-blue.txt",
+                            "title": "Ancient Blue"
                         },
                         "es": {
-                            "title": "Azul Ancestral",
-                            "genre": "Ciencia Ficción",
                             "cover": "images/es/azul-аncestral.webp",
+                            "excerpt": "books/es/azul-аncestral.md",
+                            "genre": "Ciencia Ficción",
                             "synopsis": "synopsis/es/azul-аncestral.txt",
-                            "excerpt": "books/es/azul-аncestral.md"
+                            "title": "Azul Ancestral"
+                        },
+                        "fr": {
+                            "cover": "images/fr/bleu-ancien.webp",
+                            "excerpt": "books/fr/bleu-ancien.md",
+                            "genre": "Science-Fiction",
+                            "synopsis": "synopsis/fr/bleu-ancien.txt",
+                            "title": "Bleu Ancien"
+                        },
+                        "it": {
+                            "cover": "images/it/l'antico-blu.webp",
+                            "excerpt": "books/it/l'antico-blu.md",
+                            "genre": "Fantascienza",
+                            "synopsis": "synopsis/it/l'antico-blu.txt",
+                            "title": "L'Antico Blu"
+                        },
+                        "nl": {
+                            "cover": "images/nl/oeroud-blauw.webp",
+                            "excerpt": "books/nl/oeroud-blauw.md",
+                            "genre": "Science Fiction",
+                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
+                            "title": "Oeroud Blauw"
                         },
                         "pt": {
-                            "title": "Azul Ancestral",
-                            "genre": "Science Fiction",
                             "cover": "images/pt/Cover-Azul_Ancestral-el-_PT.webp",
+                            "excerpt": "books/pt/drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/pt/drevno-sinio.txt",
-                            "excerpt": "books/pt/drevno-sinio.md"
+                            "title": "Azul Ancestral"
                         },
                         "se": {
-                            "title": "Uråldrig blå",
-                            "genre": "Science Fiction",
                             "cover": "images/se/Uraldrig_bla.webp",
+                            "excerpt": "books/se/drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/se/drevno-sinio.txt",
-                            "excerpt": "books/se/drevno-sinio.md"
+                            "title": "Uråldrig blå"
                         }
                     },
+                    "id": "drevno-sinio",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3L2Nke"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DHVGH23L"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/38aRxL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4EV7PA"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKC7YXK7"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3ypoxL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "ES",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bz5gL9"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DY58ZNN2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdBwNX"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FZY6NCG3"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FNRM5BSZ"
                         }
                     ]
                 },
                 {
-                    "id": "cherveno-i-drevno-sinio",
                     "i18n": {
-                        "en": {
-                            "title": "Red and Ancient Blue",
-                            "genre": "Science Fiction",
-                            "cover": "images/en/krav-i-zvezden-prah-2.webp",
-                            "synopsis": "synopsis/en/red-and-ancient-blue.txt",
-                            "excerpt": "books/en/red-and-ancient-blue.md"
-                        },
                         "de": {
-                            "title": "Rot und Uraltes Blau",
-                            "genre": "Science-Fiction",
                             "cover": "images/de/rot-und-uraltes-blau.webp",
-                            "synopsis": "synopsis/de/rot-und-uraltes-blau.txt",
-                            "excerpt": "books/de/rot-und-uraltes-blau.md"
-                        },
-                        "fr": {
-                            "title": "Rouge et Bleu Ancien",
+                            "excerpt": "books/de/rot-und-uraltes-blau.md",
                             "genre": "Science-Fiction",
-                            "cover": "images/fr/rouge-et-bleu-ancien.webp",
-                            "synopsis": "synopsis/fr/rouge-et-bleu-ancien.txt",
-                            "excerpt": "books/fr/rouge-et-bleu-ancien.md"
+                            "synopsis": "synopsis/de/rot-und-uraltes-blau.txt",
+                            "title": "Rot und Uraltes Blau"
                         },
-                        "it": {
-                            "title": "Rosso e L'Antico Blu",
-                            "genre": "Fantascienza",
-                            "cover": "images/it/rosso-e-l'antico-blu.webp",
-                            "synopsis": "synopsis/it/rosso-e-l'antico-blu.txt",
-                            "excerpt": "books/it/rosso-e-l'antico-blu.md"
-                        },
-                        "nl": {
-                            "title": "Rood en Oeroud Blauw",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-2.webp",
+                            "excerpt": "books/en/red-and-ancient-blue.md",
                             "genre": "Science Fiction",
-                            "cover": "images/nl/rood-en-oeroud-blauw.webp",
-                            "synopsis": "synopsis/nl/rood-en-oeroud-blauw.txt",
-                            "excerpt": "books/nl/rood-en-oeroud-blauw.md"
+                            "synopsis": "synopsis/en/red-and-ancient-blue.txt",
+                            "title": "Red and Ancient Blue"
                         },
                         "es": {
-                            "title": "Rojo y Azul Ancestral",
-                            "genre": "Ciencia Ficción",
                             "cover": "images/es/rojo-y-azul-antiguo.webp",
+                            "excerpt": "books/es/rojo-y-azul-antiguo.md",
+                            "genre": "Ciencia Ficción",
                             "synopsis": "synopsis/es/rojo-y-azul-antiguo.txt",
-                            "excerpt": "books/es/rojo-y-azul-antiguo.md"
+                            "title": "Rojo y Azul Ancestral"
+                        },
+                        "fr": {
+                            "cover": "images/fr/rouge-et-bleu-ancien.webp",
+                            "excerpt": "books/fr/rouge-et-bleu-ancien.md",
+                            "genre": "Science-Fiction",
+                            "synopsis": "synopsis/fr/rouge-et-bleu-ancien.txt",
+                            "title": "Rouge et Bleu Ancien"
+                        },
+                        "it": {
+                            "cover": "images/it/rosso-e-l'antico-blu.webp",
+                            "excerpt": "books/it/rosso-e-l'antico-blu.md",
+                            "genre": "Fantascienza",
+                            "synopsis": "synopsis/it/rosso-e-l'antico-blu.txt",
+                            "title": "Rosso e L'Antico Blu"
+                        },
+                        "nl": {
+                            "cover": "images/nl/rood-en-oeroud-blauw.webp",
+                            "excerpt": "books/nl/rood-en-oeroud-blauw.md",
+                            "genre": "Science Fiction",
+                            "synopsis": "synopsis/nl/rood-en-oeroud-blauw.txt",
+                            "title": "Rood en Oeroud Blauw"
                         },
                         "pt": {
-                            "title": "Vermelho e Azul Ancestral",
-                            "genre": "Science Fiction",
                             "cover": "images/pt/Red_And_Ancient_Blue_-_e-book-PT.webp",
+                            "excerpt": "books/pt/cherveno-i-drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/pt/cherveno-i-drevno-sinio.txt",
-                            "excerpt": "books/pt/cherveno-i-drevno-sinio.md"
+                            "title": "Vermelho e Azul Ancestral"
                         },
                         "se": {
-                            "title": "Röd och uråldrig blå",
-                            "genre": "Science Fiction",
                             "cover": "images/se/ROD-OCH-URALDRIG-BLA-e-book-Cover.webp",
+                            "excerpt": "books/se/cherveno-i-drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/se/cherveno-i-drevno-sinio.txt",
-                            "excerpt": "books/se/cherveno-i-drevno-sinio.md"
+                            "title": "Röd och uråldrig blå"
                         }
                     },
+                    "id": "cherveno-i-drevno-sinio",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bM8nVG"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DJL9X7VH"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DLCGHLBW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DNVVWRPN"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DLHG88QX"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bpgE76"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0CYYRK77Q"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F26X8SZH"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FZWL4PGW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FP2854VH"
                         }
                     ]
                 },
                 {
-                    "id": "kosmichesko-cherveno",
                     "i18n": {
-                        "en": {
-                            "title": "Cosmic Red",
-                            "genre": "Science Fiction",
-                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
-                            "synopsis": "synopsis/en/cosmic-red.txt",
-                            "excerpt": "books/en/cosmic-red.md"
-                        },
                         "de": {
-                            "title": "Kosmisches Rot",
-                            "genre": "Science-Fiction",
                             "cover": "images/de/kosmisches-rot.webp",
-                            "synopsis": "synopsis/de/kosmisches-rot.txt",
-                            "excerpt": "books/de/kosmisches-rot.md"
-                        },
-                        "fr": {
-                            "title": "Rouge Cosmique",
+                            "excerpt": "books/de/kosmisches-rot.md",
                             "genre": "Science-Fiction",
-                            "cover": "images/fr/rouge-cosmique.webp",
-                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
-                            "excerpt": "books/fr/rouge-cosmique.md"
+                            "synopsis": "synopsis/de/kosmisches-rot.txt",
+                            "title": "Kosmisches Rot"
                         },
-                        "it": {
-                            "title": "Rosso Cosmico",
-                            "genre": "Fantascienza",
-                            "cover": "images/it/rosso-cosmico.webp",
-                            "synopsis": "synopsis/it/rosso-cosmico.txt",
-                            "excerpt": "books/it/rosso-cosmico.md"
-                        },
-                        "nl": {
-                            "title": "Kosmisch Rood",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
+                            "excerpt": "books/en/cosmic-red.md",
                             "genre": "Science Fiction",
-                            "cover": "images/nl/kosmisch-rood.webp",
-                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
-                            "excerpt": "books/nl/kosmisch-rood.md"
+                            "synopsis": "synopsis/en/cosmic-red.txt",
+                            "title": "Cosmic Red"
                         },
                         "es": {
-                            "title": "Rojo Cósmico",
-                            "genre": "Ciencia Ficción",
                             "cover": "images/es/rojo-cósmico.webp",
+                            "excerpt": "books/es/rojo-cósmico.md",
+                            "genre": "Ciencia Ficción",
                             "synopsis": "synopsis/es/rojo-cósmico.txt",
-                            "excerpt": "books/es/rojo-cósmico.md"
+                            "title": "Rojo Cósmico"
+                        },
+                        "fr": {
+                            "cover": "images/fr/rouge-cosmique.webp",
+                            "excerpt": "books/fr/rouge-cosmique.md",
+                            "genre": "Science-Fiction",
+                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
+                            "title": "Rouge Cosmique"
+                        },
+                        "it": {
+                            "cover": "images/it/rosso-cosmico.webp",
+                            "excerpt": "books/it/rosso-cosmico.md",
+                            "genre": "Fantascienza",
+                            "synopsis": "synopsis/it/rosso-cosmico.txt",
+                            "title": "Rosso Cosmico"
+                        },
+                        "nl": {
+                            "cover": "images/nl/kosmisch-rood.webp",
+                            "excerpt": "books/nl/kosmisch-rood.md",
+                            "genre": "Science Fiction",
+                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
+                            "title": "Kosmisch Rood"
                         },
                         "pt": {
-                            "title": "Vermelho Cósmico",
-                            "genre": "Science Fiction",
                             "cover": "images/pt/Cover-Vermelho_Cosmico-el.webp",
+                            "excerpt": "books/pt/kosmichesko-cherveno.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/pt/kosmichesko-cherveno.txt",
-                            "excerpt": "books/pt/kosmichesko-cherveno.md"
+                            "title": "Vermelho Cósmico"
                         },
                         "se": {
-                            "title": "Kosmisk röd",
-                            "genre": "Science Fiction",
                             "cover": "images/se/KOSMISK-ROD-el.webp",
+                            "excerpt": "books/se/kosmichesko-cherveno.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/se/kosmichesko-cherveno.txt",
-                            "excerpt": "books/se/kosmichesko-cherveno.md"
+                            "title": "Kosmisk röd"
                         }
                     },
+                    "id": "kosmichesko-cherveno",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mZ6pll"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DQVZ8978"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DR74K3T6"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DRCG6YVZ"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F9D9LYVH"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4jQ192"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F9FSFC3F"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F1Y8X2FW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0G16CQ2BN"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FP59NYGP"
                         }
                     ]
                 },
                 {
-                    "id": "stomaneno-sivo",
                     "i18n": {
-                        "en": {
-                            "title": "Steel Gray",
-                            "genre": "Science Fiction",
-                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
-                            "synopsis": "synopsis/en/steel-gray.txt",
-                            "excerpt": "books/en/steel-gray.md"
-                        },
                         "de": {
-                            "title": "Stählernes Grau",
-                            "genre": "Science-Fiction",
                             "cover": "images/de/stählernes-grau.webp",
-                            "synopsis": "synopsis/de/stählernes-grau.txt",
-                            "excerpt": "books/de/stählernes-grau.md"
-                        },
-                        "fr": {
-                            "title": "Gris Acier",
+                            "excerpt": "books/de/stählernes-grau.md",
                             "genre": "Science-Fiction",
-                            "cover": "images/fr/gris-acier.webp",
-                            "synopsis": "synopsis/fr/gris-acier.txt",
-                            "excerpt": "books/fr/gris-acier.md"
+                            "synopsis": "synopsis/de/stählernes-grau.txt",
+                            "title": "Stählernes Grau"
                         },
-                        "it": {
-                            "title": "Grigio d'Acciaio",
-                            "genre": "Fantascienza",
-                            "cover": "images/it/grigio-d'acciaio.webp",
-                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
-                            "excerpt": "books/it/grigio-d'acciaio.md"
-                        },
-                        "nl": {
-                            "title": "Staalgrijs",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
+                            "excerpt": "books/en/steel-gray.md",
                             "genre": "Science Fiction",
-                            "cover": "images/nl/staalgrijs.webp",
-                            "synopsis": "synopsis/nl/staalgrijs.txt",
-                            "excerpt": "books/nl/staalgrijs.md"
+                            "synopsis": "synopsis/en/steel-gray.txt",
+                            "title": "Steel Gray"
                         },
                         "es": {
-                            "title": "Gris de Acero",
-                            "genre": "Science Fiction",
                             "cover": "images/es/GRIS_DE_ACERO_-_e-book-ES.webp",
+                            "excerpt": "books/es/stomaneno-sivo.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/es/stomaneno-sivo.txt",
-                            "excerpt": "books/es/stomaneno-sivo.md"
+                            "title": "Gris de Acero"
+                        },
+                        "fr": {
+                            "cover": "images/fr/gris-acier.webp",
+                            "excerpt": "books/fr/gris-acier.md",
+                            "genre": "Science-Fiction",
+                            "synopsis": "synopsis/fr/gris-acier.txt",
+                            "title": "Gris Acier"
+                        },
+                        "it": {
+                            "cover": "images/it/grigio-d'acciaio.webp",
+                            "excerpt": "books/it/grigio-d'acciaio.md",
+                            "genre": "Fantascienza",
+                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
+                            "title": "Grigio d'Acciaio"
+                        },
+                        "nl": {
+                            "cover": "images/nl/staalgrijs.webp",
+                            "excerpt": "books/nl/staalgrijs.md",
+                            "genre": "Science Fiction",
+                            "synopsis": "synopsis/nl/staalgrijs.txt",
+                            "title": "Staalgrijs"
                         },
                         "pt": {
-                            "title": "Cinza de Aço",
-                            "genre": "Science Fiction",
                             "cover": "images/pt/Cinza_de_Aco_-_e-book-PT.webp",
+                            "excerpt": "books/pt/stomaneno-sivo.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/pt/stomaneno-sivo.txt",
-                            "excerpt": "books/pt/stomaneno-sivo.md"
+                            "title": "Cinza de Aço"
                         },
                         "se": {
-                            "title": "Stålgrå",
-                            "genre": "Science Fiction",
                             "cover": "images/se/Cover-Stalgra-e-book.webp",
+                            "excerpt": "books/se/stomaneno-sivo.md",
+                            "genre": "Science Fiction",
                             "synopsis": "synopsis/se/stomaneno-sivo.txt",
-                            "excerpt": "books/se/stomaneno-sivo.md"
+                            "title": "Stålgrå"
                         }
                     },
+                    "id": "stomaneno-sivo",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3JMJBK"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F2SY25S5"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DZVNDZ46"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F88LPQW9"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F99VQFGF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4AyxEp"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FHWQVH7Q"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G1CVNLQC"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0G1BPXMGW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FQJTD6DH"
                         }
                     ]
@@ -1357,141 +1357,6 @@ const authorData = {
         },
         {
             "books": [
-                {
-                    "i18n": {
-                        "bg": {
-                            "cover": "images/bg/The_Empress-BG.webp",
-                            "excerpt": "books/bg/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "bDkjAn"
-                            },
-                            "synopsis": "synopsis/bg/the-empress.txt",
-                            "title": "Императрица"
-                        },
-                        "de": {
-                            "cover": "images/de/Die-Kaiserin-DE.webp",
-                            "excerpt": "books/de/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "bkR1Xv"
-                            },
-                            "synopsis": "synopsis/de/the-empress.txt",
-                            "title": "Die Kaiserin"
-                        },
-                        "en": {
-                            "cover": "images/en/The_Empress-EN.webp",
-                            "excerpt": "books/en/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "synopsis": "synopsis/en/the-empress.txt",
-                            "title": "The Empress"
-                        },
-                        "fr": {
-                            "cover": "images/fr/LImperatrice-FR.webp",
-                            "excerpt": "books/fr/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous pour télécharger instantanément vos 3 histoires gratuites !",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "bYE8Ap"
-                            },
-                            "synopsis": "synopsis/fr/the-empress.txt",
-                            "title": "L'Impératrice"
-                        },
-                        "it": {
-                            "cover": "images/it/LImperatrice-IT.webp",
-                            "excerpt": "books/it/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "bkR1mY"
-                            },
-                            "synopsis": "synopsis/it/the-empress.txt",
-                            "title": "L'Imperatrice"
-                        },
-                        "nl": {
-                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
-                            "excerpt": "books/nl/the-empress.md",
-                            "genre": "military sci-fi",
-                            "leadMagnet": {
-                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
-                                "enabled": true,
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "synopsis": "synopsis/nl/the-empress.txt",
-                            "title": "De Keizerin"
-                        }
-                    },
-                    "id": "the-empress",
-                    "links": [
-                        {
-                            "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/b5AeoA"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0HBSV154M"
-                        },
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mVMQrM"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/m0RMoW"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3Gyxk8"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.de/dp/B0HDP7X4LN"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.nl/dp/B0HDZQ45QQ"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bM6p9v"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.fr/dp/B0HF75T9PS"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/477N8g"
-                        }
-                    ]
-                },
                 {
                     "i18n": {
                         "bg": {
@@ -1769,6 +1634,141 @@ const authorData = {
                             "lang": "IT",
                             "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0FXT47RVC"
+                        }
+                    ]
+                },
+                {
+                    "id": "the-empress",
+                    "i18n": {
+                        "bg": {
+                            "title": "Императрица",
+                            "genre": "military sci-fi",
+                            "cover": "images/bg/The_Empress-BG.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
+                                "image": "",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/bg/the-empress.txt",
+                            "excerpt": "books/bg/the-empress.md"
+                        },
+                        "en": {
+                            "title": "The Empress",
+                            "genre": "military sci-fi",
+                            "cover": "images/en/The_Empress-EN.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "image": "",
+                                "senderFormId": "erkDWw"
+                            },
+                            "synopsis": "synopsis/en/the-empress.txt",
+                            "excerpt": "books/en/the-empress.md"
+                        },
+                        "de": {
+                            "title": "Die Kaiserin",
+                            "genre": "military sci-fi",
+                            "cover": "images/de/Die-Kaiserin-DE.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
+                                "image": "",
+                                "senderFormId": "bkR1Xv"
+                            },
+                            "synopsis": "synopsis/de/the-empress.txt",
+                            "excerpt": "books/de/the-empress.md"
+                        },
+                        "fr": {
+                            "title": "L'Impératrice",
+                            "genre": "military sci-fi",
+                            "cover": "images/fr/LImperatrice-FR.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous pour télécharger instantanément vos 3 histoires gratuites !",
+                                "image": "",
+                                "senderFormId": "bYE8Ap"
+                            },
+                            "synopsis": "synopsis/fr/the-empress.txt",
+                            "excerpt": "books/fr/the-empress.md"
+                        },
+                        "it": {
+                            "title": "L'Imperatrice",
+                            "genre": "military sci-fi",
+                            "cover": "images/it/LImperatrice-IT.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "synopsis": "synopsis/it/the-empress.txt",
+                            "excerpt": "books/it/the-empress.md"
+                        },
+                        "nl": {
+                            "title": "De Keizerin",
+                            "genre": "military sci-fi",
+                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "synopsis": "synopsis/nl/the-empress.txt",
+                            "excerpt": "books/nl/the-empress.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/b5AeoA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0HBSV154M"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/mVMQrM"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/m0RMoW"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/mqyBx9"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.de/dp/B0HDP7X4LN"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.nl/dp/B0HDZQ45QQ"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/bM6p9v"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "FR",
+                            "url": "https://www.amazon.fr/dp/B0HF75T9PS"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "IT",
+                            "url": "https://books2read.com/u/477N8g"
                         }
                     ]
                 }
