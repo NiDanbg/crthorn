@@ -1358,6 +1358,164 @@ const authorData = {
         {
             "books": [
                 {
+                    "i18n": {
+                        "bg": {
+                            "cover": "images/bg/The_Heiress-BG.webp",
+                            "excerpt": "books/bg/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bDkjAn"
+                            },
+                            "synopsis": "synopsis/bg/the-heiress.txt",
+                            "title": "Наследница"
+                        },
+                        "de": {
+                            "cover": "images/de/Die_Erbin-DE.webp",
+                            "excerpt": "books/de/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bkR1Xv"
+                            },
+                            "synopsis": "synopsis/de/the-heiress.txt",
+                            "title": "Die Erbin"
+                        },
+                        "en": {
+                            "cover": "images/en/The_Heiress-EN.webp",
+                            "excerpt": "books/en/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "erkDWw"
+                            },
+                            "synopsis": "synopsis/en/the-heiress.txt",
+                            "title": "The Heiress"
+                        },
+                        "fr": {
+                            "cover": "images/fr/LHERITIERE-FR.webp",
+                            "excerpt": "books/fr/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous pour télécharger instantanément vos 3 histoires gratuites !",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bYE8Ap"
+                            },
+                            "synopsis": "synopsis/fr/the-heiress.txt",
+                            "title": "L'Héritière"
+                        },
+                        "it": {
+                            "cover": "images/it/LErede-IT.webp",
+                            "excerpt": "books/it/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "synopsis": "synopsis/it/the-heiress.txt",
+                            "title": "L'Erede"
+                        },
+                        "nl": {
+                            "cover": "images/nl/De_Erfgename-NL.webp",
+                            "excerpt": "books/nl/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "synopsis": "synopsis/nl/the-heiress.txt",
+                            "title": "De Erfgename"
+                        },
+                        "se": {
+                            "cover": "images/se/Arvtagaren-SV.webp",
+                            "excerpt": "books/se/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "INNAN DU GÅR: HÄMTA DINA 3 GRATIS OBERÄTTADE HISTORIER!\nVill du dyka djupare in i universumet kring Krysantemumkrönikorna? Som en speciell gåva till mina läsare har jag sammanställt De kejserliga arkiven – en exklusiv samling av 3 prequel-noveller som avslöjar Ramis, Kenjiros och Akiras dolda förflutna. Dessa berättelser säljs inte i några butiker, men du kan ladda ner dem HELT GRATIS just nu.\n👉 Klicka på knappen nedan för att ladda ner dina 3 gratisberättelser omedelbart!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "aADVg9"
+                            },
+                            "synopsis": "synopsis/se/the-heiress.txt",
+                            "title": "Arvtagaren"
+                        }
+                    },
+                    "id": "the-heiress",
+                    "links": [
+                        {
+                            "lang": "EN",
+                            "platform": "Amazon",
+                            "url": "https://www.amazon.com/dp/B0FXGYF8N7"
+                        },
+                        {
+                            "lang": "EN",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/mdB5Xl"
+                        },
+                        {
+                            "lang": "BG",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/38jxEO"
+                        },
+                        {
+                            "lang": "DE",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/brNYBW"
+                        },
+                        {
+                            "lang": "DE",
+                            "platform": "Amazon",
+                            "url": "https://www.amazon.de/dp/B0FXR7FQ7N"
+                        },
+                        {
+                            "lang": "NL",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/4j8edj"
+                        },
+                        {
+                            "lang": "NL",
+                            "platform": "Amazon",
+                            "url": "https://www.amazon.nl/dp/B0G4JWMZBR"
+                        },
+                        {
+                            "lang": "FR",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/49zZQJ"
+                        },
+                        {
+                            "lang": "FR",
+                            "platform": "Amazon",
+                            "url": "https://www.amazon.fr/dp/B0FZ5324HR"
+                        },
+                        {
+                            "lang": "IT",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/m0RKxM"
+                        },
+                        {
+                            "lang": "IT",
+                            "platform": "Amazon",
+                            "url": "https://www.amazon.it/dp/B0FXT47RVC"
+                        },
+                        {
+                            "lang": "SE",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/mvezp6"
+                        }
+                    ]
+                },
+                {
                     "id": "the-regent",
                     "i18n": {
                         "bg": {
@@ -1507,6 +1665,11 @@ const authorData = {
                             "platform": "Amazon",
                             "lang": "IT",
                             "url": "https://www.amazon.it/dp/B0GT171B8Q"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/mqyaJ9"
                         }
                     ]
                 },
@@ -1655,164 +1818,16 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "IT",
                             "url": "https://books2read.com/u/477N8g"
-                        }
-                    ]
-                },
-                {
-                    "id": "the-heiress",
-                    "i18n": {
-                        "bg": {
-                            "title": "Наследница",
-                            "genre": "military sci-fi",
-                            "cover": "images/bg/The_Heiress-BG.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "ПРЕДИ ДА НАПУСНЕТЕ: ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу, за да изтеглите незабавно 3-те си безплатни истории!",
-                                "image": "",
-                                "senderFormId": "bDkjAn"
-                            },
-                            "synopsis": "synopsis/bg/the-heiress.txt",
-                            "excerpt": "books/bg/the-heiress.md"
-                        },
-                        "en": {
-                            "title": "The Heiress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Heiress-EN.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEFORE YOU LEAVE: CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below to download your 3 free stories instantly!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "synopsis": "synopsis/en/the-heiress.txt",
-                            "excerpt": "books/en/the-heiress.md"
-                        },
-                        "de": {
-                            "title": "Die Erbin",
-                            "genre": "military sci-fi",
-                            "cover": "images/de/Die_Erbin-DE.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "BEVOR DU GEHST: HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicke auf den Button unten, um deine 3 kostenlosen Geschichten sofort herunterzuladen!",
-                                "image": "",
-                                "senderFormId": "bkR1Xv"
-                            },
-                            "synopsis": "synopsis/de/the-heiress.txt",
-                            "excerpt": "books/de/the-heiress.md"
-                        },
-                        "fr": {
-                            "title": "L'Héritière",
-                            "genre": "military sci-fi",
-                            "cover": "images/fr/LHERITIERE-FR.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous pour télécharger instantanément vos 3 histoires gratuites !",
-                                "image": "",
-                                "senderFormId": "bYE8Ap"
-                            },
-                            "synopsis": "synopsis/fr/the-heiress.txt",
-                            "excerpt": "books/fr/the-heiress.md"
-                        },
-                        "it": {
-                            "title": "L'Erede",
-                            "genre": "military sci-fi",
-                            "cover": "images/it/LErede-IT.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "PRIMA DI ANDARE VIA: RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Clicca sul pulsante qui sotto per scaricare subito le tue 3 storie gratuite!",
-                                "image": "",
-                                "senderFormId": "bkR1mY"
-                            },
-                            "synopsis": "synopsis/it/the-heiress.txt",
-                            "excerpt": "books/it/the-heiress.md"
-                        },
-                        "nl": {
-                            "title": "De Erfgename",
-                            "genre": "military sci-fi",
-                            "cover": "images/nl/De_Erfgename-NL.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "VOORDAT JE GAAT: CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder om jouw 3 gratis verhalen direct te downloaden!",
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "synopsis": "synopsis/nl/the-heiress.txt",
-                            "excerpt": "books/nl/the-heiress.md"
-                        },
-                        "se": {
-                            "title": "Arvtagaren",
-                            "genre": "military sci-fi",
-                            "cover": "images/se/Arvtagaren-SV.webp",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "INNAN DU GÅR: HÄMTA DINA 3 GRATIS OBERÄTTADE HISTORIER!\nVill du dyka djupare in i universumet kring Krysantemumkrönikorna? Som en speciell gåva till mina läsare har jag sammanställt De kejserliga arkiven – en exklusiv samling av 3 prequel-noveller som avslöjar Ramis, Kenjiros och Akiras dolda förflutna. Dessa berättelser säljs inte i några butiker, men du kan ladda ner dem HELT GRATIS just nu.\n👉 Klicka på knappen nedan för att ladda ner dina 3 gratisberättelser omedelbart!",
-                                "image": "",
-                                "senderFormId": "aADVg9"
-                            },
-                            "synopsis": "synopsis/se/the-heiress.txt",
-                            "excerpt": "books/se/the-heiress.md"
-                        }
-                    },
-                    "links": [
-                        {
-                            "platform": "Amazon",
-                            "lang": "EN",
-                            "url": "https://www.amazon.com/dp/B0FXGYF8N7"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "EN",
-                            "url": "https://books2read.com/u/mdB5Xl"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "BG",
-                            "url": "https://books2read.com/u/38jxEO"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "DE",
-                            "url": "https://books2read.com/u/brNYBW"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "DE",
-                            "url": "https://www.amazon.de/dp/B0FXR7FQ7N"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "NL",
-                            "url": "https://books2read.com/u/4j8edj"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "NL",
-                            "url": "https://www.amazon.nl/dp/B0G4JWMZBR"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "FR",
-                            "url": "https://books2read.com/u/49zZQJ"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "FR",
-                            "url": "https://www.amazon.fr/dp/B0FZ5324HR"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "IT",
-                            "url": "https://books2read.com/u/m0RKxM"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "IT",
-                            "url": "https://www.amazon.it/dp/B0FXT47RVC"
                         },
                         {
                             "platform": "Draft2Digital",
                             "lang": "SE",
-                            "url": "https://books2read.com/u/mvezp6"
+                            "url": "https://books2read.com/u/bpX9JX"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "IT",
+                            "url": "https://www.amazon.it/dp/B0HDV653ND"
                         }
                     ]
                 }
