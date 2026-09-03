@@ -1438,6 +1438,19 @@ const authorData = {
                             "synopsis": "synopsis/nl/the-heiress.txt",
                             "excerpt": "books/nl/the-heiress.md"
                         },
+                        "es": {
+                            "title": "La heredera",
+                            "genre": "military sci-fi",
+                            "cover": "images/es/La_heredera-ES.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ANTES DE IRTE: ¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haz clic en el botón de abajo para descargar al instante tus 3 historias gratuitas!",
+                                "image": "",
+                                "senderFormId": "en53qW"
+                            },
+                            "synopsis": "synopsis/es/the-heiress.txt",
+                            "excerpt": "books/es/the-heiress.md"
+                        },
                         "pt": {
                             "title": "A Herdeira",
                             "genre": "military sci-fi",
@@ -1614,6 +1627,19 @@ const authorData = {
                             "synopsis": "synopsis/nl/the-regent.txt",
                             "excerpt": "books/nl/the-regent.md"
                         },
+                        "es": {
+                            "title": "La regente",
+                            "genre": "military sci-fi",
+                            "cover": "images/es/La_regente-ES.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ANTES DE IRTE: ¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haz clic en el botón de abajo para descargar al instante tus 3 historias gratuitas!",
+                                "image": "",
+                                "senderFormId": "en53qW"
+                            },
+                            "synopsis": "synopsis/es/the-regent.txt",
+                            "excerpt": "books/es/the-regent.md"
+                        },
                         "pt": {
                             "title": "A Regente",
                             "genre": "military sci-fi",
@@ -1789,6 +1815,19 @@ const authorData = {
                             },
                             "synopsis": "synopsis/nl/the-empress.txt",
                             "excerpt": "books/nl/the-empress.md"
+                        },
+                        "es": {
+                            "title": "La emperatriz",
+                            "genre": "military sci-fi",
+                            "cover": "images/es/La_emperatriz-ES.webp",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "ANTES DE IRTE: ¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haz clic en el botón de abajo para descargar al instante tus 3 historias gratuitas!",
+                                "image": "",
+                                "senderFormId": "en53qW"
+                            },
+                            "synopsis": "synopsis/es/the-empress.txt",
+                            "excerpt": "books/es/the-empress.md"
                         },
                         "pt": {
                             "title": "A Imperatriz",
