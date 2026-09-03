@@ -1543,6 +1543,11 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "PT",
                             "url": "https://books2read.com/u/mgAwr6"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/4AEMXp"
                         }
                     ]
                 },
@@ -1732,6 +1737,11 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "PT",
                             "url": "https://books2read.com/u/mVM1B6"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/mVMLlp"
                         }
                     ]
                 },
@@ -1921,6 +1931,11 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "PT",
                             "url": "https://books2read.com/u/4EGgyY"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/4EGB9E"
                         }
                     ]
                 }
