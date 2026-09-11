@@ -137,152 +137,6 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "lechitelyat-ot-blekstoun",
-                    "i18n": {
-                        "en": {
-                            "title": "The Healer of Blackstone",
-                            "genre": "Epic Fantasy",
-                            "cover": "images/en/boria-1.webp",
-                            "direct_sale_active": true,
-                            "price": "3",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_1oKqFolP69v5ZLAIshsvrV",
-                            "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
-                            "excerpt": "books/en/the-healer-of-blackstone.md"
-                        },
-                        "de": {
-                            "title": "Der Heiler von Blackstone",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/de/boria-1.webp",
-                            "synopsis": "synopsis/de/der-heiler-von-blackstone.txt",
-                            "excerpt": "books/de/der-heiler-von-blackstone.md"
-                        },
-                        "fr": {
-                            "title": "Le Guérisseur de Blackstone",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/boria-1.webp",
-                            "synopsis": "synopsis/fr/le-guerisseur-de-blackstone.txt",
-                            "excerpt": "books/fr/le-guerisseur-de-blackstone.md"
-                        },
-                        "it": {
-                            "title": "Il Guaritore di Blackstone",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/boria-1.webp",
-                            "synopsis": "synopsis/it/il-guaritore-di-blackstone.txt",
-                            "excerpt": "books/it/il-guaritore-di-blackstone.md"
-                        },
-                        "nl": {
-                            "title": "De Genezer van Blackstone",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/nl/boria-1.webp",
-                            "synopsis": "synopsis/nl/de-genezer-van-blackstone.txt",
-                            "excerpt": "books/nl/de-genezer-van-blackstone.md"
-                        },
-                        "es": {
-                            "title": "El Sanador de Blackstone",
-                            "genre": "Fantasía Épica",
-                            "cover": "images/es/boria-1.webp",
-                            "synopsis": "synopsis/es/el-sanador-de-blackstone.txt",
-                            "excerpt": "books/es/el-sanador-de-blackstone.md"
-                        },
-                        "pt": {
-                            "title": "O Curandeiro de Blackstone",
-                            "genre": "Fantasia Épica",
-                            "cover": "images/pt/boria-1.webp",
-                            "synopsis": "synopsis/pt/o-curandeiro-de-blackstone.txt",
-                            "excerpt": "books/pt/o-curandeiro-de-blackstone.md"
-                        },
-                        "se": {
-                            "title": "Läkaren från Blackstone",
-                            "genre": "Episk Fantasy",
-                            "cover": "images/se/boria-1.webp",
-                            "synopsis": "synopsis/se/lakaren-fran-blackstone.txt",
-                            "excerpt": "books/se/lakaren-fran-blackstone.md"
-                        }
-                    },
-                    "links": [
-                        {
-                            "platform": "Amazon",
-                            "lang": "EN",
-                            "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "EN",
-                            "url": "https://books2read.com/u/47yL2g"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "DE",
-                            "url": "https://www.amazon.com/dp/B0DSTRYXNB"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "DE",
-                            "url": "https://books2read.com/u/bMjX97"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "IT",
-                            "url": "https://www.amazon.com/dp/B0DT6MZ2TH"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "IT",
-                            "url": "https://books2read.com/u/bMjXa7"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "FR",
-                            "url": "https://www.amazon.com/dp/B0DVZHVV84"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "FR",
-                            "url": "https://books2read.com/u/mYk6zV"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "ES",
-                            "url": "https://www.amazon.com/dp/B0DVP9ZFPL"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "ES",
-                            "url": "https://books2read.com/u/mVEgNA"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "NL",
-                            "url": "https://www.amazon.com/dp/B0DTP8TC7X"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "NL",
-                            "url": "https://books2read.com/u/mqd0Ge"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "PT",
-                            "url": "https://www.amazon.com/dp/B0DV4KPXKW"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "PT",
-                            "url": "https://books2read.com/u/mvgn76"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "SE",
-                            "url": "https://www.amazon.com/dp/B0DWFDR9P4"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "SE",
-                            "url": "https://books2read.com/u/mKkVK5"
-                        }
-                    ]
-                },
-                {
                     "id": "pazitelkata-na-briest",
                     "i18n": {
                         "en": {
@@ -699,6 +553,152 @@ const authorData = {
                             "platform": "Amazon",
                             "lang": "ES",
                             "url": "https://www.amazon.es/dp/B0G35DJ35P"
+                        }
+                    ]
+                },
+                {
+                    "id": "lechitelyat-ot-blekstoun",
+                    "i18n": {
+                        "en": {
+                            "title": "The Healer of Blackstone",
+                            "genre": "Epic Fantasy",
+                            "cover": "images/en/boria-1.webp",
+                            "direct_sale_active": false,
+                            "price": "3",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1oKqFolP69v5ZLAIshsvrV",
+                            "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
+                            "excerpt": "books/en/the-healer-of-blackstone.md"
+                        },
+                        "de": {
+                            "title": "Der Heiler von Blackstone",
+                            "genre": "Epische Fantasy",
+                            "cover": "images/de/boria-1.webp",
+                            "synopsis": "synopsis/de/der-heiler-von-blackstone.txt",
+                            "excerpt": "books/de/der-heiler-von-blackstone.md"
+                        },
+                        "fr": {
+                            "title": "Le Guérisseur de Blackstone",
+                            "genre": "Fantasy Épique",
+                            "cover": "images/fr/boria-1.webp",
+                            "synopsis": "synopsis/fr/le-guerisseur-de-blackstone.txt",
+                            "excerpt": "books/fr/le-guerisseur-de-blackstone.md"
+                        },
+                        "it": {
+                            "title": "Il Guaritore di Blackstone",
+                            "genre": "Fantasy Epico",
+                            "cover": "images/it/boria-1.webp",
+                            "synopsis": "synopsis/it/il-guaritore-di-blackstone.txt",
+                            "excerpt": "books/it/il-guaritore-di-blackstone.md"
+                        },
+                        "nl": {
+                            "title": "De Genezer van Blackstone",
+                            "genre": "Epische Fantasy",
+                            "cover": "images/nl/boria-1.webp",
+                            "synopsis": "synopsis/nl/de-genezer-van-blackstone.txt",
+                            "excerpt": "books/nl/de-genezer-van-blackstone.md"
+                        },
+                        "es": {
+                            "title": "El Sanador de Blackstone",
+                            "genre": "Fantasía Épica",
+                            "cover": "images/es/boria-1.webp",
+                            "synopsis": "synopsis/es/el-sanador-de-blackstone.txt",
+                            "excerpt": "books/es/el-sanador-de-blackstone.md"
+                        },
+                        "pt": {
+                            "title": "O Curandeiro de Blackstone",
+                            "genre": "Fantasia Épica",
+                            "cover": "images/pt/boria-1.webp",
+                            "synopsis": "synopsis/pt/o-curandeiro-de-blackstone.txt",
+                            "excerpt": "books/pt/o-curandeiro-de-blackstone.md"
+                        },
+                        "se": {
+                            "title": "Läkaren från Blackstone",
+                            "genre": "Episk Fantasy",
+                            "cover": "images/se/boria-1.webp",
+                            "synopsis": "synopsis/se/lakaren-fran-blackstone.txt",
+                            "excerpt": "books/se/lakaren-fran-blackstone.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0DSL4ZJ23"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/47yL2g"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0DSTRYXNB"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/bMjX97"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "IT",
+                            "url": "https://www.amazon.com/dp/B0DT6MZ2TH"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "IT",
+                            "url": "https://books2read.com/u/bMjXa7"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "FR",
+                            "url": "https://www.amazon.com/dp/B0DVZHVV84"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/mYk6zV"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "ES",
+                            "url": "https://www.amazon.com/dp/B0DVP9ZFPL"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/mVEgNA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.com/dp/B0DTP8TC7X"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/mqd0Ge"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "PT",
+                            "url": "https://www.amazon.com/dp/B0DV4KPXKW"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "PT",
+                            "url": "https://books2read.com/u/mvgn76"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0DWFDR9P4"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/mKkVK5"
                         }
                     ]
                 }
