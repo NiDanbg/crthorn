@@ -278,6 +278,16 @@ def build():
             nav_lang_switch=same_route_switch(lambda l: R.privacy_path(l)),
         ), 0.3)
 
+        title, terms_body = MD.privacy_html(read_text(f'synopsis/{ui}/terms-of-service.txt'))
+        body = R.render_terms_page(ui, title or R.UI_STRINGS[ui]['terms_of_service'], terms_body)
+        write_page(R.terms_path(ui), R.layout(
+            data, lang=ui, path=R.terms_path(ui),
+            title=f"{R.UI_STRINGS[ui]['terms_of_service']} | {R.author_name(data, ui)}",
+            description=R.UI_STRINGS[ui]['terms_of_service'],
+            body_html=body,
+            nav_lang_switch=same_route_switch(lambda l: R.terms_path(l)),
+        ), 0.3)
+
     # ---- content-language pages (book / excerpt) ----
     for book in iter_all_books(data):
         bid = book['id']

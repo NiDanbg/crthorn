@@ -7,6 +7,7 @@ import html as _html
 BASE_URL = "https://www.crthorn.com"
 GA_ID = "G-VN7CL1LWGY"
 SENDER_ACCOUNT_ID = "ed72b4b7a59839"
+SUPPORT_EMAIL = "contact@crthorn.com"
 ALL_LANGS = ['bg', 'en', 'de', 'fr', 'it', 'nl', 'es', 'pt', 'se']
 UI_LANGS = ['en', 'bg']
 
@@ -45,6 +46,8 @@ UI_STRINGS = {
         'back': 'Back', 'excerpt_from': 'Excerpt from',
         'not_found': '404 - Page Not Found',
         'privacy_policy': 'Privacy Policy',
+        'terms_of_service': 'Terms of Service',
+        'customer_support': 'Customer support',
         'by': 'by',
         'cookie_text': 'We use cookies to enhance your experience and for analytics. By continuing to browse, you agree to our <a href="/privacy-policy/">Privacy Policy</a>.',
         'cookie_accept': 'Accept',
@@ -77,6 +80,8 @@ UI_STRINGS = {
         'back': 'Назад', 'excerpt_from': 'Откъс от',
         'not_found': '404 - Страницата не е намерена',
         'privacy_policy': 'Политика за поверителност',
+        'terms_of_service': 'Общи условия',
+        'customer_support': 'Обслужване на клиенти',
         'by': 'от',
         'cookie_text': 'Използваме "бисквитки", за да подобрим вашето преживяване и за анализи. Продължавайки, вие се съгласявате с нашата <a href="/bg/privacy-policy/">Политика за поверителност</a>.',
         'cookie_accept': 'Приемам',
@@ -166,6 +171,10 @@ def privacy_path(lang):
     return prefix(lang) + '/privacy-policy/'
 
 
+def terms_path(lang):
+    return prefix(lang) + '/terms-of-service/'
+
+
 def site_title(data, lang):
     ui = ui_lang_of(lang)
     return data['meta'][ui]['siteTitle']
@@ -220,7 +229,9 @@ def layout(data, *, lang, path, title, description, body_html,
     for href, label in NAV_LABELS[ui]:
         is_active = (href == '/' and active_nav_base == '/') or \
                     (href != '/' and active_nav_base and active_nav_base.startswith(href))
-        nav_items += f'<li class="nav-item"><a href="{root}{href.lstrip("/")}" class="nav-link{" active" if is_active else ""}">{esc(label)}</a></li>'
+        # Language-aware: the BG chrome must stay inside /bg/, not fall back to the EN pages.
+        nav_href = prefix(ui) + '/' + href.lstrip('/')
+        nav_items += f'<li class="nav-item"><a href="{nav_href}" class="nav-link{" active" if is_active else ""}">{esc(label)}</a></li>'
 
     lang_switch_html = ''
     if nav_lang_switch:
@@ -276,7 +287,7 @@ def layout(data, *, lang, path, title, description, body_html,
 <body>
     <header>
         <nav class="navbar">
-            <a href="{root}" class="nav-logo">Crispin THORN</a>
+            <a href="{home_path(ui)}" class="nav-logo">Crispin THORN</a>
             <ul class="nav-menu">{nav_items}</ul>
             <button class="hamburger" aria-label="Open menu">
                 <span class="bar"></span><span class="bar"></span><span class="bar"></span>
@@ -291,7 +302,8 @@ def layout(data, *, lang, path, title, description, body_html,
 
     <footer>
         <div class="container">
-            <p>© 2024 Crispin Thorn. All rights reserved. | <a href="{root}privacy-policy/">{esc(strings['privacy_policy'])}</a></p>
+            <p>© 2024 Crispin Thorn. All rights reserved. | <a href="{privacy_path(ui)}">{esc(strings['privacy_policy'])}</a> | <a href="{terms_path(ui)}">{esc(strings['terms_of_service'])}</a></p>
+            <p class="footer-support">{esc(strings['customer_support'])}: <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a></p>
         </div>
     </footer>
 
@@ -588,6 +600,10 @@ def render_contact_page(lang):
 
 
 def render_privacy_page(lang, title, body_html):
+    return f'<div class="container text-page"><h1>{esc(title)}</h1>{body_html}</div>'
+
+
+def render_terms_page(lang, title, body_html):
     return f'<div class="container text-page"><h1>{esc(title)}</h1>{body_html}</div>'
 
 

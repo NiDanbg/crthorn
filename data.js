@@ -137,421 +137,421 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "pazitelkata-na-briest",
                     "i18n": {
+                        "de": {
+                            "cover": "images/de/boria-2.webp",
+                            "excerpt": "books/de/die-waechterin-von-briest.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
+                            "title": "Die Wächterin von Briest"
+                        },
                         "en": {
-                            "title": "The Guardian of Briest",
-                            "genre": "Epic Fantasy",
                             "cover": "images/en/boria-2.webp",
                             "direct_sale_active": false,
+                            "excerpt": "books/en/the-guardian-of-briest.md",
+                            "genre": "Epic Fantasy",
                             "price": "4.00",
                             "synopsis": "synopsis/en/the-guardian-of-briest.txt",
-                            "excerpt": "books/en/the-guardian-of-briest.md"
-                        },
-                        "de": {
-                            "title": "Die Wächterin von Briest",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/de/boria-2.webp",
-                            "synopsis": "synopsis/de/die-waechterin-von-briest.txt",
-                            "excerpt": "books/de/die-waechterin-von-briest.md"
-                        },
-                        "fr": {
-                            "title": "La Gardienne de Briest",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/boria-2.webp",
-                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
-                            "excerpt": "books/fr/la-gardienne-de-briest.md"
-                        },
-                        "it": {
-                            "title": "La Guardiana di Briest",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/boria-2.webp",
-                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
-                            "excerpt": "books/it/la-guardiana-di-briest.md"
-                        },
-                        "nl": {
-                            "title": "De Bewaakster van Briest",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/nl/boria-2.webp",
-                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
-                            "excerpt": "books/nl/de-bewaakster-van-briest.md"
+                            "title": "The Guardian of Briest"
                         },
                         "es": {
-                            "title": "La Guardiana de Briest",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/The_Guardian_of_Briest_EL-ES.webp",
+                            "excerpt": "books/es/pazitelkata-na-briest.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/pazitelkata-na-briest.txt",
-                            "excerpt": "books/es/pazitelkata-na-briest.md"
+                            "title": "La Guardiana de Briest"
+                        },
+                        "fr": {
+                            "cover": "images/fr/boria-2.webp",
+                            "excerpt": "books/fr/la-gardienne-de-briest.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/la-gardienne-de-briest.txt",
+                            "title": "La Gardienne de Briest"
+                        },
+                        "it": {
+                            "cover": "images/it/boria-2.webp",
+                            "excerpt": "books/it/la-guardiana-di-briest.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/la-guardiana-di-briest.txt",
+                            "title": "La Guardiana di Briest"
+                        },
+                        "nl": {
+                            "cover": "images/nl/boria-2.webp",
+                            "excerpt": "books/nl/de-bewaakster-van-briest.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/de-bewaakster-van-briest.txt",
+                            "title": "De Bewaakster van Briest"
                         },
                         "pt": {
-                            "title": "A Guardiã de Briest",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/boria-2.webp",
+                            "excerpt": "books/pt/a-guardia-de-briest.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/a-guardia-de-briest.txt",
-                            "excerpt": "books/pt/a-guardia-de-briest.md"
+                            "title": "A Guardiã de Briest"
                         },
                         "se": {
-                            "title": "Väktaren av Briest",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/boria-2.webp",
+                            "excerpt": "books/se/vaktaren-av-briest.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/vaktaren-av-briest.txt",
-                            "excerpt": "books/se/vaktaren-av-briest.md"
+                            "title": "Väktaren av Briest"
                         }
                     },
+                    "id": "pazitelkata-na-briest",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSLDJ5PF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bWaWjG"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSV469C2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRDw0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DT9PMY24"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3JdXJg"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DVZPBR7M"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3RkLyx"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTPFX93T"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRDW0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTZ4NJ7Q"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3L7YpM"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DWFNLPVF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdRqLW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G2S9VZ6S"
                         }
                     ]
                 },
                 {
-                    "id": "dva-svyata",
                     "i18n": {
+                        "de": {
+                            "cover": "images/de/boria-3.webp",
+                            "excerpt": "books/de/zwei-welten.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/de/zwei-welten.txt",
+                            "title": "Zwei Welten"
+                        },
                         "en": {
-                            "title": "Two Worlds",
-                            "genre": "Epic Fantasy",
                             "cover": "images/en/boria-3.webp",
                             "direct_sale_active": false,
+                            "excerpt": "books/en/two-worlds.md",
+                            "genre": "Epic Fantasy",
                             "price": "4.50",
                             "synopsis": "synopsis/en/two-worlds.txt",
-                            "excerpt": "books/en/two-worlds.md"
-                        },
-                        "de": {
-                            "title": "Zwei Welten",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/de/boria-3.webp",
-                            "synopsis": "synopsis/de/zwei-welten.txt",
-                            "excerpt": "books/de/zwei-welten.md"
-                        },
-                        "fr": {
-                            "title": "Deux Mondes",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/boria-3.webp",
-                            "synopsis": "synopsis/fr/deux-mondes.txt",
-                            "excerpt": "books/fr/deux-mondes.md"
-                        },
-                        "it": {
-                            "title": "Due Mondi",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/boria-3.webp",
-                            "synopsis": "synopsis/it/due-mondi.txt",
-                            "excerpt": "books/it/due-mondi.md"
-                        },
-                        "nl": {
-                            "title": "Twee Werelden",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/nl/boria-3.webp",
-                            "synopsis": "synopsis/nl/twee-werelden.txt",
-                            "excerpt": "books/nl/twee-werelden.md"
+                            "title": "Two Worlds"
                         },
                         "es": {
-                            "title": "Dos Mundos",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/Dos_mundos-_el-ES.webp",
+                            "excerpt": "books/es/dva-svyata.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/dva-svyata.txt",
-                            "excerpt": "books/es/dva-svyata.md"
+                            "title": "Dos Mundos"
+                        },
+                        "fr": {
+                            "cover": "images/fr/boria-3.webp",
+                            "excerpt": "books/fr/deux-mondes.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/deux-mondes.txt",
+                            "title": "Deux Mondes"
+                        },
+                        "it": {
+                            "cover": "images/it/boria-3.webp",
+                            "excerpt": "books/it/due-mondi.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/due-mondi.txt",
+                            "title": "Due Mondi"
+                        },
+                        "nl": {
+                            "cover": "images/nl/boria-3.webp",
+                            "excerpt": "books/nl/twee-werelden.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/twee-werelden.txt",
+                            "title": "Twee Werelden"
                         },
                         "pt": {
-                            "title": "Dois Mundos",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/boria-3.webp",
+                            "excerpt": "books/pt/dois-mundos.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/dois-mundos.txt",
-                            "excerpt": "books/pt/dois-mundos.md"
+                            "title": "Dois Mundos"
                         },
                         "se": {
-                            "title": "Två Världar",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/boria-3.webp",
+                            "excerpt": "books/se/tva-varldar.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/tva-varldar.txt",
-                            "excerpt": "books/se/tva-varldar.md"
+                            "title": "Två Världar"
                         }
                     },
+                    "id": "dva-svyata",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DSR63R9B"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/m2DpL1"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DT11SLLJ"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3G0PXL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTDGVKK9"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVEnkM"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DW48943J"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4N0okY"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DTSV83XD"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVEl0r"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DV5HGMYL"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mBWEdv"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FB98GQ1C"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3nj2XR"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G2SCMPPM"
                         }
                     ]
                 },
                 {
-                    "id": "princa-ot-iztok",
                     "i18n": {
+                        "de": {
+                            "cover": "images/de/der-prinz-aus-dem-osten.webp",
+                            "excerpt": "books/de/der-prinz-aus-dem-osten.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
+                            "title": "Der Prinz aus dem Osten"
+                        },
                         "en": {
-                            "title": "The Prince of the East",
-                            "genre": "Epic Fantasy",
                             "cover": "images/en/the-prince-of-the-east-en.webp",
                             "direct_sale_active": false,
+                            "excerpt": "books/en/the-prince-from-the-east.md",
+                            "genre": "Epic Fantasy",
                             "price": "4.80",
                             "synopsis": "synopsis/en/the-prince-from-the-east.txt",
-                            "excerpt": "books/en/the-prince-from-the-east.md"
-                        },
-                        "de": {
-                            "title": "Der Prinz aus dem Osten",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/de/der-prinz-aus-dem-osten.webp",
-                            "synopsis": "synopsis/de/der-prinz-aus-dem-osten.txt",
-                            "excerpt": "books/de/der-prinz-aus-dem-osten.md"
-                        },
-                        "fr": {
-                            "title": "Le Prince de l'Est",
-                            "genre": "Fantasy Épique",
-                            "cover": "images/fr/le-prince-de-lest.webp",
-                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
-                            "excerpt": "books/fr/le-prince-de-lest.md"
-                        },
-                        "it": {
-                            "title": "Il Principe dell'Est",
-                            "genre": "Fantasy Epico",
-                            "cover": "images/it/il-principe-dellest.webp",
-                            "synopsis": "synopsis/it/il-principe-dellest.txt",
-                            "excerpt": "books/it/il-principe-dellest.md"
-                        },
-                        "nl": {
-                            "title": "De Prins uit het Oosten",
-                            "genre": "Epische Fantasy",
-                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
-                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
-                            "excerpt": "books/nl/de-prins-uit-het-oosten.md"
+                            "title": "The Prince of the East"
                         },
                         "es": {
-                            "title": "El Príncipe del Este",
-                            "genre": "Epic Fantasy",
                             "cover": "images/es/Cover-EL_PRINCIPE_DEL_ESTE-el-ES.webp",
+                            "excerpt": "books/es/princa-ot-iztok.md",
+                            "genre": "Epic Fantasy",
                             "synopsis": "synopsis/es/princa-ot-iztok.txt",
-                            "excerpt": "books/es/princa-ot-iztok.md"
+                            "title": "El Príncipe del Este"
+                        },
+                        "fr": {
+                            "cover": "images/fr/le-prince-de-lest.webp",
+                            "excerpt": "books/fr/le-prince-de-lest.md",
+                            "genre": "Fantasy Épique",
+                            "synopsis": "synopsis/fr/le-prince-de-lest.txt",
+                            "title": "Le Prince de l'Est"
+                        },
+                        "it": {
+                            "cover": "images/it/il-principe-dellest.webp",
+                            "excerpt": "books/it/il-principe-dellest.md",
+                            "genre": "Fantasy Epico",
+                            "synopsis": "synopsis/it/il-principe-dellest.txt",
+                            "title": "Il Principe dell'Est"
+                        },
+                        "nl": {
+                            "cover": "images/nl/de-prins-uit-het-oosten.webp",
+                            "excerpt": "books/nl/de-prins-uit-het-oosten.md",
+                            "genre": "Epische Fantasy",
+                            "synopsis": "synopsis/nl/de-prins-uit-het-oosten.txt",
+                            "title": "De Prins uit het Oosten"
                         },
                         "pt": {
-                            "title": "O Príncipe do Leste",
-                            "genre": "Fantasia Épica",
                             "cover": "images/pt/o-prncipe-do-leste.webp",
+                            "excerpt": "books/pt/o-prncipe-do-leste.md",
+                            "genre": "Fantasia Épica",
                             "synopsis": "synopsis/pt/o-prncipe-do-leste.txt",
-                            "excerpt": "books/pt/o-prncipe-do-leste.md"
+                            "title": "O Príncipe do Leste"
                         },
                         "se": {
-                            "title": "Prinsen från östern",
-                            "genre": "Episk Fantasy",
                             "cover": "images/se/prinsen-frn-stern.webp",
+                            "excerpt": "books/se/prinsen-frn-stern.md",
+                            "genre": "Episk Fantasy",
                             "synopsis": "synopsis/se/prinsen-frn-stern.txt",
-                            "excerpt": "books/se/prinsen-frn-stern.md"
+                            "title": "Prinsen från östern"
                         }
                     },
+                    "id": "princa-ot-iztok",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FYPS13BY"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/b5yknl"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.de/dp/B0FYSN3XB4"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/491Jj0"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0FYZ98MDP"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boRMQv"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.fr/dp/B0DCV41KHR"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mBpR7y"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.nl/dp/B0G2LPJVVH"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/491OwX"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com.br/dp/B0G2M359K2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/baeLOy"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FZNKFDMS"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/boJxO1"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G35DJ35P"
                         }
                     ]
@@ -563,8 +563,8 @@ const authorData = {
                             "title": "The Healer of Blackstone",
                             "genre": "Epic Fantasy",
                             "cover": "images/en/boria-1.webp",
-                            "direct_sale_active": false,
-                            "price": "3",
+                            "direct_sale_active": true,
+                            "price": "3.00",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_1oKqFolP69v5ZLAIshsvrV",
                             "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
                             "excerpt": "books/en/the-healer-of-blackstone.md"

@@ -1095,3 +1095,13 @@ main {
         width: 100%;
     }
 }
+
+.footer-support { font-size: 0.85rem; margin-bottom: 0; }
+
+.text-page h2 {
+    font-size: 1.1rem;
+    letter-spacing: 0.03em;
+    margin: 2rem 0 0.7rem;
+}
+
+.text-page p { margin-bottom: 0.9rem; }
