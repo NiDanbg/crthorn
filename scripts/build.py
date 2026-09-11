@@ -6,6 +6,7 @@ fully pre-rendered, hash-free static site into dist/.
 
 Usage:  python scripts/build.py
 """
+import hashlib
 import json
 import re
 import shutil
@@ -142,6 +143,37 @@ def iter_all_books(data):
         yield b
 
 
+def search_index(data):
+    """Flat list of every book in every language it exists in — one entry per
+    edition, so a German title leads to the German page. Read by assets/site.js."""
+    entries = []
+
+    def add(book, series_titles=None):
+        for lang, d in sorted(book.get('i18n', {}).items()):
+            if not d.get('title'):
+                continue
+            e = {'t': d['title'], 'l': lang, 'u': R.book_path(book['id'], lang)}
+            if d.get('genre'):
+                e['g'] = d['genre']
+            if d.get('cover'):
+                e['c'] = '/' + d['cover'].lstrip('/')
+            if series_titles:
+                st = series_titles.get(lang) or series_titles.get('en')
+                if st:
+                    e['s'] = st
+            entries.append(e)
+
+    for s in data.get('series', []):
+        titles = {l: v.get('title') for l, v in s.get('i18n', {}).items() if v.get('title')}
+        for b in s.get('books', []):
+            add(b, titles)
+    for b in data.get('novels', []):
+        add(b)
+    for b in data.get('short_stories', []):
+        add(b)
+    return entries
+
+
 def same_route_switch(path_fn, *args):
     return {'en': path_fn('en', *args), 'bg': path_fn('bg', *args)}
 
@@ -178,6 +210,11 @@ def build():
 
     data = load_author_data()
     news = load_news()
+
+    # Stamp style.css / site.js with a content hash, so a returning reader
+    # is never left running a cached copy from before the last change.
+    for kind, path in (('css', BASE / 'style.css'), ('js', BASE / 'assets' / 'site.js')):
+        R.ASSET_V[kind] = hashlib.md5(path.read_bytes()).hexdigest()[:8]
 
     # ---- site-language pages (en / bg) ----
     for ui in UI_LANGS:
@@ -331,6 +368,10 @@ def build():
 
     (DIST / 'assets').mkdir(exist_ok=True)
     shutil.copy2(BASE / 'assets' / 'site.js', DIST / 'assets' / 'site.js')
+
+    (DIST / 'search-index.json').write_text(
+        json.dumps(search_index(data), ensure_ascii=False, separators=(',', ':')),
+        encoding='utf-8')
 
     (DIST / 'CNAME').write_text('www.crthorn.com\n', encoding='utf-8')
     (DIST / '404.html').write_text(R.layout(

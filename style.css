@@ -1105,3 +1105,110 @@ main {
 }
 
 .text-page p { margin-bottom: 0.9rem; }
+
+/* ── Търсене в менюто ── */
+.navbar { gap: 1.25rem; }
+.nav-search { position: relative; display: flex; align-items: center; }
+
+.search-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    color: var(--color-primary-dark);
+    cursor: pointer;
+}
+
+.search-toggle:hover { background: rgba(139, 69, 19, 0.08); }
+
+.search-panel {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+    width: 340px;
+    max-width: calc(100vw - 32px);
+    display: none;
+    z-index: 1002;
+}
+
+.nav-search.open .search-panel { display: block; }
+
+.search-input {
+    width: 100%;
+    padding: 10px 14px;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--color-text);
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+}
+
+.search-input:focus { outline: none; border-color: var(--color-secondary); }
+
+.search-results {
+    margin-top: 6px;
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+}
+
+.search-hit {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.search-hit:last-child { border-bottom: none; }
+.search-hit:hover { background: #f5f1ea; }
+.search-hit img { width: 32px; height: 46px; object-fit: cover; border-radius: 2px; flex-shrink: 0; }
+.search-hit-text { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+
+.search-title {
+    font-family: var(--font-heading);
+    font-size: 0.92rem;
+    color: var(--color-primary-dark);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.search-series { font-size: 0.75rem; color: var(--color-text-light); }
+
+.search-lang {
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    color: var(--color-text-light);
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    padding: 1px 5px;
+    flex-shrink: 0;
+}
+
+.search-empty { padding: 12px; font-size: 0.88rem; color: var(--color-text-light); }
+
+@media (max-width: 600px) {
+    /* Anchor the search panel to the whole navbar, not to the small icon,
+       so it never hangs off the left edge of a phone screen. */
+    .nav-search { position: static; }
+    .search-panel {
+        top: calc(100% + 6px);
+        left: 12px;
+        right: 12px;
+        width: auto;
+        max-width: none;
+    }
+}

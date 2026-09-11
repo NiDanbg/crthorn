@@ -8,6 +8,15 @@ BASE_URL = "https://www.crthorn.com"
 GA_ID = "G-VN7CL1LWGY"
 SENDER_ACCOUNT_ID = "ed72b4b7a59839"
 SUPPORT_EMAIL = "contact@crthorn.com"
+
+# Short content hashes for style.css / assets/site.js, filled in by build.py.
+# They ride along as ?v=… so a returning reader never runs a stale script.
+ASSET_V = {'css': '', 'js': ''}
+
+
+def asset_v(kind):
+    return ('?v=' + ASSET_V[kind]) if ASSET_V.get(kind) else ''
+
 ALL_LANGS = ['bg', 'en', 'de', 'fr', 'it', 'nl', 'es', 'pt', 'se']
 UI_LANGS = ['en', 'bg']
 
@@ -48,6 +57,9 @@ UI_STRINGS = {
         'privacy_policy': 'Privacy Policy',
         'terms_of_service': 'Terms of Service',
         'customer_support': 'Customer support',
+        'search': 'Search',
+        'search_placeholder': 'Search for a book…',
+        'search_none': 'Nothing found',
         'by': 'by',
         'cookie_text': 'We use cookies to enhance your experience and for analytics. By continuing to browse, you agree to our <a href="/privacy-policy/">Privacy Policy</a>.',
         'cookie_accept': 'Accept',
@@ -82,6 +94,9 @@ UI_STRINGS = {
         'privacy_policy': 'Политика за поверителност',
         'terms_of_service': 'Общи условия',
         'customer_support': 'Обслужване на клиенти',
+        'search': 'Търсене',
+        'search_placeholder': 'Търсене на книга…',
+        'search_none': 'Няма намерено',
         'by': 'от',
         'cookie_text': 'Използваме "бисквитки", за да подобрим вашето преживяване и за анализи. Продължавайки, вие се съгласявате с нашата <a href="/bg/privacy-policy/">Политика за поверителност</a>.',
         'cookie_accept': 'Приемам',
@@ -279,7 +294,7 @@ def layout(data, *, lang, path, title, description, body_html,
        gtag('config', '{GA_ID}');
     </script>
 
-    <link rel="stylesheet" href="{root}style.css">
+    <link rel="stylesheet" href="{root}style.css{asset_v('css')}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:wght@400;500&display=swap" rel="stylesheet">
@@ -289,6 +304,17 @@ def layout(data, *, lang, path, title, description, body_html,
         <nav class="navbar">
             <a href="{home_path(ui)}" class="nav-logo">Crispin THORN</a>
             <ul class="nav-menu">{nav_items}</ul>
+            <div class="nav-search">
+                <button type="button" class="search-toggle" aria-label="{esc(strings['search'])}" aria-expanded="false">
+                    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"
+                         stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="16.5" y1="16.5" x2="21" y2="21"></line></svg>
+                </button>
+                <div class="search-panel">
+                    <input type="search" class="search-input" autocomplete="off" spellcheck="false"
+                           placeholder="{esc(strings['search_placeholder'])}" aria-label="{esc(strings['search'])}">
+                    <div class="search-results" data-none="{esc(strings['search_none'])}" hidden></div>
+                </div>
+            </div>
             <button class="hamburger" aria-label="Open menu">
                 <span class="bar"></span><span class="bar"></span><span class="bar"></span>
             </button>
@@ -307,7 +333,7 @@ def layout(data, *, lang, path, title, description, body_html,
         </div>
     </footer>
 
-    <script src="{root}assets/site.js"></script>
+    <script src="{root}assets/site.js{asset_v('js')}"></script>
 
     <div id="cookie-banner" class="cookie-banner">
         <div class="cookie-content">
