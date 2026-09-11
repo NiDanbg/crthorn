@@ -1065,3 +1065,33 @@ main {
     cursor: pointer;
     color: var(--color-text-light);
 }
+/* ── Директна продажба от автора (Creem) ── */
+.direct-sale {
+    margin: 1.5rem 0;
+}
+
+.direct-sale-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border: 2px solid var(--color-primary);
+    transition: all 0.3s ease;
+}
+
+.direct-sale-btn:hover {
+    background-color: transparent;
+    color: var(--color-primary);
+}
+
+@media (max-width: 480px) {
+    .direct-sale-btn {
+        display: block;
+        width: 100%;
+    }
+}

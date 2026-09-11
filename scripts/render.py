@@ -85,6 +85,34 @@ UI_STRINGS = {
 }
 
 
+# Direct-sale button, one label per book language (the chrome stays en/bg, the book does not).
+BUY_DIRECT_LABELS = {
+    'bg': 'Купи директно от автора за {price}',
+    'en': 'Buy direct from the author for {price}',
+    'de': 'Direkt vom Autor kaufen für {price}',
+    'fr': "Acheter directement à l'auteur pour {price}",
+    'it': "Acquista direttamente dall'autore per {price}",
+    'nl': 'Koop rechtstreeks bij de auteur voor {price}',
+    'es': 'Compra directamente al autor por {price}',
+    'pt': 'Compre diretamente ao autor por {price}',
+    'se': 'Köp direkt av författaren för {price}',
+}
+
+# (decimal separator, layout) per language. Prices are in euro;   keeps
+# the amount and the symbol on the same line.
+PRICE_FORMATS = {
+    'bg': (',', '{amount} €'),
+    'en': ('.', '${amount}'),   # English editions are sold in dollars on Creem
+    'de': (',', '{amount} €'),
+    'fr': (',', '{amount} €'),
+    'it': (',', '{amount} €'),
+    'nl': (',', '€ {amount}'),
+    'es': (',', '{amount} €'),
+    'pt': (',', '{amount} €'),
+    'se': (',', '{amount} €'),
+}
+
+
 def esc(s):
     return _html.escape(str(s or ''), quote=True)
 
@@ -422,6 +450,36 @@ def render_lead_magnet(bdata, lang):
         </div>"""
 
 
+def format_price(price, lang):
+    """Price as the reader of that language writes it: €9.99, 9,99 €, € 9,99.
+    Anything that is not a number is printed exactly as typed in the admin panel."""
+    sep, template = PRICE_FORMATS.get(lang, PRICE_FORMATS['en'])
+    raw = str(price or '').strip()
+    try:
+        amount = f'{float(raw.replace(",", ".")):.2f}'
+    except ValueError:
+        return raw
+    return template.format(amount=amount.replace('.', sep))
+
+
+def render_direct_sale(bdata, lang):
+    """Checkout button for this language edition, sold by the author through Creem.
+    Every translation is its own product, so price and link come from i18n[lang].
+    The label speaks the language of the book, not of the surrounding chrome."""
+    if not bdata.get('direct_sale_active'):
+        return ''
+    url = (bdata.get('creem_checkout_url') or '').strip()
+    price = str(bdata.get('price') or '').strip()
+    if not url or not price:
+        return ''
+    label = BUY_DIRECT_LABELS.get(lang, BUY_DIRECT_LABELS['en']).format(
+        price=format_price(price, lang))
+    return f"""
+        <div class="direct-sale">
+            <a href="{esc(url)}" class="direct-sale-btn" target="_blank" rel="noopener">{esc(label)}</a>
+        </div>"""
+
+
 def render_book_detail(data, book, lang, synopsis_html):
     ui = ui_lang_of(lang)
     s = UI_STRINGS[ui]
@@ -450,6 +508,7 @@ def render_book_detail(data, book, lang, synopsis_html):
                 {f'<p class="book-genre">{esc(bdata["genre"])}</p>' if bdata.get('genre') else ''}
                 <h3>{esc(s['synopsis'])}</h3><div class="synopsis">{synopsis_html}</div>
                 {render_lead_magnet(bdata, lang)}
+                {render_direct_sale(bdata, lang)}
                 <h3>{esc(s['available_on'])}</h3>
                 <div class="buy-links">{buy_html}</div>
             </div>
