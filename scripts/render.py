@@ -21,9 +21,9 @@ ALL_LANGS = ['bg', 'en', 'de', 'fr', 'it', 'nl', 'es', 'pt', 'se']
 UI_LANGS = ['en', 'bg']
 
 NAV_LABELS = {
-    'en': [('/', 'Home'), ('library/', 'The Library'), ('news/', 'News'),
+    'en': [('/', 'Home'), ('library/', 'The Library'), ('store/', 'Bookshop'), ('news/', 'News'),
            ('about/', 'About'), ('contact/', 'Contact')],
-    'bg': [('/', 'Начало'), ('library/', 'Библиотека'), ('news/', 'Новини'),
+    'bg': [('/', 'Начало'), ('library/', 'Библиотека'), ('store/', 'Книжарница'), ('news/', 'Новини'),
            ('about/', 'За автора'), ('contact/', 'Контакти')],
 }
 
@@ -58,6 +58,13 @@ UI_STRINGS = {
         'terms_of_service': 'Terms of Service',
         'customer_support': 'Customer support',
         'search': 'Search',
+        'store': 'Bookshop',
+        'store_intro': 'These editions come straight from the author, without a middleman. The download link arrives the moment the payment goes through.',
+        'store_note': 'Payment and invoicing are handled by Creem, the Merchant of Record for these orders. Books are delivered as EPUB files. The details are in the {terms}.',
+        'store_heading': 'Buy direct from the author',
+        'store_cta': 'Visit the bookshop',
+        'editions_in': 'Editions in',
+        'read_excerpt_short': 'Read excerpt',
         'search_placeholder': 'Search for a book…',
         'search_none': 'Nothing found',
         'by': 'by',
@@ -95,6 +102,13 @@ UI_STRINGS = {
         'terms_of_service': 'Общи условия',
         'customer_support': 'Обслужване на клиенти',
         'search': 'Търсене',
+        'store': 'Книжарница',
+        'store_intro': 'Книги, които се продават направо от автора, без посредник. Линкът за изтегляне идва в мига, в който плащането мине.',
+        'store_note': 'Плащането и фактурите минават през Creem, продавач по договор за тези поръчки. Книгите се доставят във формат EPUB. Подробностите са в {terms}.',
+        'store_heading': 'Купи директно от автора',
+        'store_cta': 'Към книжарницата',
+        'editions_in': 'Издания на',
+        'read_excerpt_short': 'Прочети откъс',
         'search_placeholder': 'Търсене на книга…',
         'search_none': 'Няма намерено',
         'by': 'от',
@@ -131,6 +145,32 @@ PRICE_FORMATS = {
     'pt': (',', '{amount} €'),
     'se': (',', '{amount} €'),
 }
+
+
+# Short form of the same button, for the bookshop rows where the price stands on its own.
+BUY_DIRECT_SHORT = {
+    'bg': 'Купи директно',
+    'en': 'Buy direct',
+    'de': 'Direkt kaufen',
+    'fr': 'Acheter directement',
+    'it': 'Acquista direttamente',
+    'nl': 'Direct kopen',
+    'es': 'Compra directa',
+    'pt': 'Compra direta',
+    'se': 'Köp direkt',
+}
+
+# Names of the book languages, in each of the two chrome languages.
+LANG_NAMES = {
+    'en': {'bg': 'Bulgarian', 'en': 'English', 'de': 'German', 'fr': 'French', 'it': 'Italian',
+           'nl': 'Dutch', 'es': 'Spanish', 'pt': 'Portuguese', 'se': 'Swedish'},
+    'bg': {'bg': 'български', 'en': 'английски', 'de': 'немски', 'fr': 'френски', 'it': 'италиански',
+           'nl': 'нидерландски', 'es': 'испански', 'pt': 'португалски', 'se': 'шведски'},
+}
+
+# Set by build.py: False hides the bookshop from the menu, the footer and the
+# homepage, so nothing ever points at an empty shelf.
+STORE_ACTIVE = False
 
 
 def esc(s):
@@ -190,6 +230,10 @@ def terms_path(lang):
     return prefix(lang) + '/terms-of-service/'
 
 
+def store_path(lang):
+    return prefix(lang) + '/store/'
+
+
 def site_title(data, lang):
     ui = ui_lang_of(lang)
     return data['meta'][ui]['siteTitle']
@@ -242,6 +286,8 @@ def layout(data, *, lang, path, title, description, body_html,
 
     nav_items = ''
     for href, label in NAV_LABELS[ui]:
+        if href == 'store/' and not STORE_ACTIVE:
+            continue
         is_active = (href == '/' and active_nav_base == '/') or \
                     (href != '/' and active_nav_base and active_nav_base.startswith(href))
         # Language-aware: the BG chrome must stay inside /bg/, not fall back to the EN pages.
@@ -328,7 +374,7 @@ def layout(data, *, lang, path, title, description, body_html,
 
     <footer>
         <div class="container">
-            <p>© 2024 Crispin Thorn. All rights reserved. | <a href="{privacy_path(ui)}">{esc(strings['privacy_policy'])}</a> | <a href="{terms_path(ui)}">{esc(strings['terms_of_service'])}</a></p>
+            <p>© 2024 Crispin Thorn. All rights reserved. | <a href="{privacy_path(ui)}">{esc(strings['privacy_policy'])}</a> | <a href="{terms_path(ui)}">{esc(strings['terms_of_service'])}</a>{f' | <a href="{store_path(ui)}">{esc(strings["store"])}</a>' if STORE_ACTIVE else ''}</p>
             <p class="footer-support">{esc(strings['customer_support'])}: <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a></p>
         </div>
     </footer>
@@ -380,7 +426,7 @@ def _rel_img(path):
 # PAGE BODIES
 # ─────────────────────────────────────────────────────────────────────────
 
-def render_homepage(data, lang, latest_news_html=''):
+def render_homepage(data, lang, latest_news_html='', store_band=''):
     ui = ui_lang_of(lang)
     s = UI_STRINGS[ui]
     meta = data['meta'][ui]
@@ -396,6 +442,7 @@ def render_homepage(data, lang, latest_news_html=''):
             <h2>{esc(s['latest_works'])}</h2>
             <div class="books-grid-featured">{''.join(cards)}</div>
             <div class="all-books-link"><a href="{library_path(lang)}" class="btn">{esc(s['explore_library'])}</a></div>
+            {store_band}
             {latest_news_html}
         </div>"""
     return body
@@ -627,6 +674,77 @@ def render_contact_page(lang):
 
 def render_privacy_page(lang, title, body_html):
     return f'<div class="container text-page"><h1>{esc(title)}</h1>{body_html}</div>'
+
+
+def store_row(entry, ui):
+    """One purchasable edition: cover, what it is, and the way to buy it."""
+    lang = entry['lang']
+    book_url = book_path(entry['id'], lang)
+    cover = entry.get('cover') or 'images/common/cover-placeholder.jpg'
+    overline = ' · '.join(filter(None, [entry.get('series'), LANG_NAMES[ui].get(lang, lang.upper())]))
+    genre = f'<p class="store-genre">{esc(entry["genre"])}</p>' if entry.get('genre') else ''
+    teaser = f'<p class="store-teaser">{esc(entry["teaser"])}</p>' if entry.get('teaser') else ''
+    excerpt = (f'<a class="store-excerpt" href="{excerpt_path(entry["id"], lang)}">'
+               f'{esc(UI_STRINGS[ui]["read_excerpt_short"])}</a>') if entry.get('has_excerpt') else ''
+    return f"""
+            <article class="store-item">
+                <a class="store-cover" href="{book_url}"><img src="/{esc(cover)}" alt="{esc(entry['title'])}" loading="lazy"></a>
+                <div class="store-body">
+                    <p class="store-overline">{esc(overline)}</p>
+                    <h3 class="store-title"><a href="{book_url}">{esc(entry['title'])}</a></h3>
+                    {genre}
+                    {teaser}
+                </div>
+                <div class="store-buy">
+                    <span class="store-price">{esc(format_price(entry['price'], lang))}</span>
+                    <a class="direct-sale-btn" href="{esc(entry['url'])}" target="_blank" rel="noopener">{esc(BUY_DIRECT_SHORT[ui])}</a>
+                    {excerpt}
+                </div>
+            </article>"""
+
+
+def render_store_page(entries, lang):
+    """The bookshop: every edition the author sells directly, grouped by language
+    only once there is more than one — a lone section heading looks like a mistake."""
+    ui = ui_lang_of(lang)
+    s = UI_STRINGS[ui]
+    langs = [l for l in ALL_LANGS if any(e['lang'] == l for e in entries)]
+    sections = []
+    for l in langs:
+        rows = ''.join(store_row(e, ui) for e in entries if e['lang'] == l)
+        head = (f'<h2 class="store-lang-head">{esc(s["editions_in"])} {esc(LANG_NAMES[ui][l])}</h2>'
+                if len(langs) > 1 else '')
+        sections.append(head + f'<div class="store-list">{rows}</div>')
+    terms_link = f'<a href="{terms_path(ui)}">{esc(s["terms_of_service"])}</a>'
+    note = esc(s['store_note']).replace('{terms}', terms_link)
+    return f"""
+        <div class="container store-page">
+            <h1>{esc(s['store'])}</h1>
+            <p class="store-intro">{esc(s['store_intro'])}</p>
+            {''.join(sections)}
+            <p class="store-note">{note}</p>
+        </div>"""
+
+
+def render_store_band(entries, lang):
+    """Homepage strip pointing at the bookshop. Silent when nothing is on sale."""
+    if not entries:
+        return ''
+    ui = ui_lang_of(lang)
+    s = UI_STRINGS[ui]
+    covers = ''.join(
+        f'<img src="/{esc(e.get("cover") or "images/common/cover-placeholder.jpg")}" alt="{esc(e["title"])}" loading="lazy">'
+        for e in entries[:3]
+    )
+    return f"""
+        <section class="store-band">
+            <div class="store-band-covers">{covers}</div>
+            <div class="store-band-text">
+                <h2>{esc(s['store_heading'])}</h2>
+                <p>{esc(s['store_intro'])}</p>
+                <a class="direct-sale-btn" href="{store_path(ui)}">{esc(s['store_cta'])}</a>
+            </div>
+        </section>"""
 
 
 def render_terms_page(lang, title, body_html):
