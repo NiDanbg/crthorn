@@ -136,7 +136,7 @@ BUY_DIRECT_LABELS = {
 # the amount and the symbol on the same line.
 PRICE_FORMATS = {
     'bg': (',', '{amount} €'),
-    'en': ('.', '${amount}'),   # English editions are sold in dollars on Creem
+    'en': ('.', '€{amount}'),
     'de': (',', '{amount} €'),
     'fr': (',', '{amount} €'),
     'it': (',', '{amount} €'),

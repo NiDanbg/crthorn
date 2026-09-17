@@ -564,7 +564,7 @@ const authorData = {
                             "genre": "Epic Fantasy",
                             "cover": "images/en/boria-1.webp",
                             "direct_sale_active": true,
-                            "price": "3.00",
+                            "price": "2.99",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_1oKqFolP69v5ZLAIshsvrV",
                             "synopsis": "synopsis/en/the-healer-of-blackstone.txt",
                             "excerpt": "books/en/the-healer-of-blackstone.md"
@@ -1370,6 +1370,9 @@ const authorData = {
                     "i18n": {
                         "bg": {
                             "cover": "images/bg/The_Heiress-BG.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_59NdUTKPxpU4YNv9UhEN0D",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/bg/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1396,6 +1399,9 @@ const authorData = {
                         },
                         "en": {
                             "cover": "images/en/The_Heiress-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5CmWLjQLquohbqXpQPrNnd",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/en/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1564,6 +1570,9 @@ const authorData = {
                     "i18n": {
                         "bg": {
                             "cover": "images/bg/The-Regent-BG.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1DHT14EdVJdGwQrz2zKKwp",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/bg/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1590,6 +1599,9 @@ const authorData = {
                         },
                         "en": {
                             "cover": "images/en/The-Regent-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7epECHMbo6wvMfnJg2cbmo",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/en/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1758,6 +1770,9 @@ const authorData = {
                     "i18n": {
                         "bg": {
                             "cover": "images/bg/The_Empress-BG.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1BbAxpSlfNVdHav4sIATjO",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/bg/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1784,6 +1799,9 @@ const authorData = {
                         },
                         "en": {
                             "cover": "images/en/The_Empress-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1v0yX1hTn9zQ1AJ8GD1UnZ",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/en/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
