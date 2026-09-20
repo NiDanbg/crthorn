@@ -398,7 +398,9 @@ footer a { color: var(--color-secondary); }
 
 /* --- СТИЛОВЕ ЗА НАЧАЛНА СТРАНИЦА --- */
 .hero-section {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/images/common/hero-bg.jpg'); /* Сложи тук подходящ фон */
+    /* Фонова снимка още няма. Щом се появи, добави я тук като втори слой:
+       url('/images/common/hero-bg.jpg') */
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), var(--color-background);
     background-size: cover;
     background-position: center;
     color: var(--color-white);
@@ -1369,3 +1371,13 @@ main {
 
 .store-band-text h2 { text-align: left; font-size: 1.5rem; }
 .store-band .direct-sale-btn { padding: 11px 24px; font-size: 0.95rem; }
+
+/* --- ИЗРИЧНО ИЗРЕЧЕНИЕ ЗА КНИГАТА (за читатели и за ИИ) --- */
+.book-facts {
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--color-text-light);
+    margin: 0.6rem 0 1.4rem;
+    padding-left: 0.9rem;
+    border-left: 2px solid var(--color-border);
+}
