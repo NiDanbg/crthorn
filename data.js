@@ -1418,6 +1418,9 @@ const authorData = {
                         },
                         "es": {
                             "cover": "images/es/La_heredera-ES.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7LfewqOCTTT4ngcJOsHBbQ",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/es/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1447,6 +1450,9 @@ const authorData = {
                         },
                         "it": {
                             "cover": "images/it/LErede-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7IClPIdoou9Y0T8YpgS6aj",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/it/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1476,6 +1482,9 @@ const authorData = {
                         },
                         "pt": {
                             "cover": "images/pt/A_Herdeira-PT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_20LHlI6L2CaqoMpdaBWMrx",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/pt/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1489,6 +1498,9 @@ const authorData = {
                         },
                         "se": {
                             "cover": "images/se/Arvtagaren-SV.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_14QdBM3YqkWGscplr29TFg",
+                            "direct_sale_active": true,
+                            "price": "2.99",
                             "excerpt": "books/se/the-heiress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1627,6 +1639,9 @@ const authorData = {
                         },
                         "es": {
                             "cover": "images/es/La_regente-ES.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5YHcYt7q9Tku4NvnFT9pu6",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/es/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1656,6 +1671,9 @@ const authorData = {
                         },
                         "it": {
                             "cover": "images/it/La_Reggente-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_2W3OXx0GpPowDBbwrQb5Lg",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/it/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1685,6 +1703,9 @@ const authorData = {
                         },
                         "pt": {
                             "cover": "images/pt/A_Regente-PT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_6ChiUAFsy4NmxSsvfcioO4",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/pt/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1698,6 +1719,9 @@ const authorData = {
                         },
                         "se": {
                             "cover": "images/se/Regenten-SE.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_70u194qIjylwHTcCaak5n9",
+                            "direct_sale_active": true,
+                            "price": "3.99",
                             "excerpt": "books/se/the-regent.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1836,6 +1860,9 @@ const authorData = {
                         },
                         "es": {
                             "cover": "images/es/La_emperatriz-ES.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3EYikkJotWmyVcwWbNnnZx",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/es/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1865,6 +1892,9 @@ const authorData = {
                         },
                         "it": {
                             "cover": "images/it/LImperatrice-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3RubWuIZsqFKJLlYxUe8ho",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/it/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1894,6 +1924,9 @@ const authorData = {
                         },
                         "pt": {
                             "cover": "images/pt/A_Imperatriz-PT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_4eAhrUFg085K2Vbuy32OTq",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/pt/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
@@ -1907,6 +1940,9 @@ const authorData = {
                         },
                         "se": {
                             "cover": "images/se/Kejsarinnan-SE.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3BfMiIC2lVWHAcadrq9QUL",
+                            "direct_sale_active": true,
+                            "price": "4.49",
                             "excerpt": "books/se/the-empress.md",
                             "genre": "military sci-fi",
                             "leadMagnet": {
