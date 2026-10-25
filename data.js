@@ -2151,7 +2151,7 @@ const authorData = {
                 }
             },
             "id": "the-chrysanthemum-chronicles",
-            "seriesImage": "images/common/jpg"
+            "seriesImage": "images/common/chrysanthemum-series.jpg"
         }
     ],
     "short_stories": [
