@@ -1275,10 +1275,10 @@ const authorData = {
                             "cover": "images/bg/-bg.webp",
                             "published": "2026",
                             "leadMagnet": {
-                                "enabled": false,
+                                "enabled": true,
                                 "bannerText": "ВЗЕМЕТЕ СВОЯТА БЕЗПЛАТНА НОВЕЛА - ПРЕДИСТОРИЯ СЕГА!\nИскате ли да се потопите по-дълбоко във вселената на Кръв и звезден прах? \nКато специален подарък за моите читатели, подготвих \"КЛЮЧЪТ\" – ексклузивна новела предистория, която разкрива как е започнало всичко преди 20 000 години. Тази история не можете да намерите по магазините, но можете да я изтеглите тук НАПЪЛНО БЕЗПЛАТНО и още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на безплатната новела предговор!",
                                 "image": "",
-                                "senderFormId": ""
+                                "senderFormId": "eVOLo9"
                             },
                             "synopsis": "synopsis/bg/frontier-black.txt",
                             "excerpt": "books/bg/frontier-black.md"
@@ -1298,7 +1298,18 @@ const authorData = {
                             "excerpt": "books/en/frontier-black.md"
                         }
                     },
-                    "links": [],
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/mgVvvX"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/3JNv9K"
+                        }
+                    ],
                     "position": 5
                 }
             ],
