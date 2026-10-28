@@ -1280,6 +1280,9 @@ const authorData = {
                                 "image": "",
                                 "senderFormId": "eVOLo9"
                             },
+                            "direct_sale_active": true,
+                            "price": "4.20",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5QWgOE3CGgLisPA6kN4o5B",
                             "synopsis": "synopsis/bg/frontier-black.txt",
                             "excerpt": "books/bg/frontier-black.md"
                         },
@@ -1289,11 +1292,14 @@ const authorData = {
                             "cover": "images/en/Frontier-Black-EN.webp",
                             "published": "2026",
                             "leadMagnet": {
-                                "enabled": false,
+                                "enabled": true,
                                 "bannerText": "GET YOUR FREE PREQUEL NOVELLA NOW!\nWant to dive deeper into the Blood and Stardust universe?\nAs a special gift for my readers, I've put together \"THE KEY\"—an exclusive prequel novella that reveals how it all began 20,000 years ago. You won't find this story in stores, but you can download it right here, COMPLETELY FREE, right now.\n👉 Click the button below and we'll email you a download link for your free prequel novella!",
                                 "image": "",
-                                "senderFormId": ""
+                                "senderFormId": "b68PGQ"
                             },
+                            "direct_sale_active": true,
+                            "price": "4.2",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_6x9gELntPEDoIyKUQHKW76",
                             "synopsis": "synopsis/en/frontier-black.txt",
                             "excerpt": "books/en/frontier-black.md"
                         }
