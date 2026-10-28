@@ -761,148 +761,6 @@ const authorData = {
                 {
                     "i18n": {
                         "de": {
-                            "cover": "images/de/uraltes-blau.webp",
-                            "excerpt": "books/de/uraltes-blau.md",
-                            "genre": "Science Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/de/uraltes-blau.txt",
-                            "title": "Uraltes Blau"
-                        },
-                        "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
-                            "excerpt": "books/en/ancient-blue.md",
-                            "genre": "Science Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/en/ancient-blue.txt",
-                            "title": "Ancient Blue"
-                        },
-                        "es": {
-                            "cover": "images/es/azul-аncestral.webp",
-                            "excerpt": "books/es/azul-аncestral.md",
-                            "genre": "Ciencia Ficción",
-                            "published": "2024",
-                            "synopsis": "synopsis/es/azul-аncestral.txt",
-                            "title": "Azul Ancestral"
-                        },
-                        "fr": {
-                            "cover": "images/fr/bleu-ancien.webp",
-                            "excerpt": "books/fr/bleu-ancien.md",
-                            "genre": "Science-Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/fr/bleu-ancien.txt",
-                            "title": "Bleu Ancien"
-                        },
-                        "it": {
-                            "cover": "images/it/l'antico-blu.webp",
-                            "excerpt": "books/it/l'antico-blu.md",
-                            "genre": "Fantascienza",
-                            "published": "2024",
-                            "synopsis": "synopsis/it/l'antico-blu.txt",
-                            "title": "L'Antico Blu"
-                        },
-                        "nl": {
-                            "cover": "images/nl/oeroud-blauw.webp",
-                            "excerpt": "books/nl/oeroud-blauw.md",
-                            "genre": "Science Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
-                            "title": "Oeroud Blauw"
-                        },
-                        "pt": {
-                            "cover": "images/pt/Cover-Azul_Ancestral-el-_PT.webp",
-                            "excerpt": "books/pt/drevno-sinio.md",
-                            "genre": "Science Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/pt/drevno-sinio.txt",
-                            "title": "Azul Ancestral"
-                        },
-                        "se": {
-                            "cover": "images/se/Uraldrig_bla.webp",
-                            "excerpt": "books/se/drevno-sinio.md",
-                            "genre": "Science Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/se/drevno-sinio.txt",
-                            "title": "Uråldrig blå"
-                        }
-                    },
-                    "id": "drevno-sinio",
-                    "links": [
-                        {
-                            "lang": "EN",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3L2Nke"
-                        },
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DHVGH23L"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/38aRxL"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4EV7PA"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKC7YXK7"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3ypoxL"
-                        },
-                        {
-                            "lang": "ES",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
-                        },
-                        {
-                            "lang": "ES",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/bz5gL9"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0DY58ZNN2"
-                        },
-                        {
-                            "lang": "NL",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/mdBwNX"
-                        },
-                        {
-                            "lang": "PT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FZY6NCG3"
-                        },
-                        {
-                            "lang": "SE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FNRM5BSZ"
-                        }
-                    ],
-                    "position": 1
-                },
-                {
-                    "i18n": {
-                        "de": {
                             "cover": "images/de/rot-und-uraltes-blau.webp",
                             "excerpt": "books/de/rot-und-uraltes-blau.md",
                             "genre": "Science-Fiction",
@@ -1023,248 +881,425 @@ const authorData = {
                     "position": 2
                 },
                 {
+                    "id": "drevno-sinio",
                     "i18n": {
-                        "de": {
-                            "cover": "images/de/kosmisches-rot.webp",
-                            "excerpt": "books/de/kosmisches-rot.md",
-                            "genre": "Science-Fiction",
-                            "published": "2024",
-                            "synopsis": "synopsis/de/kosmisches-rot.txt",
-                            "title": "Kosmisches Rot"
-                        },
                         "en": {
-                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
-                            "excerpt": "books/en/cosmic-red.md",
-                            "genre": "Science Fiction",
+                            "title": "Ancient Blue",
+                            "genre": "Science Fiction, Space opera",
+                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/en/cosmic-red.txt",
-                            "title": "Cosmic Red"
+                            "synopsis": "synopsis/en/ancient-blue.txt",
+                            "excerpt": "books/en/ancient-blue.md"
                         },
-                        "es": {
-                            "cover": "images/es/rojo-cósmico.webp",
-                            "excerpt": "books/es/rojo-cósmico.md",
-                            "genre": "Ciencia Ficción",
+                        "de": {
+                            "title": "Uraltes Blau",
+                            "genre": "Science Fiction, Space opera",
+                            "cover": "images/de/uraltes-blau.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/es/rojo-cósmico.txt",
-                            "title": "Rojo Cósmico"
+                            "synopsis": "synopsis/de/uraltes-blau.txt",
+                            "excerpt": "books/de/uraltes-blau.md"
                         },
                         "fr": {
-                            "cover": "images/fr/rouge-cosmique.webp",
-                            "excerpt": "books/fr/rouge-cosmique.md",
-                            "genre": "Science-Fiction",
+                            "title": "Bleu Ancien",
+                            "genre": "Science Fiction, Space opera",
+                            "cover": "images/fr/bleu-ancien.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
-                            "title": "Rouge Cosmique"
+                            "synopsis": "synopsis/fr/bleu-ancien.txt",
+                            "excerpt": "books/fr/bleu-ancien.md"
                         },
                         "it": {
-                            "cover": "images/it/rosso-cosmico.webp",
-                            "excerpt": "books/it/rosso-cosmico.md",
+                            "title": "L'Antico Blu",
                             "genre": "Fantascienza",
+                            "cover": "images/it/l'antico-blu.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/it/rosso-cosmico.txt",
-                            "title": "Rosso Cosmico"
+                            "synopsis": "synopsis/it/l'antico-blu.txt",
+                            "excerpt": "books/it/l'antico-blu.md"
                         },
                         "nl": {
-                            "cover": "images/nl/kosmisch-rood.webp",
-                            "excerpt": "books/nl/kosmisch-rood.md",
-                            "genre": "Science Fiction",
+                            "title": "Oeroud Blauw",
+                            "genre": "Science Fiction, Space opera",
+                            "cover": "images/nl/oeroud-blauw.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
-                            "title": "Kosmisch Rood"
+                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
+                            "excerpt": "books/nl/oeroud-blauw.md"
+                        },
+                        "es": {
+                            "title": "Azul Ancestral",
+                            "genre": "Ciencia Ficción",
+                            "cover": "images/es/azul-аncestral.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/es/azul-аncestral.txt",
+                            "excerpt": "books/es/azul-аncestral.md"
                         },
                         "pt": {
-                            "cover": "images/pt/Cover-Vermelho_Cosmico-el.webp",
-                            "excerpt": "books/pt/kosmichesko-cherveno.md",
+                            "title": "Azul Ancestral",
                             "genre": "Science Fiction",
+                            "cover": "images/pt/Cover-Azul_Ancestral-el-_PT.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/pt/kosmichesko-cherveno.txt",
-                            "title": "Vermelho Cósmico"
+                            "synopsis": "synopsis/pt/drevno-sinio.txt",
+                            "excerpt": "books/pt/drevno-sinio.md"
                         },
                         "se": {
-                            "cover": "images/se/KOSMISK-ROD-el.webp",
-                            "excerpt": "books/se/kosmichesko-cherveno.md",
+                            "title": "Uråldrig blå",
                             "genre": "Science Fiction",
+                            "cover": "images/se/Uraldrig_bla.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/se/kosmichesko-cherveno.txt",
-                            "title": "Kosmisk röd"
+                            "synopsis": "synopsis/se/drevno-sinio.txt",
+                            "excerpt": "books/se/drevno-sinio.md"
                         }
                     },
-                    "id": "kosmichesko-cherveno",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/3L2Nke"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0DHVGH23L"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/38aRxL"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "IT",
+                            "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "IT",
+                            "url": "https://books2read.com/u/4EV7PA"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "FR",
+                            "url": "https://www.amazon.com/dp/B0DKC7YXK7"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/3ypoxL"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "ES",
+                            "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "ES",
+                            "url": "https://books2read.com/u/bz5gL9"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "NL",
+                            "url": "https://www.amazon.com/dp/B0DY58ZNN2"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "NL",
+                            "url": "https://books2read.com/u/mdBwNX"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "PT",
+                            "url": "https://www.amazon.com/dp/B0FZY6NCG3"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0FNRM5BSZ"
+                        }
+                    ],
+                    "position": 1
+                },
+                {
+                    "id": "kosmichesko-cherveno",
+                    "i18n": {
+                        "en": {
+                            "title": "Cosmic Red",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/en/cosmic-red.txt",
+                            "excerpt": "books/en/cosmic-red.md"
+                        },
+                        "de": {
+                            "title": "Kosmisches Rot",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/de/kosmisches-rot.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/de/kosmisches-rot.txt",
+                            "excerpt": "books/de/kosmisches-rot.md"
+                        },
+                        "fr": {
+                            "title": "Rouge Cosmique",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/fr/rouge-cosmique.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
+                            "excerpt": "books/fr/rouge-cosmique.md"
+                        },
+                        "it": {
+                            "title": "Rosso Cosmico",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/it/rosso-cosmico.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/it/rosso-cosmico.txt",
+                            "excerpt": "books/it/rosso-cosmico.md"
+                        },
+                        "nl": {
+                            "title": "Kosmisch Rood",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/nl/kosmisch-rood.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
+                            "excerpt": "books/nl/kosmisch-rood.md"
+                        },
+                        "es": {
+                            "title": "Rojo Cósmico",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/es/rojo-cósmico.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/es/rojo-cósmico.txt",
+                            "excerpt": "books/es/rojo-cósmico.md"
+                        },
+                        "pt": {
+                            "title": "Vermelho Cósmico",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/pt/Cover-Vermelho_Cosmico-el.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/pt/kosmichesko-cherveno.txt",
+                            "excerpt": "books/pt/kosmichesko-cherveno.md"
+                        },
+                        "se": {
+                            "title": "Kosmisk röd",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/se/KOSMISK-ROD-el.webp",
+                            "published": "2024",
+                            "synopsis": "synopsis/se/kosmichesko-cherveno.txt",
+                            "excerpt": "books/se/kosmichesko-cherveno.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/mZ6pll"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0DQVZ8978"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Amazon",
+                            "lang": "DE",
                             "url": "https://www.amazon.com/dp/B0DR74K3T6"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Amazon",
+                            "lang": "IT",
                             "url": "https://www.amazon.com/dp/B0DRCG6YVZ"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
+                            "lang": "FR",
                             "url": "https://www.amazon.com/dp/B0F9D9LYVH"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
+                            "lang": "FR",
                             "url": "https://books2read.com/u/4jQ192"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Amazon",
+                            "lang": "ES",
                             "url": "https://www.amazon.com/dp/B0F9FSFC3F"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
+                            "lang": "NL",
                             "url": "https://www.amazon.com/dp/B0F1Y8X2FW"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
+                            "lang": "PT",
                             "url": "https://www.amazon.com/dp/B0G16CQ2BN"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Amazon",
+                            "lang": "SE",
                             "url": "https://www.amazon.com/dp/B0FP59NYGP"
                         }
                     ],
                     "position": 3
                 },
                 {
+                    "id": "stomaneno-sivo",
                     "i18n": {
-                        "de": {
-                            "cover": "images/de/stählernes-grau.webp",
-                            "excerpt": "books/de/stählernes-grau.md",
-                            "genre": "Science-Fiction",
-                            "published": "2025",
-                            "synopsis": "synopsis/de/stählernes-grau.txt",
-                            "title": "Stählernes Grau"
-                        },
                         "en": {
+                            "title": "Steel Gray",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/en/krav-i-zvezden-prah-4.webp",
-                            "excerpt": "books/en/steel-gray.md",
-                            "genre": "Science Fiction",
                             "published": "2025",
                             "synopsis": "synopsis/en/steel-gray.txt",
-                            "title": "Steel Gray"
+                            "excerpt": "books/en/steel-gray.md"
                         },
-                        "es": {
-                            "cover": "images/es/GRIS_DE_ACERO_-_e-book-ES.webp",
-                            "excerpt": "books/es/stomaneno-sivo.md",
-                            "genre": "Science Fiction",
+                        "de": {
+                            "title": "Stählernes Grau",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/de/stählernes-grau.webp",
                             "published": "2025",
-                            "synopsis": "synopsis/es/stomaneno-sivo.txt",
-                            "title": "Gris de Acero"
+                            "synopsis": "synopsis/de/stählernes-grau.txt",
+                            "excerpt": "books/de/stählernes-grau.md"
                         },
                         "fr": {
+                            "title": "Gris Acier",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/fr/gris-acier.webp",
-                            "excerpt": "books/fr/gris-acier.md",
-                            "genre": "Science-Fiction",
                             "published": "2025",
                             "synopsis": "synopsis/fr/gris-acier.txt",
-                            "title": "Gris Acier"
+                            "excerpt": "books/fr/gris-acier.md"
                         },
                         "it": {
+                            "title": "Grigio d'Acciaio",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/it/grigio-d'acciaio.webp",
-                            "excerpt": "books/it/grigio-d'acciaio.md",
-                            "genre": "Fantascienza",
                             "published": "2025",
                             "synopsis": "synopsis/it/grigio-d'acciaio.txt",
-                            "title": "Grigio d'Acciaio"
+                            "excerpt": "books/it/grigio-d'acciaio.md"
                         },
                         "nl": {
+                            "title": "Staalgrijs",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/nl/staalgrijs.webp",
-                            "excerpt": "books/nl/staalgrijs.md",
-                            "genre": "Science Fiction",
                             "published": "2025",
                             "synopsis": "synopsis/nl/staalgrijs.txt",
-                            "title": "Staalgrijs"
+                            "excerpt": "books/nl/staalgrijs.md"
+                        },
+                        "es": {
+                            "title": "Gris de Acero",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/es/GRIS_DE_ACERO_-_e-book-ES.webp",
+                            "published": "2025",
+                            "synopsis": "synopsis/es/stomaneno-sivo.txt",
+                            "excerpt": "books/es/stomaneno-sivo.md"
                         },
                         "pt": {
+                            "title": "Cinza de Aço",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/pt/Cinza_de_Aco_-_e-book-PT.webp",
-                            "excerpt": "books/pt/stomaneno-sivo.md",
-                            "genre": "Science Fiction",
                             "published": "2025",
                             "synopsis": "synopsis/pt/stomaneno-sivo.txt",
-                            "title": "Cinza de Aço"
+                            "excerpt": "books/pt/stomaneno-sivo.md"
                         },
                         "se": {
+                            "title": "Stålgrå",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/se/Cover-Stalgra-e-book.webp",
-                            "excerpt": "books/se/stomaneno-sivo.md",
-                            "genre": "Science Fiction",
                             "published": "2025",
                             "synopsis": "synopsis/se/stomaneno-sivo.txt",
-                            "title": "Stålgrå"
+                            "excerpt": "books/se/stomaneno-sivo.md"
                         }
                     },
-                    "id": "stomaneno-sivo",
                     "links": [
                         {
-                            "lang": "EN",
                             "platform": "Draft2Digital",
+                            "lang": "EN",
                             "url": "https://books2read.com/u/3JMJBK"
                         },
                         {
-                            "lang": "EN",
                             "platform": "Amazon",
+                            "lang": "EN",
                             "url": "https://www.amazon.com/dp/B0F2SY25S5"
                         },
                         {
-                            "lang": "DE",
                             "platform": "Amazon",
+                            "lang": "DE",
                             "url": "https://www.amazon.com/dp/B0DZVNDZ46"
                         },
                         {
-                            "lang": "IT",
                             "platform": "Amazon",
+                            "lang": "IT",
                             "url": "https://www.amazon.com/dp/B0F88LPQW9"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Amazon",
+                            "lang": "FR",
                             "url": "https://www.amazon.com/dp/B0F99VQFGF"
                         },
                         {
-                            "lang": "FR",
                             "platform": "Draft2Digital",
+                            "lang": "FR",
                             "url": "https://books2read.com/u/4AyxEp"
                         },
                         {
-                            "lang": "NL",
                             "platform": "Amazon",
+                            "lang": "NL",
                             "url": "https://www.amazon.com/dp/B0FHWQVH7Q"
                         },
                         {
-                            "lang": "ES",
                             "platform": "Amazon",
+                            "lang": "ES",
                             "url": "https://www.amazon.es/dp/B0G1CVNLQC"
                         },
                         {
-                            "lang": "PT",
                             "platform": "Amazon",
+                            "lang": "PT",
                             "url": "https://www.amazon.com/dp/B0G1BPXMGW"
                         },
                         {
-                            "lang": "SE",
                             "platform": "Amazon",
+                            "lang": "SE",
                             "url": "https://www.amazon.com/dp/B0FQJTD6DH"
                         }
                     ],
                     "position": 4
+                },
+                {
+                    "id": "frontier-black",
+                    "i18n": {
+                        "bg": {
+                            "title": "Погранично черно",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/bg/-bg.webp",
+                            "published": "2026",
+                            "leadMagnet": {
+                                "enabled": false,
+                                "bannerText": "ВЗЕМЕТЕ СВОЯТА БЕЗПЛАТНА НОВЕЛА - ПРЕДИСТОРИЯ СЕГА!\nИскате ли да се потопите по-дълбоко във вселената на Кръв и звезден прах? \nКато специален подарък за моите читатели, подготвих \"КЛЮЧЪТ\" – ексклузивна новела предистория, която разкрива как е започнало всичко преди 20 000 години. Тази история не можете да намерите по магазините, но можете да я изтеглите тук НАПЪЛНО БЕЗПЛАТНО и още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на безплатната новела предговор!",
+                                "image": "",
+                                "senderFormId": ""
+                            },
+                            "synopsis": "synopsis/bg/frontier-black.txt",
+                            "excerpt": "books/bg/frontier-black.md"
+                        },
+                        "en": {
+                            "title": "Frontier Black",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/en/Frontier-Black-EN.webp",
+                            "published": "2026",
+                            "leadMagnet": {
+                                "enabled": false,
+                                "bannerText": "GET YOUR FREE PREQUEL NOVELLA NOW!\nWant to dive deeper into the Blood and Stardust universe?\nAs a special gift for my readers, I've put together \"THE KEY\"—an exclusive prequel novella that reveals how it all began 20,000 years ago. You won't find this story in stores, but you can download it right here, COMPLETELY FREE, right now.\n👉 Click the button below and we'll email you a download link for your free prequel novella!",
+                                "image": "",
+                                "senderFormId": ""
+                            },
+                            "synopsis": "synopsis/en/frontier-black.txt",
+                            "excerpt": "books/en/frontier-black.md"
+                        }
+                    },
+                    "links": [],
+                    "position": 5
                 }
             ],
             "i18n": {
@@ -1450,692 +1485,692 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "the-heiress",
                     "i18n": {
                         "bg": {
-                            "title": "Наследница",
-                            "genre": "military sci-fi",
                             "cover": "images/bg/The_Heiress-BG.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_59NdUTKPxpU4YNv9UhEN0D",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на 3-те си безплатни истории!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bDkjAn"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_59NdUTKPxpU4YNv9UhEN0D",
                             "synopsis": "synopsis/bg/the-heiress.txt",
-                            "excerpt": "books/bg/the-heiress.md"
-                        },
-                        "en": {
-                            "title": "The Heiress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Heiress-EN.webp",
-                            "published": "2025",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "direct_sale_active": true,
-                            "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5CmWLjQLquohbqXpQPrNnd",
-                            "synopsis": "synopsis/en/the-heiress.txt",
-                            "excerpt": "books/en/the-heiress.md"
+                            "title": "Наследница"
                         },
                         "de": {
-                            "title": "Die Erbin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/Die_Erbin-DE.webp",
-                            "published": "2025",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_4wGLT7k2eOteuaSFp0I1cl",
+                            "direct_sale_active": true,
+                            "excerpt": "books/de/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicken Sie auf den untenstehenden Button und wir senden Ihnen per E-Mail einen Download-Link für Ihre 3 kostenlosen Geschichten!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bkR1Xv"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_4wGLT7k2eOteuaSFp0I1cl",
+                            "published": "2025",
                             "synopsis": "synopsis/de/the-heiress.txt",
-                            "excerpt": "books/de/the-heiress.md"
+                            "title": "Die Erbin"
                         },
-                        "fr": {
-                            "title": "L'Héritière",
-                            "genre": "military sci-fi",
-                            "cover": "images/fr/LHERITIERE-FR.webp",
-                            "published": "2025",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
-                                "image": "",
-                                "senderFormId": "bYE8Ap"
-                            },
+                        "en": {
+                            "cover": "images/en/The_Heiress-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5CmWLjQLquohbqXpQPrNnd",
                             "direct_sale_active": true,
-                            "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5NxaadpWVZqiLkE3SoSeJt",
-                            "synopsis": "synopsis/fr/the-heiress.txt",
-                            "excerpt": "books/fr/the-heiress.md"
-                        },
-                        "it": {
-                            "title": "L'Erede",
+                            "excerpt": "books/en/the-heiress.md",
                             "genre": "military sci-fi",
-                            "cover": "images/it/LErede-IT.webp",
-                            "published": "2025",
                             "leadMagnet": {
+                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
                                 "enabled": true,
-                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
                                 "image": "",
-                                "senderFormId": "bkR1mY"
+                                "senderFormId": "erkDWw"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_7IClPIdoou9Y0T8YpgS6aj",
-                            "synopsis": "synopsis/it/the-heiress.txt",
-                            "excerpt": "books/it/the-heiress.md"
-                        },
-                        "nl": {
-                            "title": "De Erfgename",
-                            "genre": "military sci-fi",
-                            "cover": "images/nl/De_Erfgename-NL.webp",
                             "published": "2025",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "direct_sale_active": true,
-                            "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_2C50GzhzvOTduo6wPBQ7FU",
-                            "synopsis": "synopsis/nl/the-heiress.txt",
-                            "excerpt": "books/nl/the-heiress.md"
+                            "synopsis": "synopsis/en/the-heiress.txt",
+                            "title": "The Heiress"
                         },
                         "es": {
-                            "title": "La heredera",
-                            "genre": "military sci-fi",
                             "cover": "images/es/La_heredera-ES.webp",
-                            "published": "2025",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7LfewqOCTTT4ngcJOsHBbQ",
+                            "direct_sale_active": true,
+                            "excerpt": "books/es/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haga clic en el botón de abajo y le enviaremos por correo electrónico un enlace de descarga para sus 3 historias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "en53qW"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_7LfewqOCTTT4ngcJOsHBbQ",
+                            "published": "2025",
                             "synopsis": "synopsis/es/the-heiress.txt",
-                            "excerpt": "books/es/the-heiress.md"
+                            "title": "La heredera"
+                        },
+                        "fr": {
+                            "cover": "images/fr/LHERITIERE-FR.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5NxaadpWVZqiLkE3SoSeJt",
+                            "direct_sale_active": true,
+                            "excerpt": "books/fr/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bYE8Ap"
+                            },
+                            "price": "2.99",
+                            "published": "2025",
+                            "synopsis": "synopsis/fr/the-heiress.txt",
+                            "title": "L'Héritière"
+                        },
+                        "it": {
+                            "cover": "images/it/LErede-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7IClPIdoou9Y0T8YpgS6aj",
+                            "direct_sale_active": true,
+                            "excerpt": "books/it/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "price": "2.99",
+                            "published": "2025",
+                            "synopsis": "synopsis/it/the-heiress.txt",
+                            "title": "L'Erede"
+                        },
+                        "nl": {
+                            "cover": "images/nl/De_Erfgename-NL.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_2C50GzhzvOTduo6wPBQ7FU",
+                            "direct_sale_active": true,
+                            "excerpt": "books/nl/the-heiress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "price": "2.99",
+                            "published": "2025",
+                            "synopsis": "synopsis/nl/the-heiress.txt",
+                            "title": "De Erfgename"
                         },
                         "pt": {
-                            "title": "A Herdeira",
-                            "genre": "military sci-fi",
                             "cover": "images/pt/A_Herdeira-PT.webp",
-                            "published": "2025",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_20LHlI6L2CaqoMpdaBWMrx",
+                            "direct_sale_active": true,
+                            "excerpt": "books/pt/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "GARANTE AS TUAS 3 HISTÓRIAS INÉDITAS GRATUITAS!\nQueres mergulhar mais fundo no universo de As Crónicas do Crisântemo? Como presente especial para os meus leitores, preparei Os Arquivos Imperiais – uma coleção exclusiva de 3 prequelas em formato de conto, que revelam o passado oculto de Rami, Kenjiro e Akira. Estas histórias não estão à venda em nenhuma loja, mas podes descarregá-las TOTALMENTE GRÁTIS agora mesmo.\n👉 Clique no botão abaixo e enviaremos para o seu e-mail um link de download para as suas 3 histórias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "e0RxnL"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_20LHlI6L2CaqoMpdaBWMrx",
+                            "published": "2025",
                             "synopsis": "synopsis/pt/the-heiress.txt",
-                            "excerpt": "books/pt/the-heiress.md"
+                            "title": "A Herdeira"
                         },
                         "se": {
-                            "title": "Arvtagaren",
-                            "genre": "military sci-fi",
                             "cover": "images/se/Arvtagaren-SV.webp",
-                            "published": "2025",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_14QdBM3YqkWGscplr29TFg",
+                            "direct_sale_active": true,
+                            "excerpt": "books/se/the-heiress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HÄMTA DINA 3 GRATIS OBERÄTTADE HISTORIER!\nVill du dyka djupare in i universumet kring Krysantemumkrönikorna? Som en speciell gåva till mina läsare har jag sammanställt De kejserliga arkiven – en exklusiv samling av 3 prequel-noveller som avslöjar Ramis, Kenjiros och Akiras dolda förflutna. Dessa berättelser säljs inte i några butiker, men du kan ladda ner dem HELT GRATIS just nu.\n👉 Klicka på knappen nedan så skickar vi en nedladdningslänk för dina 3 gratis berättelser till din e-post!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "aADVg9"
                             },
-                            "direct_sale_active": true,
                             "price": "2.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_14QdBM3YqkWGscplr29TFg",
+                            "published": "2025",
                             "synopsis": "synopsis/se/the-heiress.txt",
-                            "excerpt": "books/se/the-heiress.md"
+                            "title": "Arvtagaren"
                         }
                     },
+                    "id": "the-heiress",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FXGYF8N7"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdB5Xl"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "BG",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/38jxEO"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/brNYBW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.de/dp/B0FXR7FQ7N"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4j8edj"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.nl/dp/B0G4JWMZBR"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/49zZQJ"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.fr/dp/B0FZ5324HR"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/m0RKxM"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0FXT47RVC"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mvezp6"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mgAwr6"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "ES",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4AEMXp"
                         }
                     ],
                     "position": 1
                 },
                 {
-                    "id": "the-regent",
                     "i18n": {
                         "bg": {
-                            "title": "Регент",
-                            "genre": "military sci-fi",
                             "cover": "images/bg/The-Regent-BG.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1DHT14EdVJdGwQrz2zKKwp",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на 3-те си безплатни истории!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bDkjAn"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_1DHT14EdVJdGwQrz2zKKwp",
-                            "synopsis": "synopsis/bg/the-regent.txt",
-                            "excerpt": "books/bg/the-regent.md"
-                        },
-                        "en": {
-                            "title": "The Regent",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The-Regent-EN.webp",
                             "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "direct_sale_active": true,
-                            "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_7epECHMbo6wvMfnJg2cbmo",
-                            "synopsis": "synopsis/en/the-regent.txt",
-                            "excerpt": "books/en/the-regent.md"
+                            "synopsis": "synopsis/bg/the-regent.txt",
+                            "title": "Регент"
                         },
                         "de": {
-                            "title": "Die Regentin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/Die-Regentin-DE.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_55qLKCfxh0GW3JK4ahNtaS",
+                            "direct_sale_active": true,
+                            "excerpt": "books/de/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicken Sie auf den untenstehenden Button und wir senden Ihnen per E-Mail einen Download-Link für Ihre 3 kostenlosen Geschichten!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bkR1Xv"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_55qLKCfxh0GW3JK4ahNtaS",
+                            "published": "2026",
                             "synopsis": "synopsis/de/the-regent.txt",
-                            "excerpt": "books/de/the-regent.md"
+                            "title": "Die Regentin"
                         },
-                        "fr": {
-                            "title": "La Régente",
-                            "genre": "military sci-fi",
-                            "cover": "images/fr/La_Regente-FR.webp",
-                            "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
-                                "image": "",
-                                "senderFormId": "bYE8Ap"
-                            },
+                        "en": {
+                            "cover": "images/en/The-Regent-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7epECHMbo6wvMfnJg2cbmo",
                             "direct_sale_active": true,
-                            "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_b67i8smPzb0HrWduDh8Xa",
-                            "synopsis": "synopsis/fr/the-regent.txt",
-                            "excerpt": "books/fr/the-regent.md"
-                        },
-                        "it": {
-                            "title": "La Reggente",
+                            "excerpt": "books/en/the-regent.md",
                             "genre": "military sci-fi",
-                            "cover": "images/it/La_Reggente-IT.webp",
-                            "published": "2026",
                             "leadMagnet": {
+                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
                                 "enabled": true,
-                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
                                 "image": "",
-                                "senderFormId": "bkR1mY"
+                                "senderFormId": "erkDWw"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_2W3OXx0GpPowDBbwrQb5Lg",
-                            "synopsis": "synopsis/it/the-regent.txt",
-                            "excerpt": "books/it/the-regent.md"
-                        },
-                        "nl": {
-                            "title": "De Regentes",
-                            "genre": "military sci-fi",
-                            "cover": "images/nl/De_Regentes-NL.webp",
                             "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "direct_sale_active": true,
-                            "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_29gcOuVOCncFrxNxUDYb1t",
-                            "synopsis": "synopsis/nl/the-regent.txt",
-                            "excerpt": "books/nl/the-regent.md"
+                            "synopsis": "synopsis/en/the-regent.txt",
+                            "title": "The Regent"
                         },
                         "es": {
-                            "title": "La regente",
-                            "genre": "military sci-fi",
                             "cover": "images/es/La_regente-ES.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5YHcYt7q9Tku4NvnFT9pu6",
+                            "direct_sale_active": true,
+                            "excerpt": "books/es/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haga clic en el botón de abajo y le enviaremos por correo electrónico un enlace de descarga para sus 3 historias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "en53qW"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5YHcYt7q9Tku4NvnFT9pu6",
+                            "published": "2026",
                             "synopsis": "synopsis/es/the-regent.txt",
-                            "excerpt": "books/es/the-regent.md"
+                            "title": "La regente"
+                        },
+                        "fr": {
+                            "cover": "images/fr/La_Regente-FR.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_b67i8smPzb0HrWduDh8Xa",
+                            "direct_sale_active": true,
+                            "excerpt": "books/fr/the-regent.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bYE8Ap"
+                            },
+                            "price": "3.99",
+                            "published": "2026",
+                            "synopsis": "synopsis/fr/the-regent.txt",
+                            "title": "La Régente"
+                        },
+                        "it": {
+                            "cover": "images/it/La_Reggente-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_2W3OXx0GpPowDBbwrQb5Lg",
+                            "direct_sale_active": true,
+                            "excerpt": "books/it/the-regent.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "price": "3.99",
+                            "published": "2026",
+                            "synopsis": "synopsis/it/the-regent.txt",
+                            "title": "La Reggente"
+                        },
+                        "nl": {
+                            "cover": "images/nl/De_Regentes-NL.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_29gcOuVOCncFrxNxUDYb1t",
+                            "direct_sale_active": true,
+                            "excerpt": "books/nl/the-regent.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "price": "3.99",
+                            "published": "2026",
+                            "synopsis": "synopsis/nl/the-regent.txt",
+                            "title": "De Regentes"
                         },
                         "pt": {
-                            "title": "A Regente",
-                            "genre": "military sci-fi",
                             "cover": "images/pt/A_Regente-PT.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_6ChiUAFsy4NmxSsvfcioO4",
+                            "direct_sale_active": true,
+                            "excerpt": "books/pt/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "GARANTE AS TUAS 3 HISTÓRIAS INÉDITAS GRATUITAS!\nQueres mergulhar mais fundo no universo de As Crónicas do Crisântemo? Como presente especial para os meus leitores, preparei Os Arquivos Imperiais – uma coleção exclusiva de 3 prequelas em formato de conto, que revelam o passado oculto de Rami, Kenjiro e Akira. Estas histórias não estão à venda em nenhuma loja, mas podes descarregá-las TOTALMENTE GRÁTIS agora mesmo.\n👉 Clique no botão abaixo e enviaremos para o seu e-mail um link de download para as suas 3 histórias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "e0RxnL"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_6ChiUAFsy4NmxSsvfcioO4",
+                            "published": "2026",
                             "synopsis": "synopsis/pt/the-regent.txt",
-                            "excerpt": "books/pt/the-regent.md"
+                            "title": "A Regente"
                         },
                         "se": {
-                            "title": "Regenten",
-                            "genre": "military sci-fi",
                             "cover": "images/se/Regenten-SE.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_70u194qIjylwHTcCaak5n9",
+                            "direct_sale_active": true,
+                            "excerpt": "books/se/the-regent.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HÄMTA DINA 3 GRATIS OBERÄTTADE HISTORIER!\nVill du dyka djupare in i universumet kring Krysantemumkrönikorna? Som en speciell gåva till mina läsare har jag sammanställt De kejserliga arkiven – en exklusiv samling av 3 prequel-noveller som avslöjar Ramis, Kenjiros och Akiras dolda förflutna. Dessa berättelser säljs inte i några butiker, men du kan ladda ner dem HELT GRATIS just nu.\n👉 Klicka på knappen nedan så skickar vi en nedladdningslänk för dina 3 gratis berättelser till din e-post!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "aADVg9"
                             },
-                            "direct_sale_active": true,
                             "price": "3.99",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_70u194qIjylwHTcCaak5n9",
+                            "published": "2026",
                             "synopsis": "synopsis/se/the-regent.txt",
-                            "excerpt": "books/se/the-regent.md"
+                            "title": "Regenten"
                         }
                     },
+                    "id": "the-regent",
                     "links": [
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0GSFKF2M1"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mZG11y"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "BG",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4XqRZ5"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVMQeA"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.de/dp/B0GT1JF88J"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/m2OPAG"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.nl/dp/B0GTVX344M"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mK1DxB"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.fr/dp/B0GTMLK2VN"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bxoeqe"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0GT171B8Q"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mqyaJ9"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVM1B6"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "ES",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVMLlp"
                         }
                     ],
                     "position": 2
                 },
                 {
-                    "id": "the-empress",
                     "i18n": {
                         "bg": {
-                            "title": "Императрица",
-                            "genre": "military sci-fi",
                             "cover": "images/bg/The_Empress-BG.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1BbAxpSlfNVdHav4sIATjO",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/the-empress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "ВЗЕМЕТЕ СВОИТЕ 3 БЕЗПЛАТНИ НЕРАЗКАЗАНИ ИСТОРИИ!\nИскате ли да се потопите по-дълбоко във вселената на Хроники на хризантемата? Като специален подарък за моите читатели, подготвих \"Имперските архиви\" – ексклузивна колекция от 3 предистории под формата на кратки разкази, които разкриват скритото минало на Рами, Кенджиро и Акира. Тези истории не се продават никъде по магазините, но можете да ги изтеглите НАПЪЛНО БЕЗПЛАТНО още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на 3-те си безплатни истории!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bDkjAn"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_1BbAxpSlfNVdHav4sIATjO",
-                            "synopsis": "synopsis/bg/the-empress.txt",
-                            "excerpt": "books/bg/the-empress.md"
-                        },
-                        "en": {
-                            "title": "The Empress",
-                            "genre": "military sci-fi",
-                            "cover": "images/en/The_Empress-EN.webp",
                             "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
-                                "image": "",
-                                "senderFormId": "erkDWw"
-                            },
-                            "direct_sale_active": true,
-                            "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_1v0yX1hTn9zQ1AJ8GD1UnZ",
-                            "synopsis": "synopsis/en/the-empress.txt",
-                            "excerpt": "books/en/the-empress.md"
+                            "synopsis": "synopsis/bg/the-empress.txt",
+                            "title": "Императрица"
                         },
                         "de": {
-                            "title": "Die Kaiserin",
-                            "genre": "military sci-fi",
                             "cover": "images/de/Die-Kaiserin-DE.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7j45VPcnGNTcHXFU6I6UwZ",
+                            "direct_sale_active": true,
+                            "excerpt": "books/de/the-empress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HOL DIR DEINE 3 KOSTENLOSEN UNERZÄHLTEN GESCHICHTEN!\nMöchtest du tiefer in das Universum der Chrysanthemen-Chroniken eintauchen? Als besonderes Geschenk für meine Leser habe ich „Kaiserliche Archive“ zusammengestellt – eine exklusive Sammlung von 3 Prequel-Kurzgeschichten, die die verborgene Vergangenheit von Rami, Kenjiro und Akira enthüllen. Diese Geschichten sind in keinem Shop erhältlich, aber du kannst sie dir JETZT VÖLLIG KOSTENLOS herunterladen.\n👉 Klicken Sie auf den untenstehenden Button und wir senden Ihnen per E-Mail einen Download-Link für Ihre 3 kostenlosen Geschichten!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "bkR1Xv"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_7j45VPcnGNTcHXFU6I6UwZ",
+                            "published": "2026",
                             "synopsis": "synopsis/de/the-empress.txt",
-                            "excerpt": "books/de/the-empress.md"
+                            "title": "Die Kaiserin"
                         },
-                        "fr": {
-                            "title": "L'Impératrice",
-                            "genre": "military sci-fi",
-                            "cover": "images/fr/LImperatrice-FR.webp",
-                            "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
-                                "image": "",
-                                "senderFormId": "bYE8Ap"
-                            },
+                        "en": {
+                            "cover": "images/en/The_Empress-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1v0yX1hTn9zQ1AJ8GD1UnZ",
                             "direct_sale_active": true,
-                            "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_7TJfcbQ7l49nMGDT6k8O3W",
-                            "synopsis": "synopsis/fr/the-empress.txt",
-                            "excerpt": "books/fr/the-empress.md"
-                        },
-                        "it": {
-                            "title": "L'Imperatrice",
+                            "excerpt": "books/en/the-empress.md",
                             "genre": "military sci-fi",
-                            "cover": "images/it/LImperatrice-IT.webp",
-                            "published": "2026",
                             "leadMagnet": {
+                                "bannerText": "CLAIM YOUR 3 FREE UNTOLD STORIES!\nWant to dive deeper into the universe of The Chrysanthemum Chronicles?\nAs a special gift for my readers, I’ve put together The Imperial Archives—an exclusive collection of 3 prequel short stories that reveal the hidden pasts of Rami, Kenjiro, and Akira.\nThese stories are not available in any store, but you can download them for FULLY FREE right now.\n👉 Click the button below and we will email you a download link for your 3 free stories!",
                                 "enabled": true,
-                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
                                 "image": "",
-                                "senderFormId": "bkR1mY"
+                                "senderFormId": "erkDWw"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_3RubWuIZsqFKJLlYxUe8ho",
-                            "synopsis": "synopsis/it/the-empress.txt",
-                            "excerpt": "books/it/the-empress.md"
-                        },
-                        "nl": {
-                            "title": "De Keizerin",
-                            "genre": "military sci-fi",
-                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
                             "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
-                                "image": "",
-                                "senderFormId": "dwp1v1"
-                            },
-                            "direct_sale_active": true,
-                            "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5CAEjbUmbn7VmuacUd5eEJ",
-                            "synopsis": "synopsis/nl/the-empress.txt",
-                            "excerpt": "books/nl/the-empress.md"
+                            "synopsis": "synopsis/en/the-empress.txt",
+                            "title": "The Empress"
                         },
                         "es": {
-                            "title": "La emperatriz",
-                            "genre": "military sci-fi",
                             "cover": "images/es/La_emperatriz-ES.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3EYikkJotWmyVcwWbNnnZx",
+                            "direct_sale_active": true,
+                            "excerpt": "books/es/the-empress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "¡CONSIGUE TUS 3 HISTORIAS INÉDITAS GRATIS!\n¿Quieres sumergirte más a fondo en el universo de Las Crónicas del Crisantemo? Como regalo especial para mis lectores, he preparado Los Archivos Imperiales, una colección exclusiva de 3 precuelas en formato de relato corto que revelan el pasado oculto de Rami, Kenjiro y Akira. Estas historias no están a la venta en ninguna tienda, pero puedes descargarlas TOTALMENTE GRATIS ahora mismo.\n👉 ¡Haga clic en el botón de abajo y le enviaremos por correo electrónico un enlace de descarga para sus 3 historias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "en53qW"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_3EYikkJotWmyVcwWbNnnZx",
+                            "published": "2026",
                             "synopsis": "synopsis/es/the-empress.txt",
-                            "excerpt": "books/es/the-empress.md"
+                            "title": "La emperatriz"
+                        },
+                        "fr": {
+                            "cover": "images/fr/LImperatrice-FR.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_7TJfcbQ7l49nMGDT6k8O3W",
+                            "direct_sale_active": true,
+                            "excerpt": "books/fr/the-empress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "Voulez-vous plonger plus profondément dans l'univers des Chroniques du Chrysanthème ? En guise de cadeau spécial pour mes lecteurs, j'ai préparé Les Archives Impériales – une collection exclusive de 3 préquelles sous forme de nouvelles, qui révèlent le passé caché de Rami, Kenjiro et Akira. Ces histoires ne sont vendues dans aucune boutique, mais vous pouvez les télécharger ENTIÈREMENT GRATUITEMENT dès maintenant.\n👉 Cliquez sur le bouton ci-dessous et nous vous enverrons par e-mail un lien de téléchargement pour vos 3 histoires gratuites !",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bYE8Ap"
+                            },
+                            "price": "4.49",
+                            "published": "2026",
+                            "synopsis": "synopsis/fr/the-empress.txt",
+                            "title": "L'Impératrice"
+                        },
+                        "it": {
+                            "cover": "images/it/LImperatrice-IT.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3RubWuIZsqFKJLlYxUe8ho",
+                            "direct_sale_active": true,
+                            "excerpt": "books/it/the-empress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "RICEVI LE TUE 3 STORIE INEDITE GRATUITE!\nVuoi immergerti più a fondo nell'universo de Le Cronache del Crisantemo? Come regalo speciale per i miei lettori, ho preparato Gli Archivi Imperiali – una raccolta esclusiva di 3 racconti prequel che rivelano il passato nascosto di Rami, Kenjiro e Akira. Queste storie non sono in vendita in nessun negozio, ma puoi scaricarle COMPLETAMENTE GRATIS proprio ora.\n👉 Cliccate sul pulsante qui sotto e vi invieremo via email un link per scaricare le vostre 3 storie gratuite!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "bkR1mY"
+                            },
+                            "price": "4.49",
+                            "published": "2026",
+                            "synopsis": "synopsis/it/the-empress.txt",
+                            "title": "L'Imperatrice"
+                        },
+                        "nl": {
+                            "cover": "images/nl/DE_KEIZERIN-NL.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5CAEjbUmbn7VmuacUd5eEJ",
+                            "direct_sale_active": true,
+                            "excerpt": "books/nl/the-empress.md",
+                            "genre": "military sci-fi",
+                            "leadMagnet": {
+                                "bannerText": "CLAIM JOUW 3 GRATIS ONVERTELDE VERHALEN!\nWil je dieper in het universum van De Kronieken van de Chrysant duiken? Als speciaal cadeau voor mijn lezers heb ik De Keizerlijke Archieven samengesteld – een exclusieve bundel van 3 korte prequels die het verborgen verleden van Rami, Kenjiro en Akira onthullen. Deze verhalen zijn nergens in de winkel te koop, maar je kunt ze nu meteen HELEMAAL GRATIS downloaden.\n👉 Klik op de knop hieronder en we sturen u per e-mail een downloadlink voor uw 3 gratis verhalen!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "dwp1v1"
+                            },
+                            "price": "4.49",
+                            "published": "2026",
+                            "synopsis": "synopsis/nl/the-empress.txt",
+                            "title": "De Keizerin"
                         },
                         "pt": {
-                            "title": "A Imperatriz",
-                            "genre": "military sci-fi",
                             "cover": "images/pt/A_Imperatriz-PT.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_4eAhrUFg085K2Vbuy32OTq",
+                            "direct_sale_active": true,
+                            "excerpt": "books/pt/the-empress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "GARANTE AS TUAS 3 HISTÓRIAS INÉDITAS GRATUITAS!\nQueres mergulhar mais fundo no universo de As Crónicas do Crisântemo? Como presente especial para os meus leitores, preparei Os Arquivos Imperiais – uma coleção exclusiva de 3 prequelas em formato de conto, que revelam o passado oculto de Rami, Kenjiro e Akira. Estas histórias não estão à venda em nenhuma loja, mas podes descarregá-las TOTALMENTE GRÁTIS agora mesmo.\n👉 Clique no botão abaixo e enviaremos para o seu e-mail um link de download para as suas 3 histórias gratuitas!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "e0RxnL"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_4eAhrUFg085K2Vbuy32OTq",
+                            "published": "2026",
                             "synopsis": "synopsis/pt/the-empress.txt",
-                            "excerpt": "books/pt/the-empress.md"
+                            "title": "A Imperatriz"
                         },
                         "se": {
-                            "title": "Kejsarinnan",
-                            "genre": "military sci-fi",
                             "cover": "images/se/Kejsarinnan-SE.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3BfMiIC2lVWHAcadrq9QUL",
+                            "direct_sale_active": true,
+                            "excerpt": "books/se/the-empress.md",
+                            "genre": "military sci-fi",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HÄMTA DINA 3 GRATIS OBERÄTTADE HISTORIER!\nVill du dyka djupare in i universumet kring Krysantemumkrönikorna? Som en speciell gåva till mina läsare har jag sammanställt De kejserliga arkiven – en exklusiv samling av 3 prequel-noveller som avslöjar Ramis, Kenjiros och Akiras dolda förflutna. Dessa berättelser säljs inte i några butiker, men du kan ladda ner dem HELT GRATIS just nu.\n👉 Klicka på knappen nedan så skickar vi en nedladdningslänk för dina 3 gratis berättelser till din e-post!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "aADVg9"
                             },
-                            "direct_sale_active": true,
                             "price": "4.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_3BfMiIC2lVWHAcadrq9QUL",
+                            "published": "2026",
                             "synopsis": "synopsis/se/the-empress.txt",
-                            "excerpt": "books/se/the-empress.md"
+                            "title": "Kejsarinnan"
                         }
                     },
+                    "id": "the-empress",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/b5AeoA"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0HBSV154M"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "BG",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mVMQrM"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/m0RMoW"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mqyBx9"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.de/dp/B0HDP7X4LN"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.nl/dp/B0HDZQ45QQ"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bM6p9v"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.fr/dp/B0HF75T9PS"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/477N8g"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "SE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bpX9JX"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.it/dp/B0HDV653ND"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "PT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4EGgyY"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "ES",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4EGB9E"
                         }
                     ],
