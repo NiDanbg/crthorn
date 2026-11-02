@@ -881,386 +881,386 @@ const authorData = {
                     "position": 2
                 },
                 {
-                    "id": "drevno-sinio",
                     "i18n": {
-                        "en": {
-                            "title": "Ancient Blue",
-                            "genre": "Science Fiction, Space opera",
-                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/en/ancient-blue.txt",
-                            "excerpt": "books/en/ancient-blue.md"
-                        },
                         "de": {
-                            "title": "Uraltes Blau",
-                            "genre": "Science Fiction, Space opera",
                             "cover": "images/de/uraltes-blau.webp",
+                            "excerpt": "books/de/uraltes-blau.md",
+                            "genre": "Science Fiction, Space opera",
                             "published": "2024",
                             "synopsis": "synopsis/de/uraltes-blau.txt",
-                            "excerpt": "books/de/uraltes-blau.md"
+                            "title": "Uraltes Blau"
                         },
-                        "fr": {
-                            "title": "Bleu Ancien",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-1.webp",
+                            "excerpt": "books/en/ancient-blue.md",
                             "genre": "Science Fiction, Space opera",
-                            "cover": "images/fr/bleu-ancien.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/fr/bleu-ancien.txt",
-                            "excerpt": "books/fr/bleu-ancien.md"
-                        },
-                        "it": {
-                            "title": "L'Antico Blu",
-                            "genre": "Fantascienza",
-                            "cover": "images/it/l'antico-blu.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/it/l'antico-blu.txt",
-                            "excerpt": "books/it/l'antico-blu.md"
-                        },
-                        "nl": {
-                            "title": "Oeroud Blauw",
-                            "genre": "Science Fiction, Space opera",
-                            "cover": "images/nl/oeroud-blauw.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
-                            "excerpt": "books/nl/oeroud-blauw.md"
+                            "synopsis": "synopsis/en/ancient-blue.txt",
+                            "title": "Ancient Blue"
                         },
                         "es": {
-                            "title": "Azul Ancestral",
-                            "genre": "Ciencia Ficción",
                             "cover": "images/es/azul-аncestral.webp",
+                            "excerpt": "books/es/azul-аncestral.md",
+                            "genre": "Ciencia Ficción",
                             "published": "2024",
                             "synopsis": "synopsis/es/azul-аncestral.txt",
-                            "excerpt": "books/es/azul-аncestral.md"
+                            "title": "Azul Ancestral"
+                        },
+                        "fr": {
+                            "cover": "images/fr/bleu-ancien.webp",
+                            "excerpt": "books/fr/bleu-ancien.md",
+                            "genre": "Science Fiction, Space opera",
+                            "published": "2024",
+                            "synopsis": "synopsis/fr/bleu-ancien.txt",
+                            "title": "Bleu Ancien"
+                        },
+                        "it": {
+                            "cover": "images/it/l'antico-blu.webp",
+                            "excerpt": "books/it/l'antico-blu.md",
+                            "genre": "Fantascienza",
+                            "published": "2024",
+                            "synopsis": "synopsis/it/l'antico-blu.txt",
+                            "title": "L'Antico Blu"
+                        },
+                        "nl": {
+                            "cover": "images/nl/oeroud-blauw.webp",
+                            "excerpt": "books/nl/oeroud-blauw.md",
+                            "genre": "Science Fiction, Space opera",
+                            "published": "2024",
+                            "synopsis": "synopsis/nl/oeroud-blauw.txt",
+                            "title": "Oeroud Blauw"
                         },
                         "pt": {
-                            "title": "Azul Ancestral",
-                            "genre": "Science Fiction",
                             "cover": "images/pt/Cover-Azul_Ancestral-el-_PT.webp",
+                            "excerpt": "books/pt/drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "published": "2024",
                             "synopsis": "synopsis/pt/drevno-sinio.txt",
-                            "excerpt": "books/pt/drevno-sinio.md"
+                            "title": "Azul Ancestral"
                         },
                         "se": {
-                            "title": "Uråldrig blå",
-                            "genre": "Science Fiction",
                             "cover": "images/se/Uraldrig_bla.webp",
+                            "excerpt": "books/se/drevno-sinio.md",
+                            "genre": "Science Fiction",
                             "published": "2024",
                             "synopsis": "synopsis/se/drevno-sinio.txt",
-                            "excerpt": "books/se/drevno-sinio.md"
+                            "title": "Uråldrig blå"
                         }
                     },
+                    "id": "drevno-sinio",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3L2Nke"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DHVGH23L"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKG3ZYG2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/38aRxL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DNNV3SPJ"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "IT",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4EV7PA"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKC7YXK7"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3ypoxL"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DKDGR8Q1"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "ES",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bz5gL9"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DY58ZNN2"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "NL",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mdBwNX"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FZY6NCG3"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FNRM5BSZ"
                         }
                     ],
                     "position": 1
                 },
                 {
-                    "id": "kosmichesko-cherveno",
                     "i18n": {
-                        "en": {
-                            "title": "Cosmic Red",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/en/cosmic-red.txt",
-                            "excerpt": "books/en/cosmic-red.md"
-                        },
                         "de": {
-                            "title": "Kosmisches Rot",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/de/kosmisches-rot.webp",
+                            "excerpt": "books/de/kosmisches-rot.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2024",
                             "synopsis": "synopsis/de/kosmisches-rot.txt",
-                            "excerpt": "books/de/kosmisches-rot.md"
+                            "title": "Kosmisches Rot"
                         },
-                        "fr": {
-                            "title": "Rouge Cosmique",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-3.webp",
+                            "excerpt": "books/en/cosmic-red.md",
                             "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/fr/rouge-cosmique.webp",
                             "published": "2024",
-                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
-                            "excerpt": "books/fr/rouge-cosmique.md"
-                        },
-                        "it": {
-                            "title": "Rosso Cosmico",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/it/rosso-cosmico.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/it/rosso-cosmico.txt",
-                            "excerpt": "books/it/rosso-cosmico.md"
-                        },
-                        "nl": {
-                            "title": "Kosmisch Rood",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/nl/kosmisch-rood.webp",
-                            "published": "2024",
-                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
-                            "excerpt": "books/nl/kosmisch-rood.md"
+                            "synopsis": "synopsis/en/cosmic-red.txt",
+                            "title": "Cosmic Red"
                         },
                         "es": {
-                            "title": "Rojo Cósmico",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/es/rojo-cósmico.webp",
+                            "excerpt": "books/es/rojo-cósmico.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2024",
                             "synopsis": "synopsis/es/rojo-cósmico.txt",
-                            "excerpt": "books/es/rojo-cósmico.md"
+                            "title": "Rojo Cósmico"
+                        },
+                        "fr": {
+                            "cover": "images/fr/rouge-cosmique.webp",
+                            "excerpt": "books/fr/rouge-cosmique.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2024",
+                            "synopsis": "synopsis/fr/rouge-cosmique.txt",
+                            "title": "Rouge Cosmique"
+                        },
+                        "it": {
+                            "cover": "images/it/rosso-cosmico.webp",
+                            "excerpt": "books/it/rosso-cosmico.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2024",
+                            "synopsis": "synopsis/it/rosso-cosmico.txt",
+                            "title": "Rosso Cosmico"
+                        },
+                        "nl": {
+                            "cover": "images/nl/kosmisch-rood.webp",
+                            "excerpt": "books/nl/kosmisch-rood.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2024",
+                            "synopsis": "synopsis/nl/kosmisch-rood.txt",
+                            "title": "Kosmisch Rood"
                         },
                         "pt": {
-                            "title": "Vermelho Cósmico",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/pt/Cover-Vermelho_Cosmico-el.webp",
+                            "excerpt": "books/pt/kosmichesko-cherveno.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2024",
                             "synopsis": "synopsis/pt/kosmichesko-cherveno.txt",
-                            "excerpt": "books/pt/kosmichesko-cherveno.md"
+                            "title": "Vermelho Cósmico"
                         },
                         "se": {
-                            "title": "Kosmisk röd",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/se/KOSMISK-ROD-el.webp",
+                            "excerpt": "books/se/kosmichesko-cherveno.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2024",
                             "synopsis": "synopsis/se/kosmichesko-cherveno.txt",
-                            "excerpt": "books/se/kosmichesko-cherveno.md"
+                            "title": "Kosmisk röd"
                         }
                     },
+                    "id": "kosmichesko-cherveno",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mZ6pll"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DQVZ8978"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DR74K3T6"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DRCG6YVZ"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F9D9LYVH"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4jQ192"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F9FSFC3F"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F1Y8X2FW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0G16CQ2BN"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FP59NYGP"
                         }
                     ],
                     "position": 3
                 },
                 {
-                    "id": "stomaneno-sivo",
                     "i18n": {
-                        "en": {
-                            "title": "Steel Gray",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
-                            "published": "2025",
-                            "synopsis": "synopsis/en/steel-gray.txt",
-                            "excerpt": "books/en/steel-gray.md"
-                        },
                         "de": {
-                            "title": "Stählernes Grau",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/de/stählernes-grau.webp",
+                            "excerpt": "books/de/stählernes-grau.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2025",
                             "synopsis": "synopsis/de/stählernes-grau.txt",
-                            "excerpt": "books/de/stählernes-grau.md"
+                            "title": "Stählernes Grau"
                         },
-                        "fr": {
-                            "title": "Gris Acier",
+                        "en": {
+                            "cover": "images/en/krav-i-zvezden-prah-4.webp",
+                            "excerpt": "books/en/steel-gray.md",
                             "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/fr/gris-acier.webp",
                             "published": "2025",
-                            "synopsis": "synopsis/fr/gris-acier.txt",
-                            "excerpt": "books/fr/gris-acier.md"
-                        },
-                        "it": {
-                            "title": "Grigio d'Acciaio",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/it/grigio-d'acciaio.webp",
-                            "published": "2025",
-                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
-                            "excerpt": "books/it/grigio-d'acciaio.md"
-                        },
-                        "nl": {
-                            "title": "Staalgrijs",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/nl/staalgrijs.webp",
-                            "published": "2025",
-                            "synopsis": "synopsis/nl/staalgrijs.txt",
-                            "excerpt": "books/nl/staalgrijs.md"
+                            "synopsis": "synopsis/en/steel-gray.txt",
+                            "title": "Steel Gray"
                         },
                         "es": {
-                            "title": "Gris de Acero",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/es/GRIS_DE_ACERO_-_e-book-ES.webp",
+                            "excerpt": "books/es/stomaneno-sivo.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2025",
                             "synopsis": "synopsis/es/stomaneno-sivo.txt",
-                            "excerpt": "books/es/stomaneno-sivo.md"
+                            "title": "Gris de Acero"
+                        },
+                        "fr": {
+                            "cover": "images/fr/gris-acier.webp",
+                            "excerpt": "books/fr/gris-acier.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2025",
+                            "synopsis": "synopsis/fr/gris-acier.txt",
+                            "title": "Gris Acier"
+                        },
+                        "it": {
+                            "cover": "images/it/grigio-d'acciaio.webp",
+                            "excerpt": "books/it/grigio-d'acciaio.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2025",
+                            "synopsis": "synopsis/it/grigio-d'acciaio.txt",
+                            "title": "Grigio d'Acciaio"
+                        },
+                        "nl": {
+                            "cover": "images/nl/staalgrijs.webp",
+                            "excerpt": "books/nl/staalgrijs.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "published": "2025",
+                            "synopsis": "synopsis/nl/staalgrijs.txt",
+                            "title": "Staalgrijs"
                         },
                         "pt": {
-                            "title": "Cinza de Aço",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/pt/Cinza_de_Aco_-_e-book-PT.webp",
+                            "excerpt": "books/pt/stomaneno-sivo.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2025",
                             "synopsis": "synopsis/pt/stomaneno-sivo.txt",
-                            "excerpt": "books/pt/stomaneno-sivo.md"
+                            "title": "Cinza de Aço"
                         },
                         "se": {
-                            "title": "Stålgrå",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/se/Cover-Stalgra-e-book.webp",
+                            "excerpt": "books/se/stomaneno-sivo.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "published": "2025",
                             "synopsis": "synopsis/se/stomaneno-sivo.txt",
-                            "excerpt": "books/se/stomaneno-sivo.md"
+                            "title": "Stålgrå"
                         }
                     },
+                    "id": "stomaneno-sivo",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3JMJBK"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F2SY25S5"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "DE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0DZVNDZ46"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "IT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F88LPQW9"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "FR",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0F99VQFGF"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "FR",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/4AyxEp"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "NL",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FHWQVH7Q"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "ES",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.es/dp/B0G1CVNLQC"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "PT",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0G1BPXMGW"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "SE",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0FQJTD6DH"
                         }
                     ],
@@ -1302,6 +1302,14 @@ const authorData = {
                             "creem_checkout_url": "https://www.creem.io/payment/prod_6x9gELntPEDoIyKUQHKW76",
                             "synopsis": "synopsis/en/frontier-black.txt",
                             "excerpt": "books/en/frontier-black.md"
+                        },
+                        "de": {
+                            "title": "Grenzschwarz",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "cover": "images/de/GRENZSCHWARZ-DE.webp",
+                            "published": "2026",
+                            "synopsis": "synopsis/de/frontier-black.txt",
+                            "excerpt": "books/de/frontier-black.md"
                         }
                     },
                     "links": [
