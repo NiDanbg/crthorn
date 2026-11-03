@@ -1308,6 +1308,15 @@ const authorData = {
                             "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/de/GRENZSCHWARZ-DE.webp",
                             "published": "2026",
+                            "leadMagnet": {
+                                "enabled": true,
+                                "bannerText": "HOL DIR JETZT DEINE KOSTENLOSE PREQUEL-NOVELLE!\nMöchtest du noch tiefer in das Universum von Blut und Sternenstaub eintauchen?\nAls besonderes Geschenk für meine Leser habe ich „DER SCHLÜSSEL“ vorbereitet – eine exklusive Prequel-Novelle, die enthüllt, wie vor 20.000 Jahren alles begann. Diese Geschichte findest du in keinem Shop, aber du kannst sie genau hier VÖLLIG KOSTENLOS und sofort herunterladen.\n👉 Klicke auf den Button unten und wir senden dir per E-Mail einen Download-Link für die kostenlose Vorgeschichte!",
+                                "image": "",
+                                "senderFormId": "azpLkY"
+                            },
+                            "direct_sale_active": true,
+                            "price": "4.2",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_2tbgmaK82s82wKnOgg6Ah6",
                             "synopsis": "synopsis/de/frontier-black.txt",
                             "excerpt": "books/de/frontier-black.md"
                         }
@@ -1322,6 +1331,16 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "EN",
                             "url": "https://books2read.com/u/3JNv9K"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "DE",
+                            "url": "https://books2read.com/u/bOQ8vQ"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0HPKVJGS7"
                         }
                     ],
                     "position": 5
