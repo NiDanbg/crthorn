@@ -1267,79 +1267,79 @@ const authorData = {
                     "position": 4
                 },
                 {
-                    "id": "frontier-black",
                     "i18n": {
                         "bg": {
-                            "title": "Погранично черно",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/bg/-bg.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5QWgOE3CGgLisPA6kN4o5B",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/frontier-black.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "ВЗЕМЕТЕ СВОЯТА БЕЗПЛАТНА НОВЕЛА - ПРЕДИСТОРИЯ СЕГА!\nИскате ли да се потопите по-дълбоко във вселената на Кръв и звезден прах? \nКато специален подарък за моите читатели, подготвих \"КЛЮЧЪТ\" – ексклузивна новела предистория, която разкрива как е започнало всичко преди 20 000 години. Тази история не можете да намерите по магазините, но можете да я изтеглите тук НАПЪЛНО БЕЗПЛАТНО и още сега.\n👉 Натиснете бутона по-долу и ще ви изпратим на е-майла линк за изтегляне на безплатната новела предговор!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "eVOLo9"
                             },
-                            "direct_sale_active": true,
                             "price": "4.20",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5QWgOE3CGgLisPA6kN4o5B",
-                            "synopsis": "synopsis/bg/frontier-black.txt",
-                            "excerpt": "books/bg/frontier-black.md"
-                        },
-                        "en": {
-                            "title": "Frontier Black",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
-                            "cover": "images/en/Frontier-Black-EN.webp",
                             "published": "2026",
-                            "leadMagnet": {
-                                "enabled": true,
-                                "bannerText": "GET YOUR FREE PREQUEL NOVELLA NOW!\nWant to dive deeper into the Blood and Stardust universe?\nAs a special gift for my readers, I've put together \"THE KEY\"—an exclusive prequel novella that reveals how it all began 20,000 years ago. You won't find this story in stores, but you can download it right here, COMPLETELY FREE, right now.\n👉 Click the button below and we'll email you a download link for your free prequel novella!",
-                                "image": "",
-                                "senderFormId": "b68PGQ"
-                            },
-                            "direct_sale_active": true,
-                            "price": "4.2",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_6x9gELntPEDoIyKUQHKW76",
-                            "synopsis": "synopsis/en/frontier-black.txt",
-                            "excerpt": "books/en/frontier-black.md"
+                            "synopsis": "synopsis/bg/frontier-black.txt",
+                            "title": "Погранично черно"
                         },
                         "de": {
-                            "title": "Grenzschwarz",
-                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "cover": "images/de/GRENZSCHWARZ-DE.webp",
-                            "published": "2026",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_2tbgmaK82s82wKnOgg6Ah6",
+                            "direct_sale_active": true,
+                            "excerpt": "books/de/frontier-black.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
                             "leadMagnet": {
-                                "enabled": true,
                                 "bannerText": "HOL DIR JETZT DEINE KOSTENLOSE PREQUEL-NOVELLE!\nMöchtest du noch tiefer in das Universum von Blut und Sternenstaub eintauchen?\nAls besonderes Geschenk für meine Leser habe ich „DER SCHLÜSSEL“ vorbereitet – eine exklusive Prequel-Novelle, die enthüllt, wie vor 20.000 Jahren alles begann. Diese Geschichte findest du in keinem Shop, aber du kannst sie genau hier VÖLLIG KOSTENLOS und sofort herunterladen.\n👉 Klicke auf den Button unten und wir senden dir per E-Mail einen Download-Link für die kostenlose Vorgeschichte!",
+                                "enabled": true,
                                 "image": "",
                                 "senderFormId": "azpLkY"
                             },
-                            "direct_sale_active": true,
                             "price": "4.2",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_2tbgmaK82s82wKnOgg6Ah6",
+                            "published": "2026",
                             "synopsis": "synopsis/de/frontier-black.txt",
-                            "excerpt": "books/de/frontier-black.md"
+                            "title": "Grenzschwarz"
+                        },
+                        "en": {
+                            "cover": "images/en/Frontier-Black-EN.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_6x9gELntPEDoIyKUQHKW76",
+                            "direct_sale_active": true,
+                            "excerpt": "books/en/frontier-black.md",
+                            "genre": "Science Fiction, military sci-fi, Space opera",
+                            "leadMagnet": {
+                                "bannerText": "GET YOUR FREE PREQUEL NOVELLA NOW!\nWant to dive deeper into the Blood and Stardust universe?\nAs a special gift for my readers, I've put together \"THE KEY\"—an exclusive prequel novella that reveals how it all began 20,000 years ago. You won't find this story in stores, but you can download it right here, COMPLETELY FREE, right now.\n👉 Click the button below and we'll email you a download link for your free prequel novella!",
+                                "enabled": true,
+                                "image": "",
+                                "senderFormId": "b68PGQ"
+                            },
+                            "price": "4.2",
+                            "published": "2026",
+                            "synopsis": "synopsis/en/frontier-black.txt",
+                            "title": "Frontier Black"
                         }
                     },
+                    "id": "frontier-black",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "BG",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/mgVvvX"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "EN",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/3JNv9K"
                         },
                         {
-                            "platform": "Draft2Digital",
                             "lang": "DE",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/bOQ8vQ"
                         },
                         {
-                            "platform": "Amazon",
                             "lang": "EN",
+                            "platform": "Amazon",
                             "url": "https://www.amazon.com/dp/B0HPKVJGS7"
                         }
                     ],
@@ -1361,84 +1361,6 @@ const authorData = {
         },
         {
             "books": [
-                {
-                    "i18n": {
-                        "de": {
-                            "cover": "images/de/der-schluessel-des-aufstiegs.webp",
-                            "excerpt": "books/de/der-schluessel-des-aufstiegs.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/de/der-schluessel-des-aufstiegs.txt",
-                            "title": "Der Schlüssel des Aufstiegs"
-                        },
-                        "en": {
-                            "cover": "images/en/epohata-na-padnalite-1.webp",
-                            "excerpt": "books/en/the-key-of-ascension.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/en/the-key-of-ascension.txt",
-                            "title": "The Key of Ascension"
-                        },
-                        "fr": {
-                            "cover": "images/fr/la-cle-de-lascension.webp",
-                            "excerpt": "books/fr/la-cle-de-lascension.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/fr/la-cle-de-lascension.txt",
-                            "title": "La Clé de l'Ascension"
-                        },
-                        "it": {
-                            "cover": "images/it/la-chiave-dellascesa.webp",
-                            "excerpt": "books/it/la-chiave-dellascesa.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/it/la-chiave-dellascesa.txt",
-                            "title": "La Chiave dell'Ascesa"
-                        },
-                        "se": {
-                            "cover": "images/se/nyckeln-till-uppståndelsen.webp",
-                            "excerpt": "books/se/nyckeln-till-uppståndelsen.md",
-                            "genre": "Fantasy",
-                            "synopsis": "synopsis/se/nyckeln-till-uppståndelsen.txt",
-                            "title": "Nyckeln till Uppståndelsen"
-                        }
-                    },
-                    "id": "klyuchat-na-vazhoda",
-                    "links": [
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FFYNX1Y3"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHBR8DBN"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHD73Q92"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHF1FCK5"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/4jj5Yo"
-                        },
-                        {
-                            "lang": "SE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FHQF3XS4"
-                        },
-                        {
-                            "lang": "SE",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/3yy6vZ"
-                        }
-                    ],
-                    "position": 1
-                },
                 {
                     "i18n": {
                         "de": {
@@ -1511,6 +1433,92 @@ const authorData = {
                         }
                     ],
                     "position": 2
+                },
+                {
+                    "id": "klyuchat-na-vazhoda",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на възхода",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/The-Key-of-Ascension-BG.webp",
+                            "published": "2025",
+                            "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
+                            "excerpt": "books/bg/klyuchat-na-vazhoda.md"
+                        },
+                        "en": {
+                            "title": "The Key of Ascension",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/en/epohata-na-padnalite-1.webp",
+                            "synopsis": "synopsis/en/the-key-of-ascension.txt",
+                            "excerpt": "books/en/the-key-of-ascension.md"
+                        },
+                        "de": {
+                            "title": "Der Schlüssel des Aufstiegs",
+                            "genre": "Fantasy",
+                            "cover": "images/de/der-schluessel-des-aufstiegs.webp",
+                            "synopsis": "synopsis/de/der-schluessel-des-aufstiegs.txt",
+                            "excerpt": "books/de/der-schluessel-des-aufstiegs.md"
+                        },
+                        "fr": {
+                            "title": "La Clé de l'Ascension",
+                            "genre": "Fantasy",
+                            "cover": "images/fr/la-cle-de-lascension.webp",
+                            "synopsis": "synopsis/fr/la-cle-de-lascension.txt",
+                            "excerpt": "books/fr/la-cle-de-lascension.md"
+                        },
+                        "it": {
+                            "title": "La Chiave dell'Ascesa",
+                            "genre": "Fantasy",
+                            "cover": "images/it/la-chiave-dellascesa.webp",
+                            "synopsis": "synopsis/it/la-chiave-dellascesa.txt",
+                            "excerpt": "books/it/la-chiave-dellascesa.md"
+                        },
+                        "se": {
+                            "title": "Nyckeln till Uppståndelsen",
+                            "genre": "Fantasy",
+                            "cover": "images/se/nyckeln-till-uppståndelsen.webp",
+                            "synopsis": "synopsis/se/nyckeln-till-uppståndelsen.txt",
+                            "excerpt": "books/se/nyckeln-till-uppståndelsen.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Amazon",
+                            "lang": "EN",
+                            "url": "https://www.amazon.com/dp/B0FFYNX1Y3"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "DE",
+                            "url": "https://www.amazon.com/dp/B0FHBR8DBN"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "IT",
+                            "url": "https://www.amazon.com/dp/B0FHD73Q92"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "FR",
+                            "url": "https://www.amazon.com/dp/B0FHF1FCK5"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "FR",
+                            "url": "https://books2read.com/u/4jj5Yo"
+                        },
+                        {
+                            "platform": "Amazon",
+                            "lang": "SE",
+                            "url": "https://www.amazon.com/dp/B0FHQF3XS4"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "SE",
+                            "url": "https://books2read.com/u/3yy6vZ"
+                        }
+                    ],
+                    "position": 1
                 }
             ],
             "i18n": {
