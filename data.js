@@ -1442,6 +1442,9 @@ const authorData = {
                             "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/The-Key-of-Ascension-BG.webp",
                             "published": "2025",
+                            "direct_sale_active": true,
+                            "price": "3",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
                             "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
                             "excerpt": "books/bg/klyuchat-na-vazhoda.md"
                         },
@@ -1516,9 +1519,32 @@ const authorData = {
                             "platform": "Draft2Digital",
                             "lang": "SE",
                             "url": "https://books2read.com/u/3yy6vZ"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/brDzR7"
                         }
                     ],
                     "position": 1
+                },
+                {
+                    "id": "the-name-before-the-legend",
+                    "i18n": {
+                        "bg": {
+                            "title": "Името преди легендата",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/cover-BG.webp",
+                            "published": "2026",
+                            "direct_sale_active": true,
+                            "price": "0",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
+                            "synopsis": "synopsis/bg/the-name-before-the-legend.txt",
+                            "excerpt": "books/bg/the-name-before-the-legend.md"
+                        }
+                    },
+                    "links": [],
+                    "position": 0
                 }
             ],
             "i18n": {
