@@ -1362,46 +1362,70 @@ const authorData = {
         {
             "books": [
                 {
-                    "id": "the-name-before-the-legend",
                     "i18n": {
                         "bg": {
-                            "title": "Името преди легендата",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/cover-BG.webp",
-                            "published": "2026",
-                            "direct_sale_active": true,
-                            "price": "0",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/the-name-before-the-legend.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "0",
+                            "published": "2026",
                             "synopsis": "synopsis/bg/the-name-before-the-legend.txt",
-                            "excerpt": "books/bg/the-name-before-the-legend.md"
+                            "title": "Името преди легендата"
                         }
                     },
-                    "links": [],
-                    "kind": "prequel"
+                    "id": "the-name-before-the-legend",
+                    "kind": "prequel",
+                    "links": []
                 },
                 {
-                    "id": "klyuchat-na-vazhoda",
                     "i18n": {
                         "bg": {
-                            "title": "Ключът на възхода",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/The-Key-of-Ascension-BG.webp",
-                            "published": "2025",
-                            "direct_sale_active": true,
-                            "price": "3",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/klyuchat-na-vazhoda.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "3",
+                            "published": "2025",
                             "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
-                            "excerpt": "books/bg/klyuchat-na-vazhoda.md"
+                            "title": "Ключът на възхода"
+                        }
+                    },
+                    "id": "klyuchat-na-vazhoda",
+                    "links": [
+                        {
+                            "lang": "BG",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/brDzR7"
+                        }
+                    ],
+                    "position": 1
+                },
+                {
+                    "id": "klyuchat-na-izobilieto",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на изобилието",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/Cover-The-Key-of-Abundance-bg.webp",
+                            "published": "2026",
+                            "direct_sale_active": true,
+                            "price": "3.49",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_60aUdfIRTxLXLKgIodOzA0",
+                            "synopsis": "synopsis/bg/klyuchat-na-izobilieto.txt",
+                            "excerpt": "books/bg/klyuchat-na-izobilieto.md"
                         }
                     },
                     "links": [
                         {
                             "platform": "Draft2Digital",
                             "lang": "BG",
-                            "url": "https://books2read.com/u/brDzR7"
+                            "url": "https://books2read.com/u/3LeWa5"
                         }
                     ],
-                    "position": 1
+                    "position": 2
                 }
             ],
             "i18n": {
