@@ -1362,79 +1362,6 @@ const authorData = {
         {
             "books": [
                 {
-                    "i18n": {
-                        "de": {
-                            "cover": "images/de/der-schlssel-der-flle.webp",
-                            "excerpt": "books/de/der-schlssel-der-flle.md",
-                            "genre": "Fantasy",
-                            "published": "2026",
-                            "synopsis": "synopsis/de/der-schlssel-der-flle.txt",
-                            "title": "Der Schlüssel der Fülle"
-                        },
-                        "en": {
-                            "cover": "images/en/the-key-of-abundance.webp",
-                            "excerpt": "books/en/the-key-of-abundance.md",
-                            "genre": "Fantasy",
-                            "published": "2026",
-                            "synopsis": "synopsis/en/the-key-of-abundance.txt",
-                            "title": "The Key of Abundance"
-                        },
-                        "fr": {
-                            "cover": "images/fr/la-cl-de-labondance.webp",
-                            "excerpt": "books/fr/la-cl-de-labondance.md",
-                            "genre": "Fantasy",
-                            "published": "2026",
-                            "synopsis": "synopsis/fr/la-cl-de-labondance.txt",
-                            "title": "La Clé de l’Abondance"
-                        },
-                        "it": {
-                            "cover": "images/it/la-chiave-della-cornucopia.webp",
-                            "excerpt": "books/it/la-chiave-della-cornucopia.md",
-                            "genre": "Fantasy",
-                            "published": "2026",
-                            "synopsis": "synopsis/it/la-chiave-della-cornucopia.txt",
-                            "title": "La Chiave della Cornucopia"
-                        },
-                        "se": {
-                            "cover": "images/se/nyckeln-till-verfld.webp",
-                            "excerpt": "books/se/nyckeln-till-verfld.md",
-                            "genre": "Fantasy",
-                            "published": "2026",
-                            "synopsis": "synopsis/se/nyckeln-till-verfld.txt",
-                            "title": "Nyckeln till Överflöd"
-                        }
-                    },
-                    "id": "klyuchat-na-izobilieto",
-                    "links": [
-                        {
-                            "lang": "EN",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FQMRJNSP"
-                        },
-                        {
-                            "lang": "DE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.de/dp/B0FR1NWNSL"
-                        },
-                        {
-                            "lang": "IT",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.it/dp/B0FQNZL513"
-                        },
-                        {
-                            "lang": "FR",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.fr/dp/B0FQVC1LWK"
-                        },
-                        {
-                            "lang": "SE",
-                            "platform": "Amazon",
-                            "url": "https://www.amazon.com/dp/B0FQMWY15F"
-                        }
-                    ],
-                    "position": 2
-                },
-                {
                     "id": "klyuchat-na-vazhoda",
                     "i18n": {
                         "bg": {
@@ -1447,86 +1374,16 @@ const authorData = {
                             "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
                             "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
                             "excerpt": "books/bg/klyuchat-na-vazhoda.md"
-                        },
-                        "en": {
-                            "title": "The Key of Ascension",
-                            "genre": "Fantasy, Mythic fantasy",
-                            "cover": "images/en/epohata-na-padnalite-1.webp",
-                            "synopsis": "synopsis/en/the-key-of-ascension.txt",
-                            "excerpt": "books/en/the-key-of-ascension.md"
-                        },
-                        "de": {
-                            "title": "Der Schlüssel des Aufstiegs",
-                            "genre": "Fantasy",
-                            "cover": "images/de/der-schluessel-des-aufstiegs.webp",
-                            "synopsis": "synopsis/de/der-schluessel-des-aufstiegs.txt",
-                            "excerpt": "books/de/der-schluessel-des-aufstiegs.md"
-                        },
-                        "fr": {
-                            "title": "La Clé de l'Ascension",
-                            "genre": "Fantasy",
-                            "cover": "images/fr/la-cle-de-lascension.webp",
-                            "synopsis": "synopsis/fr/la-cle-de-lascension.txt",
-                            "excerpt": "books/fr/la-cle-de-lascension.md"
-                        },
-                        "it": {
-                            "title": "La Chiave dell'Ascesa",
-                            "genre": "Fantasy",
-                            "cover": "images/it/la-chiave-dellascesa.webp",
-                            "synopsis": "synopsis/it/la-chiave-dellascesa.txt",
-                            "excerpt": "books/it/la-chiave-dellascesa.md"
-                        },
-                        "se": {
-                            "title": "Nyckeln till Uppståndelsen",
-                            "genre": "Fantasy",
-                            "cover": "images/se/nyckeln-till-uppståndelsen.webp",
-                            "synopsis": "synopsis/se/nyckeln-till-uppståndelsen.txt",
-                            "excerpt": "books/se/nyckeln-till-uppståndelsen.md"
                         }
                     },
                     "links": [
-                        {
-                            "platform": "Amazon",
-                            "lang": "EN",
-                            "url": "https://www.amazon.com/dp/B0FFYNX1Y3"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "DE",
-                            "url": "https://www.amazon.com/dp/B0FHBR8DBN"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "IT",
-                            "url": "https://www.amazon.com/dp/B0FHD73Q92"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "FR",
-                            "url": "https://www.amazon.com/dp/B0FHF1FCK5"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "FR",
-                            "url": "https://books2read.com/u/4jj5Yo"
-                        },
-                        {
-                            "platform": "Amazon",
-                            "lang": "SE",
-                            "url": "https://www.amazon.com/dp/B0FHQF3XS4"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "SE",
-                            "url": "https://books2read.com/u/3yy6vZ"
-                        },
                         {
                             "platform": "Draft2Digital",
                             "lang": "BG",
                             "url": "https://books2read.com/u/brDzR7"
                         }
                     ],
-                    "position": 1
+                    "position": 2
                 },
                 {
                     "id": "the-name-before-the-legend",
@@ -1544,7 +1401,7 @@ const authorData = {
                         }
                     },
                     "links": [],
-                    "position": 0
+                    "position": 1
                 }
             ],
             "i18n": {
