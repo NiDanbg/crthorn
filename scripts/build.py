@@ -354,8 +354,9 @@ def llms_txt(data):
         bd = i18n[lang]
         facts = [bd.get('genre')]
         if series:
-            n = R.book_number(series, book)
-            facts.append(f"book {n}")
+            label = R.book_label(series, book, 'en')
+            if label:
+                facts.append(label.lower())
         if bd.get('published'):
             facts.append(str(bd['published']))
         facts.append('editions: ' + ', '.join(R.LANG_AUTONYMS.get(l, l) for l in i18n))

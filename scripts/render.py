@@ -53,11 +53,65 @@ BOOK_TINTS = {
 BOOK_WORLD = {}
 
 
-def series_books(series):
-    """Books in reading order. The admin panel may append a new book anywhere in
-    the list; its position number is what decides where it stands."""
+# What a book can be within its series besides a numbered main book. The label
+# stands where "Book 2" would; a companion never takes a number from the main books.
+BOOK_KIND_LABELS = {
+    'en': {'prequel': 'Prequel', 'novella': 'Novella', 'stories': 'Stories from the world',
+           'companion': 'Companion guide', 'epilogue': 'Epilogue', 'omnibus': 'Omnibus'},
+    'bg': {'prequel': 'Предистория', 'novella': 'Новела', 'stories': 'Разкази от света',
+           'companion': 'Пътеводител към света', 'epilogue': 'Епилог', 'omnibus': 'Комплект'},
+}
+
+
+def book_kind(book):
+    """The kind of a companion book, or '' for a numbered main book."""
+    kind = (book or {}).get('kind') or ''
+    return kind if kind in BOOK_KIND_LABELS['en'] else ''
+
+
+def _int_or_none(value):
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def _ordered_books(series):
+    """[(book, number)] in reading order. number is the main-book number, None for a
+    companion. The admin panel may append a new book anywhere in the list, so the
+    book's own position number decides where it stands, not the list order.
+    Companions never shift the numbers: a prequel goes first, a novella stands after
+    the main book named in "after" (or at the end), the rest go at the end."""
     books = (series or {}).get('books', [])
-    return [b for _, b in sorted(enumerate(books), key=lambda ib: (ib[1].get('position') or ib[0] + 1, ib[0]))]
+    keyed, count = [], 0
+    for idx, b in enumerate(books):
+        kind = book_kind(b)
+        if not kind:
+            count += 1
+            pos = _int_or_none(b.get('position'))
+            number = pos if pos is not None else count
+            keyed.append(((1, number, 0, idx), b, number))
+            continue
+        after = _int_or_none(b.get('after')) if kind == 'novella' else None
+        if kind == 'prequel':
+            key = (0, 0, 0, idx)
+        elif after is not None:
+            key = (1, after, 1, idx)     # right after main book number `after`
+        elif kind == 'epilogue':
+            key = (2, 0, 0, idx)
+        else:
+            key = (2, 1, 0, idx)
+        keyed.append((key, b, None))
+    return [(b, n) for _, b, n in sorted(keyed, key=lambda t: t[0])]
+
+
+def series_books(series):
+    """Books in reading order, main books and companions together."""
+    return [b for b, _ in _ordered_books(series)]
+
+
+def series_extras_count(series):
+    return sum(1 for b in (series or {}).get('books', []) if book_kind(b))
 
 
 def tint_colors(book_id, fallback):
@@ -161,6 +215,8 @@ UI_STRINGS = {
         'tagline': 'Fantasy and science fiction',
         'books_1': '1 book',
         'books_n': '{n} books',
+        'extras_1': '1 extra',
+        'extras_n': '{n} extras',
         'skip': 'Skip to content',
         'menu': 'Menu',
         'read_on': 'About the book',
@@ -220,6 +276,8 @@ UI_STRINGS = {
         'tagline': 'Фентъзи и научна фантастика',
         'books_1': '1 книга',
         'books_n': '{n} книги',
+        'extras_1': '1 допълнение',
+        'extras_n': '{n} допълнения',
         'skip': 'Към съдържанието',
         'menu': 'Меню',
         'read_on': 'За книгата',
@@ -304,6 +362,12 @@ BOOK_FACTS = {
     'bg': {'base': '„{title}“ е {genre} от {author}.',
            'series_n': ' Книга {n} от поредицата „{series}“.',
            'series': ' Част от поредицата „{series}“.',
+           'kind': {'prequel': ' Предистория към поредицата „{series}“.',
+                    'novella': ' Новела от поредицата „{series}“.',
+                    'stories': ' Разкази от света на поредицата „{series}“.',
+                    'companion': ' Пътеводител към света на поредицата „{series}“.',
+                    'epilogue': ' Епилог към поредицата „{series}“.',
+                    'omnibus': ' Комплект от книгите на поредицата „{series}“.'},
            'published': ' Издадена през {year} г.',
            'publisher': ' Издател: {publisher}.',
            'isbn': ' ISBN {isbn}.',
@@ -312,6 +376,12 @@ BOOK_FACTS = {
            'article': 'a ',
            'series_n': ' Book {n} of the {series} series.',
            'series': ' Part of the {series} series.',
+           'kind': {'prequel': ' Prequel to the {series} series.',
+                    'novella': ' Novella from the {series} series.',
+                    'stories': ' Stories from the world of the {series} series.',
+                    'companion': ' Companion guide to the world of the {series} series.',
+                    'epilogue': ' Epilogue to the {series} series.',
+                    'omnibus': ' Omnibus of the {series} series.'},
            'published': ' Published in {year}.',
            'publisher': ' Publisher: {publisher}.',
            'isbn': ' ISBN {isbn}.',
@@ -445,9 +515,16 @@ def book_facts_sentence(data, book, lang, series=None):
             # "The Age of the Fallen" must not bring its own.
             import re as _re
             stitle = _re.sub(r'^the\s+', '', stitle, flags=_re.IGNORECASE)
-        pos = book.get('position')
-        out += (tpl['series_n'].format(n=pos, series=stitle) if pos
-                else tpl['series'].format(series=stitle))
+        kind = book_kind(book)
+        number = book_number(series, book) if series else None
+        # Languages without a written-out companion sentence fall back to the plain
+        # "part of the series" one rather than inventing a translation.
+        if kind and kind in tpl.get('kind', {}):
+            out += tpl['kind'][kind].format(series=stitle)
+        elif number is not None:
+            out += tpl['series_n'].format(n=number, series=stitle)
+        else:
+            out += tpl['series'].format(series=stitle)
     year = year_of(bdata.get('published'))
     if year:
         out += tpl['published'].format(year=year)
@@ -619,12 +696,14 @@ def jsonld_series(data, series, lang):
     ui = ui_lang_of(lang)
     sd = series['i18n'].get(ui) or series['i18n'].get('en') or {}
     parts = []
-    for i, b in enumerate(series_books(series), 1):
+    for b, number in _ordered_books(series):
         display_lang, bd = book_display(b, ui)
         if not bd:
             continue
-        part = {'@type': 'Book', 'name': bd.get('title', ''), 'url': abs_url(book_path(b['id'], display_lang)),
-                'position': b.get('position') or i, 'inLanguage': bcp47(display_lang)}
+        part = {'@type': 'Book', 'name': bd.get('title', ''), 'url': abs_url(book_path(b['id'], display_lang))}
+        if number is not None:
+            part['position'] = number    # companions are books of the series, but unnumbered
+        part['inLanguage'] = bcp47(display_lang)
         if bd.get('genre'):
             part['genre'] = bd['genre']
         parts.append(part)
@@ -691,7 +770,7 @@ def jsonld_book(data, book, lang, synopsis_text='', series=None):
         node['isbn'] = str(bdata['isbn'])
     if bdata.get('publisher'):
         node['publisher'] = {'@type': 'Organization', 'name': bdata['publisher']}
-    if book.get('position'):
+    if series and book_number(series, book) is not None and book.get('position') is not None:
         node['position'] = book['position']
     abstract = book_facts_sentence(data, book, lang, series)
     if abstract:
@@ -956,12 +1035,22 @@ def book_display(book, ui_lang):
 
 
 def book_number(series, book):
+    """The main-book number, or None for a companion and for a book outside the series."""
     if not series:
         return None
-    for i, b in enumerate(series_books(series), 1):
+    for b, n in _ordered_books(series):
         if b['id'] == book['id']:
-            return b.get('position') or i
+            return n
     return None
+
+
+def book_label(series, book, ui):
+    """What stands where "Book 2" stood: that, or the name of the companion kind."""
+    kind = book_kind(book)
+    if kind:
+        return BOOK_KIND_LABELS.get(ui, BOOK_KIND_LABELS['en'])[kind]
+    n = book_number(series, book)
+    return UI_STRINGS[ui]['book_n'].format(n=n) if n is not None else ''
 
 
 def books_count(ui, n):
@@ -969,7 +1058,18 @@ def books_count(ui, n):
     return s['books_1'] if n == 1 else s['books_n'].format(n=n)
 
 
-def book_card(book, ui_lang, n=None):
+def series_count_text(ui, series):
+    """"3 books", or "3 books + 2 extras" when the series has companions."""
+    s = UI_STRINGS[ui]
+    extras = series_extras_count(series)
+    mains = len((series or {}).get('books', [])) - extras
+    extras_text = s['extras_1'] if extras == 1 else s['extras_n'].format(n=extras)
+    if not extras:
+        return books_count(ui, mains)
+    return extras_text if not mains else f'{books_count(ui, mains)} + {extras_text}'
+
+
+def book_card(book, ui_lang, label=''):
     display_lang, bdata = book_display(book, ui_lang)
     if not bdata:
         return ''
@@ -982,7 +1082,7 @@ def book_card(book, ui_lang, n=None):
     )
     status = f'<span class="status-tag">{esc(s["in_progress"])}</span>' \
         if book.get('status') == 'in-progress' else ''
-    number = f'<p class="book-card-n">{esc(s["book_n"].format(n=n))}</p>' if n else ''
+    number = f'<p class="book-card-n">{esc(label)}</p>' if label else ''
     genre = f'<p class="book-card-genre">{esc(short_genre(bdata["genre"]))}</p>' if bdata.get('genre') else ''
     tint = BOOK_TINTS.get(book['id'])
     tint_attr = f' style="--tint: {tint}"' if tint else ''
@@ -1011,7 +1111,7 @@ def world_entry(data, series, lang, tag='h3'):
         _, bd = book_display(books[0], ui)
         if bd and bd.get('genre'):
             genre = short_genre(bd['genre'])
-    meta = ' / '.join(filter(None, [genre, books_count(ui, len(books))]))
+    meta = ' / '.join(filter(None, [genre, series_count_text(ui, series)]))
     img = series.get('seriesImage') or ''
     img_html = f'<span class="world-entry-image" style="background-image: url(&quot;/{esc(img)}&quot;)"></span>' if img else ''
     return f"""<a href="{series_path(series['id'], lang)}" class="world-entry world-entry--{key}">
@@ -1070,9 +1170,9 @@ def featured_spread(data, bid, ui):
     kicker = ''
     if series:
         sd = series['i18n'].get(ui) or series['i18n'].get('en') or {}
-        n = book_number(series, book)
+        label = book_label(series, book, ui)
         kicker = (f'<p class="spread-kicker"><a href="{series_path(series["id"], ui)}">{esc(sd.get("title", ""))}</a>'
-                  f'{", " + esc(s["book_n"].format(n=n)).lower() if n else ""}</p>')
+                  f'{", " + esc(label).lower() if label else ""}</p>')
     genre = f'<p class="spread-genre">{esc(short_genre(bdata["genre"]))}</p>' if bdata.get('genre') else ''
     excerpt = (f'<a href="{excerpt_path(book["id"], display_lang)}" class="btn-secondary">{esc(s["read_excerpt"])}</a>'
                if bdata.get('excerpt') else '')
@@ -1171,7 +1271,7 @@ def render_series_page(data, series, lang):
         header_vars.append(f'--spectrum: {series_spectrum(series)}')
     img_style = (' style="' + '; '.join(header_vars) + '"') if header_vars else ''
     books = series_books(series)
-    items = ''.join(f'<li>{book_card(b, ui, book_number(series, b))}</li>' for b in books)
+    items = ''.join(f'<li>{book_card(b, ui, book_label(series, b, ui))}</li>' for b in books)
     synopsis = sd.get('series_synopsis') or ''
     synopsis_html = f'<p class="series-synopsis">{synopsis}</p>' if synopsis else ''
     first_genre = ''
@@ -1179,7 +1279,7 @@ def render_series_page(data, series, lang):
         _, bd = book_display(books[0], ui)
         if bd and bd.get('genre'):
             first_genre = short_genre(bd['genre'])
-    meta = ' / '.join(filter(None, [first_genre, books_count(ui, len(books))]))
+    meta = ' / '.join(filter(None, [first_genre, series_count_text(ui, series)]))
     body = f"""
         <div class="world world--{key}" data-world="{key}">
             <header class="series-page-header"{img_style}>
@@ -1291,9 +1391,9 @@ def render_book_detail(data, book, lang, synopsis_html, series=None):
     crumb = ''
     if series:
         sd = series['i18n'].get(ui) or series['i18n'].get('en') or {}
-        n = book_number(series, book)
+        label = book_label(series, book, ui)
         crumb = (f'<p class="world-crumb"><a href="{series_path(series["id"], ui)}">{esc(sd.get("title", ""))}</a>'
-                 f'{"<span>" + esc(s["book_n"].format(n=n)) + "</span>" if n else ""}</p>')
+                 f'{"<span>" + esc(label) + "</span>" if label else ""}</p>')
     tint = BOOK_TINTS.get(book['id'])
     world_attrs = f' data-world="{key}"' if key else ''
     tint_attr = f' style="--tint: {tint}"' if tint else ''
