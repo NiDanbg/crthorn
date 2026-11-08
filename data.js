@@ -1404,28 +1404,52 @@ const authorData = {
                     "position": 1
                 },
                 {
-                    "id": "klyuchat-na-izobilieto",
                     "i18n": {
                         "bg": {
-                            "title": "Ключът на изобилието",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/Cover-The-Key-of-Abundance-bg.webp",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_60aUdfIRTxLXLKgIodOzA0",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/klyuchat-na-izobilieto.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "3.49",
+                            "published": "2026",
+                            "synopsis": "synopsis/bg/klyuchat-na-izobilieto.txt",
+                            "title": "Ключът на изобилието"
+                        }
+                    },
+                    "id": "klyuchat-na-izobilieto",
+                    "links": [
+                        {
+                            "lang": "BG",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/3LeWa5"
+                        }
+                    ],
+                    "position": 2
+                },
+                {
+                    "id": "klyuchat-na-zlatoto",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на златото",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/The-Key-of-Gold-bg.webp",
                             "published": "2026",
                             "direct_sale_active": true,
-                            "price": "3.49",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_60aUdfIRTxLXLKgIodOzA0",
-                            "synopsis": "synopsis/bg/klyuchat-na-izobilieto.txt",
-                            "excerpt": "books/bg/klyuchat-na-izobilieto.md"
+                            "price": "3.90",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5nPuYE7YNhFvmyigHSj6os",
+                            "synopsis": "synopsis/bg/klyuchat-na-zlatoto.txt",
+                            "excerpt": "books/bg/klyuchat-na-zlatoto.md"
                         }
                     },
                     "links": [
                         {
                             "platform": "Draft2Digital",
                             "lang": "BG",
-                            "url": "https://books2read.com/u/3LeWa5"
+                            "url": "https://books2read.com/u/38B8qL"
                         }
                     ],
-                    "position": 2
+                    "position": 3
                 }
             ],
             "i18n": {
