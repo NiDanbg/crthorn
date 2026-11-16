@@ -1364,30 +1364,6 @@ const authorData = {
                 {
                     "i18n": {
                         "bg": {
-                            "cover": "images/bg/The-Key-of-Gold-bg.webp",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_5nPuYE7YNhFvmyigHSj6os",
-                            "direct_sale_active": true,
-                            "excerpt": "books/bg/klyuchat-na-zlatoto.md",
-                            "genre": "Fantasy, Mythic fantasy",
-                            "price": "3.90",
-                            "published": "2026",
-                            "synopsis": "synopsis/bg/klyuchat-na-zlatoto.txt",
-                            "title": "Ключът на златото"
-                        }
-                    },
-                    "id": "klyuchat-na-zlatoto",
-                    "links": [
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/38B8qL"
-                        }
-                    ],
-                    "position": 3
-                },
-                {
-                    "i18n": {
-                        "bg": {
                             "cover": "images/bg/cover-BG.webp",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
                             "direct_sale_active": true,
@@ -1455,43 +1431,83 @@ const authorData = {
                     "position": 1
                 },
                 {
-                    "id": "klyuchat-na-izobilieto",
                     "i18n": {
                         "bg": {
-                            "title": "Ключът на изобилието",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/Cover-The-Key-of-Abundance-bg.webp",
-                            "published": "2026",
-                            "direct_sale_active": true,
-                            "price": "3.49",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_60aUdfIRTxLXLKgIodOzA0",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/klyuchat-na-izobilieto.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "3.49",
+                            "published": "2026",
                             "synopsis": "synopsis/bg/klyuchat-na-izobilieto.txt",
-                            "excerpt": "books/bg/klyuchat-na-izobilieto.md"
+                            "title": "Ключът на изобилието"
                         },
                         "en": {
-                            "title": "The Key of Abundance",
-                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
                             "cover": "images/en/The_Key_of_Abundance-EN.webp",
-                            "direct_sale_active": true,
-                            "price": "3.49",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_6NkCTwFo53xoCzlasRMEw5",
+                            "direct_sale_active": true,
+                            "excerpt": "books/en/klyuchat-na-izobilieto.md",
+                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
+                            "price": "3.49",
                             "synopsis": "synopsis/en/klyuchat-na-izobilieto.txt",
-                            "excerpt": "books/en/klyuchat-na-izobilieto.md"
+                            "title": "The Key of Abundance"
+                        }
+                    },
+                    "id": "klyuchat-na-izobilieto",
+                    "links": [
+                        {
+                            "lang": "BG",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/3LeWa5"
+                        },
+                        {
+                            "lang": "EN",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/3L7AyN"
+                        }
+                    ],
+                    "position": 2
+                },
+                {
+                    "id": "klyuchat-na-zlatoto",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на златото",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/The-Key-of-Gold-bg.webp",
+                            "published": "2026",
+                            "direct_sale_active": true,
+                            "price": "3.90",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5nPuYE7YNhFvmyigHSj6os",
+                            "synopsis": "synopsis/bg/klyuchat-na-zlatoto.txt",
+                            "excerpt": "books/bg/klyuchat-na-zlatoto.md"
+                        },
+                        "en": {
+                            "title": "The Key of Gold",
+                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
+                            "cover": "images/en/THE_KEY_OF_GOLD-EN.webp",
+                            "published": "16.11.2026",
+                            "direct_sale_active": true,
+                            "price": "4.00",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_6PLnlENANJIhS1ymuFeyMG",
+                            "synopsis": "synopsis/en/klyuchat-na-zlatoto.txt",
+                            "excerpt": "books/en/klyuchat-na-zlatoto.md"
                         }
                     },
                     "links": [
                         {
                             "platform": "Draft2Digital",
                             "lang": "BG",
-                            "url": "https://books2read.com/u/3LeWa5"
+                            "url": "https://books2read.com/u/38B8qL"
                         },
                         {
                             "platform": "Draft2Digital",
                             "lang": "EN",
-                            "url": "https://books2read.com/u/3L7AyN"
+                            "url": "https://books2read.com/u/V7jBW2"
                         }
                     ],
-                    "position": 2
+                    "position": 3
                 }
             ],
             "i18n": {
