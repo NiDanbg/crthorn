@@ -1364,30 +1364,6 @@ const authorData = {
                 {
                     "i18n": {
                         "bg": {
-                            "cover": "images/bg/The-Key-of-Ascension-BG.webp",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
-                            "direct_sale_active": true,
-                            "excerpt": "books/bg/klyuchat-na-vazhoda.md",
-                            "genre": "Fantasy, Mythic fantasy",
-                            "price": "3",
-                            "published": "2025",
-                            "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
-                            "title": "Ключът на възхода"
-                        }
-                    },
-                    "id": "klyuchat-na-vazhoda",
-                    "links": [
-                        {
-                            "lang": "BG",
-                            "platform": "Draft2Digital",
-                            "url": "https://books2read.com/u/brDzR7"
-                        }
-                    ],
-                    "position": 1
-                },
-                {
-                    "i18n": {
-                        "bg": {
                             "cover": "images/bg/Cover-The-Key-of-Abundance-bg.webp",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_60aUdfIRTxLXLKgIodOzA0",
                             "direct_sale_active": true,
@@ -1434,33 +1410,73 @@ const authorData = {
                     "position": 3
                 },
                 {
-                    "id": "the-name-before-the-legend",
                     "i18n": {
                         "bg": {
-                            "title": "Името преди легендата",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/cover-BG.webp",
-                            "published": "2026",
-                            "direct_sale_active": true,
-                            "price": "0",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/the-name-before-the-legend.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "0",
+                            "published": "2026",
                             "synopsis": "synopsis/bg/the-name-before-the-legend.txt",
-                            "excerpt": "books/bg/the-name-before-the-legend.md"
+                            "title": "Името преди легендата"
                         },
                         "en": {
-                            "title": "The Name Before the Legend",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/en/THE_NAME_BEFORE_THE_LEGEND-EN.webp",
-                            "published": "16.11.2026",
-                            "direct_sale_active": true,
-                            "price": "0",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_84XKlpCaPs9dpkCHb3jhS",
+                            "direct_sale_active": true,
+                            "excerpt": "books/en/the-name-before-the-legend.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "0",
+                            "published": "16.11.2026",
                             "synopsis": "synopsis/en/the-name-before-the-legend.txt",
-                            "excerpt": "books/en/the-name-before-the-legend.md"
+                            "title": "The Name Before the Legend"
                         }
                     },
-                    "links": [],
-                    "kind": "prequel"
+                    "id": "the-name-before-the-legend",
+                    "kind": "prequel",
+                    "links": []
+                },
+                {
+                    "id": "klyuchat-na-vazhoda",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на възхода",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/The-Key-of-Ascension-BG.webp",
+                            "published": "2025",
+                            "direct_sale_active": true,
+                            "price": "3",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
+                            "synopsis": "synopsis/bg/klyuchat-na-vazhoda.txt",
+                            "excerpt": "books/bg/klyuchat-na-vazhoda.md"
+                        },
+                        "en": {
+                            "title": "The Key of Ascension",
+                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
+                            "cover": "images/en/The_Key_of_Ascension-EN.webp",
+                            "published": "16.11.2026",
+                            "direct_sale_active": true,
+                            "price": "2.90",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_3JxJ1IexriTOIzU3ZB9xfT",
+                            "synopsis": "synopsis/en/klyuchat-na-vazhoda.txt",
+                            "excerpt": "books/en/klyuchat-na-vazhoda.md"
+                        }
+                    },
+                    "links": [
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "BG",
+                            "url": "https://books2read.com/u/brDzR7"
+                        },
+                        {
+                            "platform": "Draft2Digital",
+                            "lang": "EN",
+                            "url": "https://books2read.com/u/bzzr1Z"
+                        }
+                    ],
+                    "position": 1
                 }
             ],
             "i18n": {
