@@ -1470,44 +1470,68 @@ const authorData = {
                     "position": 2
                 },
                 {
-                    "id": "klyuchat-na-zlatoto",
                     "i18n": {
                         "bg": {
-                            "title": "Ключът на златото",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/The-Key-of-Gold-bg.webp",
-                            "published": "2026",
-                            "direct_sale_active": true,
-                            "price": "3.90",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_5nPuYE7YNhFvmyigHSj6os",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/klyuchat-na-zlatoto.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "3.90",
+                            "published": "2026",
                             "synopsis": "synopsis/bg/klyuchat-na-zlatoto.txt",
-                            "excerpt": "books/bg/klyuchat-na-zlatoto.md"
+                            "title": "Ключът на златото"
                         },
                         "en": {
-                            "title": "The Key of Gold",
-                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
                             "cover": "images/en/THE_KEY_OF_GOLD-EN.webp",
-                            "published": "16.11.2026",
-                            "direct_sale_active": true,
-                            "price": "4.00",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_6PLnlENANJIhS1ymuFeyMG",
+                            "direct_sale_active": true,
+                            "excerpt": "books/en/klyuchat-na-zlatoto.md",
+                            "genre": "Fantasy, Mythic fantasy, Dark Fantasy",
+                            "price": "4.00",
+                            "published": "16.11.2026",
                             "synopsis": "synopsis/en/klyuchat-na-zlatoto.txt",
-                            "excerpt": "books/en/klyuchat-na-zlatoto.md"
+                            "title": "The Key of Gold"
+                        }
+                    },
+                    "id": "klyuchat-na-zlatoto",
+                    "links": [
+                        {
+                            "lang": "BG",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/38B8qL"
+                        },
+                        {
+                            "lang": "EN",
+                            "platform": "Draft2Digital",
+                            "url": "https://books2read.com/u/V7jBW2"
+                        }
+                    ],
+                    "position": 3
+                },
+                {
+                    "id": "klyuchat-na-zhelanieto",
+                    "i18n": {
+                        "bg": {
+                            "title": "Ключът на желанието",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/jpg.webp",
+                            "publisher": "18.11.2026",
+                            "direct_sale_active": true,
+                            "price": "3.99",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_5NZpBYXz5H6Z0pmHI0OH7H",
+                            "synopsis": "synopsis/bg/klyuchat-na-zhelanieto.txt",
+                            "excerpt": "books/bg/klyuchat-na-zhelanieto.md"
                         }
                     },
                     "links": [
                         {
                             "platform": "Draft2Digital",
                             "lang": "BG",
-                            "url": "https://books2read.com/u/38B8qL"
-                        },
-                        {
-                            "platform": "Draft2Digital",
-                            "lang": "EN",
-                            "url": "https://books2read.com/u/V7jBW2"
+                            "url": "https://books2read.com/u/8DkExL"
                         }
                     ],
-                    "position": 3
+                    "position": 4
                 }
             ],
             "i18n": {
