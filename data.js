@@ -1364,35 +1364,6 @@ const authorData = {
                 {
                     "i18n": {
                         "bg": {
-                            "cover": "images/bg/cover-BG.webp",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
-                            "direct_sale_active": true,
-                            "excerpt": "books/bg/the-name-before-the-legend.md",
-                            "genre": "Fantasy, Mythic fantasy",
-                            "price": "0",
-                            "published": "2026",
-                            "synopsis": "synopsis/bg/the-name-before-the-legend.txt",
-                            "title": "Името преди легендата"
-                        },
-                        "en": {
-                            "cover": "images/en/THE_NAME_BEFORE_THE_LEGEND-EN.webp",
-                            "creem_checkout_url": "https://www.creem.io/payment/prod_84XKlpCaPs9dpkCHb3jhS",
-                            "direct_sale_active": true,
-                            "excerpt": "books/en/the-name-before-the-legend.md",
-                            "genre": "Fantasy, Mythic fantasy",
-                            "price": "0",
-                            "published": "16.11.2026",
-                            "synopsis": "synopsis/en/the-name-before-the-legend.txt",
-                            "title": "The Name Before the Legend"
-                        }
-                    },
-                    "id": "the-name-before-the-legend",
-                    "kind": "prequel",
-                    "links": []
-                },
-                {
-                    "i18n": {
-                        "bg": {
                             "cover": "images/bg/The-Key-of-Ascension-BG.webp",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_4pqBe4MkC0eeTQfdTQRTcl",
                             "direct_sale_active": true,
@@ -1510,28 +1481,68 @@ const authorData = {
                     "position": 3
                 },
                 {
-                    "id": "klyuchat-na-zhelanieto",
                     "i18n": {
                         "bg": {
-                            "title": "Ключът на желанието",
-                            "genre": "Fantasy, Mythic fantasy",
                             "cover": "images/bg/jpg.webp",
-                            "publisher": "18.11.2026",
-                            "direct_sale_active": true,
-                            "price": "3.99",
                             "creem_checkout_url": "https://www.creem.io/payment/prod_5NZpBYXz5H6Z0pmHI0OH7H",
+                            "direct_sale_active": true,
+                            "excerpt": "books/bg/klyuchat-na-zhelanieto.md",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "price": "3.99",
+                            "publisher": "18.11.2026",
                             "synopsis": "synopsis/bg/klyuchat-na-zhelanieto.txt",
-                            "excerpt": "books/bg/klyuchat-na-zhelanieto.md"
+                            "title": "Ключът на желанието"
                         }
                     },
+                    "id": "klyuchat-na-zhelanieto",
                     "links": [
                         {
-                            "platform": "Draft2Digital",
                             "lang": "BG",
+                            "platform": "Draft2Digital",
                             "url": "https://books2read.com/u/8DkExL"
                         }
                     ],
                     "position": 4
+                },
+                {
+                    "id": "the-name-before-the-legend",
+                    "i18n": {
+                        "bg": {
+                            "title": "Името преди легендата",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/bg/cover-BG.webp",
+                            "published": "2026",
+                            "direct_sale_active": true,
+                            "price": "0",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_49icaVFay889NFNbjtKu3",
+                            "synopsis": "synopsis/bg/the-name-before-the-legend.txt",
+                            "excerpt": "books/bg/the-name-before-the-legend.md"
+                        },
+                        "en": {
+                            "title": "The Name Before the Legend",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/en/THE_NAME_BEFORE_THE_LEGEND-EN.webp",
+                            "published": "16.11.2026",
+                            "direct_sale_active": true,
+                            "price": "0",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_84XKlpCaPs9dpkCHb3jhS",
+                            "synopsis": "synopsis/en/the-name-before-the-legend.txt",
+                            "excerpt": "books/en/the-name-before-the-legend.md"
+                        },
+                        "de": {
+                            "title": "Der Name vor der Legende",
+                            "genre": "Fantasy, Mythic fantasy",
+                            "cover": "images/de/DER_NAME_VOR_DER_LEGENDE-DE.webp",
+                            "published": "2026",
+                            "direct_sale_active": true,
+                            "price": "0.00",
+                            "creem_checkout_url": "https://www.creem.io/payment/prod_1upY4w2ysmnYEFPEpVag2T",
+                            "synopsis": "synopsis/de/the-name-before-the-legend.txt",
+                            "excerpt": "books/de/the-name-before-the-legend.md"
+                        }
+                    },
+                    "links": [],
+                    "kind": "prequel"
                 }
             ],
             "i18n": {
