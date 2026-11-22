@@ -1,0 +1,57 @@
+{
+  "_note": "Жанровете на книгите по списъка на AverPress. Използват се само за books.json, който издателството чете. Книга без запис взима жанровете на поредицата си.",
+  "series": {
+    "boria": [
+      "fantasy"
+    ],
+    "krav-i-zvezden-prah": [
+      "science-fiction"
+    ],
+    "epohata-na-padnalite": [
+      "fantasy",
+      "dark-fantasy"
+    ],
+    "the-chrysanthemum-chronicles": [
+      "military-sf",
+      "science-fiction"
+    ]
+  },
+  "books": {
+    "kosmichesko-cherveno": [
+      "military-sf",
+      "science-fiction"
+    ],
+    "stomaneno-sivo": [
+      "military-sf",
+      "science-fiction"
+    ],
+    "frontier-black": [
+      "military-sf",
+      "science-fiction"
+    ],
+    "klyuchat-na-zhelanieto": [
+      "fantasy"
+    ],
+    "the-name-before-the-legend": [
+      "fantasy"
+    ],
+    "prizrachen-kod": [
+      "science-fiction"
+    ],
+    "kravta-na-enisey": [
+      "urban-fantasy"
+    ],
+    "love-2-0": [
+      "romance"
+    ],
+    "kragat-ot-starata-melnica": [
+      "mystery"
+    ],
+    "shepot-na-nepoznata": [
+      "urban-fantasy"
+    ],
+    "rekviem-za-sveta": [
+      "urban-fantasy"
+    ]
+  }
+}

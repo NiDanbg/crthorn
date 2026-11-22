@@ -276,6 +276,71 @@ def store_entries(data):
     return entries
 
 
+def publisher_feed(data):
+    """dist/books.json — списък на книгите за издателството AverPress.
+
+    Издателството го чете при сглобяване и показва книгите в своите рафтове,
+    с връзка обратно към страницата на книгата тук. Жанровете по списъка на
+    AverPress са в averpress-genres.json (книга без запис взима жанра на
+    поредицата си). Страниците на този сайт не зависят от файла.
+    """
+    gpath = BASE / 'averpress-genres.json'
+    gmap = json.loads(gpath.read_text(encoding='utf-8')) if gpath.exists() else {}
+    books = []
+
+    def teaser(relpath, paras=2, limit=900):
+        text = strip_tags(read_text(relpath)) if relpath else ''
+        parts = [' '.join(p.split()) for p in re.split(r'\n+', text) if p.strip()][:paras]
+        out = []
+        for p in parts:
+            if sum(len(x) for x in out) + len(p) > limit and out:
+                break
+            out.append(p)
+        return out
+
+    def add(book, kind, series=None, position=None):
+        editions = {}
+        for lang, d in sorted(book.get('i18n', {}).items()):
+            if not d.get('title'):
+                continue
+            e = {'title': d['title'], 'url': R.BASE_URL + R.book_path(book['id'], lang)}
+            if d.get('cover'):
+                e['cover'] = R.BASE_URL + '/' + d['cover'].lstrip('/')
+            if d.get('genre'):
+                e['genre'] = d['genre']
+            if d.get('published'):
+                e['published'] = str(d['published'])
+            if d.get('synopsis'):
+                e['teaser'] = teaser(d['synopsis'])
+            editions[lang] = e
+        if not editions:
+            return
+        entry = {'id': book['id'], 'kind': kind, 'editions': editions,
+                 'genres': gmap.get('books', {}).get(book['id'])
+                 or (gmap.get('series', {}).get(series['id']) if series else None) or [],
+                 'links': book.get('links', [])}
+        if series:
+            entry['series'] = {'id': series['id'], 'position': position,
+                               'title': {l: v['title'] for l, v in series.get('i18n', {}).items() if v.get('title')}}
+        books.append(entry)
+
+    for s in data.get('series', []):
+        for n, b in enumerate(s.get('books', []), 1):
+            add(b, 'series', s, b.get('position') or n)
+    for b in data.get('novels', []):
+        add(b, 'novel')
+    for b in data.get('short_stories', []):
+        add(b, 'short')
+
+    meta = data.get('meta', {})
+    return {'author': (meta.get('en') or meta.get('bg') or {}).get('name', ''),
+            'site': R.BASE_URL,
+            'photo': R.BASE_URL + '/' + meta['photo'].lstrip('/') if meta.get('photo') else None,
+            'intro': {l: strip_tags(v.get('intro', '')).replace('Learn more...', '').replace('Научете повече...', '').strip()
+                      for l, v in meta.items() if isinstance(v, dict) and v.get('intro')},
+            'books': books}
+
+
 def same_route_switch(path_fn, *args):
     return {'en': path_fn('en', *args), 'bg': path_fn('bg', *args)}
 
@@ -617,6 +682,10 @@ def build():
 
     (DIST / 'search-index.json').write_text(
         json.dumps(search_index(data), ensure_ascii=False, separators=(',', ':')),
+        encoding='utf-8')
+
+    (DIST / 'books.json').write_text(
+        json.dumps(publisher_feed(data), ensure_ascii=False, indent=1),
         encoding='utf-8')
 
     (DIST / 'CNAME').write_text('www.crthorn.com\n', encoding='utf-8')
